@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageStrings>
+	<MainMenu>
+		<mnuFile>&amp;Tiedosto</mnuFile>
+		<mnuFileExport>&amp;Vie HTML:ään...</mnuFileExport>
+		<mnuFileExit>P&amp;oistu</mnuFileExit>
+		<mnuAction>&amp;Toimenpide</mnuAction>
+		<mnuActionUninstall>&amp;Poista asennus...</mnuActionUninstall>
+		<mnuActionModify>&amp;Muokkaa...</mnuActionModify>
+		<mnuActionDelete>&amp;Pakotettu poisto</mnuActionDelete>
+		<mnuActionDeleteBatch>Sarja &amp;pakotettu poisto</mnuActionDeleteBatch>
+		<mnuActionRemoveEntry>Poista &amp;merkintä</mnuActionRemoveEntry>
+		<mnuActionRemoveEntryBatch>Sarja merkintöjen &amp;poisto</mnuActionRemoveEntryBatch>
+		<mnuActionJumpToRegistry>&amp;Rekisterimerkintä</mnuActionJumpToRegistry>
+		<mnuActionJumpToProgramFolder>&amp;Asennuskansio</mnuActionJumpToProgramFolder>
+		<mnuActionJumpToWebSite>&amp;Ohjelman web-sivu</mnuActionJumpToWebSite>
+		<mnuActionOpenWindowsStore>Open in Windows Store</mnuActionOpenWindowsStore>
+		<mnuActionBrowseLocation>Hae sijainti...</mnuActionBrowseLocation>
+		<mnuActionBrowseSource>Hae lähde...</mnuActionBrowseSource>
+		<mnuActionGoogleFor>Googlaa</mnuActionGoogleFor>
+		<mnuView>&amp;Näytä</mnuView>
+		<mnuViewDesktopApps>Desktop Apps</mnuViewDesktopApps>
+		<mnuViewWinStoreApps>Windows Store Apps</mnuViewWinStoreApps>
+		<mnuViewRefresh>&amp;Päivitä</mnuViewRefresh>
+		<mnuViewListColumnsReset>Resetoi sarakkeet</mnuViewListColumnsReset>
+		<mnuViewLanguage>Käyttöliittymän kieli</mnuViewLanguage>
+		<mnuHelp>&amp;Ohje</mnuHelp>
+		<mnuHelpAbout>&amp;Tietoja...</mnuHelpAbout>
+		<mnuHelpHomePage>&amp;Kotisivu</mnuHelpHomePage>
+	</MainMenu>
+	<ListCtrl>
+		<columnProgramName>Ohjelman nimi</columnProgramName>
+		<columnSize>Koko</columnSize>
+		<columnInstallationDate>Asennus pvm</columnInstallationDate>
+		<staticLoading>Ladataan, odota...</staticLoading>
+		<staticNoItemsMatchingFilterTip>No matching items, press ESC to reset</staticNoItemsMatchingFilterTip>
+		<staticNoProgramsInCategory>Seems like no Windows Store apps installed</staticNoProgramsInCategory>
+		<mark32bitItem>(32-bit)</mark32bitItem>
+	</ListCtrl>
+	<ExplorerBar>
+		<itemShortSearchTip>Hae ohjelma</itemShortSearchTip>
+	</ExplorerBar>
+	<UninstallWizard>
+		<statusScanning>Haetaan jääneitä tiedostoja, kansioita ja rekisterimerkintöjä...</statusScanning>
+		<statusLeftOverTracesFound>Some leftover traces found!</statusLeftOverTracesFound>
+		<statusNothingFound>Jäänteitä ei löytynyt.</statusNothingFound>
+		<statusAllTracesRemoved>Kaikki jäänteet poistettu</statusAllTracesRemoved>
+		<statusDeletingProgramTraces>Poistetaan ohjelman jälkiä...</statusDeletingProgramTraces>
+		<treeItemFileSystem>Tiedostojärjestelmä (%d merkintöjä)</treeItemFileSystem>
+		<treeItemRegistry>Rekisteri (%d merkintöjä)</treeItemRegistry>
+		<treeItemPopopMenuBrowse>Hae...</treeItemPopopMenuBrowse>
+		<btnFinish>Lopeta</btnFinish>
+		<btnCancel>Peruuta</btnCancel>
+		<btnClose>Sulje</btnClose>
+	</UninstallWizard>
+	<DlgAbout>
+		<DlgAboutCaption>Geek Uninstallerista</DlgAboutCaption>
+	</DlgAbout>
+	<Messages>
+		<msgUninstallFailed>Asennuksen poisto epäonnistui. \nHaluatko poistaa tämän ohjelman rekisterimerkinnät ja tiedostot?</msgUninstallFailed>
+		<msgForceRemovalQuestion>Haluatko varmasti poistaa tämän ohjelman pakotetusti?</msgForceRemovalQuestion>
+		<msgRemoveEntryQuestion>Haluatko varmasti poistaa tämän merkinnän?</msgRemoveEntryQuestion>
+		<msgRemoveEntryFailed>Rekisterimerkinnän poisto epäonnistui. \nSinulla ei ilmeisesti ole oikeuksia siihen.</msgRemoveEntryFailed>
+		<msgNewVersionAvailable>Uusi versio %s saatavana</msgNewVersionAvailable>
+		<msgNewVersionAvailable2>Uusi versio GeekUninstallerista saatavana! Paina OK päästäksesi web-sivullemme latausta varten.</msgNewVersionAvailable2>
+	</Messages>
+	<ProVersion>
+		<statusMessage>Päivitä PRO versioon</statusMessage>
+		<WhatsCool>Mitä ominaisuuksia PRO versiossa:</WhatsCool>
+		<Feature1>Reaaliaikainen asennuksen valvonta</Feature1>
+		<Feature2>perinpohjainen poisto</Feature2>
+		<Feature3>Käynnistyvien ohjelmien hallinta</Feature3>
+		<Feature4>Moderni käyttöliittymä</Feature4>
+		<Feature5>Sarjapoisto</Feature5>
+		<buttonUpgrade>Päivitä</buttonUpgrade>
+	</ProVersion>
+	<HTMLReport>
+		<htmlFiles>HTML tiedostot</htmlFiles>
+		<allFiles>Kaikki tiedostot</allFiles>
+		<generatedByOn>Generoitu by %s on %s</generatedByOn>
+		<installedPrograms>Asennetut ohjelmat (%s)</installedPrograms>
+	</HTMLReport>
+	<Misc>
+		<btnOK>OK</btnOK>
+		<btnCancel>Peruuta</btnCancel>
+		<btnHelp>Ohje</btnHelp>
+		<btnYes>Kyllä</btnYes>
+		<btnNo>Ei</btnNo>
+		<btnClose>Sulje</btnClose>
+		<statusTotalInfo>%d ohjelmista %s kokonaismäärä</statusTotalInfo>
+		<statusUnknown>tuntematon</statusUnknown>
+		<WindowsUpdatesText>Windows päivitykset</WindowsUpdatesText>
+	</Misc>
+</LanguageStrings>

@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageStrings>
+	<MainMenu>
+		<mnuFile>&amp;Fail</mnuFile>
+		<mnuFileExport>&amp;Ekspordi HTML-ist...</mnuFileExport>
+		<mnuFileExit>Väl&amp;ju</mnuFileExit>
+		<mnuAction>&amp;Tegevus</mnuAction>
+		<mnuActionUninstall>&amp;Eemalda...</mnuActionUninstall>
+		<mnuActionModify>&amp;Muuda...</mnuActionModify>
+		<mnuActionDelete>&amp;Jõuga eemaldamine</mnuActionDelete>
+		<mnuActionDeleteBatch>Batch &amp;Force Removal</mnuActionDeleteBatch>
+		<mnuActionRemoveEntry>Eemalda &amp;sisestus</mnuActionRemoveEntry>
+		<mnuActionRemoveEntryBatch>Batch Remove &amp;Entries</mnuActionRemoveEntryBatch>
+		<mnuActionJumpToRegistry>&amp;Registri sisestus</mnuActionJumpToRegistry>
+		<mnuActionJumpToProgramFolder>&amp;Paigaldamise kaust</mnuActionJumpToProgramFolder>
+		<mnuActionJumpToWebSite>&amp;Programmi veebileht</mnuActionJumpToWebSite>
+		<mnuActionOpenWindowsStore>Open in Windows Store</mnuActionOpenWindowsStore>
+		<mnuActionBrowseLocation>Otsi asukohta...</mnuActionBrowseLocation>
+		<mnuActionBrowseSource>Otsi allikat...</mnuActionBrowseSource>
+		<mnuActionGoogleFor>Otsi Googlist</mnuActionGoogleFor>
+		<mnuView>&amp;Vaade</mnuView>
+		<mnuViewDesktopApps>Desktop Apps</mnuViewDesktopApps>
+		<mnuViewWinStoreApps>Windows Store Apps</mnuViewWinStoreApps>
+		<mnuViewRefresh>&amp;Värskenda</mnuViewRefresh>
+		<mnuViewListColumnsReset>Vali kõik</mnuViewListColumnsReset>
+		<mnuViewLanguage>Töökeskkonna keel</mnuViewLanguage>
+		<mnuHelp>&amp;Abi</mnuHelp>
+		<mnuHelpAbout>&amp;Teave...</mnuHelpAbout>
+		<mnuHelpHomePage>Home Page</mnuHelpHomePage>
+	</MainMenu>
+	<ListCtrl>
+		<columnProgramName>Programmi nimi</columnProgramName>
+		<columnSize>Suurus</columnSize>
+		<columnInstallationDate>Paigaldatud</columnInstallationDate>
+		<staticLoading>Loading, please wait...</staticLoading>
+		<staticNoItemsMatchingFilterTip>No matching items, press ESC to reset</staticNoItemsMatchingFilterTip>
+		<staticNoProgramsInCategory>Seems like no Windows Store apps installed</staticNoProgramsInCategory>
+		<mark32bitItem>(32-bit)</mark32bitItem>
+	</ListCtrl>
+	<ExplorerBar>
+		<itemShortSearchTip>Sisesta nimetus leidmaks programmi</itemShortSearchTip>
+	</ExplorerBar>
+	<UninstallWizard>
+		<statusScanning>Skaneerin leidmaks alles jäänud faile, kaustu ja registri üksuseid...</statusScanning>
+		<statusLeftOverTracesFound>Leitud mõned alles jäänud jäljed!</statusLeftOverTracesFound>
+		<statusNothingFound>Pole leitud ühtegi alles jäänud jälge.</statusNothingFound>
+		<statusAllTracesRemoved>Kõik jäljed on kustutatud</statusAllTracesRemoved>
+		<statusDeletingProgramTraces>Kustutan programmi jälgi...</statusDeletingProgramTraces>
+		<treeItemFileSystem>Faili süsteemi (%d ühikud)</treeItemFileSystem>
+		<treeItemRegistry>Registri (%d ühikud)</treeItemRegistry>
+		<treeItemPopopMenuBrowse>Sirvi...</treeItemPopopMenuBrowse>
+		<btnFinish>Lõpeta</btnFinish>
+		<btnCancel>Katkesta</btnCancel>
+		<btnClose>Sulge</btnClose>
+	</UninstallWizard>
+	<DlgAbout>
+		<DlgAboutCaption>Teave Geek Uninstaller-ist</DlgAboutCaption>
+	</DlgAbout>
+	<Messages>
+		<msgUninstallFailed>Eemaldamise protsess ebaõnnestus. \nTahad sa ikka kustutada seda programmi sisestusi registrist ja kustutada selle failid?</msgUninstallFailed>
+		<msgForceRemovalQuestion>Oled kindel, et soovite teostada selle programmi jõulise eemaldamise?</msgForceRemovalQuestion>
+		<msgRemoveEntryQuestion>Oled sa kindel et soovid eemaldada selle sisestuse?</msgRemoveEntryQuestion>
+		<msgRemoveEntryFailed>Tekkis tõrge selle sisestuse kustutamisel. \nSul puudub õigus seda teha.</msgRemoveEntryFailed>
+		<msgNewVersionAvailable>Uus versioon %s on saadaval.</msgNewVersionAvailable>
+		<msgNewVersionAvailable2>New version of GeekUninstaller is available! Press OK to visit our website and download the newest version.</msgNewVersionAvailable2>
+	</Messages>
+	<ProVersion>
+		<statusMessage>Upgrade to PRO version</statusMessage>
+		<WhatsCool>What's cool about PRO version:</WhatsCool>
+		<Feature1>Real-time installation monitor</Feature1>
+		<Feature2>Thorough and complete removal</Feature2>
+		<Feature3>Start-up programs management</Feature3>
+		<Feature4>Modern interface, technical support</Feature4>
+		<Feature5>Batch removal</Feature5>
+		<buttonUpgrade>Upgrade</buttonUpgrade>
+	</ProVersion>
+	<HTMLReport>
+		<htmlFiles>HTML failid</htmlFiles>
+		<allFiles>Kõik failid</allFiles>
+		<generatedByOn>Loodud %s on %s</generatedByOn>
+		<installedPrograms>Paigaldatud programme (%s)</installedPrograms>
+	</HTMLReport>
+	<Misc>
+		<btnOK>OK</btnOK>
+		<btnCancel>Katkesta</btnCancel>
+		<btnHelp>Abi</btnHelp>
+		<btnYes>Jah</btnYes>
+		<btnNo>Ei</btnNo>
+		<btnClose>Sulge</btnClose>
+		<statusTotalInfo>%d programmi %s kogumahust</statusTotalInfo>
+		<statusUnknown>tundmatu</statusUnknown>
+		<WindowsUpdatesText>Windowsi uuendus</WindowsUpdatesText>
+	</Misc>
+</LanguageStrings>

@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageStrings RightToLeft="1">
+	<MainMenu>
+		<mnuFile>&amp;קובץ</mnuFile>
+		<mnuFileExport>&amp;...HTML ייצא ל</mnuFileExport>
+		<mnuFileExit>&amp;יציאה</mnuFileExit>
+		<mnuAction>&amp;פעולה</mnuAction>
+		<mnuActionUninstall>&amp;...הסרת התקנה</mnuActionUninstall>
+		<mnuActionModify>&amp;...התאם</mnuActionModify>
+		<mnuActionDelete>&amp;הסרה כפויה</mnuActionDelete>
+		<mnuActionDeleteBatch>מקבץ &amp;הסרה בכוח</mnuActionDeleteBatch>
+		<mnuActionRemoveEntry>הסרת &amp;ערך</mnuActionRemoveEntry>
+		<mnuActionRemoveEntryBatch>הסרת קבוצת &amp;ערכים</mnuActionRemoveEntryBatch>
+		<mnuActionJumpToRegistry>&amp;רישום רגיסטרי</mnuActionJumpToRegistry>
+		<mnuActionJumpToProgramFolder>&amp;תיקיית התקנה</mnuActionJumpToProgramFolder>
+		<mnuActionJumpToWebSite>&amp;אתר האינטרנט של התוכנה</mnuActionJumpToWebSite>
+		<mnuActionOpenWindowsStore>Open in Windows Store</mnuActionOpenWindowsStore>
+		<mnuActionBrowseLocation>...אתר מיקום</mnuActionBrowseLocation>
+		<mnuActionBrowseSource>...אתר מקור</mnuActionBrowseSource>
+		<mnuActionGoogleFor>גגל עבור</mnuActionGoogleFor>
+		<mnuView>&amp;תצוגה</mnuView>
+		<mnuViewDesktopApps>Desktop Apps</mnuViewDesktopApps>
+		<mnuViewWinStoreApps>Windows Store Apps</mnuViewWinStoreApps>
+		<mnuViewRefresh>&amp;ריענון</mnuViewRefresh>
+		<mnuViewListColumnsReset>אפס עמודות</mnuViewListColumnsReset>
+		<mnuViewLanguage>שפת ממשק</mnuViewLanguage>
+		<mnuHelp>&amp;עזרה</mnuHelp>
+		<mnuHelpAbout>&amp;...אודות</mnuHelpAbout>
+		<mnuHelpHomePage>Home Page</mnuHelpHomePage>
+	</MainMenu>
+	<ListCtrl>
+		<columnProgramName>שם תוכנה</columnProgramName>
+		<columnSize>גודל</columnSize>
+		<columnInstallationDate>-מותקן ב</columnInstallationDate>
+		<staticLoading>טוען, אנא המתן...</staticLoading>
+		<staticNoItemsMatchingFilterTip>No matching items, press ESC to reset</staticNoItemsMatchingFilterTip>
+		<staticNoProgramsInCategory>Seems like no Windows Store apps installed</staticNoProgramsInCategory>
+		<mark32bitItem>(32-bit)</mark32bitItem>
+	</ListCtrl>
+	<ExplorerBar>
+		<itemShortSearchTip>הקלד לחיפוש תוכנית</itemShortSearchTip>
+	</ExplorerBar>
+	<UninstallWizard>
+		<statusScanning>...סורק אחר שאריות קבצים, תיקיות ופריטי רישום</statusScanning>
+		<statusLeftOverTracesFound>!נמצאו שאריות של עקבות אחדים</statusLeftOverTracesFound>
+		<statusNothingFound>לא נמצאו שאריות של עקבות.</statusNothingFound>
+		<statusAllTracesRemoved>כל העקבות הוסרו</statusAllTracesRemoved>
+		<statusDeletingProgramTraces>מחיקת עקבות תוכנית...</statusDeletingProgramTraces>
+		<treeItemFileSystem>מערכת קבצים (%d פריטים)</treeItemFileSystem>
+		<treeItemRegistry>מערכת רישום (%d פריטים)</treeItemRegistry>
+		<treeItemPopopMenuBrowse>...עיון</treeItemPopopMenuBrowse>
+		<btnFinish>סיים</btnFinish>
+		<btnCancel>ביטול</btnCancel>
+		<btnClose>סגור</btnClose>
+	</UninstallWizard>
+	<DlgAbout>
+		<DlgAboutCaption>אודות כלי הסרת ההתקנה</DlgAboutCaption>
+	</DlgAbout>
+	<Messages>
+		<msgUninstallFailed>תהליך הסרת ההתקנה ניכשל. \n?האם אתה רוצה לנקות את רשומת תוכנית זו מיומן הרישום ואת קבציה גם כן</msgUninstallFailed>
+		<msgForceRemovalQuestion>?האם אתה בטוח שברצונך לבצע הסרה בכוח של תוכנית זו</msgForceRemovalQuestion>
+		<msgRemoveEntryQuestion>?האם אתה בטוח שברצונך להסיר רשומה זו</msgRemoveEntryQuestion>
+		<msgRemoveEntryFailed>מחיקת ערך הרישום של פריט זה ניכשלה. \nבטח אין לך גישה לבצע זאת.</msgRemoveEntryFailed>
+		<msgNewVersionAvailable>קיימת %s גרסא חדשה</msgNewVersionAvailable>
+		<msgNewVersionAvailable2>New version of GeekUninstaller is available! Press OK to visit our website and download the newest version.</msgNewVersionAvailable2>
+	</Messages>
+	<ProVersion>
+		<statusMessage>Upgrade to PRO version</statusMessage>
+		<WhatsCool>What's cool about PRO version:</WhatsCool>
+		<Feature1>Real-time installation monitor</Feature1>
+		<Feature2>Thorough and complete removal</Feature2>
+		<Feature3>Start-up programs management</Feature3>
+		<Feature4>Modern interface, technical support</Feature4>
+		<Feature5>Batch removal</Feature5>
+		<buttonUpgrade>Upgrade</buttonUpgrade>
+	</ProVersion>
+	<HTMLReport>
+		<htmlFiles>HTML קבצי</htmlFiles>
+		<allFiles>כל הקבצים</allFiles>
+		<generatedByOn>נוצר על-ידי %s ב %s</generatedByOn>
+		<installedPrograms>תוכניות מותקנות (%s)</installedPrograms>
+	</HTMLReport>
+	<Misc>
+		<btnOK>אשר</btnOK>
+		<btnCancel>בטל</btnCancel>
+		<btnHelp>עזרה</btnHelp>
+		<btnYes>כן</btnYes>
+		<btnNo>לא</btnNo>
+		<btnClose>סגור</btnClose>
+		<statusTotalInfo>תוכניות %d סה"כ, מחולק בין %s נפח של</statusTotalInfo>
+		<statusUnknown>לא ידוע</statusUnknown>
+		<WindowsUpdatesText>עדכוני חלונות</WindowsUpdatesText>
+	</Misc>
+</LanguageStrings>

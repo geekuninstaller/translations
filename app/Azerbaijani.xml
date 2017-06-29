@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageStrings>
+	<MainMenu>
+		<mnuFile>Fayl</mnuFile>
+		<mnuFileExport>HTML kimi yadda saxla...</mnuFileExport>
+		<mnuFileExit>Çıxış</mnuFileExit>
+		<mnuAction>İcra</mnuAction>
+		<mnuActionUninstall>Sil</mnuActionUninstall>
+		<mnuActionModify>Dəyiş...</mnuActionModify>
+		<mnuActionDelete>Reyestrdən sil</mnuActionDelete>
+		<mnuActionDeleteBatch>Batch &amp;Force Removal</mnuActionDeleteBatch>
+		<mnuActionRemoveEntry>Yazını sil</mnuActionRemoveEntry>
+		<mnuActionRemoveEntryBatch>Kütləvi silinmə &amp;Entries</mnuActionRemoveEntryBatch>
+		<mnuActionJumpToRegistry>Reyestr yazısı</mnuActionJumpToRegistry>
+		<mnuActionJumpToProgramFolder>Proqramın qovluğu</mnuActionJumpToProgramFolder>
+		<mnuActionJumpToWebSite>Proqramın Veb Səhifəsi</mnuActionJumpToWebSite>
+		<mnuActionOpenWindowsStore>Open in Windows Store</mnuActionOpenWindowsStore>
+		<mnuActionBrowseLocation>Proqramın qovluğu...</mnuActionBrowseLocation>
+		<mnuActionBrowseSource>Mənbəyə baxış...</mnuActionBrowseSource>
+		<mnuActionGoogleFor>Google-da axtar</mnuActionGoogleFor>
+		<mnuView>Görünüş</mnuView>
+		<mnuViewDesktopApps>Desktop Apps</mnuViewDesktopApps>
+		<mnuViewWinStoreApps>Windows Store Apps</mnuViewWinStoreApps>
+		<mnuViewRefresh>Yenilə</mnuViewRefresh>
+		<mnuViewListColumnsReset>Sütunların vəziyyətini sıfırla</mnuViewListColumnsReset>
+		<mnuViewLanguage>Dil seçimi</mnuViewLanguage>
+		<mnuHelp>Kömək</mnuHelp>
+		<mnuHelpAbout>Haqqında...</mnuHelpAbout>
+		<mnuHelpHomePage>Home Page</mnuHelpHomePage>
+	</MainMenu>
+	<ListCtrl>
+		<columnProgramName>Proqram adı</columnProgramName>
+		<columnSize>Ölçü</columnSize>
+		<columnInstallationDate>Qurulma tarixi</columnInstallationDate>
+		<staticLoading>Yüklənir, gözləyin...</staticLoading>
+		<staticNoItemsMatchingFilterTip>No matching items, press ESC to reset</staticNoItemsMatchingFilterTip>
+		<staticNoProgramsInCategory>Seems like no Windows Store apps installed</staticNoProgramsInCategory>
+		<mark32bitItem>(32-bit)</mark32bitItem>
+	</ListCtrl>
+	<ExplorerBar>
+		<itemShortSearchTip>Axtarış üçün sözü daxil edin</itemShortSearchTip>
+	</ExplorerBar>
+	<UninstallWizard>
+		<statusScanning>Faylların/Qovluqların, Reyestr qalıqlarının gözdən keçirilməsi...</statusScanning>
+		<statusLeftOverTracesFound>Proqramın bəzi hissələri qalıb</statusLeftOverTracesFound>
+		<statusNothingFound>Proqramın heç bir hissəsi qalmayıb</statusNothingFound>
+		<statusAllTracesRemoved>Proqramın bütün qalıqları silindi</statusAllTracesRemoved>
+		<statusDeletingProgramTraces>Elementlərin silinməsi...</statusDeletingProgramTraces>
+		<treeItemFileSystem>Fayl sistemi (%d element)</treeItemFileSystem>
+		<treeItemRegistry>Reyestr (%d element)</treeItemRegistry>
+		<treeItemPopopMenuBrowse>Baxış...</treeItemPopopMenuBrowse>
+		<btnFinish>Sil</btnFinish>
+		<btnCancel>İmtina</btnCancel>
+		<btnClose>Bağla</btnClose>
+	</UninstallWizard>
+	<DlgAbout>
+		<DlgAboutCaption>Haqqında</DlgAboutCaption>
+	</DlgAbout>
+	<Messages>
+		<msgUninstallFailed>Silmə əməliyyatı yerinə yetmədi. \nBu proqramın qovluqlarını və Reyestr açarlarını silmək istəyirsiniz?</msgUninstallFailed>
+		<msgForceRemovalQuestion>Siz həqiqətən bu proqramın məcburi silinməsini istəyirsiniz?</msgForceRemovalQuestion>
+		<msgRemoveEntryQuestion>Davam etmək istəyirsiniz?</msgRemoveEntryQuestion>
+		<msgRemoveEntryFailed>Reyestrdən yazıların silməsi uğursuz oldu. Ehtimal ki, bunu etmək üçün yetərli hüquqa malik deyilsiniz..</msgRemoveEntryFailed>
+		<msgNewVersionAvailable>Yeni versiya %s mövcuddur.</msgNewVersionAvailable>
+		<msgNewVersionAvailable2>New version of GeekUninstaller is available! Press OK to visit our website and download the newest version.</msgNewVersionAvailable2>
+	</Messages>
+	<ProVersion>
+		<statusMessage>Upgrade to PRO version</statusMessage>
+		<WhatsCool>What's cool about PRO version:</WhatsCool>
+		<Feature1>Real-time installation monitor</Feature1>
+		<Feature2>Thorough and complete removal</Feature2>
+		<Feature3>Start-up programs management</Feature3>
+		<Feature4>Modern interface, technical support</Feature4>
+		<Feature5>Batch removal</Feature5>
+		<buttonUpgrade>Upgrade</buttonUpgrade>
+	</ProVersion>
+	<HTMLReport>
+		<htmlFiles>HTML fayllar</htmlFiles>
+		<allFiles>Bütün fayllar</allFiles>
+		<generatedByOn>%s vasitəsilə %s tarixdə yaradılıb</generatedByOn>
+		<installedPrograms>Quraşdırılmış proqramlar (%s)</installedPrograms>
+	</HTMLReport>
+	<Misc>
+		<btnOK>OK</btnOK>
+		<btnCancel>İmtina</btnCancel>
+		<btnHelp>Kömək</btnHelp>
+		<btnYes>Hə</btnYes>
+		<btnNo>Yox</btnNo>
+		<btnClose>Bağla</btnClose>
+		<statusTotalInfo>%d proqram, ümumi həcm %s</statusTotalInfo>
+		<statusUnknown>naməlum</statusUnknown>
+		<WindowsUpdatesText>Windows yenilənmələri</WindowsUpdatesText>
+	</Misc>
+</LanguageStrings>

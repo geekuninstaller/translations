@@ -1,0 +1,93 @@
+<LanguageStrings>
+    <MainMenu>
+        <mnuFile>&amp;Fil</mnuFile>
+        <mnuFileExport>&amp;Eksportér til HTML...</mnuFileExport>
+        <mnuFileExit>&amp;Afslut</mnuFileExit>
+        <mnuAction>&amp;Kør</mnuAction>
+        <mnuActionUninstall>&amp;Afinstallér...</mnuActionUninstall>
+        <mnuActionModify>&amp;Ændr...</mnuActionModify>
+        <mnuActionDelete>&amp;Tvangsfjern</mnuActionDelete>
+        <mnuActionDeleteBatch>Vælg flere til &amp;tvangsfjernelse</mnuActionDeleteBatch>
+        <mnuActionRemoveEntry>Fjern &amp;posten</mnuActionRemoveEntry>
+        <mnuActionRemoveEntryBatch>Vælg og fjern flere &amp;posteringer</mnuActionRemoveEntryBatch>
+        <mnuActionJumpToRegistry>&amp;Registreringspost</mnuActionJumpToRegistry>
+        <mnuActionJumpToProgramFolder>&amp;Installationsmappe</mnuActionJumpToProgramFolder>
+        <mnuActionJumpToWebSite>&amp;Programmets hjemmeside</mnuActionJumpToWebSite>
+        <mnuActionOpenWindowsStore>Åbn i Windows Store</mnuActionOpenWindowsStore>
+        <mnuActionBrowseLocation>Gennemse placering...</mnuActionBrowseLocation>
+        <mnuActionBrowseSource>Gennemse kilde...</mnuActionBrowseSource>
+        <mnuActionGoogleFor>Info om (leveres af Google)</mnuActionGoogleFor>
+        <mnuView>&amp;Vis</mnuView>
+        <mnuViewDesktopApps>Skrivebordsapps</mnuViewDesktopApps>
+        <mnuViewWinStoreApps>Apps fra Windows Store</mnuViewWinStoreApps>
+        <mnuViewInitialSort>Sortér efter...</mnuViewInitialSort>
+        <mnuViewRefresh>&amp;Genindlæs</mnuViewRefresh>
+        <mnuViewListColumnsReset>Nulstil kolonner</mnuViewListColumnsReset>
+        <mnuViewLanguage>Grænsefladesprog</mnuViewLanguage><mnuHelp>&amp;Hjælp</mnuHelp>
+        <mnuHelpAbout>&amp;Om...</mnuHelpAbout>
+        <mnuHelpHomePage>&amp;Hjemmeside</mnuHelpHomePage>
+    </MainMenu>
+    <ListCtrl>
+        <columnProgramName>Navn</columnProgramName>
+        <columnSize>Størrelse.</columnSize>
+        <columnInstallationDate>Installationsdato</columnInstallationDate>
+        <staticLoading>Indlæser, vent venligst...</staticLoading>
+        <staticNoItemsMatchingFilterTip>Ingen matchende emner - tryk på ESC for at nulstille</staticNoItemsMatchingFilterTip>
+        <staticNoProgramsInCategory>Det ser ud til, at der er ingen installerede apps fra Windows Store</staticNoProgramsInCategory>
+        <mark32bitItem>(32-bit)</mark32bitItem>
+    </ListCtrl>
+    <ExplorerBar>
+        <itemShortSearchTip>Skriv for at finde et program</itemShortSearchTip>
+    </ExplorerBar>
+    <UninstallWizard>
+        <statusScanning>Scanner for tilbageblevne filer, mapper og emner i registreringsdatabasen...</statusScanning>
+        <statusLeftOverTracesFound>Nogle tilbageblevne spor blev fundet!</statusLeftOverTracesFound>
+        <statusNothingFound>Ingen tilbageblevne spor blev fundet.</statusNothingFound>
+        <statusAllTracesRemoved>Alle spor blev fjernet</statusAllTracesRemoved>
+        <statusDeletingProgramTraces>Sletter spor af programmet...</statusDeletingProgramTraces>
+        <treeItemFileSystem>Filsystem (%d emner)</treeItemFileSystem>
+        <treeItemRegistry>Registret (%d emner)</treeItemRegistry>
+        <treeItemPopopMenuBrowse>Gennemse...</treeItemPopopMenuBrowse>
+        <btnFinish>Færdig</btnFinish>
+        <btnCancel>Annullér</btnCancel>
+        <btnClose>Luk</btnClose>
+    </UninstallWizard>
+    <DlgAbout>
+        <DlgAboutCaption>Om Geek Uninstaller</DlgAboutCaption>
+    </DlgAbout>
+    <Messages>
+        <msgUninstallFailed>Afinstallationen fejlede. \nVil du fjerne dette program fra registret og dets filer?</</msgUninstallFailed>
+        <msgForceRemovalQuestion>Er du sikker på, at du vil tvangsfjerne dette program?</</msgForceRemovalQuestion>
+        <msgRemoveEntryQuestion>Er du sikker på, at du vil fjerne denne post?</msgRemoveEntryQuestion>
+        <msgRemoveEntryFailed>Det lykkedes ikke at slette posten af dette emne i registreringsdatabasen \nDu har sikkert ikke adgang til at gøre det.</msgRemoveEntryFailed>
+        <msgNewVersionAvailable>Ny version %s er tilgængelig</msgNewVersionAvailable>
+        <msgNewVersionAvailable2>Ny version af GeekUninstaller er tilgængelig! Tryk på OK for at besøge vores hjemmeside og hente den nyeste version.</msgNewVersionAvailable2>
+    </Messages>
+    <ProVersion>
+        <statusMessage>Opgrader til PRO version</statusMessage>
+        <WhatsCool>Det seje ved PRO version:</WhatsCool>
+        <Feature1>Real-time installationsmonitor</Feature1>
+        <Feature2>Grundig og total fjernelse</Feature2>
+        <Feature3>Opstartsstyring af programmer</Feature3>
+        <Feature4>Moderne brugerflade og teknisk support</Feature4>
+        <Feature5>Multifjernelse</Feature5>
+        <buttonUpgrade>Opgradér</buttonUpgrade>
+    </ProVersion>
+    <HTMLReport>
+        <htmlFiles>HTML filer</htmlFiles>
+        <allFiles>Alle filer</allFiles>
+        <generatedByOn>Dannet af %s på %s</generatedByOn>
+        <installedPrograms>Installerede programmer (%s)</installedPrograms>
+    </HTMLReport>
+    <Misc>
+        <btnOK>OK</btnOK>
+        <btnCancel>Annullér</btnCancel>
+        <btnHelp>Hjælp</btnHelp>
+        <btnYes>Ja</btnYes>
+        <btnNo>Nej</btnNo>
+        <btnClose>Luk</btnClose>
+        <statusTotalInfo>%d programmer fylder %s af diskpladsen</statusTotalInfo>
+        <statusUnknown>ukendt</statusUnknown>
+        <WindowsUpdatesText>Windows opdateringer</WindowsUpdatesText>
+    </Misc>
+</LanguageStrings>

@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageStrings>
+	<MainMenu>
+		<mnuFile>&amp;Bestand</mnuFile>
+		<mnuFileExport>&amp;Exporteren naar HTML...</mnuFileExport>
+		<mnuFileExit>&amp;Afsluiten</mnuFileExit>
+		<mnuAction>&amp;Actie</mnuAction>
+		<mnuActionUninstall>&amp;Verwijderen...</mnuActionUninstall>
+		<mnuActionModify>&amp;Wijzigen...</mnuActionModify>
+		<mnuActionDelete>&amp;Geforceerd verwijderen</mnuActionDelete>
+		<mnuActionDeleteBatch>Batch &amp;Geforceerd verwijderen</mnuActionDeleteBatch>
+		<mnuActionRemoveEntry>&amp;Vermelding verwijderen</mnuActionRemoveEntry>
+		<mnuActionRemoveEntryBatch>Batch &amp;Vermeldingen verwijderen</mnuActionRemoveEntryBatch>
+		<mnuActionJumpToRegistry>&amp;Registervermelding</mnuActionJumpToRegistry>
+		<mnuActionJumpToProgramFolder>&amp;Installatiemap</mnuActionJumpToProgramFolder>
+		<mnuActionJumpToWebSite>Programma&amp;website</mnuActionJumpToWebSite>
+		<mnuActionOpenWindowsStore>Open in Windows Store</mnuActionOpenWindowsStore>
+		<mnuActionBrowseLocation>Zoeken op Locatie...</mnuActionBrowseLocation>
+		<mnuActionBrowseSource>Zoeken op Bron...</mnuActionBrowseSource>
+		<mnuActionGoogleFor>Zoeken bij Google</mnuActionGoogleFor>
+		<mnuView>&amp;Beeld</mnuView>
+		<mnuViewDesktopApps>Desktop Apps</mnuViewDesktopApps>
+		<mnuViewWinStoreApps>Windows Store Apps</mnuViewWinStoreApps>
+		<mnuViewRefresh>&amp;Verversen</mnuViewRefresh>
+		<mnuViewListColumnsReset>Kolommen herstellen</mnuViewListColumnsReset>
+		<mnuViewLanguage>Taal selecteren</mnuViewLanguage>
+		<mnuHelp>&amp;Help</mnuHelp>
+		<mnuHelpAbout>&amp;Over...</mnuHelpAbout>
+		<mnuHelpHomePage>&amp;Homepage</mnuHelpHomePage>
+	</MainMenu>
+	<ListCtrl>
+		<columnProgramName>Programmanaam</columnProgramName>
+		<columnSize>Grootte</columnSize>
+		<columnInstallationDate>Installatiedatum</columnInstallationDate>
+		<staticLoading>Aan het laden, even geduld a.u.b...</staticLoading>
+		<staticNoItemsMatchingFilterTip>No matching items, press ESC to reset</staticNoItemsMatchingFilterTip>
+		<staticNoProgramsInCategory>Seems like no Windows Store apps installed</staticNoProgramsInCategory>
+		<mark32bitItem>(32-bit)</mark32bitItem>
+	</ListCtrl>
+	<ExplorerBar>
+		<itemShortSearchTip>Type om programma te vinden</itemShortSearchTip>
+	</ExplorerBar>
+	<UninstallWizard>
+		<statusScanning>Zoeken naar achtergebleven bestanden, mappen en registervermeldingen...</statusScanning>
+		<statusLeftOverTracesFound>Enkele achtergebleven items gevonden!</statusLeftOverTracesFound>
+		<statusNothingFound>Geen achtergebleven onderdelen gevonden.</statusNothingFound>
+		<statusAllTracesRemoved>Alle achtergebleven onderdelen zijn verwijderd.</statusAllTracesRemoved>
+		<statusDeletingProgramTraces>Programmaonderdelen worden verwijderd...</statusDeletingProgramTraces>
+		<treeItemFileSystem>Bestandssysteem (%d onderdelen)</treeItemFileSystem>
+		<treeItemRegistry>Register (%d onderdelen)</treeItemRegistry>
+		<treeItemPopopMenuBrowse>Verkennen...</treeItemPopopMenuBrowse>
+		<btnFinish>Verwijderen</btnFinish>
+		<btnCancel>Annuleren</btnCancel>
+		<btnClose>Sluiten</btnClose>
+	</UninstallWizard>
+	<DlgAbout>
+		<DlgAboutCaption>Over Geek Uninstaller</DlgAboutCaption>
+	</DlgAbout>
+	<Messages>
+		<msgUninstallFailed>Deïnstallatie mislukt. \nWilt u dit programma uit het register verwijderen en de bestanden wissen?</msgUninstallFailed>
+		<msgForceRemovalQuestion>Bent u er zeker van dat u een Geforceerde Verwijdering wilt van dit programma?</msgForceRemovalQuestion>
+		<msgRemoveEntryQuestion>Bent u er zeker van dat u de vermeldingen wilt verwijderen?</msgRemoveEntryQuestion>
+		<msgRemoveEntryFailed>Verwijderen van de registergegevens mislukt. \nWaarschijnlijk heeft u niet de juiste rechten.</msgRemoveEntryFailed>
+		<msgNewVersionAvailable>Een nieuwe versie %s is beschikbaar</msgNewVersionAvailable>
+		<msgNewVersionAvailable2>Een nieuw versie van GeekUninstaller is beschikbaar! Klik OK om onze website te bezoeken en de nieuwste versie te downloaden.</msgNewVersionAvailable2>
+	</Messages>
+	<ProVersion>
+		<statusMessage>Opwaarderen naar PRO-versie</statusMessage>
+		<WhatsCool>Wat is er bijzonder aan de PRO-versie:</WhatsCool>
+		<Feature1>Actieve installatie-monitor</Feature1>
+		<Feature2>Grondige en volledige verwijdering</Feature2>
+		<Feature3>Beheer van opstartprogramma's</Feature3>
+		<Feature4>Moderne vormgeving, technische ondersteuning</Feature4>
+		<Feature5>Batch-verwijdering</Feature5>
+		<buttonUpgrade>Opwaarderen</buttonUpgrade>
+	</ProVersion>
+	<HTMLReport>
+		<htmlFiles>HTML-bestanden</htmlFiles>
+		<allFiles>Alle bestanden</allFiles>
+		<generatedByOn>Gegenereerd door %s op %s</generatedByOn>
+		<installedPrograms>Geïnstalleerde programma's (%s)</installedPrograms>
+	</HTMLReport>
+	<Misc>
+		<btnOK>OK</btnOK>
+		<btnCancel>Annuleren</btnCancel>
+		<btnHelp>Help</btnHelp>
+		<btnYes>Ja</btnYes>
+		<btnNo>Nee</btnNo>
+		<btnClose>Sluiten</btnClose>
+		<statusTotalInfo>%d programma's met totale omvang %s</statusTotalInfo>
+		<statusUnknown>onbekend</statusUnknown>
+		<WindowsUpdatesText>Windows Updates</WindowsUpdatesText>
+	</Misc>
+</LanguageStrings>

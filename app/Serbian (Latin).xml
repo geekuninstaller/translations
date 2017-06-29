@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageStrings>
+	<MainMenu>
+		<mnuFile>&amp;Datoteka</mnuFile>
+		<mnuFileExport>&amp;Izvezi kao HTML...</mnuFileExport>
+		<mnuFileExit>I&amp;zađi</mnuFileExit>
+		<mnuAction>&amp;Radnja</mnuAction>
+		<mnuActionUninstall>&amp;Deinstaliraj...</mnuActionUninstall>
+		<mnuActionModify>&amp;Izmeni...</mnuActionModify>
+		<mnuActionDelete>&amp;Počisti tragove</mnuActionDelete>
+		<mnuActionDeleteBatch>Batch &amp;Force Removal</mnuActionDeleteBatch>
+		<mnuActionRemoveEntry>&amp;Ukloni unos</mnuActionRemoveEntry>
+		<mnuActionRemoveEntryBatch>Batch Remove &amp;Entries</mnuActionRemoveEntryBatch>
+		<mnuActionJumpToRegistry>&amp;Registarski unos</mnuActionJumpToRegistry>
+		<mnuActionJumpToProgramFolder>&amp;Fascikla instalacije</mnuActionJumpToProgramFolder>
+		<mnuActionJumpToWebSite>&amp;Veb-sajt programa</mnuActionJumpToWebSite>
+		<mnuActionOpenWindowsStore>Open in Windows Store</mnuActionOpenWindowsStore>
+		<mnuActionBrowseLocation>Otvori lokaciju...</mnuActionBrowseLocation>
+		<mnuActionBrowseSource>Otvori izvor...</mnuActionBrowseSource>
+		<mnuActionGoogleFor>Pretraži pomoću Google-a</mnuActionGoogleFor>
+		<mnuView>&amp;Prikaz</mnuView>
+		<mnuViewDesktopApps>Desktop Apps</mnuViewDesktopApps>
+		<mnuViewWinStoreApps>Windows Store Apps</mnuViewWinStoreApps>
+		<mnuViewRefresh>&amp;Osveži</mnuViewRefresh>
+		<mnuViewListColumnsReset>Vrati podrazumevane kolone</mnuViewListColumnsReset>
+		<mnuViewLanguage>Jezik interfejsa</mnuViewLanguage>
+		<mnuHelp>P&amp;omoć</mnuHelp>
+		<mnuHelpAbout>&amp;O programu...</mnuHelpAbout>
+		<mnuHelpHomePage>Home Page</mnuHelpHomePage>
+	</MainMenu>
+	<ListCtrl>
+		<columnProgramName>Naziv programa</columnProgramName>
+		<columnSize>Veličina</columnSize>
+		<columnInstallationDate>Datum instalacije</columnInstallationDate>
+		<staticLoading>Loading, please wait...</staticLoading>
+		<staticNoItemsMatchingFilterTip>No matching items, press ESC to reset</staticNoItemsMatchingFilterTip>
+		<staticNoProgramsInCategory>Seems like no Windows Store apps installed</staticNoProgramsInCategory>
+		<mark32bitItem>(32-bit)</mark32bitItem>
+	</ListCtrl>
+	<ExplorerBar>
+		<itemShortSearchTip>Unesite naziv programa</itemShortSearchTip>
+	</ExplorerBar>
+	<UninstallWizard>
+		<statusScanning>Traženje preostalih datoteka, fascikli i stavki registra...</statusScanning>
+		<statusLeftOverTracesFound>Ostaci su pronađeni!</statusLeftOverTracesFound>
+		<statusNothingFound>Ostaci nisu pronađeni.</statusNothingFound>
+		<statusAllTracesRemoved>Svi tragovi su uklonjeni</statusAllTracesRemoved>
+		<statusDeletingProgramTraces>Brisanje tragova programa...</statusDeletingProgramTraces>
+		<treeItemFileSystem>Sistem datoteka (stavki: %d)</treeItemFileSystem>
+		<treeItemRegistry>Registar (stavki: %d)</treeItemRegistry>
+		<treeItemPopopMenuBrowse>Pregledaj...</treeItemPopopMenuBrowse>
+		<btnFinish>Završi</btnFinish>
+		<btnCancel>Otkaži</btnCancel>
+		<btnClose>Zatvori</btnClose>
+	</UninstallWizard>
+	<DlgAbout>
+		<DlgAboutCaption>Informacije o programu</DlgAboutCaption>
+	</DlgAbout>
+	<Messages>
+		<msgUninstallFailed>Deinstalacija nije uspela. \nDa li želite da uklonite unos programa iz registra i počistite njegove datoteke?</msgUninstallFailed>
+		<msgForceRemovalQuestion>Da li zaista želite da počistite sve tragove programa?</msgForceRemovalQuestion>
+		<msgRemoveEntryQuestion>Da li zaista želite da uklonite ovaj unos?</msgRemoveEntryQuestion>
+		<msgRemoveEntryFailed>Nije uspelo brisanje registarskog unosa ove stavke. \nVerovatno joj nemate pristup.</msgRemoveEntryFailed>
+		<msgNewVersionAvailable>Nova verzija %s je dostupna</msgNewVersionAvailable>
+		<msgNewVersionAvailable2>New version of GeekUninstaller is available! Press OK to visit our website and download the newest version.</msgNewVersionAvailable2>
+	</Messages>
+	<ProVersion>
+		<statusMessage>Upgrade to PRO version</statusMessage>
+		<WhatsCool>What's cool about PRO version:</WhatsCool>
+		<Feature1>Real-time installation monitor</Feature1>
+		<Feature2>Thorough and complete removal</Feature2>
+		<Feature3>Start-up programs management</Feature3>
+		<Feature4>Modern interface, technical support</Feature4>
+		<Feature5>Batch removal</Feature5>
+		<buttonUpgrade>Upgrade</buttonUpgrade>
+	</ProVersion>
+	<HTMLReport>
+		<htmlFiles>HTML datoteke</htmlFiles>
+		<allFiles>Sve datoteke</allFiles>
+		<generatedByOn>Generisao: %s Datum: %s</generatedByOn>
+		<installedPrograms>Instalirani programi (%s)</installedPrograms>
+	</HTMLReport>
+	<Misc>
+		<btnOK>U redu</btnOK>
+		<btnCancel>Otkaži</btnCancel>
+		<btnHelp>Pomoć</btnHelp>
+		<btnYes>Da</btnYes>
+		<btnNo>Ne</btnNo>
+		<btnClose>Zatvori</btnClose>
+		<statusTotalInfo>%d programa | ukupno zauzeće: %s</statusTotalInfo>
+		<statusUnknown>nepoznato</statusUnknown>
+		<WindowsUpdatesText>Windows ispravke</WindowsUpdatesText>
+	</Misc>
+</LanguageStrings>

@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageStrings>
+	<MainMenu>
+		<mnuFile>&amp;Datoteka</mnuFile>
+		<mnuFileExport>&amp;Izvezi kao HTML...</mnuFileExport>
+		<mnuFileExit>I&amp;zađi</mnuFileExit>
+		<mnuAction>&amp;Akcije</mnuAction>
+		<mnuActionUninstall>&amp;Ukloni...</mnuActionUninstall>
+		<mnuActionModify>&amp;Izmijeni...</mnuActionModify>
+		<mnuActionDelete>&amp;Prisilno uklanjanje</mnuActionDelete>
+		<mnuActionDeleteBatch>Skupno &amp;Prisilno uklanjanje</mnuActionDeleteBatch>
+		<mnuActionRemoveEntry>&amp;Ukloni unose</mnuActionRemoveEntry>
+		<mnuActionRemoveEntryBatch>Prisilno ukloni &amp;Unose</mnuActionRemoveEntryBatch>
+		<mnuActionJumpToRegistry>&amp;Registarski unos</mnuActionJumpToRegistry>
+		<mnuActionJumpToProgramFolder>&amp;Instalacijska mapa</mnuActionJumpToProgramFolder>
+		<mnuActionJumpToWebSite>&amp;WEB-stranica programa</mnuActionJumpToWebSite>
+		<mnuActionOpenWindowsStore>Otvori Windows Trgovinu</mnuActionOpenWindowsStore>
+		<mnuActionBrowseLocation>Otvori mjesto datoteke...</mnuActionBrowseLocation>
+		<mnuActionBrowseSource>Otvori izvor...</mnuActionBrowseSource>
+		<mnuActionGoogleFor>Pretraži pomoću Google-a</mnuActionGoogleFor>
+		<mnuView>&amp;Prikaz</mnuView>
+		<mnuViewDesktopApps>Desktop programi</mnuViewDesktopApps>
+		<mnuViewWinStoreApps>Programi sa Windows Trgovine</mnuViewWinStoreApps>
+		<mnuViewRefresh>&amp;Osvježi</mnuViewRefresh>
+		<mnuViewListColumnsReset>Vrati zadane kolone</mnuViewListColumnsReset>
+		<mnuViewLanguage>Jezik sučelja</mnuViewLanguage>
+		<mnuHelp>P&amp;omoć</mnuHelp>
+		<mnuHelpAbout>&amp;O programu...</mnuHelpAbout>
+		<mnuHelpHomePage>Web stranica programa</mnuHelpHomePage>
+	</MainMenu>
+	<ListCtrl>
+		<columnProgramName>Naziv programa</columnProgramName>
+		<columnSize>Veličina</columnSize>
+		<columnInstallationDate>Datum instalacije</columnInstallationDate>
+		<staticLoading>Učitavanje, molimo pričekajte...</staticLoading>
+		<staticNoItemsMatchingFilterTip>Nema pronađenih stavki, pritisnite ESC za povratak</staticNoItemsMatchingFilterTip>
+		<staticNoProgramsInCategory>Izgleda da nema instaliranih programa sa Windows Trgovine</staticNoProgramsInCategory>
+		<mark32bitItem>(32-bit)</mark32bitItem>
+	</ListCtrl>
+	<ExplorerBar>
+		<itemShortSearchTip>Unesite naziv programa</itemShortSearchTip>
+	</ExplorerBar>
+	<UninstallWizard>
+		<statusScanning>Traženje preostalih datoteka, mapa i stavki registra...</statusScanning>
+		<statusLeftOverTracesFound>Ostaci su pronađeni!</statusLeftOverTracesFound>
+		<statusNothingFound>Ostaci nisu pronađeni.</statusNothingFound>
+		<statusAllTracesRemoved>Svi tragovi su uklonjeni</statusAllTracesRemoved>
+		<statusDeletingProgramTraces>Brisanje tragova programa...</statusDeletingProgramTraces>
+		<treeItemFileSystem>Sistem datoteka (stavki: %d)</treeItemFileSystem>
+		<treeItemRegistry>Registar (stavki: %d)</treeItemRegistry>
+		<treeItemPopopMenuBrowse>Pregledaj...</treeItemPopopMenuBrowse>
+		<btnFinish>Završi</btnFinish>
+		<btnCancel>Otkaži</btnCancel>
+		<btnClose>Zatvori</btnClose>
+	</UninstallWizard>
+	<DlgAbout>
+		<DlgAboutCaption>Informacije o programu</DlgAboutCaption>
+	</DlgAbout>
+	<Messages>
+		<msgUninstallFailed>Deinstalacija nije uspjela. \nDa li želite ukloniti unos programa iz registra te počistiti zaostale datoteke?</msgUninstallFailed>
+		<msgForceRemovalQuestion>Jeste li igurni da želite prisilno ukloniti ovaj programa?</msgForceRemovalQuestion>
+		<msgRemoveEntryQuestion>Jeste li igurni da želite ukloniti ovaj unos?</msgRemoveEntryQuestion>
+		<msgRemoveEntryFailed>Nije uspjelo brisanje registarskog unosa ove stavke. \nVjerojatno nemate pristupna prava.</msgRemoveEntryFailed>
+		<msgNewVersionAvailable>Nova inačica %s je dostupna</msgNewVersionAvailable>
+		<msgNewVersionAvailable2>Nova verzija GeekUninstallera je dostupna! Pritisnite OK da posjetite našu stranicu i preuzmete najnoviju verziju.</msgNewVersionAvailable2>
+	</Messages>
+	<ProVersion>
+		<statusMessage>Nadogradi na PRO verziju</statusMessage>
+		<WhatsCool>Što je super u PRO verziji:</WhatsCool>
+		<Feature1>Praćenje instalacije u stvarnom vremenu</Feature1>
+		<Feature2>Temeljito i potpuno uklanjanje</Feature2>
+		<Feature3>Upravljanje polaznim programima</Feature3>
+		<Feature4>Moderno sučelje, tehnička podrška</Feature4>
+		<Feature5>Skupno uklanjanje</Feature5>
+		<buttonUpgrade>Nadogradi</buttonUpgrade>
+	</ProVersion>
+	<HTMLReport>
+		<htmlFiles>HTML datoteke</htmlFiles>
+		<allFiles>Sve datoteke</allFiles>
+		<generatedByOn>Generirao: %s Datum: %s</generatedByOn>
+		<installedPrograms>Instalirani programi (%s)</installedPrograms>
+	</HTMLReport>
+	<Misc>
+		<btnOK>U redu</btnOK>
+		<btnCancel>Otkaži</btnCancel>
+		<btnHelp>Pomoć</btnHelp>
+		<btnYes>Da</btnYes>
+		<btnNo>Ne</btnNo>
+		<btnClose>Zatvori</btnClose>
+		<statusTotalInfo>%d programa | ukupno zauzeće: %s</statusTotalInfo>
+		<statusUnknown>nepoznato</statusUnknown>
+		<WindowsUpdatesText>Ažuriranja Windowsa</WindowsUpdatesText>
+	</Misc>
+</LanguageStrings>

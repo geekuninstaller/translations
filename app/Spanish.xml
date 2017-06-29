@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageStrings>
+	<MainMenu>
+		<mnuFile>&amp;Archivo</mnuFile>
+		<mnuFileExport>&amp;Exportar a HTML...</mnuFileExport>
+		<mnuFileExit>&amp;Salir</mnuFileExit>
+		<mnuAction>&amp;Acción</mnuAction>
+		<mnuActionUninstall>&amp;Desinstalar...</mnuActionUninstall>
+		<mnuActionModify>&amp;Modificar...</mnuActionModify>
+		<mnuActionDelete>&amp;Forzar Borrado</mnuActionDelete>
+		<mnuActionDeleteBatch>&amp;Forzar borrado en masa</mnuActionDeleteBatch>
+		<mnuActionRemoveEntry>Remover &amp;entrada</mnuActionRemoveEntry>
+		<mnuActionRemoveEntryBatch>Remover &amp;entradas en masa</mnuActionRemoveEntryBatch>
+		<mnuActionJumpToRegistry>&amp;Entrada de registro</mnuActionJumpToRegistry>
+		<mnuActionJumpToProgramFolder>&amp;Carpeta de instalación</mnuActionJumpToProgramFolder>
+		<mnuActionJumpToWebSite>&amp;Sitio Web del programa</mnuActionJumpToWebSite>
+		<mnuActionOpenWindowsStore>Open in Windows Store</mnuActionOpenWindowsStore>
+		<mnuActionBrowseLocation>Examinar ubicación...</mnuActionBrowseLocation>
+		<mnuActionBrowseSource>Examinar origen...</mnuActionBrowseSource>
+		<mnuActionGoogleFor>Buscar en Google por</mnuActionGoogleFor>
+		<mnuView>&amp;Ver</mnuView>
+		<mnuViewDesktopApps>Desktop Apps</mnuViewDesktopApps>
+		<mnuViewWinStoreApps>Windows Store Apps</mnuViewWinStoreApps>
+		<mnuViewRefresh>&amp;Actualizar</mnuViewRefresh>
+		<mnuViewListColumnsReset>Restablecer columnas</mnuViewListColumnsReset>
+		<mnuViewLanguage>Idioma de la interfaz</mnuViewLanguage>
+		<mnuHelp>Ay&amp;uda</mnuHelp>
+		<mnuHelpAbout>&amp;Acerca de...</mnuHelpAbout>
+		<mnuHelpHomePage>Página oficial</mnuHelpHomePage>
+	</MainMenu>
+	<ListCtrl>
+		<columnProgramName>Nombre del programa</columnProgramName>
+		<columnSize>Tamaño</columnSize>
+		<columnInstallationDate>Instalado en</columnInstallationDate>
+		<staticLoading>Cargando, por favor espere...</staticLoading>
+		<staticNoItemsMatchingFilterTip>No matching items, press ESC to reset</staticNoItemsMatchingFilterTip>
+		<staticNoProgramsInCategory>Seems like no Windows Store apps installed</staticNoProgramsInCategory>
+		<mark32bitItem>(32-bit)</mark32bitItem>
+	</ListCtrl>
+	<ExplorerBar>
+		<itemShortSearchTip>Escriba para encontrar un programa</itemShortSearchTip>
+	</ExplorerBar>
+	<UninstallWizard>
+		<statusScanning>Buscando archivos restantes, carpetas y entradas del registro...</statusScanning>
+		<statusLeftOverTracesFound>¡Se encontraron algunos rastros restantes!</statusLeftOverTracesFound>
+		<statusNothingFound>No se encontraron rastros restantes.</statusNothingFound>
+		<statusAllTracesRemoved>Todos los rastros removidos</statusAllTracesRemoved>
+		<statusDeletingProgramTraces>Eliminando rastros de aplicaciones...</statusDeletingProgramTraces>
+		<treeItemFileSystem>Sistema de archivos (%d elementos)</treeItemFileSystem>
+		<treeItemRegistry>Registro (%d elementos)</treeItemRegistry>
+		<treeItemPopopMenuBrowse>Examinar...</treeItemPopopMenuBrowse>
+		<btnFinish>Finalizar</btnFinish>
+		<btnCancel>Cancelar</btnCancel>
+		<btnClose>Cerrar</btnClose>
+	</UninstallWizard>
+	<DlgAbout>
+		<DlgAboutCaption>Acerca de Geek Uninstaller</DlgAboutCaption>
+	</DlgAbout>
+	<Messages>
+		<msgUninstallFailed>La desinstalación falló. \n¿Quiere borrar la entrada del programa del registro y borrar sus archivos?</msgUninstallFailed>
+		<msgForceRemovalQuestion>¿Está seguro que quiere realizar el borrado forzoso de este programa?</msgForceRemovalQuestion>
+		<msgRemoveEntryQuestion>¿Está seguro que quiere remover esta entrada?</msgRemoveEntryQuestion>
+		<msgRemoveEntryFailed>Fallo al eliminar la entrada del registro de este elemento. \nProbablemente no tiene acceso a él.</msgRemoveEntryFailed>
+		<msgNewVersionAvailable>Nueva versión %s está disponible:</msgNewVersionAvailable>
+		<msgNewVersionAvailable2>New version of GeekUninstaller is available! Press OK to visit our website and download the newest version.</msgNewVersionAvailable2>
+	</Messages>
+	<ProVersion>
+		<statusMessage>Upgrade to PRO version</statusMessage>
+		<WhatsCool>What's cool about PRO version:</WhatsCool>
+		<Feature1>Real-time installation monitor</Feature1>
+		<Feature2>Thorough and complete removal</Feature2>
+		<Feature3>Start-up programs management</Feature3>
+		<Feature4>Modern interface, technical support</Feature4>
+		<Feature5>Batch removal</Feature5>
+		<buttonUpgrade>Upgrade</buttonUpgrade>
+	</ProVersion>
+	<HTMLReport>
+		<htmlFiles>Archivos HTML</htmlFiles>
+		<allFiles>Todos los archivos</allFiles>
+		<generatedByOn>Generados por %s en %s</generatedByOn>
+		<installedPrograms>Programas instalados (%s)</installedPrograms>
+	</HTMLReport>
+	<Misc>
+		<btnOK>Aceptar</btnOK>
+		<btnCancel>Cancelar</btnCancel>
+		<btnHelp>Ayuda</btnHelp>
+		<btnYes>Si</btnYes>
+		<btnNo>No</btnNo>
+		<btnClose>Cerrar</btnClose>
+		<statusTotalInfo>%d programas de %s tamaño en total</statusTotalInfo>
+		<statusUnknown>Desconocido</statusUnknown>
+		<WindowsUpdatesText>Actualizaciones de Windows</WindowsUpdatesText>
+	</Misc>
+</LanguageStrings>

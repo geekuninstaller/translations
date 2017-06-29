@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageStrings>
+	<MainMenu>
+		<mnuFile>&amp;Αρχείο</mnuFile>
+		<mnuFileExport>&amp;Εξαγωγή σε HTML...</mnuFileExport>
+		<mnuFileExit>Έ&amp;ξοδος</mnuFileExit>
+		<mnuAction>&amp;Ενέργεια</mnuAction>
+		<mnuActionUninstall>&amp;Απεγκατάσταση...</mnuActionUninstall>
+		<mnuActionModify>&amp;Τροποποίηση...</mnuActionModify>
+		<mnuActionDelete>&amp;Υποχρεωτική αφαίρεση</mnuActionDelete>
+		<mnuActionDeleteBatch>Μαζική &amp;Υποχρεωτική αφαίρεση</mnuActionDeleteBatch>
+		<mnuActionRemoveEntry>Αφαίρεση &amp;καταχώρησης</mnuActionRemoveEntry>
+		<mnuActionRemoveEntryBatch>Μαζική αφαίρεση &amp;Καταχωρήσεων</mnuActionRemoveEntryBatch>
+		<mnuActionJumpToRegistry>&amp;Καταχώρηση μητρώου</mnuActionJumpToRegistry>
+		<mnuActionJumpToProgramFolder>Φάκελος &amp;εγκατάστασης</mnuActionJumpToProgramFolder>
+		<mnuActionJumpToWebSite>Ιστοσελίδα &amp;προγράμματος</mnuActionJumpToWebSite>
+		<mnuActionOpenWindowsStore>Open in Windows Store</mnuActionOpenWindowsStore>
+		<mnuActionBrowseLocation>Εύρεση θέσης...</mnuActionBrowseLocation>
+		<mnuActionBrowseSource>Εύρεση προέλευσης...</mnuActionBrowseSource>
+		<mnuActionGoogleFor>Αναζήτηση Google για</mnuActionGoogleFor>
+		<mnuView>&amp;Επισκόπηση</mnuView>
+		<mnuViewDesktopApps>Εφαρμογές επιφάνειας εργασίας</mnuViewDesktopApps>
+		<mnuViewWinStoreApps>Εφαρμογές Windows Store</mnuViewWinStoreApps>
+		<mnuViewRefresh>&amp;Ανανέωση</mnuViewRefresh>
+		<mnuViewListColumnsReset>Επαναφορά στηλών</mnuViewListColumnsReset>
+		<mnuViewLanguage>Γλώσσα διεπαφής</mnuViewLanguage>
+		<mnuHelp>&amp;Βοήθεια</mnuHelp>
+		<mnuHelpAbout>&amp;Σχετικά...</mnuHelpAbout>
+		<mnuHelpHomePage>Αρχική σελίδα</mnuHelpHomePage>
+	</MainMenu>
+	<ListCtrl>
+		<columnProgramName>Όνομα προγράμματος</columnProgramName>
+		<columnSize>Μέγεθος</columnSize>
+		<columnInstallationDate>Εγκαταστάθηκε στις</columnInstallationDate>
+		<staticLoading>Φόρτωση, παρακαλώ περιμένετε...</staticLoading>
+		<staticNoItemsMatchingFilterTip>Δε βρέθηκε κάτι σχετικό, πιέστε ESC για επαναφορά</staticNoItemsMatchingFilterTip>
+		<staticNoProgramsInCategory>Φαίνεται ότι δεν υπάρχουν εγκατεστημένες εφαρμογές Windows Store</staticNoProgramsInCategory>
+		<mark32bitItem>(32-bit)</mark32bitItem>
+	</ListCtrl>
+	<ExplorerBar>
+		<itemShortSearchTip>Πληκτρολογήστε ένα πρόγραμμα</itemShortSearchTip>
+	</ExplorerBar>
+	<UninstallWizard>
+		<statusScanning>Σάρωση για εναπομείναντα αρχεία, φακέλους και στοιχεία μητρώου...</statusScanning>
+		<statusLeftOverTracesFound>Βρέθηκαν μερικά κατάλοιπα!</statusLeftOverTracesFound>
+		<statusNothingFound>Δεν βρέθηκαν κατάλοιπα.</statusNothingFound>
+		<statusAllTracesRemoved>Όλα τα κατάλοιπα αφαιρέθηκαν</statusAllTracesRemoved>
+		<statusDeletingProgramTraces>Διαγραφή κατάλοιπων προγράμματος...</statusDeletingProgramTraces>
+		<treeItemFileSystem>Σύστημα αρχείων (%d στοιχεία)</treeItemFileSystem>
+		<treeItemRegistry>Μητρώο (%d στοιχεία)</treeItemRegistry>
+		<treeItemPopopMenuBrowse>Εύρεση...</treeItemPopopMenuBrowse>
+		<btnFinish>Τέλος</btnFinish>
+		<btnCancel>Ακύρωση</btnCancel>
+		<btnClose>Κλείσιμο</btnClose>
+	</UninstallWizard>
+	<DlgAbout>
+		<DlgAboutCaption>Σχετικά με το Geek Uninstaller</DlgAboutCaption>
+	</DlgAbout>
+	<Messages>
+		<msgUninstallFailed>Αποτυχία απεγκατάστασης. \nΘέλετε καθαρισμό αρχείων και καταχώρησης του προγράμματος από το μητρώο;</msgUninstallFailed>
+		<msgForceRemovalQuestion>Σίγουρα θέλετε υποχρεωτική αφαίρεση αυτού του προγράμματος;</msgForceRemovalQuestion>
+		<msgRemoveEntryQuestion>&gt;Σίγουρα θέλετε αφαίρεση αυτής της καταχώρησης;</msgRemoveEntryQuestion>
+		<msgRemoveEntryFailed>Αποτυχία διαγραφής καταχώρησης μητρώου στοιχείου. \nΊσως δεν έχετε δικαιώματα πρόσβασης.</msgRemoveEntryFailed>
+		<msgNewVersionAvailable>Η νέα έκδοση %s είναι διαθέσιμη.</msgNewVersionAvailable>
+		<msgNewVersionAvailable2>Νέα έκδοση του Geek Uninstaller είναι διαθέσιμη! Πατήστε OK για να επισκεφθείτε την ιστοσελίδα μας και να την κατεβάσετε.</msgNewVersionAvailable2>
+	</Messages>
+	<ProVersion>
+		<statusMessage>Αναβάθμιση στην έκδοση PRO</statusMessage>
+		<WhatsCool>Τι είναι καλύτερο στην έκδοση PRO:</WhatsCool>
+		<Feature1>Παρακολούθηση εγκατάστασης σε πραγματικό χρόνο</Feature1>
+		<Feature2>Διεξοδική και πλήρης αφαίρεση</Feature2>
+		<Feature3>Διαχείριση προγραμμάτων εκκίνησης</Feature3>
+		<Feature4>Μοντέρνο περιβάλλον εργασίας, την τεχνική υποστήριξη</Feature4>
+		<Feature5>Μαζική αφαίρεση</Feature5>
+		<buttonUpgrade>Αναβάθμιση</buttonUpgrade>
+	</ProVersion>
+	<HTMLReport>
+		<htmlFiles>Αρχεία HTML</htmlFiles>
+		<allFiles>Όλα τα αρχεία</allFiles>
+		<generatedByOn>Δημιουργήθηκε από %s σε %s</generatedByOn>
+		<installedPrograms>Εγκατεστημένα προγράμματα (%s)</installedPrograms>
+	</HTMLReport>
+	<Misc>
+		<btnOK>ΟΚ</btnOK>
+		<btnCancel>Ακύρωση</btnCancel>
+		<btnHelp>Βοήθεια</btnHelp>
+		<btnYes>Ναι</btnYes>
+		<btnNo>Όχι</btnNo>
+		<btnClose>Κλείσιμο</btnClose>
+		<statusTotalInfo>%d προγράμματα, συνολικού μεγέθους %s</statusTotalInfo>
+		<statusUnknown>Άγνωστο</statusUnknown>
+		<WindowsUpdatesText>Ενημερώσεις των Windows</WindowsUpdatesText>
+	</Misc>
+</LanguageStrings>

@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageStrings RightToLeft="1">
+	<MainMenu>
+		<mnuFile>&amp;ملف</mnuFile>
+		<mnuFileExport>&amp;HTMLالتصـدير الـى</mnuFileExport>
+		<mnuFileExit>&amp;خروج</mnuFileExit>
+		<mnuAction>&amp;الخيارات</mnuAction>
+		<mnuActionUninstall>&amp;إزالــة</mnuActionUninstall>
+		<mnuActionModify>&amp;أصلاح</mnuActionModify>
+		<mnuActionDelete>&amp;حذف أجباري</mnuActionDelete>
+		<mnuActionDeleteBatch>Batch &amp;Force Removal</mnuActionDeleteBatch>
+		<mnuActionRemoveEntry>ازالة الدخول</mnuActionRemoveEntry>
+		<mnuActionRemoveEntryBatch>Batch Remove &amp;Entries</mnuActionRemoveEntryBatch>
+		<mnuActionJumpToRegistry>&amp;مدخل التسجيلات</mnuActionJumpToRegistry>
+		<mnuActionJumpToProgramFolder>&amp;مجلد التنصيب</mnuActionJumpToProgramFolder>
+		<mnuActionJumpToWebSite>&amp;الصفحة الرئيسية للبرنامج</mnuActionJumpToWebSite>
+		<mnuActionOpenWindowsStore>Open in Windows Store</mnuActionOpenWindowsStore>
+		<mnuActionBrowseLocation>إستعراض الموقع</mnuActionBrowseLocation>
+		<mnuActionBrowseSource>إستعراض المصدر</mnuActionBrowseSource>
+		<mnuActionGoogleFor>البحث في</mnuActionGoogleFor>
+		<mnuView>&amp;عرض</mnuView>
+		<mnuViewDesktopApps>Desktop Apps</mnuViewDesktopApps>
+		<mnuViewWinStoreApps>Windows Store Apps</mnuViewWinStoreApps>
+		<mnuViewRefresh>&amp;تحــديث</mnuViewRefresh>
+		<mnuViewListColumnsReset>تعيين الجداول الأفتراضية</mnuViewListColumnsReset>
+		<mnuViewLanguage>لغة الواجهة</mnuViewLanguage>
+		<mnuHelp>&amp;تعليمات</mnuHelp>
+		<mnuHelpAbout>&amp;ترجمة اليزيد للحاسبات</mnuHelpAbout>
+		<mnuHelpHomePage>Home Page</mnuHelpHomePage>
+	</MainMenu>
+	<ListCtrl>
+		<columnProgramName>اسم البرنامج</columnProgramName>
+		<columnSize>الحجم</columnSize>
+		<columnInstallationDate>تم تثبيته بـ</columnInstallationDate>
+		<staticLoading>Loading, please wait...</staticLoading>
+		<staticNoItemsMatchingFilterTip>No matching items, press ESC to reset</staticNoItemsMatchingFilterTip>
+		<staticNoProgramsInCategory>Seems like no Windows Store apps installed</staticNoProgramsInCategory>
+		<mark32bitItem>(32-bit)</mark32bitItem>
+	</ListCtrl>
+	<ExplorerBar>
+		<itemShortSearchTip>ضع حرف او كلمة من اسم البرنامج للبحث عنه</itemShortSearchTip>
+	</ExplorerBar>
+	<UninstallWizard>
+		<statusScanning>البحث عن ملفات و مجلدات و مداخل مكتب التسجيل المتبقية</statusScanning>
+		<statusLeftOverTracesFound>وجد بعض المخلفات</statusLeftOverTracesFound>
+		<statusNothingFound>لا يوجد أي اثار باقية.</statusNothingFound>
+		<statusAllTracesRemoved>تم ازالة جميع اثار المخلفات</statusAllTracesRemoved>
+		<statusDeletingProgramTraces>تم حذف مخلفات البرنامج</statusDeletingProgramTraces>
+		<treeItemFileSystem>ملفات نظام (%d عناصر)</treeItemFileSystem>
+		<treeItemRegistry>مدخلات تسجيل (%dعناصر)</treeItemRegistry>
+		<treeItemPopopMenuBrowse>استعراض</treeItemPopopMenuBrowse>
+		<btnFinish>أنهاء</btnFinish>
+		<btnCancel>إلغــاء</btnCancel>
+		<btnClose>إغــلاق</btnClose>
+	</UninstallWizard>
+	<DlgAbout>
+		<DlgAboutCaption>ترجمة اليزيد للحاسبات</DlgAboutCaption>
+	</DlgAbout>
+	<Messages>
+		<msgUninstallFailed>عملية الازالة فشلت هل تريد بأزالة جميع مدخلات التسجيلات و القيام بحذف اجباري</msgUninstallFailed>
+		<msgForceRemovalQuestion>هل انت متاكد من عملية الحذف الأجباري لهذا التطبيق</msgForceRemovalQuestion>
+		<msgRemoveEntryQuestion>هل تريد حذف مدخلات التسجيلات</msgRemoveEntryQuestion>
+		<msgRemoveEntryFailed>فشل في حذف مدخلات التسجيلات لهذا العنصر \nربما لا تملك الصلاحية للتحكم به.</msgRemoveEntryFailed>
+		<msgNewVersionAvailable>متوفر %s إصدار جديد من:</msgNewVersionAvailable>
+		<msgNewVersionAvailable2>New version of GeekUninstaller is available! Press OK to visit our website and download the newest version.</msgNewVersionAvailable2>
+	</Messages>
+	<ProVersion>
+		<statusMessage>Upgrade to PRO version</statusMessage>
+		<WhatsCool>What's cool about PRO version:</WhatsCool>
+		<Feature1>Real-time installation monitor</Feature1>
+		<Feature2>Thorough and complete removal</Feature2>
+		<Feature3>Start-up programs management</Feature3>
+		<Feature4>Modern interface, technical support</Feature4>
+		<Feature5>Batch removal</Feature5>
+		<buttonUpgrade>Upgrade</buttonUpgrade>
+	</ProVersion>
+	<HTMLReport>
+		<htmlFiles>ملفات HTML</htmlFiles>
+		<allFiles>كل الملفات</allFiles>
+		<generatedByOn>%s on %sولد من قبل</generatedByOn>
+		<installedPrograms>(%s) البرامج المثبتة</installedPrograms>
+	</HTMLReport>
+	<Misc>
+		<btnOK>موافق</btnOK>
+		<btnCancel>الغاء الامر</btnCancel>
+		<btnHelp>تعليمات</btnHelp>
+		<btnYes>نعم</btnYes>
+		<btnNo>لا</btnNo>
+		<btnClose>اغلاق</btnClose>
+		<statusTotalInfo>حجم %d برامج %s</statusTotalInfo>
+		<statusUnknown>غير معروف</statusUnknown>
+		<WindowsUpdatesText>تحديثات الوندوز</WindowsUpdatesText>
+	</Misc>
+</LanguageStrings>

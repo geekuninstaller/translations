@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageStrings>
+	<MainMenu>
+		<mnuFile>&amp;Dosya</mnuFile>
+		<mnuFileExport>&amp;HTML Olarak dışarı Ver...</mnuFileExport>
+		<mnuFileExit>&amp;Çıkış</mnuFileExit>
+		<mnuAction>&amp;Eylem</mnuAction>
+		<mnuActionUninstall>&amp;Kaldır...</mnuActionUninstall>
+		<mnuActionModify>&amp;Değiştir...</mnuActionModify>
+		<mnuActionDelete>&amp;Zorla Kaldır...</mnuActionDelete>
+		<mnuActionDeleteBatch>Çoklu &amp;Zorla Kaldır</mnuActionDeleteBatch>
+		<mnuActionRemoveEntry>&amp;Listeden Sil...</mnuActionRemoveEntry>
+		<mnuActionRemoveEntryBatch>Çoklu Kalıntıları &amp;Sil</mnuActionRemoveEntryBatch>
+		<mnuActionJumpToRegistry>&amp;Kayıt Defteri Girdisi</mnuActionJumpToRegistry>
+		<mnuActionJumpToProgramFolder>&amp;Kurulum Klasörü</mnuActionJumpToProgramFolder>
+		<mnuActionJumpToWebSite>&amp;Programın Anasayfası</mnuActionJumpToWebSite>
+		<mnuActionOpenWindowsStore>Windows Mağazasında Aç</mnuActionOpenWindowsStore>
+		<mnuActionBrowseLocation>Klasörü Aç...</mnuActionBrowseLocation>
+		<mnuActionBrowseSource>Kaynağı Aç...</mnuActionBrowseSource>
+		<mnuActionGoogleFor>Google ile Ara</mnuActionGoogleFor>
+		<mnuView>&amp;Görünüm</mnuView>
+		<mnuViewDesktopApps>Masaüstü Uygulamaları</mnuViewDesktopApps>
+		<mnuViewWinStoreApps>Windows Mağazası Uygulamaları</mnuViewWinStoreApps>
+		<mnuViewRefresh>&amp;Yenile</mnuViewRefresh>
+		<mnuViewListColumnsReset>Sütunları Sıfırla</mnuViewListColumnsReset>
+		<mnuViewLanguage>Arayüz Dili</mnuViewLanguage>
+		<mnuHelp>&amp;Yardım</mnuHelp>
+		<mnuHelpAbout>&amp;Hakkında...</mnuHelpAbout>
+		<mnuHelpHomePage>GeekUninstaller Anasayfası</mnuHelpHomePage>
+	</MainMenu>
+	<ListCtrl>
+		<columnProgramName>Program Adı</columnProgramName>
+		<columnSize>Boyut</columnSize>
+		<columnInstallationDate>Kurulum Tarihi</columnInstallationDate>
+		<staticLoading>Yükleniyor, lütfen bekleyiniz...</staticLoading>
+		<staticNoItemsMatchingFilterTip>Eşleşen öge yok, sıfırlamak için ESC'ye basın</staticNoItemsMatchingFilterTip>
+		<staticNoProgramsInCategory>Yüklü Windows Mağaza Uygulaması bulunmuyor</staticNoProgramsInCategory>
+		<mark32bitItem>(32-bit)</mark32bitItem>
+	</ListCtrl>
+	<ExplorerBar>
+		<itemShortSearchTip>Aranacak programı yazın</itemShortSearchTip>
+	</ExplorerBar>
+	<UninstallWizard>
+		<statusScanning>Kalıntı dosya, klasör ve kayıt defteri girdileri aranıyor...</statusScanning>
+		<statusLeftOverTracesFound>Kalıntı izler bulundu!</statusLeftOverTracesFound>
+		<statusNothingFound>Kalıntı izleri bulunamadı.</statusNothingFound>
+		<statusAllTracesRemoved>Tüm İzler Kaldırıldı</statusAllTracesRemoved>
+		<statusDeletingProgramTraces>Program kalıntıları siliniyor...</statusDeletingProgramTraces>
+		<treeItemFileSystem>Dosya Sistemi (%d madde)</treeItemFileSystem>
+		<treeItemRegistry>Kayıt Defteri (%d madde)</treeItemRegistry>
+		<treeItemPopopMenuBrowse>Gözat...</treeItemPopopMenuBrowse>
+		<btnFinish>Bitir</btnFinish>
+		<btnCancel>İptal</btnCancel>
+		<btnClose>Kapat</btnClose>
+	</UninstallWizard>
+	<DlgAbout>
+		<DlgAboutCaption>GeekUninstaller Hakkında</DlgAboutCaption>
+	</DlgAbout>
+	<Messages>
+		<msgUninstallFailed>Kaldırma işlemi başarısız oldu. \nBu programa ait klasör ve kayıt defteri girdilerinin temizlemek ister misiniz?</msgUninstallFailed>
+		<msgForceRemovalQuestion>Bu programı zorla kaldırmak istediğinize emin misiniz?</msgForceRemovalQuestion>
+		<msgRemoveEntryQuestion>Bu programı listeden silmek istediğinize emin misiniz?</msgRemoveEntryQuestion>
+		<msgRemoveEntryFailed>Bu maddenin kayıt defteri girdisinin silinmesi başarısız oldu. \nBu girdiye ulaşamayabilirsiniz.</msgRemoveEntryFailed>
+		<msgNewVersionAvailable>Yeni sürüm (%s) mevcut</msgNewVersionAvailable>
+		<msgNewVersionAvailable2>Yeni bir versiyon mevcut! Yeni versiyonu indirmek için Tamam'a basarak GeekUninstaller sitesini ziyaret edin.</msgNewVersionAvailable2>
+	</Messages>
+	<ProVersion>
+		<statusMessage>PRO versiyona yükselt!</statusMessage>
+		<WhatsCool>PRO versiyonda neler daha iyi:</WhatsCool>
+		<Feature1>Gerçek zamanlı indirme yöneticisi</Feature1>
+		<Feature2>Kapsamlı ve tam kaldırma</Feature2>
+		<Feature3>Başlangıç programları yöneticisi</Feature3>
+		<Feature4>Modern arayüz ve teknik destek</Feature4>
+		<Feature5>Çoklu Kaldırma</Feature5>
+		<buttonUpgrade>Yükselt!</buttonUpgrade>
+	</ProVersion>
+	<HTMLReport>
+		<htmlFiles>HTML Dosyaları</htmlFiles>
+		<allFiles>Tüm Dosyalar</allFiles>
+		<generatedByOn> %s on %s tarafından oluşturuldu</generatedByOn>
+		<installedPrograms>Kurulu Programlar (%s)</installedPrograms>
+	</HTMLReport>
+	<Misc>
+		<btnOK>Tamam</btnOK>
+		<btnCancel>İptal</btnCancel>
+		<btnHelp>Yardım</btnHelp>
+		<btnYes>Evet</btnYes>
+		<btnNo>Hayır</btnNo>
+		<btnClose>Kapat</btnClose>
+		<statusTotalInfo>%d programın toplam boyutu %s</statusTotalInfo>
+		<statusUnknown>bilinmeyen</statusUnknown>
+		<WindowsUpdatesText>Windows Güncellemeleri</WindowsUpdatesText>
+	</Misc>
+</LanguageStrings>

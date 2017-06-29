@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageStrings>
+	<MainMenu>
+		<mnuFile>&amp;Fájl</mnuFile>
+		<mnuFileExport>&amp;Exportálás HTML formátumba...</mnuFileExport>
+		<mnuFileExit>Kilépés</mnuFileExit>
+		<mnuAction>Művelet</mnuAction>
+		<mnuActionUninstall>Eltávolítás...</mnuActionUninstall>
+		<mnuActionModify>&amp;Módosítás...</mnuActionModify>
+		<mnuActionDelete>Kényszerített eltávolítás</mnuActionDelete>
+		<mnuActionDeleteBatch>Csoportos &amp;kényszerített eltávolítás</mnuActionDeleteBatch>
+		<mnuActionRemoveEntry>Bejegyzés törlése</mnuActionRemoveEntry>
+		<mnuActionRemoveEntryBatch>&amp;Bejegyzések csoportos eltávolítása</mnuActionRemoveEntryBatch>
+		<mnuActionJumpToRegistry>&amp;Rendszerleíró bejegyzés</mnuActionJumpToRegistry>
+		<mnuActionJumpToProgramFolder>Telepítési mappa</mnuActionJumpToProgramFolder>
+		<mnuActionJumpToWebSite>&amp;Program weboldal</mnuActionJumpToWebSite>
+		<mnuActionOpenWindowsStore>Open in Windows Store</mnuActionOpenWindowsStore>
+		<mnuActionBrowseLocation>Hely keresése...</mnuActionBrowseLocation>
+		<mnuActionBrowseSource>Forrás keresése...</mnuActionBrowseSource>
+		<mnuActionGoogleFor>Google</mnuActionGoogleFor>
+		<mnuView>Nézet</mnuView>
+		<mnuViewDesktopApps>Alkalmazások</mnuViewDesktopApps>
+		<mnuViewWinStoreApps>Windows Store Appok</mnuViewWinStoreApps>
+		<mnuViewInitialSort>Alapért. rendezés</mnuViewInitialSort>
+		<mnuViewRefresh>Frissítés</mnuViewRefresh>
+		<mnuViewListColumnsReset>Oszlopok visszaállítása</mnuViewListColumnsReset>
+		<mnuViewLanguage>Felhasználói felület nyelve</mnuViewLanguage>
+		<mnuHelp>Súgó</mnuHelp>
+		<mnuHelpAbout>Névjegy...</mnuHelpAbout>
+		<mnuHelpHomePage>Weboldal</mnuHelpHomePage>
+	</MainMenu>
+	<ListCtrl>
+		<columnProgramName>Programnév</columnProgramName>
+		<columnSize>Méret</columnSize>
+		<columnInstallationDate>Telepítve</columnInstallationDate>
+		<staticLoading>Betöltés, kis türelmet...</staticLoading>
+		<staticNoItemsMatchingFilterTip>Nincs találat, alaphelyzet: ESC</staticNoItemsMatchingFilterTip>
+		<staticNoProgramsInCategory>Mintha nem lenne telepítve Windows Store app</staticNoProgramsInCategory>
+		<mark32bitItem>(32-bit)</mark32bitItem>
+	</ListCtrl>
+	<ExplorerBar>
+		<itemShortSearchTip>Adja meg a keresendő programot</itemShortSearchTip>
+	</ExplorerBar>
+	<UninstallWizard>
+		<statusScanning>A szükségtelen fájlok, mappák és rendszerleíró elemek keresése...</statusScanning>
+		<statusLeftOverTracesFound>Néhány szükségtelen összetevő még maradt a rendszerben!</statusLeftOverTracesFound>
+		<statusNothingFound>Nem maradt szükségtelen összetevő a rendszerben.</statusNothingFound>
+		<statusAllTracesRemoved>Minden összetevő törölve lett</statusAllTracesRemoved>
+		<statusDeletingProgramTraces>A programösszetevők törlése...</statusDeletingProgramTraces>
+		<treeItemFileSystem>Fájlrendszer (%d elem)</treeItemFileSystem>
+		<treeItemRegistry>Rendszerleíró (%d elem)</treeItemRegistry>
+		<treeItemPopopMenuBrowse>Tallózás...</treeItemPopopMenuBrowse>
+		<btnFinish>Befejezés</btnFinish>
+		<btnCancel>Mégse</btnCancel>
+		<btnClose>Bezárás</btnClose>
+	</UninstallWizard>
+	<DlgAbout>
+		<DlgAboutCaption>A Geek Uninstaller névjegye</DlgAboutCaption>
+	</DlgAbout>
+	<Messages>
+		<msgUninstallFailed>Az eltávolítási folyamat sikertelen. \nSzeretné törölni a programbejegyzéseket a rendszerleíró adatbázisból és törli a fájlokat?</msgUninstallFailed>
+		<msgForceRemovalQuestion>Valóban végrehajtja a program kényszerített eltávolítását?</msgForceRemovalQuestion>
+		<msgRemoveEntryQuestion>Valóban törli ezt a bejegyzést?</msgRemoveEntryQuestion>
+		<msgRemoveEntryFailed>Nem sikerült törölni az elem rendszerleíró bejegyzését. \nValószínűleg nincs megfelelő jogosultsága a művelet végrehajtásához.</msgRemoveEntryFailed>
+		<msgNewVersionAvailable>Új %s verzió érhető el.</msgNewVersionAvailable>
+		<msgNewVersionAvailable2>Van új GeekUninstaller verzió! OK-val letöltheti a weboldalról a legújabbat.</msgNewVersionAvailable2>
+	</Messages>
+	<ProVersion>
+		<statusMessage>Frissítsen a PRO verzióra!</statusMessage>
+		<WhatsCool>Ezért jó a PRO verzió::</WhatsCool>
+		<Feature1>Valós idejű telepítésfigyelő</Feature1>
+		<Feature2>Alapos és teljes eltávolítás</Feature2>
+		<Feature3>Indításkor betöltődő programok kezelése</Feature3>
+		<Feature4>Korszerű felület, támogatás</Feature4>
+		<Feature5>Csoportos eltávolítás</Feature5>
+		<buttonUpgrade>Frissítés</buttonUpgrade>
+	</ProVersion>
+	<HTMLReport>
+		<htmlFiles>HTML fájlok</htmlFiles>
+		<allFiles>Minden fájl</allFiles>
+		<generatedByOn>%s által létrehozva itt: %s</generatedByOn>
+		<installedPrograms>Telepített programok (%s)</installedPrograms>
+	</HTMLReport>
+	<Misc>
+		<btnOK>OK</btnOK>
+		<btnCancel>Mégse</btnCancel>
+		<btnHelp>Súgó</btnHelp>
+		<btnYes>Igen</btnYes>
+		<btnNo>Nem</btnNo>
+		<btnClose>Bezárás</btnClose>
+		<statusTotalInfo>%d program %s összesen</statusTotalInfo>
+		<statusUnknown>ismeretlen</statusUnknown>
+		<WindowsUpdatesText>Windows frissítések</WindowsUpdatesText>
+	</Misc>
+</LanguageStrings>

@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageStrings>
+	<MainMenu>
+		<mnuFile>फाइल</mnuFile>
+		<mnuFileExport>HTML में निकास...</mnuFileExport>
+		<mnuFileExit>बंद करें</mnuFileExit>
+		<mnuAction>कार्य</mnuAction>
+		<mnuActionUninstall>विस्थापन...</mnuActionUninstall>
+		<mnuActionModify>सुधारें...</mnuActionModify>
+		<mnuActionDelete>बलपूर्वक हटाएं</mnuActionDelete>
+		<mnuActionDeleteBatch>समूह में बलपूर्वक हटाएं</mnuActionDeleteBatch>
+		<mnuActionRemoveEntry>प्रविष्टि हटाएं</mnuActionRemoveEntry>
+		<mnuActionRemoveEntryBatch>समूह में प्रविष्टि हटाएं</mnuActionRemoveEntryBatch>
+		<mnuActionJumpToRegistry>रजिस्ट्री प्रविष्टि</mnuActionJumpToRegistry>
+		<mnuActionJumpToProgramFolder>&amp;स्थापन फोल्डर</mnuActionJumpToProgramFolder>
+		<mnuActionJumpToWebSite>प्रोग्राम वेबसाइट</mnuActionJumpToWebSite>
+		<mnuActionOpenWindowsStore>Open in Windows Store</mnuActionOpenWindowsStore>
+		<mnuActionBrowseLocation>स्थान खोजें ...</mnuActionBrowseLocation>
+		<mnuActionBrowseSource>मूल खोजें...</mnuActionBrowseSource>
+		<mnuActionGoogleFor>गूगल करें...</mnuActionGoogleFor>
+		<mnuView>दिखाएं</mnuView>
+		<mnuViewDesktopApps>Desktop Apps</mnuViewDesktopApps>
+		<mnuViewWinStoreApps>Windows Store Apps</mnuViewWinStoreApps>
+		<mnuViewRefresh>ताज़ा करें</mnuViewRefresh>
+		<mnuViewListColumnsReset>स्तंभ रिसेट करें</mnuViewListColumnsReset>
+		<mnuViewLanguage>अंतराफलक भाषा</mnuViewLanguage>
+		<mnuHelp>मदद</mnuHelp>
+		<mnuHelpAbout>&amp;विस्थापन उपकरण के बारे में...</mnuHelpAbout>
+		<mnuHelpHomePage>होम पेज</mnuHelpHomePage>
+	</MainMenu>
+	<ListCtrl>
+		<columnProgramName>प्रोग्राम का नाम</columnProgramName>
+		<columnSize>नाप</columnSize>
+		<columnInstallationDate>स्थापना दिनः</columnInstallationDate>
+		<staticLoading>खूल रहा है, कृपया राह देखें...</staticLoading>
+		<staticNoItemsMatchingFilterTip>No matching items, press ESC to reset</staticNoItemsMatchingFilterTip>
+		<staticNoProgramsInCategory>Seems like no Windows Store apps installed</staticNoProgramsInCategory>
+		<mark32bitItem>(32-bit)</mark32bitItem>
+	</ListCtrl>
+	<ExplorerBar>
+		<itemShortSearchTip>प्रोग्राम ख़ोजने के लिए लिखें</itemShortSearchTip>
+	</ExplorerBar>
+	<UninstallWizard>
+		<statusScanning>बची हुई फाइल्स, फोल्डर्स तथा रजिस्ट्री चीजों के लिए तलाश जारी है...</statusScanning>
+		<statusLeftOverTracesFound>बची हुई चीजों के कुछ सुराग मीले है!</statusLeftOverTracesFound>
+		<statusNothingFound>बची हुई चीजों के कोई सुराग नहीं मीले।</statusNothingFound>
+		<statusAllTracesRemoved>सभी सुराग हटाए गएं</statusAllTracesRemoved>
+		<statusDeletingProgramTraces>प्रोग्रा के सुराग मिट रहे हैं...</statusDeletingProgramTraces>
+		<treeItemFileSystem>फाइल सिस्टम (%d चीजें)</treeItemFileSystem>
+		<treeItemRegistry>रजिस्ट्री (%d चीजें)</treeItemRegistry>
+		<treeItemPopopMenuBrowse>खोजें...</treeItemPopopMenuBrowse>
+		<btnFinish>निकालें</btnFinish>
+		<btnCancel>रद्द</btnCancel>
+		<btnClose>बंद करें</btnClose>
+	</UninstallWizard>
+	<DlgAbout>
+		<DlgAboutCaption>अनइन्स्टोल टूल के बारे में</DlgAboutCaption>
+	</DlgAbout>
+	<Messages>
+		<msgUninstallFailed>अनईन्स्टोलेशन प्रक्रिया असफल। \n क्या आप इस प्रोग्राम प्रविष्टि को रजिस्ट्री से हटा कर इसकी फाइल्स साफ करना चाहते है?</msgUninstallFailed>
+		<msgForceRemovalQuestion>क्या आप इस प्रोग्राम का बलपूर्वक निकाल करना चाहते है?</msgForceRemovalQuestion>
+		<msgRemoveEntryQuestion>क्या आप इस प्रविष्टि को निकालना चाहते हैं?</msgRemoveEntryQuestion>
+		<msgRemoveEntryFailed>इस चीज की रजिस्ट्री प्रविष्टि हटाने में असफल। \nकदाचित आपको इस कार्य के लिए उपयुक्त अधिकार नहीं है।</msgRemoveEntryFailed>
+		<msgNewVersionAvailable>नया संस्करण %s उपलब्ध है</msgNewVersionAvailable>
+		<msgNewVersionAvailable2>New version of GeekUninstaller is available! Press OK to visit our website and download the newest version.</msgNewVersionAvailable2>
+	</Messages>
+	<ProVersion>
+		<statusMessage>Upgrade to PRO version</statusMessage>
+		<WhatsCool>What's cool about PRO version:</WhatsCool>
+		<Feature1>Real-time installation monitor</Feature1>
+		<Feature2>Thorough and complete removal</Feature2>
+		<Feature3>Start-up programs management</Feature3>
+		<Feature4>Modern interface, technical support</Feature4>
+		<Feature5>Batch removal</Feature5>
+		<buttonUpgrade>Upgrade</buttonUpgrade>
+	</ProVersion>
+	<HTMLReport>
+		<htmlFiles>HTML फाइल्स</htmlFiles>
+		<allFiles>सभी फाइल्स</allFiles>
+		<generatedByOn>%s के द्वारा बनाया गया %s के उपर</generatedByOn>
+		<installedPrograms>इन्स्टोल्ड प्रोग्राम्स (%s)</installedPrograms>
+	</HTMLReport>
+	<Misc>
+		<btnOK>ठीक</btnOK>
+		<btnCancel>रद्द</btnCancel>
+		<btnHelp>मदद</btnHelp>
+		<btnYes>हां</btnYes>
+		<btnNo>ना</btnNo>
+		<btnClose>बंद</btnClose>
+		<statusTotalInfo>कुल %d प्रोग्राम %s नाप के</statusTotalInfo>
+		<statusUnknown>अनजान</statusUnknown>
+		<WindowsUpdatesText>विन्डोझ अपडेट</WindowsUpdatesText>
+	</Misc>
+</LanguageStrings>
