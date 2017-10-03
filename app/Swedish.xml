@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageStrings>
 	<MainMenu>
-		<mnuFile>&amp;Arikv</mnuFile>
+		<mnuFile>&amp;Arkiv</mnuFile>
 		<mnuFileExport>&amp;Exportera till HTML...</mnuFileExport>
 		<mnuFileExit>A&amp;vsluta</mnuFileExit>
 		<mnuAction>A&amp;ktiviteter</mnuAction>
@@ -13,7 +13,7 @@
 		<mnuActionRemoveEntryBatch>Batch Remove &amp;Entries</mnuActionRemoveEntryBatch>
 		<mnuActionJumpToRegistry>Öppna &amp;registerpost</mnuActionJumpToRegistry>
 		<mnuActionJumpToProgramFolder>Öppna in&amp;stallationskatalog</mnuActionJumpToProgramFolder>
-		<mnuActionJumpToWebSite>&amp;Hå till programmets hemsida</mnuActionJumpToWebSite>
+		<mnuActionJumpToWebSite>&amp;Gå till programmets hemsida</mnuActionJumpToWebSite>
 		<mnuActionOpenWindowsStore>Open in Windows Store</mnuActionOpenWindowsStore>
 		<mnuActionBrowseLocation>Välj plats...</mnuActionBrowseLocation>
 		<mnuActionBrowseSource>Välj källa...</mnuActionBrowseSource>
