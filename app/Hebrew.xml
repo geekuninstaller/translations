@@ -6,11 +6,11 @@
 		<mnuFileExit>י&amp;ציאה</mnuFileExit>
 		<mnuAction>&amp;פעולה</mnuAction>
 		<mnuActionUninstall>&amp;הסרת התקנה...</mnuActionUninstall>
-		<mnuActionModify>&amp;שינוי...</mnuActionModify>
+		<mnuActionModify>&amp;עריכה...</mnuActionModify>
 		<mnuActionDelete>הסרה &amp;כפויה</mnuActionDelete>
-		<mnuActionDeleteBatch>מקבץ &amp;הסרה כפויה</mnuActionDeleteBatch>
+		<mnuActionDeleteBatch>הסרה &amp;כפויה למספר יישומים</mnuActionDeleteBatch>
 		<mnuActionRemoveEntry>הסרת ר&amp;שומה</mnuActionRemoveEntry>
-		<mnuActionRemoveEntryBatch>הסרת קבוצת &amp;רשומות</mnuActionRemoveEntryBatch>
+		<mnuActionRemoveEntryBatch>הסרת מספר &amp;רשומות</mnuActionRemoveEntryBatch>
 		<mnuActionJumpToRegistry>קפיצה ל&amp;ערך ברג'יסטרי</mnuActionJumpToRegistry>
 		<mnuActionJumpToProgramFolder>קפיצה ל&amp;תיקיית ההתקנה</mnuActionJumpToProgramFolder>
 		<mnuActionJumpToWebSite>&amp;אתר האינטרנט של היישום</mnuActionJumpToWebSite>
@@ -29,7 +29,7 @@
 		<mnuHelpHomePage>דף הבית</mnuHelpHomePage>
 	</MainMenu>
 	<ListCtrl>
-		<columnProgramName>שם יישום</columnProgramName>
+		<columnProgramName>שם היישום</columnProgramName>
 		<columnSize>גודל</columnSize>
 		<columnInstallationDate>תאריך התקנה</columnInstallationDate>
 		<staticLoading>טוען, נא להמתין...</staticLoading>
@@ -60,14 +60,14 @@
 		<msgUninstallFailed>תהליך הסרת ההתקנה נכשל. \nהאם ברצונך לנקות את רשומת יישום זו מהרישום ואת קבציה גם כן?</msgUninstallFailed>
 		<msgForceRemovalQuestion>האם אתה בטוח שברצונך לבצע הסרה כפויה של יישום זה?</msgForceRemovalQuestion>
 		<msgRemoveEntryQuestion>האם אתה בטוח שברצונך להסיר רשומה זו?</msgRemoveEntryQuestion>
-		<msgRemoveEntryFailed>מחיקת ערך הרישום של פריט זה נכשלה. \nככל הנראה אין לך גישה לבצע זאת.</msgRemoveEntryFailed>
+		<msgRemoveEntryFailed>מחיקת ערך הרישום של פריט זה נכשלה. \nככל הנראה אין לך גישה לביצוע הפעולהת.</msgRemoveEntryFailed>
 		<msgNewVersionAvailable>גרסה חדשה %s זמינה</msgNewVersionAvailable>
-		<msgNewVersionAvailable2>גרסה חדשה של GeekUninstaller זמינה להורדה! לחץ 'אישור' כדי לבקר באתר הבית שלנו ולהוריד את הגרסה החדשה ביותר.</msgNewVersionAvailable2>
+		<msgNewVersionAvailable2>גרסה חדשה של GeekUninstaller זמינה להורדה! לחץ 'אישור' כדי לבקר באתר הבית שלנו ולהוריד את הגרסה העדכנית ביותר.</msgNewVersionAvailable2>
 	</Messages>
 	<ProVersion>
 		<statusMessage>שדרוג לגרסת ה-PRO</statusMessage>
 		<WhatsCool>מה מגניב בגרסת ה-PRO:</WhatsCool>
-		<Feature1>ניטור התקנה בזמן-אמת</Feature1>
+		<Feature1>ניטור התקנה בזמן אמת</Feature1>
 		<Feature2>הסרה יסודית ומלאה</Feature2>
 		<Feature3>ניהול יישומי הפעלה אוטומטית</Feature3>
 		<Feature4>ממשק חדשני, תמיכה טכנית</Feature4>
