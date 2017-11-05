@@ -5,7 +5,7 @@
 		<mnuFileExport>輸出成 HTML(&amp;E)...</mnuFileExport>
 		<mnuFileExit>離開(&amp;X)</mnuFileExit>
 		<mnuAction>動作(&amp;A)</mnuAction>
-		<mnuActionUninstall>反安裝(&amp;U)...</mnuActionUninstall>
+		<mnuActionUninstall>解除安裝(&amp;U)...</mnuActionUninstall>
 		<mnuActionModify>修復(&amp;M)...</mnuActionModify>
 		<mnuActionDelete>強制移除(&amp;F)</mnuActionDelete>
 		<mnuActionDeleteBatch>批次強制移除(&amp;F)</mnuActionDeleteBatch>
@@ -57,7 +57,7 @@
 		<DlgAboutCaption>關於 Geek Uninstaller</DlgAboutCaption>
 	</DlgAbout>
 	<Messages>
-		<msgUninstallFailed>反安裝處理過程失敗，\n您是否希望從登錄檔清除該程式並且移除所有程式自身的檔案?</msgUninstallFailed>
+		<msgUninstallFailed>解除安裝處理過程失敗，\n您是否希望從登錄檔清除該程式並且移除所有程式自身的檔案?</msgUninstallFailed>
 		<msgForceRemovalQuestion>您確定您要強制移除該程式?</msgForceRemovalQuestion>
 		<msgRemoveEntryQuestion>您確定要移除該項目?</msgRemoveEntryQuestion>
 		<msgRemoveEntryFailed>無法刪除此項目的登錄項目\n您或許沒有刪除的權限。</msgRemoveEntryFailed>
@@ -65,7 +65,7 @@
 		<msgNewVersionAvailable2>已有新版本的 Geek Uninstaller! 按確定前往我們的網頁以下載新版本。</msgNewVersionAvailable2>
 	</Messages>
 	<ProVersion>
-		<statusMessage>新級至專業版</statusMessage>
+		<statusMessage>升級至專業版</statusMessage>
 		<WhatsCool>專業版的進階功能:</WhatsCool>
 		<Feature1>即時安裝監控</Feature1>
 		<Feature2>徹底移除</Feature2>
