@@ -10,8 +10,8 @@
 		<mnuActionDelete>&amp;Násilné odstranění</mnuActionDelete>
 		<mnuActionDeleteBatch>Dávkové &amp;Násilné odstranění</mnuActionDeleteBatch>
 		<mnuActionRemoveEntry>O&amp;dstranit záznam</mnuActionRemoveEntry>
-		<mnuActionRemoveEntryBatch>Batch Remove &amp;Entries</mnuActionRemoveEntryBatch>
-		<mnuActionJumpToRegistry>&amp;Procházet položky registru</mnuActionJumpToRegistry>
+		<mnuActionRemoveEntryBatch>Odstranit záznamy &amp;najednou</mnuActionRemoveEntryBatch>
+		<mnuActionJumpToRegistry>&amp;Procházet záznamy registru</mnuActionJumpToRegistry>
 		<mnuActionJumpToProgramFolder>&amp;Procházet instalační složku</mnuActionJumpToProgramFolder>
 		<mnuActionJumpToWebSite>&amp;Internetová stránka programu</mnuActionJumpToWebSite>
 		<mnuActionOpenWindowsStore>Otevřít ve Windows Store</mnuActionOpenWindowsStore>
@@ -20,13 +20,13 @@
 		<mnuActionGoogleFor>Vyhledat na Google</mnuActionGoogleFor>
 		<mnuView>&amp;Zobrazení</mnuView>
 		<mnuViewDesktopApps>Desktopové aplikace</mnuViewDesktopApps>
-		<mnuViewWinStoreApps>Aplikace z Windows Store</mnuViewWinStoreApps>
+		<mnuViewWinStoreApps>Windows Store aplikace</mnuViewWinStoreApps>
 		<mnuViewRefresh>&amp;Obnovit</mnuViewRefresh>
 		<mnuViewListColumnsReset>Obnovit sloupce</mnuViewListColumnsReset>
 		<mnuViewLanguage>Jazyk rozhraní</mnuViewLanguage>
 		<mnuHelp>&amp;Nápověda</mnuHelp>
 		<mnuHelpAbout>&amp;O programu...</mnuHelpAbout>
-		<mnuHelpHomePage>Domovská stránka programu</mnuHelpHomePage>
+		<mnuHelpHomePage>Web programu</mnuHelpHomePage>
 	</MainMenu>
 	<ListCtrl>
 		<columnProgramName>Název programu</columnProgramName>
@@ -41,7 +41,7 @@
 		<itemShortSearchTip>Pište sem pro vyhledání programu</itemShortSearchTip>
 	</ExplorerBar>
 	<UninstallWizard>
-		<statusScanning>Hledání zapomenutých souborů, složek a položek registru...</statusScanning>
+		<statusScanning>Hledání zapomenutých souborů, složek a záznamů registru...</statusScanning>
 		<statusLeftOverTracesFound>Nalezeny zapomenuté záznamy!</statusLeftOverTracesFound>
 		<statusNothingFound>Nenalezeny žádne zapomenuté záznamy.</statusNothingFound>
 		<statusAllTracesRemoved>Všechny záznamy odstráněny</statusAllTracesRemoved>
@@ -57,12 +57,12 @@
 		<DlgAboutCaption>O programu Geek Uninstaller</DlgAboutCaption>
 	</DlgAbout>
 	<Messages>
-		<msgUninstallFailed>Odinstalace selhala.\nPřejete si vymazat položku programu z registru a jeho soubory?</msgUninstallFailed>
+		<msgUninstallFailed>Odinstalace selhala.\nPřejete si vymazat záznamy programu z registru a jeho soubory?</msgUninstallFailed>
 		<msgForceRemovalQuestion>Jste si jisti, že chcete provést násilné odstranění tohoto programu?</msgForceRemovalQuestion>
 		<msgRemoveEntryQuestion>Jste si jisti, že chcete odstranit tenhle záznam?</msgRemoveEntryQuestion>
-		<msgRemoveEntryFailed>Nepodařilo se smazat záznam v registrech pro zvolenou položku. \nPravděpodobně k němu nemáte povolen přístup.</msgRemoveEntryFailed>
+		<msgRemoveEntryFailed>Nepodařilo se smazat záznam v registru pro zvolenou položku. \nPravděpodobně k němu nemáte povolen přístup.</msgRemoveEntryFailed>
 		<msgNewVersionAvailable>Je dostupná nová verze %s:</msgNewVersionAvailable>
-		<msgNewVersionAvailable2>Nová verze programu GeekUninstaller je dostupná! Klikněte OK pro návštěvu našeho webu a stažení nejnovější verze.</msgNewVersionAvailable2>
+		<msgNewVersionAvailable2>K dispozici je nová verze programu GeekUninstaller! Klikněte OK pro návštěvu našeho webu a stažení nejnovější verze.</msgNewVersionAvailable2>
 	</Messages>
 	<ProVersion>
 		<statusMessage>Upgrade na PRO verzi</statusMessage>
@@ -88,7 +88,7 @@
 		<btnNo>Ne</btnNo>
 		<btnClose>Zavřít</btnClose>
 		<statusTotalInfo>Počet programů: %d, celková velikost: %s</statusTotalInfo>
-		<statusUnknown>neznámy</statusUnknown>
+		<statusUnknown>neznámý</statusUnknown>
 		<WindowsUpdatesText>Aktualizace Windows</WindowsUpdatesText>
 	</Misc>
 </LanguageStrings>
