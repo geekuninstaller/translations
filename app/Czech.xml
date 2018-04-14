@@ -11,8 +11,8 @@
 		<mnuActionDeleteBatch>Dávkové &amp;Násilné odstranění</mnuActionDeleteBatch>
 		<mnuActionRemoveEntry>O&amp;dstranit záznam</mnuActionRemoveEntry>
 		<mnuActionRemoveEntryBatch>Batch Remove &amp;Entries</mnuActionRemoveEntryBatch>
-		<mnuActionJumpToRegistry>&amp;Položka registru</mnuActionJumpToRegistry>
-		<mnuActionJumpToProgramFolder>&amp;Instalační složka</mnuActionJumpToProgramFolder>
+		<mnuActionJumpToRegistry>&amp;Procházet položky registru</mnuActionJumpToRegistry>
+		<mnuActionJumpToProgramFolder>&amp;Procházet instalační složku</mnuActionJumpToProgramFolder>
 		<mnuActionJumpToWebSite>&amp;Internetová stránka programu</mnuActionJumpToWebSite>
 		<mnuActionOpenWindowsStore>Otevřít ve Windows Store</mnuActionOpenWindowsStore>
 		<mnuActionBrowseLocation>Přejít do složky...</mnuActionBrowseLocation>
