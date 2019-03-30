@@ -8,7 +8,7 @@
 		<mnuActionUninstall>卸载(&amp;U)...</mnuActionUninstall>
 		<mnuActionModify>修改(&amp;M)...</mnuActionModify>
 		<mnuActionDelete>强制删除(&amp;F)</mnuActionDelete>
-		<mnuActionDeleteBatch>批量 &amp;强制删除l</mnuActionDeleteBatch>
+		<mnuActionDeleteBatch>批量 &amp;强制删除</mnuActionDeleteBatch>
 		<mnuActionRemoveEntry>删除条目(&amp;E)</mnuActionRemoveEntry>
 		<mnuActionRemoveEntryBatch>批量删除 &amp;Entries</mnuActionRemoveEntryBatch>
 		<mnuActionJumpToRegistry>注册表条目(&amp;R)</mnuActionJumpToRegistry>
@@ -17,10 +17,10 @@
 		<mnuActionOpenWindowsStore>Open in Windows Store</mnuActionOpenWindowsStore>
 		<mnuActionBrowseLocation>浏览程序位置...</mnuActionBrowseLocation>
 		<mnuActionBrowseSource>浏览来源...</mnuActionBrowseSource>
-		<mnuActionGoogleFor>通过谷歌搜索</mnuActionGoogleFor>
+		<mnuActionGoogleFor>通过 Google 搜索</mnuActionGoogleFor>
 		<mnuView>查看(&amp;V)</mnuView>
-		<mnuViewDesktopApps>Desktop Apps</mnuViewDesktopApps>
-		<mnuViewWinStoreApps>Windows Store Apps</mnuViewWinStoreApps>
+		<mnuViewDesktopApps>桌面应用</mnuViewDesktopApps>
+		<mnuViewWinStoreApps>Windows Store 应用</mnuViewWinStoreApps>
 		<mnuViewRefresh>刷新(&amp;R)</mnuViewRefresh>
 		<mnuViewListColumnsReset>重置列</mnuViewListColumnsReset>
 		<mnuViewLanguage>界面语言</mnuViewLanguage>
@@ -34,7 +34,7 @@
 		<columnInstallationDate>安装时间</columnInstallationDate>
 		<staticLoading>加载中, 请稍候...</staticLoading>
 		<staticNoItemsMatchingFilterTip>No matching items, press ESC to reset</staticNoItemsMatchingFilterTip>
-		<staticNoProgramsInCategory>Seems like no Windows Store apps installed</staticNoProgramsInCategory>
+		<staticNoProgramsInCategory>似乎没有安装 Windows Store 应用</staticNoProgramsInCategory>
 		<mark32bitItem>(32-bit)</mark32bitItem>
 	</ListCtrl>
 	<ExplorerBar>
@@ -57,20 +57,20 @@
 		<DlgAboutCaption>关于 Geek Uninstaller</DlgAboutCaption>
 	</DlgAbout>
 	<Messages>
-		<msgUninstallFailed>卸载失败。\n您要清理此程序的注册表中条目以及其相关文件吗?</msgUninstallFailed>
-		<msgForceRemovalQuestion>您确认要对这个程序执行强制删除吗?</msgForceRemovalQuestion>
-		<msgRemoveEntryQuestion>您确认要删除这个条目吗?</msgRemoveEntryQuestion>
+		<msgUninstallFailed>卸载失败。\n您要清理此程序的注册表中条目以及其相关文件吗？</msgUninstallFailed>
+		<msgForceRemovalQuestion>您确认要对这个程序执行强制删除吗？</msgForceRemovalQuestion>
+		<msgRemoveEntryQuestion>您确认要删除这个条目吗？</msgRemoveEntryQuestion>
 		<msgRemoveEntryFailed>删除该项目的注册表信息失败。\n您可能没有足够的权限进行该操作。</msgRemoveEntryFailed>
 		<msgNewVersionAvailable>新版本 %s 可用。</msgNewVersionAvailable>
-		<msgNewVersionAvailable2>GeekUninstaller 有更新! 请打开我们的网页下载最新版</msgNewVersionAvailable2>
+		<msgNewVersionAvailable2>Geek Uninstaller 有更新！请打开我们的网页下载最新版</msgNewVersionAvailable2>
 	</Messages>
 	<ProVersion>
 		<statusMessage>升级为专业版</statusMessage>
-		<WhatsCool>What's cool about PRO version:</WhatsCool>
+		<WhatsCool>专业版有什么特点：</WhatsCool>
 		<Feature1>实时安装监控</Feature1>
 		<Feature2>全面检测清除</Feature2>
 		<Feature3>启动程序管理</Feature3>
-		<Feature4>Modern interface, technical support</Feature4>
+		<Feature4>现代化界面，技术支持</Feature4>
 		<Feature5>批量移除</Feature5>
 		<buttonUpgrade>升级</buttonUpgrade>
 	</ProVersion>
