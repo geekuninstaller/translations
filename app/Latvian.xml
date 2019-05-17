@@ -1,94 +1,94 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageStrings>
-	<MainMenu>
-		<mnuFile>&amp;Fails</mnuFile>
-		<mnuFileExport>&amp;Eksportēt uz HTML...</mnuFileExport>
-		<mnuFileExit>&amp;Beigt</mnuFileExit>
-		<mnuAction>&amp;Darbība</mnuAction>
-		<mnuActionUninstall>&amp;Atinstalēt...</mnuActionUninstall>
-		<mnuActionModify>&amp;Modificēt...</mnuActionModify>
-		<mnuActionDelete>&amp;Izmest piespiedu kārtā</mnuActionDelete>
-		<mnuActionDeleteBatch>Batch &amp;Force Removal</mnuActionDeleteBatch>
-		<mnuActionRemoveEntry>Noņemt &amp;Entry</mnuActionRemoveEntry>
-		<mnuActionRemoveEntryBatch>Batch Remove &amp;Entries</mnuActionRemoveEntryBatch>
-		<mnuActionJumpToRegistry>&amp;Reģistra ieraksts</mnuActionJumpToRegistry>
-		<mnuActionJumpToProgramFolder>I&amp;nstalēšanas mape</mnuActionJumpToProgramFolder>
-		<mnuActionJumpToWebSite>&amp;;Programmas mājas lapa</mnuActionJumpToWebSite>
-		<mnuActionOpenWindowsStore>Open in Windows Store</mnuActionOpenWindowsStore>
-		<mnuActionBrowseLocation>Pārlūkot Atrašanās vieta...</mnuActionBrowseLocation>
-		<mnuActionBrowseSource>Pārlūkot avots...</mnuActionBrowseSource>
-		<mnuActionGoogleFor>Google par</mnuActionGoogleFor>
-		<mnuView>&amp;Izskats</mnuView>
-		<mnuViewDesktopApps>Desktop Apps</mnuViewDesktopApps>
-		<mnuViewWinStoreApps>Windows Store Apps</mnuViewWinStoreApps>
-		<mnuViewRefresh>&amp;Pārlasīt</mnuViewRefresh>
-		<mnuViewListColumnsReset>Atiestatīt kolonnas</mnuViewListColumnsReset>
-		<mnuViewLanguage>Saskarnes valoda</mnuViewLanguage>
-		<mnuHelp>&amp;Palīdzība</mnuHelp>
-		<mnuHelpAbout>&amp;Par...</mnuHelpAbout>
-		<mnuHelpHomePage>Home Page</mnuHelpHomePage>
-	</MainMenu>
-	<ListCtrl>
-		<columnProgramName>Programmas nosaukums</columnProgramName>
-		<columnSize>Izmērs</columnSize>
-		<columnInstallationDate>Instalēta</columnInstallationDate>
-		<staticLoading>Loading, please wait...</staticLoading>
-		<staticNoItemsMatchingFilterTip>No matching items, press ESC to reset</staticNoItemsMatchingFilterTip>
-		<staticNoProgramsInCategory>Seems like no Windows Store apps installed</staticNoProgramsInCategory>
-		<mark32bitItem>(32-bit)</mark32bitItem>
-	</ListCtrl>
-	<ExplorerBar>
-		<itemShortSearchTip>Ierakstiet atrast programmu</itemShortSearchTip>
-	</ExplorerBar>
-	<UninstallWizard>
-		<statusScanning>Skenēšana uz leftover failus, mapes un reģistra posteņiem...</statusScanning>
-		<statusLeftOverTracesFound>Daži atliekas pēdas atrasts!</statusLeftOverTracesFound>
-		<statusNothingFound>Nav atliekas pēdas atrasts.</statusNothingFound>
-		<statusAllTracesRemoved>Visas pēdas Noņemts</statusAllTracesRemoved>
-		<statusDeletingProgramTraces>Dzēšanas programmu pēdas...</statusDeletingProgramTraces>
-		<treeItemFileSystem>Failu sistēmas (%d preces)</treeItemFileSystem>
-		<treeItemRegistry>Registry (%d preces)</treeItemRegistry>
-		<treeItemPopopMenuBrowse>Pārlūkot...</treeItemPopopMenuBrowse>
-		<btnFinish>Apdare</btnFinish>
-		<btnCancel>Atcelt</btnCancel>
-		<btnClose>Aizvērt</btnClose>
-	</UninstallWizard>
-	<DlgAbout>
-		<DlgAboutCaption>Par Geek Uninstaller</DlgAboutCaption>
-	</DlgAbout>
-	<Messages>
-		<msgUninstallFailed>Atinstalēšana ir neveiksmīga. \nVai vēlaties iztīrīt šīs programmas ierakstu no reģistra un arī tās failus?</msgUninstallFailed>
-		<msgForceRemovalQuestion>Vai tiešām vēlaties veikt spēka atcelt šo programmu?</msgForceRemovalQuestion>
-		<msgRemoveEntryQuestion>Vai tiešām vēlaties dzēst šo ierakstu?</msgRemoveEntryQuestion>
-		<msgRemoveEntryFailed>Neizdevās izdzēst reģistra ierakstu, šajā postenī. \nJūs, iespējams, nav pieejama, lai to izdarītu.</msgRemoveEntryFailed>
-		<msgNewVersionAvailable>Jaunā versija %s ir pieejams:</msgNewVersionAvailable>
-		<msgNewVersionAvailable2>New version of GeekUninstaller is available! Press OK to visit our website and download the newest version.</msgNewVersionAvailable2>
-	</Messages>
-	<ProVersion>
-		<statusMessage>Upgrade to PRO version</statusMessage>
-		<WhatsCool>What's cool about PRO version:</WhatsCool>
-		<Feature1>Real-time installation monitor</Feature1>
-		<Feature2>Thorough and complete removal</Feature2>
-		<Feature3>Start-up programs management</Feature3>
-		<Feature4>Modern interface, technical support</Feature4>
-		<Feature5>Batch removal</Feature5>
-		<buttonUpgrade>Upgrade</buttonUpgrade>
-	</ProVersion>
-	<HTMLReport>
-		<htmlFiles>HTML faili</htmlFiles>
-		<allFiles>Visi faili</allFiles>
-		<generatedByOn>Ko rada %s uz %s</generatedByOn>
-		<installedPrograms>Instalētās programmas (%s)</installedPrograms>
-	</HTMLReport>
-	<Misc>
-		<btnOK>Labi</btnOK>
-		<btnCancel>Atcelt</btnCancel>
-		<btnHelp>Palīdzība</btnHelp>
-		<btnYes>Jā</btnYes>
-		<btnNo>Nē</btnNo>
-		<btnClose>Aizvērt</btnClose>
-		<statusTotalInfo>%d programmas %s lieluma kopā</statusTotalInfo>
-		<statusUnknown>nezināms</statusUnknown>
-		<WindowsUpdatesText>Windows Updates</WindowsUpdatesText>
-	</Misc>
+    <MainMenu>
+        <mnuFile>&amp;Fails</mnuFile>
+        <mnuFileExport>&amp;Eksportēt uz HTML...</mnuFileExport>
+        <mnuFileExit>&amp;Beigt</mnuFileExit>
+        <mnuAction>&amp;Darbība</mnuAction>
+        <mnuActionUninstall>&amp;Atinstalēt...</mnuActionUninstall>
+        <mnuActionModify>&amp;Modificēt...</mnuActionModify>
+        <mnuActionDelete>&amp;Izmest piespiedu kārtā</mnuActionDelete>
+        <mnuActionDeleteBatch>Batch &amp;Force Removal</mnuActionDeleteBatch>
+        <mnuActionRemoveEntry>Noņemt &amp;Entry</mnuActionRemoveEntry>
+        <mnuActionRemoveEntryBatch>Batch Remove &amp;Entries</mnuActionRemoveEntryBatch>
+        <mnuActionJumpToRegistry>&amp;Reģistra ieraksts</mnuActionJumpToRegistry>
+        <mnuActionJumpToProgramFolder>I&amp;nstalēšanas mape</mnuActionJumpToProgramFolder>
+        <mnuActionJumpToWebSite>&amp;;Programmas mājas lapa</mnuActionJumpToWebSite>
+        <mnuActionOpenWindowsStore>Open in Windows Store</mnuActionOpenWindowsStore>
+        <mnuActionBrowseLocation>Pārlūkot Atrašanās vieta...</mnuActionBrowseLocation>
+        <mnuActionBrowseSource>Pārlūkot avots...</mnuActionBrowseSource>
+        <mnuActionGoogleFor>Google par</mnuActionGoogleFor>
+        <mnuView>&amp;Izskats</mnuView>
+        <mnuViewDesktopApps>Desktop Apps</mnuViewDesktopApps>
+        <mnuViewWinStoreApps>Windows Store Apps</mnuViewWinStoreApps>
+        <mnuViewRefresh>&amp;Pārlasīt</mnuViewRefresh>
+        <mnuViewListColumnsReset>Atiestatīt kolonnas</mnuViewListColumnsReset>
+        <mnuViewLanguage>Saskarnes valoda</mnuViewLanguage>
+        <mnuHelp>&amp;Palīdzība</mnuHelp>
+        <mnuHelpAbout>&amp;Par...</mnuHelpAbout>
+        <mnuHelpHomePage>Home Page</mnuHelpHomePage>
+    </MainMenu>
+    <ListCtrl>
+        <columnProgramName>Programmas nosaukums</columnProgramName>
+        <columnSize>Izmērs</columnSize>
+        <columnInstallationDate>Instalēta</columnInstallationDate>
+        <staticLoading>Loading, please wait...</staticLoading>
+        <staticNoItemsMatchingFilterTip>No matching items, press ESC to reset</staticNoItemsMatchingFilterTip>
+        <staticNoProgramsInCategory>Seems like no Windows Store apps installed</staticNoProgramsInCategory>
+        <mark32bitItem>(32-bit)</mark32bitItem>
+    </ListCtrl>
+    <ExplorerBar>
+        <itemShortSearchTip>Ierakstiet atrast programmu</itemShortSearchTip>
+    </ExplorerBar>
+    <UninstallWizard>
+        <statusScanning>Skenēšana uz leftover failus, mapes un reģistra posteņiem...</statusScanning>
+        <statusLeftOverTracesFound>Daži atliekas pēdas atrasts!</statusLeftOverTracesFound>
+        <statusNothingFound>Nav atliekas pēdas atrasts.</statusNothingFound>
+        <statusAllTracesRemoved>Visas pēdas Noņemts</statusAllTracesRemoved>
+        <statusDeletingProgramTraces>Dzēšanas programmu pēdas...</statusDeletingProgramTraces>
+        <treeItemFileSystem>Failu sistēmas (%d preces)</treeItemFileSystem>
+        <treeItemRegistry>Registry (%d preces)</treeItemRegistry>
+        <treeItemPopopMenuBrowse>Pārlūkot...</treeItemPopopMenuBrowse>
+        <btnFinish>Apdare</btnFinish>
+        <btnCancel>Atcelt</btnCancel>
+        <btnClose>Aizvērt</btnClose>
+    </UninstallWizard>
+    <DlgAbout>
+        <DlgAboutCaption>Par Geek Uninstaller</DlgAboutCaption>
+    </DlgAbout>
+    <Messages>
+        <msgUninstallFailed>Atinstalēšana ir neveiksmīga. \nVai vēlaties iztīrīt šīs programmas ierakstu no reģistra un arī tās failus?</msgUninstallFailed>
+        <msgForceRemovalQuestion>Vai tiešām vēlaties veikt spēka atcelt šo programmu?</msgForceRemovalQuestion>
+        <msgRemoveEntryQuestion>Vai tiešām vēlaties dzēst šo ierakstu?</msgRemoveEntryQuestion>
+        <msgRemoveEntryFailed>Neizdevās izdzēst reģistra ierakstu, šajā postenī. \nJūs, iespējams, nav pieejama, lai to izdarītu.</msgRemoveEntryFailed>
+        <msgNewVersionAvailable>Jaunā versija %s ir pieejams:</msgNewVersionAvailable>
+        <msgNewVersionAvailable2>New version of GeekUninstaller is available! Press OK to visit our website and download the newest version.</msgNewVersionAvailable2>
+    </Messages>
+    <ProVersion>
+        <statusMessage>Upgrade to PRO version</statusMessage>
+        <WhatsCool>What's cool about PRO version:</WhatsCool>
+        <Feature1>Real-time installation monitor</Feature1>
+        <Feature2>Thorough and complete removal</Feature2>
+        <Feature3>Start-up programs management</Feature3>
+        <Feature4>Modern interface, technical support</Feature4>
+        <Feature5>Batch removal</Feature5>
+        <buttonUpgrade>Upgrade</buttonUpgrade>
+    </ProVersion>
+    <HTMLReport>
+        <htmlFiles>HTML faili</htmlFiles>
+        <allFiles>Visi faili</allFiles>
+        <generatedByOn>Ko rada %s uz %s</generatedByOn>
+        <installedPrograms>Instalētās programmas (%s)</installedPrograms>
+    </HTMLReport>
+    <Misc>
+        <btnOK>Labi</btnOK>
+        <btnCancel>Atcelt</btnCancel>
+        <btnHelp>Palīdzība</btnHelp>
+        <btnYes>Jā</btnYes>
+        <btnNo>Nē</btnNo>
+        <btnClose>Aizvērt</btnClose>
+        <statusTotalInfo>%d programmas %s lieluma kopā</statusTotalInfo>
+        <statusUnknown>nezināms</statusUnknown>
+        <WindowsUpdatesText>Windows Updates</WindowsUpdatesText>
+    </Misc>
 </LanguageStrings>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageStrings>
     <MainMenu>
         <mnuFile>&amp;Fil</mnuFile>
@@ -56,8 +57,8 @@
         <DlgAboutCaption>Om Geek Uninstaller</DlgAboutCaption>
     </DlgAbout>
     <Messages>
-        <msgUninstallFailed>Afinstallationen fejlede. \nVil du fjerne dette program fra registret og dets filer?</</msgUninstallFailed>
-        <msgForceRemovalQuestion>Er du sikker på, at du vil tvangsfjerne dette program?</</msgForceRemovalQuestion>
+        <msgUninstallFailed>Afinstallationen fejlede. \nVil du fjerne dette program fra registret og dets filer?</msgUninstallFailed>
+        <msgForceRemovalQuestion>Er du sikker på, at du vil tvangsfjerne dette program?</msgForceRemovalQuestion>
         <msgRemoveEntryQuestion>Er du sikker på, at du vil fjerne denne post?</msgRemoveEntryQuestion>
         <msgRemoveEntryFailed>Det lykkedes ikke at slette posten af dette emne i registreringsdatabasen \nDu har sikkert ikke adgang til at gøre det.</msgRemoveEntryFailed>
         <msgNewVersionAvailable>Ny version %s er tilgængelig</msgNewVersionAvailable>

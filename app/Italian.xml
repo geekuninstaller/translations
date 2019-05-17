@@ -1,94 +1,94 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageStrings>
-	<MainMenu>
-		<mnuFile>&amp;File</mnuFile>
-		<mnuFileExport>Esporta in &amp;HTML...</mnuFileExport>
-		<mnuFileExit>E&amp;sci</mnuFileExit>
-		<mnuAction>&amp;Azione</mnuAction>
-		<mnuActionUninstall>&amp;Disinstalla...</mnuActionUninstall>
-		<mnuActionModify>&amp;Modifica...</mnuActionModify>
-		<mnuActionDelete>&amp;Forza la rimozione</mnuActionDelete>
-		<mnuActionDeleteBatch>Rimozione &amp;forzata batch</mnuActionDeleteBatch>
-		<mnuActionRemoveEntry>Rimuovi &amp;voce</mnuActionRemoveEntry>
-		<mnuActionRemoveEntryBatch>Rimozione &amp;voci batch</mnuActionRemoveEntryBatch>
-		<mnuActionJumpToRegistry>&amp;Voci di registro</mnuActionJumpToRegistry>
-		<mnuActionJumpToProgramFolder>&amp;Cartella installazione</mnuActionJumpToProgramFolder>
-		<mnuActionJumpToWebSite>Sito &amp;Web</mnuActionJumpToWebSite>
-		<mnuActionOpenWindowsStore>Open in Windows Store</mnuActionOpenWindowsStore>
-		<mnuActionBrowseLocation>Sfoglia posizione...</mnuActionBrowseLocation>
-		<mnuActionBrowseSource>Sfoglia origine...</mnuActionBrowseSource>
-		<mnuActionGoogleFor>Cerca con Google...</mnuActionGoogleFor>
-		<mnuView>&amp;Visualizza</mnuView>
-		<mnuViewDesktopApps>Desktop Apps</mnuViewDesktopApps>
-		<mnuViewWinStoreApps>Windows Store Apps</mnuViewWinStoreApps>
-		<mnuViewRefresh>&amp;Aggiorna</mnuViewRefresh>
-		<mnuViewListColumnsReset>Reimposta colonne</mnuViewListColumnsReset>
-		<mnuViewLanguage>Lingua dell'interfaccia</mnuViewLanguage>
-		<mnuHelp>Gu&amp;ida</mnuHelp>
-		<mnuHelpAbout>I&amp;nformazioni...</mnuHelpAbout>
-		<mnuHelpHomePage>&amp;Sito web del programma</mnuHelpHomePage>
-	</MainMenu>
-	<ListCtrl>
-		<columnProgramName>Nome del programma</columnProgramName>
-		<columnSize>Dimensioni</columnSize>
-		<columnInstallationDate>Data di installazione</columnInstallationDate>
-		<staticLoading>Caricamento, attendere prego...</staticLoading>
-		<staticNoItemsMatchingFilterTip>No matching items, press ESC to reset</staticNoItemsMatchingFilterTip>
-		<staticNoProgramsInCategory>Seems like no Windows Store apps installed</staticNoProgramsInCategory>
-		<mark32bitItem>(32-bit)</mark32bitItem>
-	</ListCtrl>
-	<ExplorerBar>
-		<itemShortSearchTip>Inserisci il programma da cercare</itemShortSearchTip>
-	</ExplorerBar>
-	<UninstallWizard>
-		<statusScanning>Ricerca di file, cartelle, e voci di registro residue...</statusScanning>
-		<statusLeftOverTracesFound>Rilevate alcune tracce residue!</statusLeftOverTracesFound>
-		<statusNothingFound>Nessuna traccia residua rilevata</statusNothingFound>
-		<statusAllTracesRemoved>Tutte le tracce sono state rimosse</statusAllTracesRemoved>
-		<statusDeletingProgramTraces>Eliminazione tracce programma...</statusDeletingProgramTraces>
-		<treeItemFileSystem>File System (%d elementi)</treeItemFileSystem>
-		<treeItemRegistry>Registro (%d elementi)</treeItemRegistry>
-		<treeItemPopopMenuBrowse>Sfoglia...</treeItemPopopMenuBrowse>
-		<btnFinish>Fine</btnFinish>
-		<btnCancel>Annulla</btnCancel>
-		<btnClose>Chiudi</btnClose>
-	</UninstallWizard>
-	<DlgAbout>
-		<DlgAboutCaption>Informazioni su Geek Uninstaller</DlgAboutCaption>
-	</DlgAbout>
-	<Messages>
-		<msgUninstallFailed>Disinstallazione non riuscita. \nVolete rimuovere la voce del programma dal registro ed eliminare i relativi file?</msgUninstallFailed>
-		<msgForceRemovalQuestion>Siete sicuri di voler procedere alla rimozione forzata di questo programma?</msgForceRemovalQuestion>
-		<msgRemoveEntryQuestion>Siete sicuri di voler rimuovere questo elemento?</msgRemoveEntryQuestion>
-		<msgRemoveEntryFailed>Eliminazione della voce di registro di questo elemento non riuscita. \nProbabilmente non si possiedono permessi sufficienti per farlo.</msgRemoveEntryFailed>
-		<msgNewVersionAvailable>È disponibile una %s nuova versione.</msgNewVersionAvailable>
-		<msgNewVersionAvailable2>È disponibile una nuova versione di GeekUninstaller! Clicca su OK per visitare il sito e scaricare l'ultima versione.</msgNewVersionAvailable2>
-	</Messages>
-	<ProVersion>
-		<statusMessage>Aggiorna alla versione PRO</statusMessage>
-		<WhatsCool>Cosa c'è di bello nella versione PRO:</WhatsCool>
-		<Feature1>Controllo in tempo reale dell'installazione</Feature1>
-		<Feature2>Rimozione definitiva e completa</Feature2>
-		<Feature3>Gestione dei programmi all'avvio</Feature3>
-		<Feature4>Interfaccia moderna e supporto tecnico</Feature4>
-		<Feature5>Rimozine batch</Feature5>
-		<buttonUpgrade>Aggiorna</buttonUpgrade>
-	</ProVersion>
-	<HTMLReport>
-		<htmlFiles>File HTML</htmlFiles>
-		<allFiles>Tutti i file</allFiles>
-		<generatedByOn>Generato da %s on %s</generatedByOn>
-		<installedPrograms>Programmi installati (%s)</installedPrograms>
-	</HTMLReport>
-	<Misc>
-		<btnOK>OK</btnOK>
-		<btnCancel>Annulla</btnCancel>
-		<btnHelp>Guida</btnHelp>
-		<btnYes>Si</btnYes>
-		<btnNo>No</btnNo>
-		<btnClose>Chiudi</btnClose>
-		<statusTotalInfo>%d programmi per un totale di %s</statusTotalInfo>
-		<statusUnknown>Sconosciuto</statusUnknown>
-		<WindowsUpdatesText>Aggiornamenti di Windows</WindowsUpdatesText>
-	</Misc>
+    <MainMenu>
+        <mnuFile>&amp;File</mnuFile>
+        <mnuFileExport>Esporta in &amp;HTML...</mnuFileExport>
+        <mnuFileExit>E&amp;sci</mnuFileExit>
+        <mnuAction>&amp;Azione</mnuAction>
+        <mnuActionUninstall>&amp;Disinstalla...</mnuActionUninstall>
+        <mnuActionModify>&amp;Modifica...</mnuActionModify>
+        <mnuActionDelete>&amp;Forza la rimozione</mnuActionDelete>
+        <mnuActionDeleteBatch>Rimozione &amp;forzata batch</mnuActionDeleteBatch>
+        <mnuActionRemoveEntry>Rimuovi &amp;voce</mnuActionRemoveEntry>
+        <mnuActionRemoveEntryBatch>Rimozione &amp;voci batch</mnuActionRemoveEntryBatch>
+        <mnuActionJumpToRegistry>&amp;Voci di registro</mnuActionJumpToRegistry>
+        <mnuActionJumpToProgramFolder>&amp;Cartella installazione</mnuActionJumpToProgramFolder>
+        <mnuActionJumpToWebSite>Sito &amp;Web</mnuActionJumpToWebSite>
+        <mnuActionOpenWindowsStore>Open in Windows Store</mnuActionOpenWindowsStore>
+        <mnuActionBrowseLocation>Sfoglia posizione...</mnuActionBrowseLocation>
+        <mnuActionBrowseSource>Sfoglia origine...</mnuActionBrowseSource>
+        <mnuActionGoogleFor>Cerca con Google...</mnuActionGoogleFor>
+        <mnuView>&amp;Visualizza</mnuView>
+        <mnuViewDesktopApps>Desktop Apps</mnuViewDesktopApps>
+        <mnuViewWinStoreApps>Windows Store Apps</mnuViewWinStoreApps>
+        <mnuViewRefresh>&amp;Aggiorna</mnuViewRefresh>
+        <mnuViewListColumnsReset>Reimposta colonne</mnuViewListColumnsReset>
+        <mnuViewLanguage>Lingua dell'interfaccia</mnuViewLanguage>
+        <mnuHelp>Gu&amp;ida</mnuHelp>
+        <mnuHelpAbout>I&amp;nformazioni...</mnuHelpAbout>
+        <mnuHelpHomePage>&amp;Sito web del programma</mnuHelpHomePage>
+    </MainMenu>
+    <ListCtrl>
+        <columnProgramName>Nome del programma</columnProgramName>
+        <columnSize>Dimensioni</columnSize>
+        <columnInstallationDate>Data di installazione</columnInstallationDate>
+        <staticLoading>Caricamento, attendere prego...</staticLoading>
+        <staticNoItemsMatchingFilterTip>No matching items, press ESC to reset</staticNoItemsMatchingFilterTip>
+        <staticNoProgramsInCategory>Seems like no Windows Store apps installed</staticNoProgramsInCategory>
+        <mark32bitItem>(32-bit)</mark32bitItem>
+    </ListCtrl>
+    <ExplorerBar>
+        <itemShortSearchTip>Inserisci il programma da cercare</itemShortSearchTip>
+    </ExplorerBar>
+    <UninstallWizard>
+        <statusScanning>Ricerca di file, cartelle, e voci di registro residue...</statusScanning>
+        <statusLeftOverTracesFound>Rilevate alcune tracce residue!</statusLeftOverTracesFound>
+        <statusNothingFound>Nessuna traccia residua rilevata</statusNothingFound>
+        <statusAllTracesRemoved>Tutte le tracce sono state rimosse</statusAllTracesRemoved>
+        <statusDeletingProgramTraces>Eliminazione tracce programma...</statusDeletingProgramTraces>
+        <treeItemFileSystem>File System (%d elementi)</treeItemFileSystem>
+        <treeItemRegistry>Registro (%d elementi)</treeItemRegistry>
+        <treeItemPopopMenuBrowse>Sfoglia...</treeItemPopopMenuBrowse>
+        <btnFinish>Fine</btnFinish>
+        <btnCancel>Annulla</btnCancel>
+        <btnClose>Chiudi</btnClose>
+    </UninstallWizard>
+    <DlgAbout>
+        <DlgAboutCaption>Informazioni su Geek Uninstaller</DlgAboutCaption>
+    </DlgAbout>
+    <Messages>
+        <msgUninstallFailed>Disinstallazione non riuscita. \nVolete rimuovere la voce del programma dal registro ed eliminare i relativi file?</msgUninstallFailed>
+        <msgForceRemovalQuestion>Siete sicuri di voler procedere alla rimozione forzata di questo programma?</msgForceRemovalQuestion>
+        <msgRemoveEntryQuestion>Siete sicuri di voler rimuovere questo elemento?</msgRemoveEntryQuestion>
+        <msgRemoveEntryFailed>Eliminazione della voce di registro di questo elemento non riuscita. \nProbabilmente non si possiedono permessi sufficienti per farlo.</msgRemoveEntryFailed>
+        <msgNewVersionAvailable>È disponibile una %s nuova versione.</msgNewVersionAvailable>
+        <msgNewVersionAvailable2>È disponibile una nuova versione di GeekUninstaller! Clicca su OK per visitare il sito e scaricare l'ultima versione.</msgNewVersionAvailable2>
+    </Messages>
+    <ProVersion>
+        <statusMessage>Aggiorna alla versione PRO</statusMessage>
+        <WhatsCool>Cosa c'è di bello nella versione PRO:</WhatsCool>
+        <Feature1>Controllo in tempo reale dell'installazione</Feature1>
+        <Feature2>Rimozione definitiva e completa</Feature2>
+        <Feature3>Gestione dei programmi all'avvio</Feature3>
+        <Feature4>Interfaccia moderna e supporto tecnico</Feature4>
+        <Feature5>Rimozine batch</Feature5>
+        <buttonUpgrade>Aggiorna</buttonUpgrade>
+    </ProVersion>
+    <HTMLReport>
+        <htmlFiles>File HTML</htmlFiles>
+        <allFiles>Tutti i file</allFiles>
+        <generatedByOn>Generato da %s on %s</generatedByOn>
+        <installedPrograms>Programmi installati (%s)</installedPrograms>
+    </HTMLReport>
+    <Misc>
+        <btnOK>OK</btnOK>
+        <btnCancel>Annulla</btnCancel>
+        <btnHelp>Guida</btnHelp>
+        <btnYes>Si</btnYes>
+        <btnNo>No</btnNo>
+        <btnClose>Chiudi</btnClose>
+        <statusTotalInfo>%d programmi per un totale di %s</statusTotalInfo>
+        <statusUnknown>Sconosciuto</statusUnknown>
+        <WindowsUpdatesText>Aggiornamenti di Windows</WindowsUpdatesText>
+    </Misc>
 </LanguageStrings>

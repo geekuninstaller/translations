@@ -1,94 +1,94 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageStrings>
-	<MainMenu>
-		<mnuFile>&amp;ფაილი</mnuFile>
-		<mnuFileExport>&amp;HTML-ში ექსპორტირება...</mnuFileExport>
-		<mnuFileExit>გ&amp;ამოსვლა</mnuFileExit>
-		<mnuAction>&amp;მოქმედება</mnuAction>
-		<mnuActionUninstall>&amp;დეინსტალაცია...</mnuActionUninstall>
-		<mnuActionModify>&amp;შეცვლა...</mnuActionModify>
-		<mnuActionDelete>&amp;იძულებითი დეინსტალაცია</mnuActionDelete>
-		<mnuActionDeleteBatch>ერთდროული &amp;იძულებითი დეინსტალაცია</mnuActionDeleteBatch>
-		<mnuActionRemoveEntry>ჩანაწერის &amp;მოცილება</mnuActionRemoveEntry>
-		<mnuActionRemoveEntryBatch>ერთდროული ჩანაწერების &amp;მოცილება</mnuActionRemoveEntryBatch>
-		<mnuActionJumpToRegistry>&amp;რეესტრის ჩანაწერი</mnuActionJumpToRegistry>
-		<mnuActionJumpToProgramFolder>&amp;შემცველი საქაღალდის გახსნა</mnuActionJumpToProgramFolder>
-		<mnuActionJumpToWebSite>&amp;პროგრამის ვებ-გვერდი</mnuActionJumpToWebSite>
-		<mnuActionOpenWindowsStore>Open in Windows Store</mnuActionOpenWindowsStore>
-		<mnuActionBrowseLocation>შემცველი საქაღალდის გახსნა...</mnuActionBrowseLocation>
-		<mnuActionBrowseSource>წყაროს ნახვა...</mnuActionBrowseSource>
-		<mnuActionGoogleFor>Google-ში ძებნა</mnuActionGoogleFor>
-		<mnuView>&amp;ხედი</mnuView>
-		<mnuViewDesktopApps>Desktop Apps</mnuViewDesktopApps>
-		<mnuViewWinStoreApps>Windows Store Apps</mnuViewWinStoreApps>
-		<mnuViewRefresh>&amp;განახლება</mnuViewRefresh>
-		<mnuViewListColumnsReset>სვეტების ჩამოყრა</mnuViewListColumnsReset>
-		<mnuViewLanguage>ენა</mnuViewLanguage>
-		<mnuHelp>&amp;დახმარება</mnuHelp>
-		<mnuHelpAbout>&amp;პროგრამის შესახებ...</mnuHelpAbout>
-		<mnuHelpHomePage>&amp;საწყისი გვერდი</mnuHelpHomePage>
-	</MainMenu>
-	<ListCtrl>
-		<columnProgramName>პროგრამის სახელი</columnProgramName>
-		<columnSize>ზომა</columnSize>
-		<columnInstallationDate>ინსტალაციის თარიღი</columnInstallationDate>
-		<staticLoading>იტვირთება, გთხოვთ დაელოდეთ...</staticLoading>
-		<staticNoItemsMatchingFilterTip>No matching items, press ESC to reset</staticNoItemsMatchingFilterTip>
-		<staticNoProgramsInCategory>Seems like no Windows Store apps installed</staticNoProgramsInCategory>
-		<mark32bitItem>(32-bit)</mark32bitItem>
-	</ListCtrl>
-	<ExplorerBar>
-		<itemShortSearchTip>პროგრამის ძებნა</itemShortSearchTip>
-	</ExplorerBar>
-	<UninstallWizard>
-		<statusScanning>მიმდინარეობს ნარჩენი ფაილების, საქაღალდების და რეესტრის ჩანაწერების ძებნა...</statusScanning>
-		<statusLeftOverTracesFound>ნაპოვნია რამდენიმე ნარჩენი ელემენტი!</statusLeftOverTracesFound>
-		<statusNothingFound>ნარჩენი ელემენტები არ მოიძებნა.</statusNothingFound>
-		<statusAllTracesRemoved>მოცილებულია ყველა ნარჩენი ელემენტი</statusAllTracesRemoved>
-		<statusDeletingProgramTraces>მიმდინარეობს პროგრამის ნარჩენების წაშლა...</statusDeletingProgramTraces>
-		<treeItemFileSystem>ფაილური სისტემა (%d ელემენტი)</treeItemFileSystem>
-		<treeItemRegistry>რეესტრი (%d ელემენტი)</treeItemRegistry>
-		<treeItemPopopMenuBrowse>მითითება...</treeItemPopopMenuBrowse>
-		<btnFinish>დასრულება</btnFinish>
-		<btnCancel>გაუქმება</btnCancel>
-		<btnClose>დახურვა</btnClose>
-	</UninstallWizard>
-	<DlgAbout>
-		<DlgAboutCaption>Geek Uninstaller-ის შესახებ</DlgAboutCaption>
-	</DlgAbout>
-	<Messages>
-		<msgUninstallFailed>დეინსტალაციის პროცესი შეწყდა. \nგსურთ ამ პროგრამის რეესტრის ჩანაწერებისა და ფაილების წაშლა?</msgUninstallFailed>
-		<msgForceRemovalQuestion>ნამდვილად გინდათ ამ პროგრამის იძულებითი წაშლა?</msgForceRemovalQuestion>
-		<msgRemoveEntryQuestion>ნამდვილად გინდათ ამ ჩანაწერის მოცილება?</msgRemoveEntryQuestion>
-		<msgRemoveEntryFailed>ამ ელემენტის რეესტრის ჩანაწერის წაშლა ვერ ხერხდება. \nშესაძლოა არ გაქვთ მასთან წვდომის უფლება.</msgRemoveEntryFailed>
-		<msgNewVersionAvailable>ხელმისაწვდომია %s-ის ახალი ვერსია:</msgNewVersionAvailable>
-		<msgNewVersionAvailable2>New version of GeekUninstaller is available! Press OK to visit our website and download the newest version.</msgNewVersionAvailable2>
-	</Messages>
-	<ProVersion>
-		<statusMessage>Upgrade to PRO version</statusMessage>
-		<WhatsCool>What's cool about PRO version:</WhatsCool>
-		<Feature1>Real-time installation monitor</Feature1>
-		<Feature2>Thorough and complete removal</Feature2>
-		<Feature3>Start-up programs management</Feature3>
-		<Feature4>Modern interface, technical support</Feature4>
-		<Feature5>Batch removal</Feature5>
-		<buttonUpgrade>Upgrade</buttonUpgrade>
-	</ProVersion>
-	<HTMLReport>
-		<htmlFiles>HTML ფაილები</htmlFiles>
-		<allFiles>ყველა ფაილები</allFiles>
-		<generatedByOn>სია გენერირებულია %s-ის მიერ. გენერირების თარიღი: %s</generatedByOn>
-		<installedPrograms>ინსტალირებული პროგრამები (%s)</installedPrograms>
-	</HTMLReport>
-	<Misc>
-		<btnOK>კარგი</btnOK>
-		<btnCancel>გაუქმება</btnCancel>
-		<btnHelp>დახმარება</btnHelp>
-		<btnYes>კარგი</btnYes>
-		<btnNo>არა</btnNo>
-		<btnClose>დახურვა</btnClose>
-		<statusTotalInfo>ნაპოვნია %d პროგრამა. მათი საერთო ზომაა: %s</statusTotalInfo>
-		<statusUnknown>უცნობია</statusUnknown>
-		<WindowsUpdatesText>Windows-ის განახლებები</WindowsUpdatesText>
-	</Misc>
+    <MainMenu>
+        <mnuFile>&amp;ფაილი</mnuFile>
+        <mnuFileExport>&amp;HTML-ში ექსპორტირება...</mnuFileExport>
+        <mnuFileExit>გ&amp;ამოსვლა</mnuFileExit>
+        <mnuAction>&amp;მოქმედება</mnuAction>
+        <mnuActionUninstall>&amp;დეინსტალაცია...</mnuActionUninstall>
+        <mnuActionModify>&amp;შეცვლა...</mnuActionModify>
+        <mnuActionDelete>&amp;იძულებითი დეინსტალაცია</mnuActionDelete>
+        <mnuActionDeleteBatch>ერთდროული &amp;იძულებითი დეინსტალაცია</mnuActionDeleteBatch>
+        <mnuActionRemoveEntry>ჩანაწერის &amp;მოცილება</mnuActionRemoveEntry>
+        <mnuActionRemoveEntryBatch>ერთდროული ჩანაწერების &amp;მოცილება</mnuActionRemoveEntryBatch>
+        <mnuActionJumpToRegistry>&amp;რეესტრის ჩანაწერი</mnuActionJumpToRegistry>
+        <mnuActionJumpToProgramFolder>&amp;შემცველი საქაღალდის გახსნა</mnuActionJumpToProgramFolder>
+        <mnuActionJumpToWebSite>&amp;პროგრამის ვებ-გვერდი</mnuActionJumpToWebSite>
+        <mnuActionOpenWindowsStore>Open in Windows Store</mnuActionOpenWindowsStore>
+        <mnuActionBrowseLocation>შემცველი საქაღალდის გახსნა...</mnuActionBrowseLocation>
+        <mnuActionBrowseSource>წყაროს ნახვა...</mnuActionBrowseSource>
+        <mnuActionGoogleFor>Google-ში ძებნა</mnuActionGoogleFor>
+        <mnuView>&amp;ხედი</mnuView>
+        <mnuViewDesktopApps>Desktop Apps</mnuViewDesktopApps>
+        <mnuViewWinStoreApps>Windows Store Apps</mnuViewWinStoreApps>
+        <mnuViewRefresh>&amp;განახლება</mnuViewRefresh>
+        <mnuViewListColumnsReset>სვეტების ჩამოყრა</mnuViewListColumnsReset>
+        <mnuViewLanguage>ენა</mnuViewLanguage>
+        <mnuHelp>&amp;დახმარება</mnuHelp>
+        <mnuHelpAbout>&amp;პროგრამის შესახებ...</mnuHelpAbout>
+        <mnuHelpHomePage>&amp;საწყისი გვერდი</mnuHelpHomePage>
+    </MainMenu>
+    <ListCtrl>
+        <columnProgramName>პროგრამის სახელი</columnProgramName>
+        <columnSize>ზომა</columnSize>
+        <columnInstallationDate>ინსტალაციის თარიღი</columnInstallationDate>
+        <staticLoading>იტვირთება, გთხოვთ დაელოდეთ...</staticLoading>
+        <staticNoItemsMatchingFilterTip>No matching items, press ESC to reset</staticNoItemsMatchingFilterTip>
+        <staticNoProgramsInCategory>Seems like no Windows Store apps installed</staticNoProgramsInCategory>
+        <mark32bitItem>(32-bit)</mark32bitItem>
+    </ListCtrl>
+    <ExplorerBar>
+        <itemShortSearchTip>პროგრამის ძებნა</itemShortSearchTip>
+    </ExplorerBar>
+    <UninstallWizard>
+        <statusScanning>მიმდინარეობს ნარჩენი ფაილების, საქაღალდების და რეესტრის ჩანაწერების ძებნა...</statusScanning>
+        <statusLeftOverTracesFound>ნაპოვნია რამდენიმე ნარჩენი ელემენტი!</statusLeftOverTracesFound>
+        <statusNothingFound>ნარჩენი ელემენტები არ მოიძებნა.</statusNothingFound>
+        <statusAllTracesRemoved>მოცილებულია ყველა ნარჩენი ელემენტი</statusAllTracesRemoved>
+        <statusDeletingProgramTraces>მიმდინარეობს პროგრამის ნარჩენების წაშლა...</statusDeletingProgramTraces>
+        <treeItemFileSystem>ფაილური სისტემა (%d ელემენტი)</treeItemFileSystem>
+        <treeItemRegistry>რეესტრი (%d ელემენტი)</treeItemRegistry>
+        <treeItemPopopMenuBrowse>მითითება...</treeItemPopopMenuBrowse>
+        <btnFinish>დასრულება</btnFinish>
+        <btnCancel>გაუქმება</btnCancel>
+        <btnClose>დახურვა</btnClose>
+    </UninstallWizard>
+    <DlgAbout>
+        <DlgAboutCaption>Geek Uninstaller-ის შესახებ</DlgAboutCaption>
+    </DlgAbout>
+    <Messages>
+        <msgUninstallFailed>დეინსტალაციის პროცესი შეწყდა. \nგსურთ ამ პროგრამის რეესტრის ჩანაწერებისა და ფაილების წაშლა?</msgUninstallFailed>
+        <msgForceRemovalQuestion>ნამდვილად გინდათ ამ პროგრამის იძულებითი წაშლა?</msgForceRemovalQuestion>
+        <msgRemoveEntryQuestion>ნამდვილად გინდათ ამ ჩანაწერის მოცილება?</msgRemoveEntryQuestion>
+        <msgRemoveEntryFailed>ამ ელემენტის რეესტრის ჩანაწერის წაშლა ვერ ხერხდება. \nშესაძლოა არ გაქვთ მასთან წვდომის უფლება.</msgRemoveEntryFailed>
+        <msgNewVersionAvailable>ხელმისაწვდომია %s-ის ახალი ვერსია:</msgNewVersionAvailable>
+        <msgNewVersionAvailable2>New version of GeekUninstaller is available! Press OK to visit our website and download the newest version.</msgNewVersionAvailable2>
+    </Messages>
+    <ProVersion>
+        <statusMessage>Upgrade to PRO version</statusMessage>
+        <WhatsCool>What's cool about PRO version:</WhatsCool>
+        <Feature1>Real-time installation monitor</Feature1>
+        <Feature2>Thorough and complete removal</Feature2>
+        <Feature3>Start-up programs management</Feature3>
+        <Feature4>Modern interface, technical support</Feature4>
+        <Feature5>Batch removal</Feature5>
+        <buttonUpgrade>Upgrade</buttonUpgrade>
+    </ProVersion>
+    <HTMLReport>
+        <htmlFiles>HTML ფაილები</htmlFiles>
+        <allFiles>ყველა ფაილები</allFiles>
+        <generatedByOn>სია გენერირებულია %s-ის მიერ. გენერირების თარიღი: %s</generatedByOn>
+        <installedPrograms>ინსტალირებული პროგრამები (%s)</installedPrograms>
+    </HTMLReport>
+    <Misc>
+        <btnOK>კარგი</btnOK>
+        <btnCancel>გაუქმება</btnCancel>
+        <btnHelp>დახმარება</btnHelp>
+        <btnYes>კარგი</btnYes>
+        <btnNo>არა</btnNo>
+        <btnClose>დახურვა</btnClose>
+        <statusTotalInfo>ნაპოვნია %d პროგრამა. მათი საერთო ზომაა: %s</statusTotalInfo>
+        <statusUnknown>უცნობია</statusUnknown>
+        <WindowsUpdatesText>Windows-ის განახლებები</WindowsUpdatesText>
+    </Misc>
 </LanguageStrings>

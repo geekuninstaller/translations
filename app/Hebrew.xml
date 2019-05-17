@@ -1,94 +1,94 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageStrings RightToLeft="1">
-	<MainMenu>
-		<mnuFile>&amp;קובץ</mnuFile>
-		<mnuFileExport>&amp;ייצוא ל-HTML...</mnuFileExport>
-		<mnuFileExit>י&amp;ציאה</mnuFileExit>
-		<mnuAction>&amp;פעולה</mnuAction>
-		<mnuActionUninstall>&amp;הסרת התקנה...</mnuActionUninstall>
-		<mnuActionModify>&amp;עריכה...</mnuActionModify>
-		<mnuActionDelete>הסרה &amp;כפויה</mnuActionDelete>
-		<mnuActionDeleteBatch>הסרה &amp;כפויה למספר יישומים</mnuActionDeleteBatch>
-		<mnuActionRemoveEntry>הסרת ר&amp;שומה</mnuActionRemoveEntry>
-		<mnuActionRemoveEntryBatch>הסרת מספר &amp;רשומות</mnuActionRemoveEntryBatch>
-		<mnuActionJumpToRegistry>קפיצה ל&amp;ערך ברג'יסטרי</mnuActionJumpToRegistry>
-		<mnuActionJumpToProgramFolder>קפיצה ל&amp;תיקיית ההתקנה</mnuActionJumpToProgramFolder>
-		<mnuActionJumpToWebSite>&amp;אתר האינטרנט של היישום</mnuActionJumpToWebSite>
-		<mnuActionOpenWindowsStore>פתיחה ב-Windows Store</mnuActionOpenWindowsStore>
-		<mnuActionBrowseLocation>איתור מיקום...</mnuActionBrowseLocation>
-		<mnuActionBrowseSource>איתור מקור...</mnuActionBrowseSource>
-		<mnuActionGoogleFor>חיפוש ב-Google עבור</mnuActionGoogleFor>
-		<mnuView>&amp;תצוגה</mnuView>
-		<mnuViewDesktopApps>יישומי שולחן העבודה</mnuViewDesktopApps>
-		<mnuViewWinStoreApps>יישומי Windows Store</mnuViewWinStoreApps>
-		<mnuViewRefresh>&amp;רענון</mnuViewRefresh>
-		<mnuViewListColumnsReset>איפוס עמודות</mnuViewListColumnsReset>
-		<mnuViewLanguage>שפת הממשק</mnuViewLanguage>
-		<mnuHelp>&amp;עזרה</mnuHelp>
-		<mnuHelpAbout>&amp;אודות...</mnuHelpAbout>
-		<mnuHelpHomePage>דף הבית</mnuHelpHomePage>
-	</MainMenu>
-	<ListCtrl>
-		<columnProgramName>שם היישום</columnProgramName>
-		<columnSize>גודל</columnSize>
-		<columnInstallationDate>תאריך התקנה</columnInstallationDate>
-		<staticLoading>טוען, נא להמתין...</staticLoading>
-		<staticNoItemsMatchingFilterTip>לא נמצאו פריטים תואמים, לחץ ESC לאיפוס</staticNoItemsMatchingFilterTip>
-		<staticNoProgramsInCategory>נראה שלא מותקנים יישומי Windows Store</staticNoProgramsInCategory>
-		<mark32bitItem>(32 סיביות)</mark32bitItem>
-	</ListCtrl>
-	<ExplorerBar>
-		<itemShortSearchTip>הקלד לחיפוש יישום</itemShortSearchTip>
-	</ExplorerBar>
-	<UninstallWizard>
-		<statusScanning>סורק אחר שאריות קבצים, תיקיות ופריטי רישום...</statusScanning>
-		<statusLeftOverTracesFound>נמצאו שאריות של מספר עקבות!</statusLeftOverTracesFound>
-		<statusNothingFound>לא נמצאו שאריות של עקבות.</statusNothingFound>
-		<statusAllTracesRemoved>כל העקבות הוסרו</statusAllTracesRemoved>
-		<statusDeletingProgramTraces>מוחק עקבות של היישום...</statusDeletingProgramTraces>
-		<treeItemFileSystem>מערכת קבצים (%d פריטים)</treeItemFileSystem>
-		<treeItemRegistry>רישום (%d פריטים)</treeItemRegistry>
-		<treeItemPopopMenuBrowse>עיון...</treeItemPopopMenuBrowse>
-		<btnFinish>סיום</btnFinish>
-		<btnCancel>ביטול</btnCancel>
-		<btnClose>סגירה</btnClose>
-	</UninstallWizard>
-	<DlgAbout>
-		<DlgAboutCaption>אודות Geek Uninstaller</DlgAboutCaption>
-	</DlgAbout>
-	<Messages>
-		<msgUninstallFailed>תהליך הסרת ההתקנה נכשל. \nהאם ברצונך לנקות את רשומת יישום זו מהרישום ואת קבציה גם כן?</msgUninstallFailed>
-		<msgForceRemovalQuestion>האם אתה בטוח שברצונך לבצע הסרה כפויה של יישום זה?</msgForceRemovalQuestion>
-		<msgRemoveEntryQuestion>האם אתה בטוח שברצונך להסיר רשומה זו?</msgRemoveEntryQuestion>
-		<msgRemoveEntryFailed>מחיקת ערך הרישום של פריט זה נכשלה. \nככל הנראה אין לך גישה לביצוע הפעולהת.</msgRemoveEntryFailed>
-		<msgNewVersionAvailable>גרסה חדשה %s זמינה</msgNewVersionAvailable>
-		<msgNewVersionAvailable2>גרסה חדשה של GeekUninstaller זמינה להורדה! לחץ 'אישור' כדי לבקר באתר הבית שלנו ולהוריד את הגרסה העדכנית ביותר.</msgNewVersionAvailable2>
-	</Messages>
-	<ProVersion>
-		<statusMessage>שדרוג לגרסת ה-PRO</statusMessage>
-		<WhatsCool>מה מגניב בגרסת ה-PRO:</WhatsCool>
-		<Feature1>ניטור התקנה בזמן אמת</Feature1>
-		<Feature2>הסרה יסודית ומלאה</Feature2>
-		<Feature3>ניהול יישומי הפעלה אוטומטית</Feature3>
-		<Feature4>ממשק חדשני, תמיכה טכנית</Feature4>
-		<Feature5>הסרת מקבץ יישומים</Feature5>
-		<buttonUpgrade>שדרוג</buttonUpgrade>
-	</ProVersion>
-	<HTMLReport>
-		<htmlFiles>קבצי HTML</htmlFiles>
-		<allFiles>כל הקבצים</allFiles>
-		<generatedByOn>נוצר על-ידי %s ב-%s</generatedByOn>
-		<installedPrograms>יישומים מותקנים (%s)</installedPrograms>
-	</HTMLReport>
-	<Misc>
-		<btnOK>אישור</btnOK>
-		<btnCancel>ביטול</btnCancel>
-		<btnHelp>עזרה</btnHelp>
-		<btnYes>כן</btnYes>
-		<btnNo>לא</btnNo>
-		<btnClose>סגירה</btnClose>
-		<statusTotalInfo>%d יישומים בנפח כולל של %s</statusTotalInfo>
-		<statusUnknown>לא ידוע</statusUnknown>
-		<WindowsUpdatesText>Windows Updates</WindowsUpdatesText>
-	</Misc>
+    <MainMenu>
+        <mnuFile>&amp;קובץ</mnuFile>
+        <mnuFileExport>&amp;ייצוא ל-HTML...</mnuFileExport>
+        <mnuFileExit>י&amp;ציאה</mnuFileExit>
+        <mnuAction>&amp;פעולה</mnuAction>
+        <mnuActionUninstall>&amp;הסרת התקנה...</mnuActionUninstall>
+        <mnuActionModify>&amp;עריכה...</mnuActionModify>
+        <mnuActionDelete>הסרה &amp;כפויה</mnuActionDelete>
+        <mnuActionDeleteBatch>הסרה &amp;כפויה למספר יישומים</mnuActionDeleteBatch>
+        <mnuActionRemoveEntry>הסרת ר&amp;שומה</mnuActionRemoveEntry>
+        <mnuActionRemoveEntryBatch>הסרת מספר &amp;רשומות</mnuActionRemoveEntryBatch>
+        <mnuActionJumpToRegistry>קפיצה ל&amp;ערך ברג'יסטרי</mnuActionJumpToRegistry>
+        <mnuActionJumpToProgramFolder>קפיצה ל&amp;תיקיית ההתקנה</mnuActionJumpToProgramFolder>
+        <mnuActionJumpToWebSite>&amp;אתר האינטרנט של היישום</mnuActionJumpToWebSite>
+        <mnuActionOpenWindowsStore>פתיחה ב-Windows Store</mnuActionOpenWindowsStore>
+        <mnuActionBrowseLocation>איתור מיקום...</mnuActionBrowseLocation>
+        <mnuActionBrowseSource>איתור מקור...</mnuActionBrowseSource>
+        <mnuActionGoogleFor>חיפוש ב-Google עבור</mnuActionGoogleFor>
+        <mnuView>&amp;תצוגה</mnuView>
+        <mnuViewDesktopApps>יישומי שולחן העבודה</mnuViewDesktopApps>
+        <mnuViewWinStoreApps>יישומי Windows Store</mnuViewWinStoreApps>
+        <mnuViewRefresh>&amp;רענון</mnuViewRefresh>
+        <mnuViewListColumnsReset>איפוס עמודות</mnuViewListColumnsReset>
+        <mnuViewLanguage>שפת הממשק</mnuViewLanguage>
+        <mnuHelp>&amp;עזרה</mnuHelp>
+        <mnuHelpAbout>&amp;אודות...</mnuHelpAbout>
+        <mnuHelpHomePage>דף הבית</mnuHelpHomePage>
+    </MainMenu>
+    <ListCtrl>
+        <columnProgramName>שם היישום</columnProgramName>
+        <columnSize>גודל</columnSize>
+        <columnInstallationDate>תאריך התקנה</columnInstallationDate>
+        <staticLoading>טוען, נא להמתין...</staticLoading>
+        <staticNoItemsMatchingFilterTip>לא נמצאו פריטים תואמים, לחץ ESC לאיפוס</staticNoItemsMatchingFilterTip>
+        <staticNoProgramsInCategory>נראה שלא מותקנים יישומי Windows Store</staticNoProgramsInCategory>
+        <mark32bitItem>(32 סיביות)</mark32bitItem>
+    </ListCtrl>
+    <ExplorerBar>
+        <itemShortSearchTip>הקלד לחיפוש יישום</itemShortSearchTip>
+    </ExplorerBar>
+    <UninstallWizard>
+        <statusScanning>סורק אחר שאריות קבצים, תיקיות ופריטי רישום...</statusScanning>
+        <statusLeftOverTracesFound>נמצאו שאריות של מספר עקבות!</statusLeftOverTracesFound>
+        <statusNothingFound>לא נמצאו שאריות של עקבות.</statusNothingFound>
+        <statusAllTracesRemoved>כל העקבות הוסרו</statusAllTracesRemoved>
+        <statusDeletingProgramTraces>מוחק עקבות של היישום...</statusDeletingProgramTraces>
+        <treeItemFileSystem>מערכת קבצים (%d פריטים)</treeItemFileSystem>
+        <treeItemRegistry>רישום (%d פריטים)</treeItemRegistry>
+        <treeItemPopopMenuBrowse>עיון...</treeItemPopopMenuBrowse>
+        <btnFinish>סיום</btnFinish>
+        <btnCancel>ביטול</btnCancel>
+        <btnClose>סגירה</btnClose>
+    </UninstallWizard>
+    <DlgAbout>
+        <DlgAboutCaption>אודות Geek Uninstaller</DlgAboutCaption>
+    </DlgAbout>
+    <Messages>
+        <msgUninstallFailed>תהליך הסרת ההתקנה נכשל. \nהאם ברצונך לנקות את רשומת יישום זו מהרישום ואת קבציה גם כן?</msgUninstallFailed>
+        <msgForceRemovalQuestion>האם אתה בטוח שברצונך לבצע הסרה כפויה של יישום זה?</msgForceRemovalQuestion>
+        <msgRemoveEntryQuestion>האם אתה בטוח שברצונך להסיר רשומה זו?</msgRemoveEntryQuestion>
+        <msgRemoveEntryFailed>מחיקת ערך הרישום של פריט זה נכשלה. \nככל הנראה אין לך גישה לביצוע הפעולהת.</msgRemoveEntryFailed>
+        <msgNewVersionAvailable>גרסה חדשה %s זמינה</msgNewVersionAvailable>
+        <msgNewVersionAvailable2>גרסה חדשה של GeekUninstaller זמינה להורדה! לחץ 'אישור' כדי לבקר באתר הבית שלנו ולהוריד את הגרסה העדכנית ביותר.</msgNewVersionAvailable2>
+    </Messages>
+    <ProVersion>
+        <statusMessage>שדרוג לגרסת ה-PRO</statusMessage>
+        <WhatsCool>מה מגניב בגרסת ה-PRO:</WhatsCool>
+        <Feature1>ניטור התקנה בזמן אמת</Feature1>
+        <Feature2>הסרה יסודית ומלאה</Feature2>
+        <Feature3>ניהול יישומי הפעלה אוטומטית</Feature3>
+        <Feature4>ממשק חדשני, תמיכה טכנית</Feature4>
+        <Feature5>הסרת מקבץ יישומים</Feature5>
+        <buttonUpgrade>שדרוג</buttonUpgrade>
+    </ProVersion>
+    <HTMLReport>
+        <htmlFiles>קבצי HTML</htmlFiles>
+        <allFiles>כל הקבצים</allFiles>
+        <generatedByOn>נוצר על-ידי %s ב-%s</generatedByOn>
+        <installedPrograms>יישומים מותקנים (%s)</installedPrograms>
+    </HTMLReport>
+    <Misc>
+        <btnOK>אישור</btnOK>
+        <btnCancel>ביטול</btnCancel>
+        <btnHelp>עזרה</btnHelp>
+        <btnYes>כן</btnYes>
+        <btnNo>לא</btnNo>
+        <btnClose>סגירה</btnClose>
+        <statusTotalInfo>%d יישומים בנפח כולל של %s</statusTotalInfo>
+        <statusUnknown>לא ידוע</statusUnknown>
+        <WindowsUpdatesText>Windows Updates</WindowsUpdatesText>
+    </Misc>
 </LanguageStrings>

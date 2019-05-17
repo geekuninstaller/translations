@@ -1,94 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageStrings>
-	<MainMenu>
-		<mnuFile>&amp;Файл</mnuFile>
-		<mnuFileExport>&amp;Експортувати список у HTML...</mnuFileExport>
-		<mnuFileExit>&amp;Вихід</mnuFileExit>
-		<mnuAction>&amp;Дія</mnuAction>
-		<mnuActionUninstall>Д&amp;еінсталяція...</mnuActionUninstall>
-		<mnuActionModify>&amp;Змінити компоненти...</mnuActionModify>
-		<mnuActionDelete>&amp;Видалити з реєстру</mnuActionDelete>
-		<mnuActionDeleteBatch>Примусове &amp; видалення</mnuActionDeleteBatch>
-		<mnuActionRemoveEntry>Видалити &amp;запис</mnuActionRemoveEntry>
-		<mnuActionRemoveEntryBatch>Групове видалення &amp;записів</mnuActionRemoveEntryBatch>
-		<mnuActionJumpToRegistry>&amp;Запис у реєстрі</mnuActionJumpToRegistry>
-		<mnuActionJumpToProgramFolder>&amp;Тека програми</mnuActionJumpToProgramFolder>
-		<mnuActionJumpToWebSite>&amp;Веб-сайт програми</mnuActionJumpToWebSite>
-		<mnuActionOpenWindowsStore>Відкрити у магазині Windows Store</mnuActionOpenWindowsStore>
-		<mnuActionBrowseLocation>Тека програми...</mnuActionBrowseLocation>
-		<mnuActionBrowseSource>Джерело запуску...</mnuActionBrowseSource>
-		<mnuActionGoogleFor>Шукати в Google</mnuActionGoogleFor>
-		<mnuView>&amp;Вигляд</mnuView>
-		<mnuViewDesktopApps>Настільні додатки</mnuViewDesktopApps>
-		<mnuViewWinStoreApps>Додатки з магазину Windows Store</mnuViewWinStoreApps>
-		<mnuViewRefresh>&amp;Оновити</mnuViewRefresh>
-		<mnuViewListColumnsReset>Зкинути стан колонок</mnuViewListColumnsReset>
-		<mnuViewLanguage>Мова інтерфейсу</mnuViewLanguage>
-		<mnuHelp>&amp;Допомога</mnuHelp>
-		<mnuHelpAbout>&amp;Про програму...</mnuHelpAbout>
-		<mnuHelpHomePage>Домашня сторінка</mnuHelpHomePage>
-	</MainMenu>
-	<ListCtrl>
-		<columnProgramName>Програма</columnProgramName>
-		<columnSize>Розмір</columnSize>
-		<columnInstallationDate>Встановлено</columnInstallationDate>
-		<staticLoading>Будь ласка, очікуйте...</staticLoading>
-		<staticNoItemsMatchingFilterTip>Збігів не знайдено, натисніть ESC</staticNoItemsMatchingFilterTip>
-		<staticNoProgramsInCategory>Додатки з магазину Windows Store не встановлені</staticNoProgramsInCategory>
-		<mark32bitItem>(32-біт)</mark32bitItem>
-	</ListCtrl>
-	<ExplorerBar>
-		<itemShortSearchTip>Введіть слово для пошуку</itemShortSearchTip>
-	</ExplorerBar>
-	<UninstallWizard>
-		<statusScanning>Сканування пропущених файлів/тек, елементів реєстру...</statusScanning>
-		<statusLeftOverTracesFound>Знайдені деякі частини програми</statusLeftOverTracesFound>
-		<statusNothingFound>Жодних залишків програми не знайдено</statusNothingFound>
-		<statusAllTracesRemoved>Усі залишки видалено</statusAllTracesRemoved>
-		<statusDeletingProgramTraces>Видалення залишків програми...</statusDeletingProgramTraces>
-		<treeItemFileSystem>Файлова система (%d елементів)</treeItemFileSystem>
-		<treeItemRegistry>Реєстр (%d елементів)</treeItemRegistry>
-		<treeItemPopopMenuBrowse>Переглянути...</treeItemPopopMenuBrowse>
-		<btnFinish>Видалити</btnFinish>
-		<btnCancel>Відмінити</btnCancel>
-		<btnClose>Закрити</btnClose>
-	</UninstallWizard>
-	<DlgAbout>
-		<DlgAboutCaption>Про програму Geek Uninstaller</DlgAboutCaption>
-	</DlgAbout>
-	<Messages>
-		<msgUninstallFailed>Деінсталяція не відпрацювала коректно. \nВи хочете видалити запис для цієї програми з реєстру та видалити файли, що їй належать?</msgUninstallFailed>
-		<msgForceRemovalQuestion>Ви дійсно хочете провести примусове видалення цієї програми?</msgForceRemovalQuestion>
-		<msgRemoveEntryQuestion>Ви дійсно хочете видалити цей елемент?</msgRemoveEntryQuestion>
-		<msgRemoveEntryFailed>Неможливо видалити запис реєстру. \nШвидше за все недостатньо прав.</msgRemoveEntryFailed>
-		<msgNewVersionAvailable>Доступна нова версія %s:</msgNewVersionAvailable>
-		<msgNewVersionAvailable2>Доступна нова версія GeekUninstaller! Натисніть ОК щоб перейти на наш веб-сайт для завантаження.</msgNewVersionAvailable2>
-	</Messages>
-	<ProVersion>
-		<statusMessage>Придбати PRO версію</statusMessage>
-		<WhatsCool>Що корисного у PRO версії:</WhatsCool>
-		<Feature1>Контроль встановлення програм</Feature1>
-		<Feature2>Повне видалення програм</Feature2>
-		<Feature3>Контроль завантаження програм</Feature3>
-		<Feature4>Сучасний вигляд, технічна підтримка</Feature4>
-		<Feature5>Групове видалення</Feature5>
-		<buttonUpgrade>Придбати</buttonUpgrade>
-	</ProVersion>
-	<HTMLReport>
-		<htmlFiles>HTML файли</htmlFiles>
-		<allFiles>Всі файли</allFiles>
-		<generatedByOn>Згенеровано за допомогою %s від %s</generatedByOn>
-		<installedPrograms>Встановлені програми (%s)</installedPrograms>
-	</HTMLReport>
-	<Misc>
-		<btnOK>ОК</btnOK>
-		<btnCancel>Відмінити</btnCancel>
-		<btnHelp>Допомога</btnHelp>
-		<btnYes>Так</btnYes>
-		<btnNo>Ні</btnNo>
-		<btnClose>Закрити</btnClose>
-		<statusTotalInfo>%d програм(-а, -и), які займають - %s</statusTotalInfo>
-		<statusUnknown>невідомо</statusUnknown>
-		<WindowsUpdatesText>Оновлення</WindowsUpdatesText>
-	</Misc>
+    <MainMenu>
+        <mnuFile>&amp;Файл</mnuFile>
+        <mnuFileExport>&amp;Експортувати список у HTML...</mnuFileExport>
+        <mnuFileExit>&amp;Вихід</mnuFileExit>
+        <mnuAction>&amp;Дія</mnuAction>
+        <mnuActionUninstall>Д&amp;еінсталяція...</mnuActionUninstall>
+        <mnuActionModify>&amp;Змінити компоненти...</mnuActionModify>
+        <mnuActionDelete>&amp;Видалити з реєстру</mnuActionDelete>
+        <mnuActionDeleteBatch>Примусове &amp; видалення</mnuActionDeleteBatch>
+        <mnuActionRemoveEntry>Видалити &amp;запис</mnuActionRemoveEntry>
+        <mnuActionRemoveEntryBatch>Групове видалення &amp;записів</mnuActionRemoveEntryBatch>
+        <mnuActionJumpToRegistry>&amp;Запис у реєстрі</mnuActionJumpToRegistry>
+        <mnuActionJumpToProgramFolder>&amp;Тека програми</mnuActionJumpToProgramFolder>
+        <mnuActionJumpToWebSite>&amp;Веб-сайт програми</mnuActionJumpToWebSite>
+        <mnuActionOpenWindowsStore>Відкрити у магазині Windows Store</mnuActionOpenWindowsStore>
+        <mnuActionBrowseLocation>Тека програми...</mnuActionBrowseLocation>
+        <mnuActionBrowseSource>Джерело запуску...</mnuActionBrowseSource>
+        <mnuActionGoogleFor>Шукати в Google</mnuActionGoogleFor>
+        <mnuView>&amp;Вигляд</mnuView>
+        <mnuViewDesktopApps>Настільні додатки</mnuViewDesktopApps>
+        <mnuViewWinStoreApps>Додатки з магазину Windows Store</mnuViewWinStoreApps>
+        <mnuViewRefresh>&amp;Оновити</mnuViewRefresh>
+        <mnuViewListColumnsReset>Зкинути стан колонок</mnuViewListColumnsReset>
+        <mnuViewLanguage>Мова інтерфейсу</mnuViewLanguage>
+        <mnuHelp>&amp;Допомога</mnuHelp>
+        <mnuHelpAbout>&amp;Про програму...</mnuHelpAbout>
+        <mnuHelpHomePage>Домашня сторінка</mnuHelpHomePage>
+    </MainMenu>
+    <ListCtrl>
+        <columnProgramName>Програма</columnProgramName>
+        <columnSize>Розмір</columnSize>
+        <columnInstallationDate>Встановлено</columnInstallationDate>
+        <staticLoading>Будь ласка, очікуйте...</staticLoading>
+        <staticNoItemsMatchingFilterTip>Збігів не знайдено, натисніть ESC</staticNoItemsMatchingFilterTip>
+        <staticNoProgramsInCategory>Додатки з магазину Windows Store не встановлені</staticNoProgramsInCategory>
+        <mark32bitItem>(32-біт)</mark32bitItem>
+    </ListCtrl>
+    <ExplorerBar>
+        <itemShortSearchTip>Введіть слово для пошуку</itemShortSearchTip>
+    </ExplorerBar>
+    <UninstallWizard>
+        <statusScanning>Сканування пропущених файлів/тек, елементів реєстру...</statusScanning>
+        <statusLeftOverTracesFound>Знайдені деякі частини програми</statusLeftOverTracesFound>
+        <statusNothingFound>Жодних залишків програми не знайдено</statusNothingFound>
+        <statusAllTracesRemoved>Усі залишки видалено</statusAllTracesRemoved>
+        <statusDeletingProgramTraces>Видалення залишків програми...</statusDeletingProgramTraces>
+        <treeItemFileSystem>Файлова система (%d елементів)</treeItemFileSystem>
+        <treeItemRegistry>Реєстр (%d елементів)</treeItemRegistry>
+        <treeItemPopopMenuBrowse>Переглянути...</treeItemPopopMenuBrowse>
+        <btnFinish>Видалити</btnFinish>
+        <btnCancel>Відмінити</btnCancel>
+        <btnClose>Закрити</btnClose>
+    </UninstallWizard>
+    <DlgAbout>
+        <DlgAboutCaption>Про програму Geek Uninstaller</DlgAboutCaption>
+    </DlgAbout>
+    <Messages>
+        <msgUninstallFailed>Деінсталяція не відпрацювала коректно. \nВи хочете видалити запис для цієї програми з реєстру та видалити файли, що їй належать?</msgUninstallFailed>
+        <msgForceRemovalQuestion>Ви дійсно хочете провести примусове видалення цієї програми?</msgForceRemovalQuestion>
+        <msgRemoveEntryQuestion>Ви дійсно хочете видалити цей елемент?</msgRemoveEntryQuestion>
+        <msgRemoveEntryFailed>Неможливо видалити запис реєстру. \nШвидше за все недостатньо прав.</msgRemoveEntryFailed>
+        <msgNewVersionAvailable>Доступна нова версія %s:</msgNewVersionAvailable>
+        <msgNewVersionAvailable2>Доступна нова версія GeekUninstaller! Натисніть ОК щоб перейти на наш веб-сайт для завантаження.</msgNewVersionAvailable2>
+    </Messages>
+    <ProVersion>
+        <statusMessage>Придбати PRO версію</statusMessage>
+        <WhatsCool>Що корисного у PRO версії:</WhatsCool>
+        <Feature1>Контроль встановлення програм</Feature1>
+        <Feature2>Повне видалення програм</Feature2>
+        <Feature3>Контроль завантаження програм</Feature3>
+        <Feature4>Сучасний вигляд, технічна підтримка</Feature4>
+        <Feature5>Групове видалення</Feature5>
+        <buttonUpgrade>Придбати</buttonUpgrade>
+    </ProVersion>
+    <HTMLReport>
+        <htmlFiles>HTML файли</htmlFiles>
+        <allFiles>Всі файли</allFiles>
+        <generatedByOn>Згенеровано за допомогою %s від %s</generatedByOn>
+        <installedPrograms>Встановлені програми (%s)</installedPrograms>
+    </HTMLReport>
+    <Misc>
+        <btnOK>ОК</btnOK>
+        <btnCancel>Відмінити</btnCancel>
+        <btnHelp>Допомога</btnHelp>
+        <btnYes>Так</btnYes>
+        <btnNo>Ні</btnNo>
+        <btnClose>Закрити</btnClose>
+        <statusTotalInfo>%d програм(-а, -и), які займають - %s</statusTotalInfo>
+        <statusUnknown>невідомо</statusUnknown>
+        <WindowsUpdatesText>Оновлення</WindowsUpdatesText>
+    </Misc>
 </LanguageStrings>

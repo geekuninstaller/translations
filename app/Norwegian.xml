@@ -1,94 +1,94 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageStrings>
-	<MainMenu>
-		<mnuFile>&amp;Fil</mnuFile>
-		<mnuFileExport>&amp;Eksporter til HTML...</mnuFileExport>
-		<mnuFileExit>A&amp;vslutt</mnuFileExit>
-		<mnuAction>Handlinger</mnuAction>
-		<mnuActionUninstall>Av&amp;installer...</mnuActionUninstall>
-		<mnuActionModify>&amp;Endre...</mnuActionModify>
-		<mnuActionDelete>&amp;Tvungen avinstallasjon</mnuActionDelete>
-		<mnuActionDeleteBatch>Tvungen &amp;avinstallering av flere</mnuActionDeleteBatch>
-		<mnuActionRemoveEntry>Slett &amp;oppføring</mnuActionRemoveEntry>
-		<mnuActionRemoveEntryBatch>Fjern flere &amp;oppføringer...</mnuActionRemoveEntryBatch>
-		<mnuActionJumpToRegistry>&amp;Registeroppføring</mnuActionJumpToRegistry>
-		<mnuActionJumpToProgramFolder>In&amp;stallasjonsmappe</mnuActionJumpToProgramFolder>
-		<mnuActionJumpToWebSite>&amp;Programmets hjemmeside</mnuActionJumpToWebSite>
-		<mnuActionOpenWindowsStore>Åpne i Windows Store</mnuActionOpenWindowsStore>
-		<mnuActionBrowseLocation>Utforsk plassering...</mnuActionBrowseLocation>
-		<mnuActionBrowseSource>Utforsk kilde...</mnuActionBrowseSource>
-		<mnuActionGoogleFor>Google etter</mnuActionGoogleFor>
-		<mnuView>Vi&amp;s</mnuView>
-		<mnuViewDesktopApps>Skrivebordsapper</mnuViewDesktopApps>
-		<mnuViewWinStoreApps>Windows Store-apper</mnuViewWinStoreApps>
-		<mnuViewRefresh>&amp;Last inn på nytt</mnuViewRefresh>
-		<mnuViewListColumnsReset>Tilbakestill kolonner</mnuViewListColumnsReset>
-		<mnuViewLanguage>Grensesnittspråk</mnuViewLanguage>
-		<mnuHelp>&amp;Hjelp</mnuHelp>
-		<mnuHelpAbout>&amp;Om...</mnuHelpAbout>
-		<mnuHelpHomePage>Hjemmeside</mnuHelpHomePage>
-	</MainMenu>
-	<ListCtrl>
-		<columnProgramName>Programnavn</columnProgramName>
-		<columnSize>Størrelse</columnSize>
-		<columnInstallationDate>Installert den</columnInstallationDate>
-		<staticLoading>Laster inn, vennligst vent...</staticLoading>
-		<staticNoItemsMatchingFilterTip>Ingen treff funnet, trykk Esc for å starte på nytt</staticNoItemsMatchingFilterTip>
-		<staticNoProgramsInCategory>Det virker som om ingen Windows Store-apper er installert</staticNoProgramsInCategory>
-		<mark32bitItem>(32-bit)</mark32bitItem>
-	</ListCtrl>
-	<ExplorerBar>
-		<itemShortSearchTip>Skriv inn for å finne et program</itemShortSearchTip>
-	</ExplorerBar>
-	<UninstallWizard>
-		<statusScanning>Skanner for ugyldige filer, mapper og registeroppføringer...</statusScanning>
-		<statusLeftOverTracesFound>Ugyldige spor funnet!</statusLeftOverTracesFound>
-		<statusNothingFound>Ingen ugyldige spor funnet.</statusNothingFound>
-		<statusAllTracesRemoved>Alle spor fjernet</statusAllTracesRemoved>
-		<statusDeletingProgramTraces>Sletter spor etter program...</statusDeletingProgramTraces>
-		<treeItemFileSystem>Filsystem (%d elementer)</treeItemFileSystem>
-		<treeItemRegistry>Register (%d elementer)</treeItemRegistry>
-		<treeItemPopopMenuBrowse>Utforsk...</treeItemPopopMenuBrowse>
-		<btnFinish>Ferdig</btnFinish>
-		<btnCancel>Avbryt</btnCancel>
-		<btnClose>Lukk</btnClose>
-	</UninstallWizard>
-	<DlgAbout>
-		<DlgAboutCaption>Om Geek Uninstaller</DlgAboutCaption>
-	</DlgAbout>
-	<Messages>
-		<msgUninstallFailed>Avinstallering mislyktes.\nVil du fjerne programinformasjonen fra registeret og slette filene?</msgUninstallFailed>
-		<msgForceRemovalQuestion>Er du sikker på at du vil kjøre tvungen avinstallering av dette programmet?</msgForceRemovalQuestion>
-		<msgRemoveEntryQuestion>Er du sikker på at du vil fjerne denne oppføringen?</msgRemoveEntryQuestion>
-		<msgRemoveEntryFailed>Kunne ikke slette registeroppføringen for denne enheten. \nDu har kanskje ikke tilgang til den.</msgRemoveEntryFailed>
-		<msgNewVersionAvailable>Ny versjon %s er tilgjengelig.</msgNewVersionAvailable>
-		<msgNewVersionAvailable2>En ny versjon av GeekUninstaller er tilgjengelig! Trykk OK for å besøke nettsiden vår og laste ned den nyeste versjonen.</msgNewVersionAvailable2>
-	</Messages>
-	<ProVersion>
-		<statusMessage>Oppgrader til PRO-versjonen</statusMessage>
-		<WhatsCool>Hva er bra med PRO-versjonen:</WhatsCool>
-		<Feature1>Installasjonsmonitor i fulltid</Feature1>
-		<Feature2>Grundig og fullstendig avinstallering</Feature2>
-		<Feature3>Behandling av oppstartsprogrammer</Feature3>
-		<Feature4>Moderne grensesnitt, teknisk støtte</Feature4>
-		<Feature5>Bunkefjerning</Feature5>
-		<buttonUpgrade>Oppgrader</buttonUpgrade>
-	</ProVersion>
-	<HTMLReport>
-		<htmlFiles>HTML-filer</htmlFiles>
-		<allFiles>Alle filer</allFiles>
-		<generatedByOn>Generert av %s i %s</generatedByOn>
-		<installedPrograms>Installerte programmer (%s)</installedPrograms>
-	</HTMLReport>
-	<Misc>
-		<btnOK>OK</btnOK>
-		<btnCancel>Avbryt</btnCancel>
-		<btnHelp>Hjelp</btnHelp>
-		<btnYes>Ja</btnYes>
-		<btnNo>Nei</btnNo>
-		<btnClose>Lukk</btnClose>
-		<statusTotalInfo>%d programmer med en total størrelse på %s</statusTotalInfo>
-		<statusUnknown>Ukjent</statusUnknown>
-		<WindowsUpdatesText>Windows-oppdatering</WindowsUpdatesText>
-	</Misc>
+    <MainMenu>
+        <mnuFile>&amp;Fil</mnuFile>
+        <mnuFileExport>&amp;Eksporter til HTML...</mnuFileExport>
+        <mnuFileExit>A&amp;vslutt</mnuFileExit>
+        <mnuAction>Handlinger</mnuAction>
+        <mnuActionUninstall>Av&amp;installer...</mnuActionUninstall>
+        <mnuActionModify>&amp;Endre...</mnuActionModify>
+        <mnuActionDelete>&amp;Tvungen avinstallasjon</mnuActionDelete>
+        <mnuActionDeleteBatch>Tvungen &amp;avinstallering av flere</mnuActionDeleteBatch>
+        <mnuActionRemoveEntry>Slett &amp;oppføring</mnuActionRemoveEntry>
+        <mnuActionRemoveEntryBatch>Fjern flere &amp;oppføringer...</mnuActionRemoveEntryBatch>
+        <mnuActionJumpToRegistry>&amp;Registeroppføring</mnuActionJumpToRegistry>
+        <mnuActionJumpToProgramFolder>In&amp;stallasjonsmappe</mnuActionJumpToProgramFolder>
+        <mnuActionJumpToWebSite>&amp;Programmets hjemmeside</mnuActionJumpToWebSite>
+        <mnuActionOpenWindowsStore>Åpne i Windows Store</mnuActionOpenWindowsStore>
+        <mnuActionBrowseLocation>Utforsk plassering...</mnuActionBrowseLocation>
+        <mnuActionBrowseSource>Utforsk kilde...</mnuActionBrowseSource>
+        <mnuActionGoogleFor>Google etter</mnuActionGoogleFor>
+        <mnuView>Vi&amp;s</mnuView>
+        <mnuViewDesktopApps>Skrivebordsapper</mnuViewDesktopApps>
+        <mnuViewWinStoreApps>Windows Store-apper</mnuViewWinStoreApps>
+        <mnuViewRefresh>&amp;Last inn på nytt</mnuViewRefresh>
+        <mnuViewListColumnsReset>Tilbakestill kolonner</mnuViewListColumnsReset>
+        <mnuViewLanguage>Grensesnittspråk</mnuViewLanguage>
+        <mnuHelp>&amp;Hjelp</mnuHelp>
+        <mnuHelpAbout>&amp;Om...</mnuHelpAbout>
+        <mnuHelpHomePage>Hjemmeside</mnuHelpHomePage>
+    </MainMenu>
+    <ListCtrl>
+        <columnProgramName>Programnavn</columnProgramName>
+        <columnSize>Størrelse</columnSize>
+        <columnInstallationDate>Installert den</columnInstallationDate>
+        <staticLoading>Laster inn, vennligst vent...</staticLoading>
+        <staticNoItemsMatchingFilterTip>Ingen treff funnet, trykk Esc for å starte på nytt</staticNoItemsMatchingFilterTip>
+        <staticNoProgramsInCategory>Det virker som om ingen Windows Store-apper er installert</staticNoProgramsInCategory>
+        <mark32bitItem>(32-bit)</mark32bitItem>
+    </ListCtrl>
+    <ExplorerBar>
+        <itemShortSearchTip>Skriv inn for å finne et program</itemShortSearchTip>
+    </ExplorerBar>
+    <UninstallWizard>
+        <statusScanning>Skanner for ugyldige filer, mapper og registeroppføringer...</statusScanning>
+        <statusLeftOverTracesFound>Ugyldige spor funnet!</statusLeftOverTracesFound>
+        <statusNothingFound>Ingen ugyldige spor funnet.</statusNothingFound>
+        <statusAllTracesRemoved>Alle spor fjernet</statusAllTracesRemoved>
+        <statusDeletingProgramTraces>Sletter spor etter program...</statusDeletingProgramTraces>
+        <treeItemFileSystem>Filsystem (%d elementer)</treeItemFileSystem>
+        <treeItemRegistry>Register (%d elementer)</treeItemRegistry>
+        <treeItemPopopMenuBrowse>Utforsk...</treeItemPopopMenuBrowse>
+        <btnFinish>Ferdig</btnFinish>
+        <btnCancel>Avbryt</btnCancel>
+        <btnClose>Lukk</btnClose>
+    </UninstallWizard>
+    <DlgAbout>
+        <DlgAboutCaption>Om Geek Uninstaller</DlgAboutCaption>
+    </DlgAbout>
+    <Messages>
+        <msgUninstallFailed>Avinstallering mislyktes.\nVil du fjerne programinformasjonen fra registeret og slette filene?</msgUninstallFailed>
+        <msgForceRemovalQuestion>Er du sikker på at du vil kjøre tvungen avinstallering av dette programmet?</msgForceRemovalQuestion>
+        <msgRemoveEntryQuestion>Er du sikker på at du vil fjerne denne oppføringen?</msgRemoveEntryQuestion>
+        <msgRemoveEntryFailed>Kunne ikke slette registeroppføringen for denne enheten. \nDu har kanskje ikke tilgang til den.</msgRemoveEntryFailed>
+        <msgNewVersionAvailable>Ny versjon %s er tilgjengelig.</msgNewVersionAvailable>
+        <msgNewVersionAvailable2>En ny versjon av GeekUninstaller er tilgjengelig! Trykk OK for å besøke nettsiden vår og laste ned den nyeste versjonen.</msgNewVersionAvailable2>
+    </Messages>
+    <ProVersion>
+        <statusMessage>Oppgrader til PRO-versjonen</statusMessage>
+        <WhatsCool>Hva er bra med PRO-versjonen:</WhatsCool>
+        <Feature1>Installasjonsmonitor i fulltid</Feature1>
+        <Feature2>Grundig og fullstendig avinstallering</Feature2>
+        <Feature3>Behandling av oppstartsprogrammer</Feature3>
+        <Feature4>Moderne grensesnitt, teknisk støtte</Feature4>
+        <Feature5>Bunkefjerning</Feature5>
+        <buttonUpgrade>Oppgrader</buttonUpgrade>
+    </ProVersion>
+    <HTMLReport>
+        <htmlFiles>HTML-filer</htmlFiles>
+        <allFiles>Alle filer</allFiles>
+        <generatedByOn>Generert av %s i %s</generatedByOn>
+        <installedPrograms>Installerte programmer (%s)</installedPrograms>
+    </HTMLReport>
+    <Misc>
+        <btnOK>OK</btnOK>
+        <btnCancel>Avbryt</btnCancel>
+        <btnHelp>Hjelp</btnHelp>
+        <btnYes>Ja</btnYes>
+        <btnNo>Nei</btnNo>
+        <btnClose>Lukk</btnClose>
+        <statusTotalInfo>%d programmer med en total størrelse på %s</statusTotalInfo>
+        <statusUnknown>Ukjent</statusUnknown>
+        <WindowsUpdatesText>Windows-oppdatering</WindowsUpdatesText>
+    </Misc>
 </LanguageStrings>

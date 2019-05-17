@@ -1,94 +1,94 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageStrings>
-	<MainMenu>
-		<mnuFile>ファイル(&amp;F)</mnuFile>
-		<mnuFileExport>HTML へエクスポート(&amp;E)...</mnuFileExport>
-		<mnuFileExit>終了(&amp;X)</mnuFileExit>
-		<mnuAction>動作(&amp;A)</mnuAction>
-		<mnuActionUninstall>アンインストール(&amp;U)...</mnuActionUninstall>
-		<mnuActionModify>変更(&amp;M)...</mnuActionModify>
-		<mnuActionDelete>強制削除(&amp;F)</mnuActionDelete>
-		<mnuActionDeleteBatch>Batch &amp;Force Removal</mnuActionDeleteBatch>
-		<mnuActionRemoveEntry>エントリの削除(&amp;E)</mnuActionRemoveEntry>
-		<mnuActionRemoveEntryBatch>Batch Remove &amp;Entries</mnuActionRemoveEntryBatch>
-		<mnuActionJumpToRegistry>レジストリ エントリ(&amp;R)</mnuActionJumpToRegistry>
-		<mnuActionJumpToProgramFolder>インストール フォルダー(&amp;I)</mnuActionJumpToProgramFolder>
-		<mnuActionJumpToWebSite>プログラムの Web サイト(&amp;P)</mnuActionJumpToWebSite>
-		<mnuActionOpenWindowsStore>Open in Windows Store</mnuActionOpenWindowsStore>
-		<mnuActionBrowseLocation>場所の参照...</mnuActionBrowseLocation>
-		<mnuActionBrowseSource>ソースの参照...</mnuActionBrowseSource>
-		<mnuActionGoogleFor>ググる</mnuActionGoogleFor>
-		<mnuView>表示(&amp;V)</mnuView>
-		<mnuViewDesktopApps>Desktop Apps</mnuViewDesktopApps>
-		<mnuViewWinStoreApps>Windows Store Apps</mnuViewWinStoreApps>
-		<mnuViewRefresh>更新(&amp;R)</mnuViewRefresh>
-		<mnuViewListColumnsReset>列のリセット</mnuViewListColumnsReset>
-		<mnuViewLanguage>インターフェイス言語</mnuViewLanguage>
-		<mnuHelp>ヘルプ(&amp;H)</mnuHelp>
-		<mnuHelpAbout>バージョン情報(&amp;A)...</mnuHelpAbout>
-		<mnuHelpHomePage>Home Page</mnuHelpHomePage>
-	</MainMenu>
-	<ListCtrl>
-		<columnProgramName>プログラム名</columnProgramName>
-		<columnSize>サイズ</columnSize>
-		<columnInstallationDate>インストール日</columnInstallationDate>
-		<staticLoading>Loading, please wait...</staticLoading>
-		<staticNoItemsMatchingFilterTip>No matching items, press ESC to reset</staticNoItemsMatchingFilterTip>
-		<staticNoProgramsInCategory>Seems like no Windows Store apps installed</staticNoProgramsInCategory>
-		<mark32bitItem>(32-bit)</mark32bitItem>
-	</ListCtrl>
-	<ExplorerBar>
-		<itemShortSearchTip>入力するとプログラムを検索します</itemShortSearchTip>
-	</ExplorerBar>
-	<UninstallWizard>
-		<statusScanning>残されたファイル、フォルダーおよびレジストリ アイテムをスキャンしています...</statusScanning>
-		<statusLeftOverTracesFound>いくつかの残されたトレースが見つかりました!</statusLeftOverTracesFound>
-		<statusNothingFound>残されたトレースが見つかりませんでした。</statusNothingFound>
-		<statusAllTracesRemoved>すべてのトレースが削除されました</statusAllTracesRemoved>
-		<statusDeletingProgramTraces>プログラムのトレースを削除しています...</statusDeletingProgramTraces>
-		<treeItemFileSystem>ファイル システム (%d 個のアイテム)</treeItemFileSystem>
-		<treeItemRegistry>レジストリ (%d 個のアイテム)</treeItemRegistry>
-		<treeItemPopopMenuBrowse>参照...</treeItemPopopMenuBrowse>
-		<btnFinish>完了</btnFinish>
-		<btnCancel>キャンセル</btnCancel>
-		<btnClose>閉じる</btnClose>
-	</UninstallWizard>
-	<DlgAbout>
-		<DlgAboutCaption>Geek Uninstaller のバージョン情報</DlgAboutCaption>
-	</DlgAbout>
-	<Messages>
-		<msgUninstallFailed>アンインストール処理に失敗しました。\nレジストリからこのプログラムのエントリを削除してそのファイルを削除しますか?</msgUninstallFailed>
-		<msgForceRemovalQuestion>このプログラムの強制削除を実行してもよろしいですか?</msgForceRemovalQuestion>
-		<msgRemoveEntryQuestion>このエントリを削除してもよろしいですか?</msgRemoveEntryQuestion>
-		<msgRemoveEntryFailed>このアイテムのレジストリ エントリの削除に失敗しました。\nおそらくアクセス権限がありません。</msgRemoveEntryFailed>
-		<msgNewVersionAvailable>新しいバージョン %s が利用可能です:</msgNewVersionAvailable>
-		<msgNewVersionAvailable2>New version of GeekUninstaller is available! Press OK to visit our website and download the newest version.</msgNewVersionAvailable2>
-	</Messages>
-	<ProVersion>
-		<statusMessage>Upgrade to PRO version</statusMessage>
-		<WhatsCool>What's cool about PRO version:</WhatsCool>
-		<Feature1>Real-time installation monitor</Feature1>
-		<Feature2>Thorough and complete removal</Feature2>
-		<Feature3>Start-up programs management</Feature3>
-		<Feature4>Modern interface, technical support</Feature4>
-		<Feature5>Batch removal</Feature5>
-		<buttonUpgrade>Upgrade</buttonUpgrade>
-	</ProVersion>
-	<HTMLReport>
-		<htmlFiles>HTML ファイル</htmlFiles>
-		<allFiles>すべてのファイル</allFiles>
-		<generatedByOn>%s によって %s に生成されました</generatedByOn>
-		<installedPrograms>インストールされているプログラム (%s)</installedPrograms>
-	</HTMLReport>
-	<Misc>
-		<btnOK>OK</btnOK>
-		<btnCancel>キャンセル</btnCancel>
-		<btnHelp>ヘルプ</btnHelp>
-		<btnYes>はい</btnYes>
-		<btnNo>いいえ</btnNo>
-		<btnClose>閉じる</btnClose>
-		<statusTotalInfo>合計で %d 個 (%s) のプログラム</statusTotalInfo>
-		<statusUnknown>不明</statusUnknown>
-		<WindowsUpdatesText>Windows の更新プログラム</WindowsUpdatesText>
-	</Misc>
+    <MainMenu>
+        <mnuFile>ファイル(&amp;F)</mnuFile>
+        <mnuFileExport>HTML へエクスポート(&amp;E)...</mnuFileExport>
+        <mnuFileExit>終了(&amp;X)</mnuFileExit>
+        <mnuAction>動作(&amp;A)</mnuAction>
+        <mnuActionUninstall>アンインストール(&amp;U)...</mnuActionUninstall>
+        <mnuActionModify>変更(&amp;M)...</mnuActionModify>
+        <mnuActionDelete>強制削除(&amp;F)</mnuActionDelete>
+        <mnuActionDeleteBatch>Batch &amp;Force Removal</mnuActionDeleteBatch>
+        <mnuActionRemoveEntry>エントリの削除(&amp;E)</mnuActionRemoveEntry>
+        <mnuActionRemoveEntryBatch>Batch Remove &amp;Entries</mnuActionRemoveEntryBatch>
+        <mnuActionJumpToRegistry>レジストリ エントリ(&amp;R)</mnuActionJumpToRegistry>
+        <mnuActionJumpToProgramFolder>インストール フォルダー(&amp;I)</mnuActionJumpToProgramFolder>
+        <mnuActionJumpToWebSite>プログラムの Web サイト(&amp;P)</mnuActionJumpToWebSite>
+        <mnuActionOpenWindowsStore>Open in Windows Store</mnuActionOpenWindowsStore>
+        <mnuActionBrowseLocation>場所の参照...</mnuActionBrowseLocation>
+        <mnuActionBrowseSource>ソースの参照...</mnuActionBrowseSource>
+        <mnuActionGoogleFor>ググる</mnuActionGoogleFor>
+        <mnuView>表示(&amp;V)</mnuView>
+        <mnuViewDesktopApps>Desktop Apps</mnuViewDesktopApps>
+        <mnuViewWinStoreApps>Windows Store Apps</mnuViewWinStoreApps>
+        <mnuViewRefresh>更新(&amp;R)</mnuViewRefresh>
+        <mnuViewListColumnsReset>列のリセット</mnuViewListColumnsReset>
+        <mnuViewLanguage>インターフェイス言語</mnuViewLanguage>
+        <mnuHelp>ヘルプ(&amp;H)</mnuHelp>
+        <mnuHelpAbout>バージョン情報(&amp;A)...</mnuHelpAbout>
+        <mnuHelpHomePage>Home Page</mnuHelpHomePage>
+    </MainMenu>
+    <ListCtrl>
+        <columnProgramName>プログラム名</columnProgramName>
+        <columnSize>サイズ</columnSize>
+        <columnInstallationDate>インストール日</columnInstallationDate>
+        <staticLoading>Loading, please wait...</staticLoading>
+        <staticNoItemsMatchingFilterTip>No matching items, press ESC to reset</staticNoItemsMatchingFilterTip>
+        <staticNoProgramsInCategory>Seems like no Windows Store apps installed</staticNoProgramsInCategory>
+        <mark32bitItem>(32-bit)</mark32bitItem>
+    </ListCtrl>
+    <ExplorerBar>
+        <itemShortSearchTip>入力するとプログラムを検索します</itemShortSearchTip>
+    </ExplorerBar>
+    <UninstallWizard>
+        <statusScanning>残されたファイル、フォルダーおよびレジストリ アイテムをスキャンしています...</statusScanning>
+        <statusLeftOverTracesFound>いくつかの残されたトレースが見つかりました!</statusLeftOverTracesFound>
+        <statusNothingFound>残されたトレースが見つかりませんでした。</statusNothingFound>
+        <statusAllTracesRemoved>すべてのトレースが削除されました</statusAllTracesRemoved>
+        <statusDeletingProgramTraces>プログラムのトレースを削除しています...</statusDeletingProgramTraces>
+        <treeItemFileSystem>ファイル システム (%d 個のアイテム)</treeItemFileSystem>
+        <treeItemRegistry>レジストリ (%d 個のアイテム)</treeItemRegistry>
+        <treeItemPopopMenuBrowse>参照...</treeItemPopopMenuBrowse>
+        <btnFinish>完了</btnFinish>
+        <btnCancel>キャンセル</btnCancel>
+        <btnClose>閉じる</btnClose>
+    </UninstallWizard>
+    <DlgAbout>
+        <DlgAboutCaption>Geek Uninstaller のバージョン情報</DlgAboutCaption>
+    </DlgAbout>
+    <Messages>
+        <msgUninstallFailed>アンインストール処理に失敗しました。\nレジストリからこのプログラムのエントリを削除してそのファイルを削除しますか?</msgUninstallFailed>
+        <msgForceRemovalQuestion>このプログラムの強制削除を実行してもよろしいですか?</msgForceRemovalQuestion>
+        <msgRemoveEntryQuestion>このエントリを削除してもよろしいですか?</msgRemoveEntryQuestion>
+        <msgRemoveEntryFailed>このアイテムのレジストリ エントリの削除に失敗しました。\nおそらくアクセス権限がありません。</msgRemoveEntryFailed>
+        <msgNewVersionAvailable>新しいバージョン %s が利用可能です:</msgNewVersionAvailable>
+        <msgNewVersionAvailable2>New version of GeekUninstaller is available! Press OK to visit our website and download the newest version.</msgNewVersionAvailable2>
+    </Messages>
+    <ProVersion>
+        <statusMessage>Upgrade to PRO version</statusMessage>
+        <WhatsCool>What's cool about PRO version:</WhatsCool>
+        <Feature1>Real-time installation monitor</Feature1>
+        <Feature2>Thorough and complete removal</Feature2>
+        <Feature3>Start-up programs management</Feature3>
+        <Feature4>Modern interface, technical support</Feature4>
+        <Feature5>Batch removal</Feature5>
+        <buttonUpgrade>Upgrade</buttonUpgrade>
+    </ProVersion>
+    <HTMLReport>
+        <htmlFiles>HTML ファイル</htmlFiles>
+        <allFiles>すべてのファイル</allFiles>
+        <generatedByOn>%s によって %s に生成されました</generatedByOn>
+        <installedPrograms>インストールされているプログラム (%s)</installedPrograms>
+    </HTMLReport>
+    <Misc>
+        <btnOK>OK</btnOK>
+        <btnCancel>キャンセル</btnCancel>
+        <btnHelp>ヘルプ</btnHelp>
+        <btnYes>はい</btnYes>
+        <btnNo>いいえ</btnNo>
+        <btnClose>閉じる</btnClose>
+        <statusTotalInfo>合計で %d 個 (%s) のプログラム</statusTotalInfo>
+        <statusUnknown>不明</statusUnknown>
+        <WindowsUpdatesText>Windows の更新プログラム</WindowsUpdatesText>
+    </Misc>
 </LanguageStrings>

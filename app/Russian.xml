@@ -1,94 +1,94 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageStrings>
-	<MainMenu>
-		<mnuFile>&amp;Файл</mnuFile>
-		<mnuFileExport>&amp;Экспортировать список в HTML...</mnuFileExport>
-		<mnuFileExit>&amp;Выход</mnuFileExit>
-		<mnuAction>&amp;Действие</mnuAction>
-		<mnuActionUninstall>Д&amp;еинсталляция...</mnuActionUninstall>
-		<mnuActionModify>&amp;Изменить...</mnuActionModify>
-		<mnuActionDelete>&amp;Принудительное удаление</mnuActionDelete>
-		<mnuActionDeleteBatch>Пакетное принудительное удаление...</mnuActionDeleteBatch>
-		<mnuActionRemoveEntry>&amp;Удалить запись...</mnuActionRemoveEntry>
-		<mnuActionRemoveEntryBatch>Пакетное удаление записей...</mnuActionRemoveEntryBatch>
-		<mnuActionJumpToRegistry>&amp;Запись в реестре</mnuActionJumpToRegistry>
-		<mnuActionJumpToProgramFolder>&amp;Папка программы</mnuActionJumpToProgramFolder>
-		<mnuActionJumpToWebSite>&amp;Веб-сайт программы</mnuActionJumpToWebSite>
-		<mnuActionOpenWindowsStore>Открыть в Windows Store</mnuActionOpenWindowsStore>
-		<mnuActionBrowseLocation>&amp;Папка программы...</mnuActionBrowseLocation>
-		<mnuActionBrowseSource>&amp;Источник запуска...</mnuActionBrowseSource>
-		<mnuActionGoogleFor>Искать в Google</mnuActionGoogleFor>
-		<mnuView>&amp;Вид</mnuView>
-		<mnuViewDesktopApps>Классические приложения</mnuViewDesktopApps>
-		<mnuViewWinStoreApps>Программы из Windows Store</mnuViewWinStoreApps>
-		<mnuViewRefresh>&amp;Обновить</mnuViewRefresh>
-		<mnuViewListColumnsReset>Сбросить состояние колонок</mnuViewListColumnsReset>
-		<mnuViewLanguage>Язык интерфейса</mnuViewLanguage>
-		<mnuHelp>&amp;Помощь</mnuHelp>
-		<mnuHelpAbout>&amp;О программе...</mnuHelpAbout>
-		<mnuHelpHomePage>Домашняя страница</mnuHelpHomePage>
-	</MainMenu>
-	<ListCtrl>
-		<columnProgramName>Программа</columnProgramName>
-		<columnSize>Размер</columnSize>
-		<columnInstallationDate>Установлено</columnInstallationDate>
-		<staticLoading>Загрузка, подождите...</staticLoading>
-		<staticNoItemsMatchingFilterTip>Нет элементов, удовлетворяющих фильру. Нажмите ESC для сброса</staticNoItemsMatchingFilterTip>
-		<staticNoProgramsInCategory>Похоже, программ из Магазина Приложений Windows не установлено</staticNoProgramsInCategory>
-		<mark32bitItem>(32-бита)</mark32bitItem>
-	</ListCtrl>
-	<ExplorerBar>
-		<itemShortSearchTip>Введите слово для поиска</itemShortSearchTip>
-	</ExplorerBar>
-	<UninstallWizard>
-		<statusScanning>Сканирование оставшихся файлов/папок, элементов реестра...</statusScanning>
-		<statusLeftOverTracesFound>Остались некоторые части программы</statusLeftOverTracesFound>
-		<statusNothingFound>Никаких остатков программы не осталось</statusNothingFound>
-		<statusAllTracesRemoved>Все остатки программы удалены</statusAllTracesRemoved>
-		<statusDeletingProgramTraces>Удаление элементов...</statusDeletingProgramTraces>
-		<treeItemFileSystem>Файловая система (%d элементов)</treeItemFileSystem>
-		<treeItemRegistry>Реестр (%d элементов)</treeItemRegistry>
-		<treeItemPopopMenuBrowse>Просмотреть...</treeItemPopopMenuBrowse>
-		<btnFinish>Удалить</btnFinish>
-		<btnCancel>Отмена</btnCancel>
-		<btnClose>Закрыть</btnClose>
-	</UninstallWizard>
-	<DlgAbout>
-		<DlgAboutCaption>О программе Geek Uninstaller</DlgAboutCaption>
-	</DlgAbout>
-	<Messages>
-		<msgUninstallFailed>Деинсталляция не отработала корректно. \nВы хотите удалить запись для этой программы из реестра и удалить принадлежащие ей файлы?</msgUninstallFailed>
-		<msgForceRemovalQuestion>Вы действительно хотите произвести принудительное удаление этой программы?</msgForceRemovalQuestion>
-		<msgRemoveEntryQuestion>Удалить запись из списка программ?</msgRemoveEntryQuestion>
-		<msgRemoveEntryFailed>Удаление записи из реестра не произошло. \nСкорее всего у вас недостаточно прав для этого.</msgRemoveEntryFailed>
-		<msgNewVersionAvailable>Доступна новая версия %s</msgNewVersionAvailable>
-		<msgNewVersionAvailable2>Доступная новая версия программы GeekUninstaller! Нажмите OK для открытия веб сайта и загрузки.</msgNewVersionAvailable2>
-	</Messages>
-	<ProVersion>
-		<statusMessage>Апгрейд до ПРО версии</statusMessage>
-		<WhatsCool>Что крутого в профессиональной редакции программы:</WhatsCool>
-		<Feature1>Монитор Установки ПО реального времени</Feature1>
-		<Feature2>Самое полное и точное удаление программ</Feature2>
-		<Feature3>Управление автозапускаемых программ</Feature3>
-		<Feature4>Невероятный интерфейс и профессиональная поддержка</Feature4>
-		<Feature5>Пакетное удаление программ</Feature5>
-		<buttonUpgrade>Апгрейд</buttonUpgrade>
-	</ProVersion>
-	<HTMLReport>
-		<htmlFiles>HTML файлы</htmlFiles>
-		<allFiles>Все файлы</allFiles>
-		<generatedByOn>Список сгенерирован с помощью %s на дату: %s</generatedByOn>
-		<installedPrograms>Установленные программы (%s)</installedPrograms>
-	</HTMLReport>
-	<Misc>
-		<btnOK>ОК</btnOK>
-		<btnCancel>Отмена</btnCancel>
-		<btnHelp>Помощь</btnHelp>
-		<btnYes>Да</btnYes>
-		<btnNo>Нет</btnNo>
-		<btnClose>Закрыть</btnClose>
-		<statusTotalInfo>%d программ, полный размер - %s</statusTotalInfo>
-		<statusUnknown>неизвестно</statusUnknown>
-		<WindowsUpdatesText>Обновления Windows</WindowsUpdatesText>
-	</Misc>
+    <MainMenu>
+        <mnuFile>&amp;Файл</mnuFile>
+        <mnuFileExport>&amp;Экспортировать список в HTML...</mnuFileExport>
+        <mnuFileExit>&amp;Выход</mnuFileExit>
+        <mnuAction>&amp;Действие</mnuAction>
+        <mnuActionUninstall>Д&amp;еинсталляция...</mnuActionUninstall>
+        <mnuActionModify>&amp;Изменить...</mnuActionModify>
+        <mnuActionDelete>&amp;Принудительное удаление</mnuActionDelete>
+        <mnuActionDeleteBatch>Пакетное принудительное удаление...</mnuActionDeleteBatch>
+        <mnuActionRemoveEntry>&amp;Удалить запись...</mnuActionRemoveEntry>
+        <mnuActionRemoveEntryBatch>Пакетное удаление записей...</mnuActionRemoveEntryBatch>
+        <mnuActionJumpToRegistry>&amp;Запись в реестре</mnuActionJumpToRegistry>
+        <mnuActionJumpToProgramFolder>&amp;Папка программы</mnuActionJumpToProgramFolder>
+        <mnuActionJumpToWebSite>&amp;Веб-сайт программы</mnuActionJumpToWebSite>
+        <mnuActionOpenWindowsStore>Открыть в Windows Store</mnuActionOpenWindowsStore>
+        <mnuActionBrowseLocation>&amp;Папка программы...</mnuActionBrowseLocation>
+        <mnuActionBrowseSource>&amp;Источник запуска...</mnuActionBrowseSource>
+        <mnuActionGoogleFor>Искать в Google</mnuActionGoogleFor>
+        <mnuView>&amp;Вид</mnuView>
+        <mnuViewDesktopApps>Классические приложения</mnuViewDesktopApps>
+        <mnuViewWinStoreApps>Программы из Windows Store</mnuViewWinStoreApps>
+        <mnuViewRefresh>&amp;Обновить</mnuViewRefresh>
+        <mnuViewListColumnsReset>Сбросить состояние колонок</mnuViewListColumnsReset>
+        <mnuViewLanguage>Язык интерфейса</mnuViewLanguage>
+        <mnuHelp>&amp;Помощь</mnuHelp>
+        <mnuHelpAbout>&amp;О программе...</mnuHelpAbout>
+        <mnuHelpHomePage>Домашняя страница</mnuHelpHomePage>
+    </MainMenu>
+    <ListCtrl>
+        <columnProgramName>Программа</columnProgramName>
+        <columnSize>Размер</columnSize>
+        <columnInstallationDate>Установлено</columnInstallationDate>
+        <staticLoading>Загрузка, подождите...</staticLoading>
+        <staticNoItemsMatchingFilterTip>Нет элементов, удовлетворяющих фильру. Нажмите ESC для сброса</staticNoItemsMatchingFilterTip>
+        <staticNoProgramsInCategory>Похоже, программ из Магазина Приложений Windows не установлено</staticNoProgramsInCategory>
+        <mark32bitItem>(32-бита)</mark32bitItem>
+    </ListCtrl>
+    <ExplorerBar>
+        <itemShortSearchTip>Введите слово для поиска</itemShortSearchTip>
+    </ExplorerBar>
+    <UninstallWizard>
+        <statusScanning>Сканирование оставшихся файлов/папок, элементов реестра...</statusScanning>
+        <statusLeftOverTracesFound>Остались некоторые части программы</statusLeftOverTracesFound>
+        <statusNothingFound>Никаких остатков программы не осталось</statusNothingFound>
+        <statusAllTracesRemoved>Все остатки программы удалены</statusAllTracesRemoved>
+        <statusDeletingProgramTraces>Удаление элементов...</statusDeletingProgramTraces>
+        <treeItemFileSystem>Файловая система (%d элементов)</treeItemFileSystem>
+        <treeItemRegistry>Реестр (%d элементов)</treeItemRegistry>
+        <treeItemPopopMenuBrowse>Просмотреть...</treeItemPopopMenuBrowse>
+        <btnFinish>Удалить</btnFinish>
+        <btnCancel>Отмена</btnCancel>
+        <btnClose>Закрыть</btnClose>
+    </UninstallWizard>
+    <DlgAbout>
+        <DlgAboutCaption>О программе Geek Uninstaller</DlgAboutCaption>
+    </DlgAbout>
+    <Messages>
+        <msgUninstallFailed>Деинсталляция не отработала корректно. \nВы хотите удалить запись для этой программы из реестра и удалить принадлежащие ей файлы?</msgUninstallFailed>
+        <msgForceRemovalQuestion>Вы действительно хотите произвести принудительное удаление этой программы?</msgForceRemovalQuestion>
+        <msgRemoveEntryQuestion>Удалить запись из списка программ?</msgRemoveEntryQuestion>
+        <msgRemoveEntryFailed>Удаление записи из реестра не произошло. \nСкорее всего у вас недостаточно прав для этого.</msgRemoveEntryFailed>
+        <msgNewVersionAvailable>Доступна новая версия %s</msgNewVersionAvailable>
+        <msgNewVersionAvailable2>Доступная новая версия программы GeekUninstaller! Нажмите OK для открытия веб сайта и загрузки.</msgNewVersionAvailable2>
+    </Messages>
+    <ProVersion>
+        <statusMessage>Апгрейд до ПРО версии</statusMessage>
+        <WhatsCool>Что крутого в профессиональной редакции программы:</WhatsCool>
+        <Feature1>Монитор Установки ПО реального времени</Feature1>
+        <Feature2>Самое полное и точное удаление программ</Feature2>
+        <Feature3>Управление автозапускаемых программ</Feature3>
+        <Feature4>Невероятный интерфейс и профессиональная поддержка</Feature4>
+        <Feature5>Пакетное удаление программ</Feature5>
+        <buttonUpgrade>Апгрейд</buttonUpgrade>
+    </ProVersion>
+    <HTMLReport>
+        <htmlFiles>HTML файлы</htmlFiles>
+        <allFiles>Все файлы</allFiles>
+        <generatedByOn>Список сгенерирован с помощью %s на дату: %s</generatedByOn>
+        <installedPrograms>Установленные программы (%s)</installedPrograms>
+    </HTMLReport>
+    <Misc>
+        <btnOK>ОК</btnOK>
+        <btnCancel>Отмена</btnCancel>
+        <btnHelp>Помощь</btnHelp>
+        <btnYes>Да</btnYes>
+        <btnNo>Нет</btnNo>
+        <btnClose>Закрыть</btnClose>
+        <statusTotalInfo>%d программ, полный размер - %s</statusTotalInfo>
+        <statusUnknown>неизвестно</statusUnknown>
+        <WindowsUpdatesText>Обновления Windows</WindowsUpdatesText>
+    </Misc>
 </LanguageStrings>

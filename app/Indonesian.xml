@@ -1,95 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageStrings>
-	<MainMenu>
-		<mnuFile>&amp;Berkas</mnuFile>
-		<mnuFileExport>&amp;Ekspor ke HTML...</mnuFileExport>
-		<mnuFileExit>&amp;Keluar</mnuFileExit>
-		<mnuAction>Tin&amp;dakan</mnuAction>
-		<mnuActionUninstall>&amp;Hapus Program...</mnuActionUninstall>
-		<mnuActionModify>&amp;Modifikasi...</mnuActionModify>
-		<mnuActionDelete>Hapus &amp;Paksa</mnuActionDelete>
-		<mnuActionDeleteBatch>&amp;Batch Hapus Paksa</mnuActionDeleteBatch>
-		<mnuActionRemoveEntry>Hapus &amp;Entri</mnuActionRemoveEntry>
-		<mnuActionRemoveEntryBatch>Batch &amp;Hapus Entri</mnuActionRemoveEntryBatch>
-		<mnuActionJumpToRegistry>&amp;Entri Registri</mnuActionJumpToRegistry>
-		<mnuActionJumpToProgramFolder>&amp;Folder Instalasi</mnuActionJumpToProgramFolder>
-		<mnuActionJumpToWebSite>&amp;Situs Program</mnuActionJumpToWebSite>
-		<mnuActionOpenWindowsStore>Buka di Windows Store</mnuActionOpenWindowsStore>
-		<mnuActionBrowseLocation>Jelajahi Lokasi...</mnuActionBrowseLocation>
-		<mnuActionBrowseSource>Jelajahi Sumber...</mnuActionBrowseSource>
-		<mnuActionGoogleFor>Cari di Google</mnuActionGoogleFor>
-		<mnuView>&amp;Tampilan</mnuView>
-		<mnuViewDesktopApps>Aplikasi Desktop</mnuViewDesktopApps>
-		<mnuViewWinStoreApps>Aplikasi Windows Store</mnuViewWinStoreApps>
-		<mnuViewInitialSort>Urutkan Berdasarkan</mnuViewInitialSort>
-		<mnuViewRefresh>&amp;Segarkan</mnuViewRefresh>
-		<mnuViewListColumnsReset>Atur ulang kolom</mnuViewListColumnsReset>
-		<mnuViewLanguage>Tampilan bahasa</mnuViewLanguage>
-		<mnuHelp>Ba&amp;ntuan</mnuHelp>
-		<mnuHelpAbout>&amp;Tentang...</mnuHelpAbout>
-		<mnuHelpHomePage>&amp;Halaman situs</mnuHelpHomePage>
-	</MainMenu>
-	<ListCtrl>
-		<columnProgramName>Nama program</columnProgramName>
-		<columnSize>Ukuran</columnSize>
-		<columnInstallationDate>Terinstal pada</columnInstallationDate>
-		<staticLoading>Memuat, silahkan tunggu...</staticLoading>
-		<staticNoItemsMatchingFilterTip>Tidak ada item yang cocok, tekan ESC untuk mengatur ulang</staticNoItemsMatchingFilterTip>
-		<staticNoProgramsInCategory>Sepertinya tidak ada aplikasi Windows Store yang terinstal</staticNoProgramsInCategory>
-		<mark32bitItem>(32-bit)</mark32bitItem>
-	</ListCtrl>
-	<ExplorerBar>
-		<itemShortSearchTip>Ketik untuk mencari sebuah program</itemShortSearchTip>
-	</ExplorerBar>
-	<UninstallWizard>
-		<statusScanning>Memindai sisa berkas, folder dan item registri...</statusScanning>
-		<statusLeftOverTracesFound>Beberapa sisa jejak ditemukan!</statusLeftOverTracesFound>
-		<statusNothingFound>Tidak ditemukan sisa penelusuran.</statusNothingFound>
-		<statusAllTracesRemoved>Semua penelusuran terhapus</statusAllTracesRemoved>
-		<statusDeletingProgramTraces>Menghapus penelusuran program...</statusDeletingProgramTraces>
-		<treeItemFileSystem>Berkas Sistem (%d item)</treeItemFileSystem>
-		<treeItemRegistry>Registri (%d item)</treeItemRegistry>
-		<treeItemPopopMenuBrowse>Jelajahi...</treeItemPopopMenuBrowse>
-		<btnFinish>Selesai</btnFinish>
-		<btnCancel>Batal</btnCancel>
-		<btnClose>Tutup</btnClose>
-	</UninstallWizard>
-	<DlgAbout>
-		<DlgAboutCaption>Tentang Geek Uninstaller</DlgAboutCaption>
-	</DlgAbout>
-	<Messages>
-		<msgUninstallFailed>Proses penghapusan gagal. Apakah anda ingin membersihkan entri program ini dari registri dan menghapus berkasnya?</msgUninstallFailed>
-		<msgForceRemovalQuestion>Apakah anda yakin ingin melakukan hapus paksa program ini?</msgForceRemovalQuestion>
-		<msgRemoveEntryQuestion>Apakah anda yakin ingin menghapus entri ini?</msgRemoveEntryQuestion>
-		<msgRemoveEntryFailed>Gagal menghapus entri registri dari item ini. \nKemungkinan anda tidak memiliki hak akses untuk melakukanya.</msgRemoveEntryFailed>
-		<msgNewVersionAvailable>Versi baru program %s telah tersedia</msgNewVersionAvailable>
-		<msgNewVersionAvailable2>Versi baru dari GeekUninstaller telah tersedia! Tekan OK untuk mengunjungi website dan download versi terbaru..</msgNewVersionAvailable2>
-	</Messages>
-	<ProVersion>
-		<statusMessage>Tingkatkan ke versi PRO</statusMessage>
-		<WhatsCool>Apa keunggulan dari versi PRO:</WhatsCool>
-		<Feature1>Monitoring Instalasi Real-time</Feature1>
-		<Feature2>Menghapus secara mendalam dan menyeluruh</Feature2>
-		<Feature3>Manajemen Program Start-up</Feature3>
-		<Feature4>Antar muka Modern, Dukungan Teknis</Feature4>
-		<Feature5>Menghapus Batch</Feature5>
-		<buttonUpgrade>Tingkatkan</buttonUpgrade>
-	</ProVersion>
-	<HTMLReport>
-		<htmlFiles>Berkas HTML</htmlFiles>
-		<allFiles>Semua Berkas</allFiles>
-		<generatedByOn>Dibuat oleh %s Pada %s</generatedByOn>
-		<installedPrograms>Program terinstal (%s)</installedPrograms>
-	</HTMLReport>
-	<Misc>
-		<btnOK>OK</btnOK>
-		<btnCancel>Batal</btnCancel>
-		<btnHelp>Bantuan</btnHelp>
-		<btnYes>Ya</btnYes>
-		<btnNo>Tidak</btnNo>
-		<btnClose>Tutup</btnClose>
-		<statusTotalInfo>%d Program dari %s Ukuran total</statusTotalInfo>
-		<statusUnknown>Tak dikenal</statusUnknown>
-		<WindowsUpdatesText>Perbaharui Windows</WindowsUpdatesText>
-	</Misc>
+    <MainMenu>
+        <mnuFile>&amp;Berkas</mnuFile>
+        <mnuFileExport>&amp;Ekspor ke HTML...</mnuFileExport>
+        <mnuFileExit>&amp;Keluar</mnuFileExit>
+        <mnuAction>Tin&amp;dakan</mnuAction>
+        <mnuActionUninstall>&amp;Hapus Program...</mnuActionUninstall>
+        <mnuActionModify>&amp;Modifikasi...</mnuActionModify>
+        <mnuActionDelete>Hapus &amp;Paksa</mnuActionDelete>
+        <mnuActionDeleteBatch>&amp;Batch Hapus Paksa</mnuActionDeleteBatch>
+        <mnuActionRemoveEntry>Hapus &amp;Entri</mnuActionRemoveEntry>
+        <mnuActionRemoveEntryBatch>Batch &amp;Hapus Entri</mnuActionRemoveEntryBatch>
+        <mnuActionJumpToRegistry>&amp;Entri Registri</mnuActionJumpToRegistry>
+        <mnuActionJumpToProgramFolder>&amp;Folder Instalasi</mnuActionJumpToProgramFolder>
+        <mnuActionJumpToWebSite>&amp;Situs Program</mnuActionJumpToWebSite>
+        <mnuActionOpenWindowsStore>Buka di Windows Store</mnuActionOpenWindowsStore>
+        <mnuActionBrowseLocation>Jelajahi Lokasi...</mnuActionBrowseLocation>
+        <mnuActionBrowseSource>Jelajahi Sumber...</mnuActionBrowseSource>
+        <mnuActionGoogleFor>Cari di Google</mnuActionGoogleFor>
+        <mnuView>&amp;Tampilan</mnuView>
+        <mnuViewDesktopApps>Aplikasi Desktop</mnuViewDesktopApps>
+        <mnuViewWinStoreApps>Aplikasi Windows Store</mnuViewWinStoreApps>
+        <mnuViewInitialSort>Urutkan Berdasarkan</mnuViewInitialSort>
+        <mnuViewRefresh>&amp;Segarkan</mnuViewRefresh>
+        <mnuViewListColumnsReset>Atur ulang kolom</mnuViewListColumnsReset>
+        <mnuViewLanguage>Tampilan bahasa</mnuViewLanguage>
+        <mnuHelp>Ba&amp;ntuan</mnuHelp>
+        <mnuHelpAbout>&amp;Tentang...</mnuHelpAbout>
+        <mnuHelpHomePage>&amp;Halaman situs</mnuHelpHomePage>
+    </MainMenu>
+    <ListCtrl>
+        <columnProgramName>Nama program</columnProgramName>
+        <columnSize>Ukuran</columnSize>
+        <columnInstallationDate>Terinstal pada</columnInstallationDate>
+        <staticLoading>Memuat, silahkan tunggu...</staticLoading>
+        <staticNoItemsMatchingFilterTip>Tidak ada item yang cocok, tekan ESC untuk mengatur ulang</staticNoItemsMatchingFilterTip>
+        <staticNoProgramsInCategory>Sepertinya tidak ada aplikasi Windows Store yang terinstal</staticNoProgramsInCategory>
+        <mark32bitItem>(32-bit)</mark32bitItem>
+    </ListCtrl>
+    <ExplorerBar>
+        <itemShortSearchTip>Ketik untuk mencari sebuah program</itemShortSearchTip>
+    </ExplorerBar>
+    <UninstallWizard>
+        <statusScanning>Memindai sisa berkas, folder dan item registri...</statusScanning>
+        <statusLeftOverTracesFound>Beberapa sisa jejak ditemukan!</statusLeftOverTracesFound>
+        <statusNothingFound>Tidak ditemukan sisa penelusuran.</statusNothingFound>
+        <statusAllTracesRemoved>Semua penelusuran terhapus</statusAllTracesRemoved>
+        <statusDeletingProgramTraces>Menghapus penelusuran program...</statusDeletingProgramTraces>
+        <treeItemFileSystem>Berkas Sistem (%d item)</treeItemFileSystem>
+        <treeItemRegistry>Registri (%d item)</treeItemRegistry>
+        <treeItemPopopMenuBrowse>Jelajahi...</treeItemPopopMenuBrowse>
+        <btnFinish>Selesai</btnFinish>
+        <btnCancel>Batal</btnCancel>
+        <btnClose>Tutup</btnClose>
+    </UninstallWizard>
+    <DlgAbout>
+        <DlgAboutCaption>Tentang Geek Uninstaller</DlgAboutCaption>
+    </DlgAbout>
+    <Messages>
+        <msgUninstallFailed>Proses penghapusan gagal. Apakah anda ingin membersihkan entri program ini dari registri dan menghapus berkasnya?</msgUninstallFailed>
+        <msgForceRemovalQuestion>Apakah anda yakin ingin melakukan hapus paksa program ini?</msgForceRemovalQuestion>
+        <msgRemoveEntryQuestion>Apakah anda yakin ingin menghapus entri ini?</msgRemoveEntryQuestion>
+        <msgRemoveEntryFailed>Gagal menghapus entri registri dari item ini. \nKemungkinan anda tidak memiliki hak akses untuk melakukanya.</msgRemoveEntryFailed>
+        <msgNewVersionAvailable>Versi baru program %s telah tersedia</msgNewVersionAvailable>
+        <msgNewVersionAvailable2>Versi baru dari GeekUninstaller telah tersedia! Tekan OK untuk mengunjungi website dan download versi terbaru..</msgNewVersionAvailable2>
+    </Messages>
+    <ProVersion>
+        <statusMessage>Tingkatkan ke versi PRO</statusMessage>
+        <WhatsCool>Apa keunggulan dari versi PRO:</WhatsCool>
+        <Feature1>Monitoring Instalasi Real-time</Feature1>
+        <Feature2>Menghapus secara mendalam dan menyeluruh</Feature2>
+        <Feature3>Manajemen Program Start-up</Feature3>
+        <Feature4>Antar muka Modern, Dukungan Teknis</Feature4>
+        <Feature5>Menghapus Batch</Feature5>
+        <buttonUpgrade>Tingkatkan</buttonUpgrade>
+    </ProVersion>
+    <HTMLReport>
+        <htmlFiles>Berkas HTML</htmlFiles>
+        <allFiles>Semua Berkas</allFiles>
+        <generatedByOn>Dibuat oleh %s Pada %s</generatedByOn>
+        <installedPrograms>Program terinstal (%s)</installedPrograms>
+    </HTMLReport>
+    <Misc>
+        <btnOK>OK</btnOK>
+        <btnCancel>Batal</btnCancel>
+        <btnHelp>Bantuan</btnHelp>
+        <btnYes>Ya</btnYes>
+        <btnNo>Tidak</btnNo>
+        <btnClose>Tutup</btnClose>
+        <statusTotalInfo>%d Program dari %s Ukuran total</statusTotalInfo>
+        <statusUnknown>Tak dikenal</statusUnknown>
+        <WindowsUpdatesText>Perbaharui Windows</WindowsUpdatesText>
+    </Misc>
 </LanguageStrings>
