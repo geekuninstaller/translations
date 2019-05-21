@@ -71,7 +71,7 @@ about-page:
   title: About GeekUninstaller and its author
   description: About GeekUninstaller and its author
   text_1: My name is Thomas Koen. Being a software developer I spend a lot of time in front of a computer screen. And that is why I really care about my software tools. I'm quite picky and I have strong opinions how my tools should work. Chances are you are similar to me.
-  text_2: Geek Uninstaller is a simple but powerful utility. It's written using Visual C++ 2013, [TinyXML](https://github.com/leethomason/tinyxml2) and [Boost](http://www.boost.org/).
+  text_2: Geek Uninstaller is a simple but powerful utility. It's written using Visual C++ 2017, [TinyXML](https://github.com/leethomason/tinyxml2) and [Boost](http://www.boost.org/).
   pro_text: Pro version of GeekUninstaller is called [Uninstall Tool](https://www.crystalidea.com/uninstall-tool?source=geek&campaign=about) and it's developed by CrystalIDEA Software company based on my code.
   contact_me_title: Contact me
   contact_me_text: If you need to contact me, use the e-mail address below. Please write me in English or Dutch only.
