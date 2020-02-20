@@ -1,0 +1,87 @@
+top_menu:
+  overview: 概述
+  download: 下载
+  translate: 翻译
+  about: 关于
+
+main-page:
+  title: Geek Uninstaller - 最好的免费卸载工具
+  description: 高效快速，轻量便携，100% 免费！
+  header: 高效快速，轻量便携，100% 免费！
+  header_feature_1: 强制卸载，清除残留
+  header_feature_2: 支持原生 64 位
+  header_feature_3: 简单易用的用户界面
+  header_feature_4: 支持卸载 Windows 商店应用
+  button_download: 下载
+  stripe_1_header: 软件特色
+  tour_feature_1: 清除残留
+  tour_feature_1_text: 通过快速、深度的扫描来清除软件残留，还你一个干净的电脑。
+  tour_feature_2: 强制卸载
+  tour_feature_2_text: 强制卸载顽固或损坏的软件。
+  tour_feature_3: 简单易用的用户界面
+  tour_feature_3_text: 功能性强，简单明了，并且支持 40 余种语言！
+  tour_feature_4: 卸载 Windows 商店应用
+  tour_feature_4_text: 支持卸载 Windows 8/8.1/10 上的 Windows 商店应用。 
+  tour_feature_5: 智能快速
+  tour_feature_5_text: 轻轻一点，马上启动。支持查找应用和快速的残余扫描。
+  tour_feature_6: 轻量便携
+  tour_feature_6_text: 由单个 EXE 可执行文件构成，可以在任何 32 或 64 位 Wundows 系统中运行。
+  screen_1: 简单易用的用户界面
+  screen_1_text: 软件将会高亮标注出从上一次运行 Geek Uninstaller 以来所有安装或更改过的软件。
+  screen_2: 强制卸载，清除残留
+  screen_2_text: 普通的卸载程序会留下成堆的残留数据。Geek Uninstaller 可以通过快速、深度的扫描来清除它们。
+  screen_3: 卸载 Windows 商店应用
+  screen_3_text: 软件支持卸载 Windows 商店应用。可以通过软件菜单栏或快捷键 Ctrl+Tab 来在 Windows 商店应用和桌面应用间切换。
+  screen_4: 快速搜索
+  screen_4_text: 通过键入名称来定位软件
+  multilingual_interface: "Geek Uninstaller 已有如下语言的版本："
+  review_1: Geek Uninstaller 的表现令人赞叹。它能快速地卸载软件并且清除残余，而别的软件做不到这点。总的来说。这款软件是一款极佳的维护工具，不仅功能多，而且效果好。高度推荐。
+  review_2: 关键是 Geek Uninstaller 是一个非常易用且强大的软件，没有经验的用户也不会在使用过程中遇到问题。而这要归功于它的人性化、简洁明了的界面。
+  review_3: Geek Uninstaller 对于那些不希望软件卸载后留下残留的人们是完美的选择。
+  review_4: Geek Uninstaller 不仅便携，而且支持几乎所有人们所期待的软件功能。它很适合安装在 U 盘上，因为软件只由单文件构成，占空间极小。
+  review_5: 我已经厌倦了使用几个不同的卸载软件，只为分别管理我的 32 位和 64 位软件。它们不仅没有像我希望的那样工作，有些还充满了我不需要的各种功能。Geek Uninstaller 对我来说，是完美的选择。UI 简单漂亮，卸载软件既快速又精准。我真希望我早些发现这款软件，因为我为了管理我的 64 位软件，上周刚刚狠下心购买了 Revo Pro 许可……但我是如此的喜欢你的软件，所以我用它卸掉了 Revo Pro ，哈哈哈哈。
+  review_6: 我此前曾经使用过其他卸载软件（包括 Revo Uninstaller 和其他的），但你的软件轻而易举地打败了它们。在使用期间，我从未遇到任何问题，不像我用过的 Revo ，竟然不能把安装的软件完整列出。我很经常安装、卸载软件，所以 Geek Uninstaller 确实让我事半功倍，更不用说我的电脑变得更干净了。再次为这款优秀的产品向你表示感谢。
+  review_7: 我只想感谢这款软件的作者，开发出了如此强大的软件。我最近用过 Revo Uninstaller 和 IObit Uninstaller ，但它们并没有给我愉快的使用体验。Revo Uninstaller 无法列出我安装的所有软件，IObit Uninstaller 却删除得太多，常常引起其他软件崩溃。所以，简单的讲，在我遇到 Geek Uninstaller 之前，我没再用过其他卸载软件。你确实创造了更好的产品，谢谢你。我已经开始向我的家人、朋友推荐这款产品。你做的很棒，加油吧！
+  review_8: 我这几年用过许多的卸载软件。Geek Uninstaller 是我用过最好的、最易使用的卸载软件。它不仅极简，而且高效。恭喜你。
+
+download_page:
+  title: 下载 Geek Uninstaller
+  description: 下载 Geek Uninstaller
+  free_info: 供个人使用
+  free_text: 提供基础的软件卸载功能，但轻量、快速且强大。
+  free_feature_1: 仅供个人使用
+  free_feature_2: 无技术支持
+  pro_info: 终生许可
+  pro_text: 专业版本（Uninstall Tool）<br>拥有额外特性。
+  pro_from: 最低
+  pro_feature_1: 实时监视软件的安装状态
+  pro_feature_2: 启动项管理
+  pro_feature_3: 批量卸载
+  pro_feature_4: 彻底清除软件
+  pro_feature_5: 现代的界面和技术支持
+  pro_feature_6: 便携许可
+  pro_button_trial: 免费试用
+  pro_button_buy: 立即购买
+  compatibility: 兼容的系统
+  compatibility_text: 32 位或 64 位的 Windows 10/7/8/8.1/XP/Vista/2003/2008/Server 。需要管理员权限。<br>在 64 位 Windows 系统中，Geek Uninstaller 将以原生 64 位模式运行。
+  release_notes: 最新版本说明
+  release_notes_button: 查看完整列表
+
+about-page:
+  title: 关于 Geek Uninstaller 与作者
+  description: 关于 Geek Uninstaller 与作者
+  text_1: 我是 Thomas Koen。作为一个软件开发者，我经常长时间使用电脑，所以我特别注意我的软件和工具。我对自己使用的软件和它们工作的方式十分挑剔。或许你和我一样。
+  text_2: Geek Uninstaller 是一个简约但功能强大的工具箱，使用 Visual C++ 2013、[TinyXML](https://github.com/leethomason/tinyxml2) 和 [Boost](http://www.boost.org/) 编写。
+  pro_text: Geek Uninstaller 的专业版本是 [Uninstall Tool](https://www.crystalidea.com/uninstall-tool?source=geek&campaign=about) 由 CrystalIDEA Software 公司根据我的代码开发。
+  contact_me_title: 联系我
+  contact_me_text: 如果有需要，你可以通过下面的电子邮件地址联系我。和我联系时，请使用英语或荷兰语。
+  contact_me_button: 向我发送电子邮件
+
+footer:
+  connect_with_us: 关注 Geek Uninstaller
+  languages: 语言
+  products: 产品
+  try_ut: 试试 Geek Uninstaller 的专业版本
+  try_ut_more: Geek Uninstaller 的专业版本 Uninstall Tool 以 Geek Uninstaller 的代码为基础。
+  try_download: 下载
+  privacy_policy: 隐私政策
