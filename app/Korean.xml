@@ -32,7 +32,7 @@
         <columnProgramName>프로그램 이름</columnProgramName>
         <columnSize>크기</columnSize>
         <columnInstallationDate>설치 날짜</columnInstallationDate>
-        <staticLoading>불러오고 있습니다. 기다리세요...</staticLoading>
+        <staticLoading>불러오고 있습니다. 기다려 주세요...</staticLoading>
         <staticNoItemsMatchingFilterTip>일치하는 항목이 없습니다. 초기화하려면, ESC 키를 누르세요.</staticNoItemsMatchingFilterTip>
         <staticNoProgramsInCategory>설치된 Windows Store 앱이 없는 걸로 보입니다.</staticNoProgramsInCategory>
         <mark32bitItem>(32-bit)</mark32bitItem>
@@ -58,8 +58,8 @@
     </DlgAbout>
     <Messages>
         <msgUninstallFailed>제거 작업이 실패했습니다. \n레지스트리에서 이 프로그램의 항목을 지우고 그 파일(들)을 삭제할 건가요?</msgUninstallFailed>
-        <msgForceRemovalQuestion>참말로, 이 프로그램에 대해 강제 제거를 수행할 건가요?</msgForceRemovalQuestion>
-        <msgRemoveEntryQuestion>참말로, 이 항목을 제거할 건가요?</msgRemoveEntryQuestion>
+        <msgForceRemovalQuestion>정말 이 프로그램에 대해 강제 제거를 수행할 건가요?</msgForceRemovalQuestion>
+        <msgRemoveEntryQuestion>정말 이 항목을 제거할 건가요?</msgRemoveEntryQuestion>
         <msgRemoveEntryFailed>이 프로그램의 레지스트리 항목을 삭제하지 못했습니다.\n아마도 접근할 수 없는 듯 합니다.</msgRemoveEntryFailed>
         <msgNewVersionAvailable>새 버전 %s (이)가 사용 가능합니다.</msgNewVersionAvailable>
         <msgNewVersionAvailable2>GeekUninstaller의 새로운 버전을 사용할 수 있습니다! 우리 웹사이트에 방문해서 새로운 버전을 다운로드하려면, '확인'을 누르세요.</msgNewVersionAvailable2>
@@ -67,7 +67,7 @@
     <ProVersion>
         <statusMessage>PRO 버전으로 업그레이드</statusMessage>
         <WhatsCool>PRO 버전의 새로운 기능:</WhatsCool>
-        <Feature1>설시간 설치 감시</Feature1>
+        <Feature1>실시간 설치 감시</Feature1>
         <Feature2>철저하고 완전한 제거</Feature2>
         <Feature3>시작 프로그램 관리</Feature3>
         <Feature4>Modern 인터페이스, 기술 지원</Feature4>
