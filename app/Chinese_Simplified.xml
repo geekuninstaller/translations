@@ -38,7 +38,7 @@
         <mark32bitItem>(32-bit)</mark32bitItem>
     </ListCtrl>
     <ExplorerBar>
-        <itemShortSearchTip>键入要查找的程序</itemShortSearchTip>
+        <itemShortSearchTip>输入要查找的程序</itemShortSearchTip>
     </ExplorerBar>
     <UninstallWizard>
         <statusScanning>正在扫描残留的文件、文件夹和注册表项目...</statusScanning>
