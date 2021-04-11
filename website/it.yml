@@ -35,14 +35,14 @@ main-page:
   screen_4: Ricerca istantanea
   screen_4_text: Ricerca istantaneamente un programma
   multilingual_interface: "Geek Uninstaller è tradotto in molte lingue:"
-  review_1: Le performance di Geek Uninstaller sono impressionanti. Disinstalla velocemente ed elimina i file residui che nessuno trova. , the app is an impressive maintenance tool that delivers on both performance and features. Highly recommended.
-  review_2: The bottom line is that Geek Uninstaller is a nice tool that can be quite useful. Inexperienced users shouldn’t have any troubles while working with this program, thanks to its intuitive layout and overall simplicity.
-  review_3: Geek Uninstaller is perfect for anyone who wants to make sure they leave nothing behind on their system when they uninstall a program.
-  review_4: Geek Uninstaller is both portable and supports almost all the features anyone would expect from an uninstaller tool. Perfect for flash drives because it's a single file that takes up very little space.
-  review_5: I've gotten so sick of using several different uninstallers just to be able to manage both my 32 and 64-bit applications. Not only did they not work as well as I would like, most of them were bloated with all kinds of unnecessary features which I did not want. Geek Uninstaller is the perfect uninstaller for me. The UI is simple and perfect, and uninstalls are fast and accurate. I just wish I had found this sooner, as I finally got fed up with the other free 64bit uninstall app and caved and purchased a Revo Pro license just one week ago... I like your program so much that I used it to remove Revo Pro after I installed it, lol.
-  review_6: I've used other uninstallers before (i.e. Revo Uninstaller and others), and your product beats them hands-down. It's so easy to use, and I've never had a problem, as I did with Revo, with programs not populating the uninstall list. I install and uninstall software quite regularly, and GeekUninstaller has definitely made my life easier, not to mention my PC much cleaner. Thanks again for the excellent product.
-  review_7: I just want to say thank you very much for developing such a wonderful piece of software. I recently have used Revo Uninstaller and IObit Uninstaller, except they weren't so pleasing to use. Revo Uninstaller wouldn't list all my programs and IObit Uninstaller got rid of too much, causing other program conflict. So, in short...I gave up on using uninstallers period, until I downloaded GeekUninstaller. You literally have created something way better than the competition....And I just want to say thank you for that. I have already started recommending your product to friends and family. Good job you have done here, keep up the great work.
-  review_8: I've tried a ton of uninstallers over the years. Geek Uninstaller is, hands down, the finest uninstaller I've ever seen. Simple, extremely effective, easy and gets the job done. Congrats.
+  review_1: Le performance di Geek Uninstaller sono impressionanti. Disinstalla velocemente ed elimina i file residui che nessun'altro trova. L'app é un ottimo strumento di manutenzione che combina performance e funzionalità. Super raccomandata.
+  review_2: La cosa più importante di Geek Uninstaller é che può essere un strumento molto utile. Utenti senza esperienza non avranno nessun problema usando il programma, grazie alla sua interfaccia intuitiva e tutto sommato semplice.
+  review_3: Geek Uninstaller é perfetto per chiunque vuole assicurarsi di non lasciare nulla nel sistema quando disinstalla un programma.
+  review_4: Geek Uninstaller é sia portatile che supporta quasi tutte le funzionalità che ci si aspetta da un Disinstallatore. Perfetto per le penne USB perché é un singolo file che salva un sacco di spazio.
+  review_5: Ero così stanco di usare differenti programmi per disinstallare per coprire sia i programmi a 32 che 64 bit. Non solo hanno fatto un pessimo lavoro, ma la maggior parte era pieno di funzionalità che non volevo. Geek Uninstaller é perfetto per me. La UI é semplicemente perfetta, e disinstalla velocemente e accuratamente. Desidero di averlo trovato prima, stavo cercando un software per disinstallare le applicazione a 64bi ed ho trovato e comprato la licenza di Revo Pro una settimana fa... Mi piace così tanto il vostro programma che ho subito disinstallato Revo Pro appena ho installato GeekUnistaller, lol.
+  review_6: Ero abituato ad altri software (i.e. Revo Uninstaller e altri), ed il tuo prodotto li ha battuti a mani basse. Facile da usare, mai avuto un problema. Installo e Disinstallo programmi regolarmente, e GeekUninstaller ha reso la mia vita più semplice, per non dire il PC molto più pulito. Grazie ancora per il fantastico prodotto.
+  review_7: Voglio solo dire grazie mille per aver sviluppato questo bellissimo software. Recentemente ho usato Revo Uninstaller e IObit Uninstaller, però non erano così facili da usare. Revo Uninstaller non listava tutti i miei programmi e IObit Uninstaller cancellava troppo, causando conflitti con alcuni programmi. Quindi, in breve...Per un periodo ho rinunciato a questi strumenti, finquando ho scaricato GeekUninstaller. Hai letteralmente creato qualcosa migliore della concorrenza....E ti volevo dire grazie per questo. Ho già iniziato ha raccomandarlo ad amici e paranti. Hai fatto un ottimo lavoro, Continua così.
+  review_8: Ho provato tanti Disinstallatori negli anni. Geek Uninstaller é, a mani basse, il piú elegante che abbia mai visto. Semplice, estremamente efficace, facile e fa il suo lavoro. Bravissimo.
 
 download_page:
   title: Geek Uninstaller - Scarica
@@ -57,31 +57,31 @@ download_page:
   pro_feature_1: Monitor delle installazione in tempo reale
   pro_feature_2: Gestisci i programmi che si aprono all'avvio
   pro_feature_3: Rimozione a gruppi
-  pro_feature_4: Thorough and complete removal
-  pro_feature_5: Modern interface, technical support
-  pro_feature_6: Portable license available
-  pro_button_trial: Free Trial
-  pro_button_buy: Buy Now
-  compatibility: Compatibility
-  compatibility_text: 32 &amp; 64-bit Windows 10/7/8/8.1/XP/Vista/2003/2008/Server. Requires administrator permissions. <br>When running on x64 Windows Geek Uninstaller is running as native 64-bit application.
-  release_notes: Latest release notes
-  release_notes_button: View full list
+  pro_feature_4: Rimozione meticolosa e completa
+  pro_feature_5: Interfaccia moderna, supporto tecnico
+  pro_feature_6: Licensa portabile disponibile
+  pro_button_trial: Prova gratuita
+  pro_button_buy: Compra ora
+  compatibility: Compatibilità
+  compatibility_text: 32 &amp; 64-bit Windows 10/7/8/8.1/XP/Vista/2003/2008/Server. Servono permessi di amministratore. <br>Quando esegui su Windows x64, Geek Uninstaller sarà eseguito in modo nativo a 64-bit.
+  release_notes: Ultime note di rilascio
+  release_notes_button: Vedi la lista completa
 
 about-page:
-  title: About GeekUninstaller and its author
-  description: About GeekUninstaller and its author
-  text_1: My name is Thomas Koen. Being a software developer I spend a lot of time in front of a computer screen. And that is why I really care about my software tools. I'm quite picky and I have strong opinions how my tools should work. Chances are you are similar to me.
-  text_2: Geek Uninstaller is a simple but powerful utility. It's written using Visual C++ 2013, [TinyXML](https://github.com/leethomason/tinyxml2) and [Boost](http://www.boost.org/).
-  pro_text: Pro version of GeekUninstaller is called [Uninstall Tool](https://www.crystalidea.com/uninstall-tool?source=geek&campaign=about) and it's developed by CrystalIDEA Software company based on my code.
-  contact_me_title: Contact me
-  contact_me_text: If you need to contact me, use the e-mail address below. Please write me in English or Dutch only.
-  contact_me_button: Send me an e-mail
+  title: Su GeekUninstaller ed il suo autore
+  description: Su GeekUninstaller ed il suo autore
+  text_1: Mi chiamo Thomas Koen. Sono un sviluppatore software e spendo molto tempo davanti allo schero del PC. Ed è per questo che tengo molto ai prgrammi che uso. Sono molto pignolo sul come i miei programmi devono funzionare. Probabilmente sei come me.
+  text_2: Geek Uninstaller é semplice ma potente. Scritto usando Visual C++ 2013, [TinyXML](https://github.com/leethomason/tinyxml2) e [Boost](http://www.boost.org/).
+  pro_text: La versione Pro di GeekUninstaller é chiamata [Uninstall Tool](https://www.crystalidea.com/uninstall-tool?source=geek&campaign=about) ed é sviluppata da CrystalIDEA basato sul mio codice.
+  contact_me_title: Contattami
+  contact_me_text: Se vuoi conttatarmi, usa l' e-mail seguente. Perfavore scrivere solo in Inglese o Tedesco.
+  contact_me_button: Mandami un e-mail
 
 footer:
-  connect_with_us: Connect with Geek Uninstaller
-  languages: Languages
-  products: Programs
-  try_ut: Try Geek Uninstaller Pro
-  try_ut_more: Uninstall Tool is based on the code of Geek Uninstaller.
-  try_download: Download
-  privacy_policy: Privacy Policy
+  connect_with_us: Mettiti in contatto con Geek Uninstaller
+  languages: Lingue
+  products: Programmi
+  try_ut: Prova Geek Uninstaller Pro
+  try_ut_more: Disinstallatore basato sul codice di Geek Uninstaller.
+  try_download: Scarica
+  privacy_policy: Informativa sulla privacy
