@@ -33,8 +33,8 @@
         <columnSize>大小</columnSize>
         <columnInstallationDate>安装时间</columnInstallationDate>
         <staticLoading>加载中, 请稍候...</staticLoading>
-        <staticNoItemsMatchingFilterTip>No matching items, press ESC to reset</staticNoItemsMatchingFilterTip>
-        <staticNoProgramsInCategory>Seems like no Windows Store apps installed</staticNoProgramsInCategory>
+        <staticNoItemsMatchingFilterTip>没有匹配的项目，按ESC键重置</staticNoItemsMatchingFilterTip>
+        <staticNoProgramsInCategory>似乎没有安装Windows Store应用程序</staticNoProgramsInCategory>
         <mark32bitItem>(32-bit)</mark32bitItem>
     </ListCtrl>
     <ExplorerBar>
@@ -66,11 +66,11 @@
     </Messages>
     <ProVersion>
         <statusMessage>升级为专业版</statusMessage>
-        <WhatsCool>What's cool about PRO version:</WhatsCool>
+        <WhatsCool>解锁专业版功能：</WhatsCool>
         <Feature1>实时安装监控</Feature1>
         <Feature2>全面检测清除</Feature2>
         <Feature3>启动程序管理</Feature3>
-        <Feature4>Modern interface, technical support</Feature4>
+        <Feature4>现代化的界面和技术支持</Feature4>
         <Feature5>批量移除</Feature5>
         <buttonUpgrade>升级</buttonUpgrade>
     </ProVersion>
