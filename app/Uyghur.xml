@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageStrings RightToLeft="1">
+    <MainMenu>
+        <mnuFile>ھۆججەت(&amp;F)</mnuFile>
+        <mnuFileExport>شەكلىدە چىقىرىشHTML(&amp;E)...</mnuFileExport>
+        <mnuFileExit>چېكىنىش(&amp;X)</mnuFileExit>
+        <mnuAction>مەشخۇلات(&amp;A)</mnuAction>
+        <mnuActionUninstall>يۇيۇش(&amp;U)...</mnuActionUninstall>
+        <mnuActionModify>ئۆزگەرتىش(&amp;M)...</mnuActionModify>
+        <mnuActionDelete>زورلاپ-يۇيۇش(&amp;F)</mnuActionDelete>
+        <mnuActionDeleteBatch>كۆپنى &amp;زورلاپ يۇيۇشl</mnuActionDeleteBatch>
+        <mnuActionRemoveEntry>ھەممىنى قۇرۇقلاش(&amp;E)</mnuActionRemoveEntry>
+        <mnuActionRemoveEntryBatch>جىق يۇيۇش &amp;Entries</mnuActionRemoveEntryBatch>
+        <mnuActionJumpToRegistry>رىجىستىردىن يۇيۇش(&amp;R)</mnuActionJumpToRegistry>
+        <mnuActionJumpToProgramFolder>قاچىلىغان يەر(&amp;I)</mnuActionJumpToProgramFolder>
+        <mnuActionJumpToWebSite>توربىتى(&amp;P)</mnuActionJumpToWebSite>
+        <mnuActionOpenWindowsStore>ئەپستوردا ئېچىش</mnuActionOpenWindowsStore>
+        <mnuActionBrowseLocation>ئورنىنى كۆرۈش...</mnuActionBrowseLocation>
+        <mnuActionBrowseSource>مەنبەنى كۆرۈش...</mnuActionBrowseSource>
+        <mnuActionGoogleFor>گوگۇلدىن ئىزدەش</mnuActionGoogleFor>
+        <mnuView>كۆرۈش(&amp;V)</mnuView>
+        <mnuViewDesktopApps>قاچىلىغان ئەپلەر</mnuViewDesktopApps>
+        <mnuViewWinStoreApps>ئەپسىتور ئەپلەر</mnuViewWinStoreApps>
+        <mnuViewRefresh>يېڭىلاش(&amp;R)</mnuViewRefresh>
+        <mnuViewListColumnsReset>رەتلەش</mnuViewListColumnsReset>
+        <mnuViewLanguage>تىل بېتى</mnuViewLanguage>
+        <mnuHelp>ياردەم(&amp;H)</mnuHelp>
+        <mnuHelpAbout>ھەققىدە(&amp;A)...</mnuHelpAbout>
+        <mnuHelpHomePage>ئورگانبەت</mnuHelpHomePage>
+    </MainMenu>
+    <ListCtrl>
+        <columnProgramName>نامى</columnProgramName>
+        <columnSize>چوڭلىقى</columnSize>
+        <columnInstallationDate>قاچلىغان ۋاقىت</columnInstallationDate>
+        <staticLoading>يۈكلىنىۋاتىدۇ...</staticLoading>
+        <staticNoItemsMatchingFilterTip>No matching items, press ESC to reset</staticNoItemsMatchingFilterTip>
+        <staticNoProgramsInCategory>Seems like no Windows Store apps installed</staticNoProgramsInCategory>
+        <mark32bitItem>(32-bit)</mark32bitItem>
+    </ListCtrl>
+    <ExplorerBar>
+        <itemShortSearchTip>ئىزدەيدىغان نامنى كىرگۈزۈڭ</itemShortSearchTip>
+    </ExplorerBar>
+    <UninstallWizard>
+        <statusScanning>قالدۇق پارچىلىرىنى ئېزدەۋاتىدۇ...</statusScanning>
+        <statusLeftOverTracesFound>قالدۇق بايقالدى</statusLeftOverTracesFound>
+        <statusNothingFound>قالدۇق بايقالمىدى</statusNothingFound>
+        <statusAllTracesRemoved>ھەممە قالدۇق تازلاندى</statusAllTracesRemoved>
+        <statusDeletingProgramTraces>قالدۇقنى تازلاۋاتىدۇ...</statusDeletingProgramTraces>
+        <treeItemFileSystem>ھۆججەت سېستىمىسى (%d دانە)</treeItemFileSystem>
+        <treeItemRegistry>رىجىستىر تۈرى (%d دانە)</treeItemRegistry>
+        <treeItemPopopMenuBrowse>كۆرۈش...</treeItemPopopMenuBrowse>
+        <btnFinish>تامام</btnFinish>
+        <btnCancel>بىكارقىلىش</btnCancel>
+        <btnClose>تاقاش</btnClose>
+    </UninstallWizard>
+    <DlgAbout>
+        <DlgAboutCaption>ھەققىدە Geek Uninstaller</DlgAboutCaption>
+    </DlgAbout>
+    <Messages>
+        <msgUninstallFailed>مەغلۇپ بولدى \n باشقا قالدۇقلانى يۇيامسىز؟</msgUninstallFailed>
+        <msgForceRemovalQuestion>زورلاپ يۇيۇشنى جەزىملەمسىز؟</msgForceRemovalQuestion>
+        <msgRemoveEntryQuestion>بۇ تۈرنى يۇيۇشنى جەزىملەمسىز</msgRemoveEntryQuestion>
+        <msgRemoveEntryFailed>يۇيۇش مەغلۇپ بولدى \n ھوقوق يەتمىگەن بولىشى مومكىن</msgRemoveEntryFailed>
+        <msgNewVersionAvailable>يېڭى نەشىرى %s بايقالدى</msgNewVersionAvailable>
+        <msgNewVersionAvailable2>GeekUninstaller نىڭ يېڭى نەشىرى بار</msgNewVersionAvailable2>
+    </Messages>
+    <ProVersion>
+        <statusMessage>ئۇستاملىققا كۆتۈرۈش</statusMessage>
+        <WhatsCool>What's cool about PRO version:</WhatsCool>
+        <Feature1>قاچىلاش داۋامىدا كۆزىتىش</Feature1>
+        <Feature2>يۇيۇشى تېخىمۇ ئۈزۈل كىسىل</Feature2>
+        <Feature3>ئۆزلىكىدىن قوزغىلىدىغان ئەپنى باشقۇرۇش</Feature3>
+        <Feature4>Modern interface, technical support</Feature4>
+        <Feature5>كۆپنى يۆتكەش</Feature5>
+        <buttonUpgrade>كۆتۈرۈش</buttonUpgrade>
+    </ProVersion>
+    <HTMLReport>
+        <htmlFiles>HTML ھۆججىتى</htmlFiles>
+        <allFiles>ھەممە ھۆججەت</allFiles>
+        <generatedByOn>دىن %s دا %s ھاسىللانغان</generatedByOn>
+        <installedPrograms>قاچىلاندى (%s)</installedPrograms>
+    </HTMLReport>
+    <Misc>
+        <btnOK>مۇقۇملاش</btnOK>
+        <btnCancel>بىكارلاش</btnCancel>
+        <btnHelp>ياردەم</btnHelp>
+        <btnYes>ھەئە</btnYes>
+        <btnNo>ياق</btnNo>
+        <btnClose>تاقاش</btnClose>
+        <statusTotalInfo>جەمىي %d دانە ئەپ ئىگەللىگەن بوشلۇق %s</statusTotalInfo>
+        <statusUnknown>مەنبەسىز</statusUnknown>
+        <WindowsUpdatesText>Windows يېڭىلاش</WindowsUpdatesText>
+    </Misc>
+</LanguageStrings>
