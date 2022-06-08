@@ -14,31 +14,31 @@
         <mnuActionJumpToRegistry>注册表条目(&amp;R)</mnuActionJumpToRegistry>
         <mnuActionJumpToProgramFolder>安装文件夹(&amp;I)</mnuActionJumpToProgramFolder>
         <mnuActionJumpToWebSite>程序网站(&amp;P)</mnuActionJumpToWebSite>
-        <mnuActionOpenWindowsStore>Open in Windows Store</mnuActionOpenWindowsStore>
+        <mnuActionOpenWindowsStore>通过 Windows 商店打开</mnuActionOpenWindowsStore>
         <mnuActionBrowseLocation>浏览程序位置...</mnuActionBrowseLocation>
         <mnuActionBrowseSource>浏览来源...</mnuActionBrowseSource>
         <mnuActionGoogleFor>通过谷歌搜索</mnuActionGoogleFor>
         <mnuView>查看(&amp;V)</mnuView>
-        <mnuViewDesktopApps>Desktop Apps</mnuViewDesktopApps>
-        <mnuViewWinStoreApps>Windows Store Apps</mnuViewWinStoreApps>
+        <mnuViewDesktopApps>第三方应用</mnuViewDesktopApps>
+        <mnuViewWinStoreApps>Windows 商店应用</mnuViewWinStoreApps>
         <mnuViewRefresh>刷新(&amp;R)</mnuViewRefresh>
         <mnuViewListColumnsReset>重置列</mnuViewListColumnsReset>
         <mnuViewLanguage>界面语言</mnuViewLanguage>
         <mnuHelp>帮助(&amp;H)</mnuHelp>
         <mnuHelpAbout>关于(&amp;A)...</mnuHelpAbout>
-        <mnuHelpHomePage>Home Page</mnuHelpHomePage>
+        <mnuHelpHomePage>主页</mnuHelpHomePage>
     </MainMenu>
     <ListCtrl>
         <columnProgramName>程序名称</columnProgramName>
         <columnSize>大小</columnSize>
         <columnInstallationDate>安装时间</columnInstallationDate>
         <staticLoading>加载中, 请稍候...</staticLoading>
-        <staticNoItemsMatchingFilterTip>No matching items, press ESC to reset</staticNoItemsMatchingFilterTip>
-        <staticNoProgramsInCategory>Seems like no Windows Store apps installed</staticNoProgramsInCategory>
+        <staticNoItemsMatchingFilterTip>没有找到符合的项目，按下 ESC 键重置</staticNoItemsMatchingFilterTip>
+        <staticNoProgramsInCategory>没有安装 Windows 商店应用</staticNoProgramsInCategory>
         <mark32bitItem>(32-bit)</mark32bitItem>
     </ListCtrl>
     <ExplorerBar>
-        <itemShortSearchTip>键入要查找的程序</itemShortSearchTip>
+        <itemShortSearchTip>输入要查找的程序</itemShortSearchTip>
     </ExplorerBar>
     <UninstallWizard>
         <statusScanning>正在扫描残留的文件、文件夹和注册表项目...</statusScanning>
@@ -58,20 +58,20 @@
     </DlgAbout>
     <Messages>
         <msgUninstallFailed>卸载失败。\n您要清理此程序的注册表中条目以及其相关文件吗?</msgUninstallFailed>
-        <msgForceRemovalQuestion>您确认要对这个程序执行强制删除吗?</msgForceRemovalQuestion>
+        <msgForceRemovalQuestion>您确定要强制删除这个程序吗?</msgForceRemovalQuestion>
         <msgRemoveEntryQuestion>您确认要删除这个条目吗?</msgRemoveEntryQuestion>
         <msgRemoveEntryFailed>删除该项目的注册表信息失败。\n您可能没有足够的权限进行该操作。</msgRemoveEntryFailed>
         <msgNewVersionAvailable>新版本 %s 可用。</msgNewVersionAvailable>
-        <msgNewVersionAvailable2>GeekUninstaller 有更新! 请打开我们的网页下载最新版</msgNewVersionAvailable2>
+        <msgNewVersionAvailable2>GeekUninstaller 已有新版本的 Geek Uninstaller! 请打开主页下载最新版</msgNewVersionAvailable2>
     </Messages>
     <ProVersion>
         <statusMessage>升级为专业版</statusMessage>
-        <WhatsCool>What's cool about PRO version:</WhatsCool>
+        <WhatsCool>专业版的高级功能:</WhatsCool>
         <Feature1>实时安装监控</Feature1>
         <Feature2>全面检测清除</Feature2>
         <Feature3>启动程序管理</Feature3>
-        <Feature4>Modern interface, technical support</Feature4>
-        <Feature5>批量移除</Feature5>
+        <Feature4>更新颖的操作界面, 技术支持</Feature4>
+        <Feature5>批量删除</Feature5>
         <buttonUpgrade>升级</buttonUpgrade>
     </ProVersion>
     <HTMLReport>
@@ -87,7 +87,7 @@
         <btnYes>是</btnYes>
         <btnNo>否</btnNo>
         <btnClose>关闭</btnClose>
-        <statusTotalInfo>总计 %d 个程序占用空间 %s</statusTotalInfo>
+        <statusTotalInfo>总计 %d 个程序，总计占用空间 %s</statusTotalInfo>
         <statusUnknown>未知</statusUnknown>
         <WindowsUpdatesText>Windows 更新</WindowsUpdatesText>
     </Misc>
