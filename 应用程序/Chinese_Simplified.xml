@@ -62,7 +62,7 @@
         <msgRemoveEntryQuestion>您确认要删除这个条目吗?</msgRemoveEntryQuestion>
         <msgRemoveEntryFailed>删除该项目的注册表信息失败。\n您可能没有足够的权限进行该操作。</msgRemoveEntryFailed>
         <msgNewVersionAvailable>新版本 %s 可用。</msgNewVersionAvailable>
-        <msgNewVersionAvailable2>GeekUninstaller 已有新版本的 Geek Uninstaller! 请打开主页下载最新版</msgNewVersionAvailable2>
+        <msgNewVersionAvailable2>已有新版本的 Geek Uninstaller! 请打开主页下载最新版</msgNewVersionAvailable2>
     </Messages>
     <ProVersion>
         <statusMessage>升级为专业版</statusMessage>
