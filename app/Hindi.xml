@@ -23,6 +23,10 @@
         <mnuViewWinStoreApps>Windows Store Apps</mnuViewWinStoreApps>
         <mnuViewRefresh>ताज़ा करें</mnuViewRefresh>
         <mnuViewListColumnsReset>स्तंभ रिसेट करें</mnuViewListColumnsReset>
+        <mnuViewColorScheme>Color Scheme</mnuViewColorScheme>
+        <mnuViewColorSchemeAuto>Match Windows light/dark mode</mnuViewColorSchemeAuto>
+        <mnuViewColorSchemeLight>Light mode (default)</mnuViewColorSchemeLight>
+        <mnuViewColorSchemeDark>Dark mode</mnuViewColorSchemeDark>
         <mnuViewLanguage>अंतराफलक भाषा</mnuViewLanguage>
         <mnuHelp>मदद</mnuHelp>
         <mnuHelpAbout>&amp;विस्थापन उपकरण के बारे में...</mnuHelpAbout>

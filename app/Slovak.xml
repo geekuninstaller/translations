@@ -23,6 +23,10 @@
         <mnuViewWinStoreApps>Windows Store Apps</mnuViewWinStoreApps>
         <mnuViewRefresh>&amp;Obnoviť</mnuViewRefresh>
         <mnuViewListColumnsReset>Obnoviť stĺpce</mnuViewListColumnsReset>
+        <mnuViewColorScheme>Color Scheme</mnuViewColorScheme>
+        <mnuViewColorSchemeAuto>Match Windows light/dark mode</mnuViewColorSchemeAuto>
+        <mnuViewColorSchemeLight>Light mode (default)</mnuViewColorSchemeLight>
+        <mnuViewColorSchemeDark>Dark mode</mnuViewColorSchemeDark>
         <mnuViewLanguage>Jazyk rozhrania</mnuViewLanguage>
         <mnuHelp>&amp;Nápoveda</mnuHelp>
         <mnuHelpAbout>&amp;O programe...</mnuHelpAbout>

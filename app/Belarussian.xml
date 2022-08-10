@@ -23,6 +23,10 @@
         <mnuViewWinStoreApps>Windows Store Apps</mnuViewWinStoreApps>
         <mnuViewRefresh>&amp;Абнавіць</mnuViewRefresh>
         <mnuViewListColumnsReset>Скінуць стан калонак</mnuViewListColumnsReset>
+        <mnuViewColorScheme>Color Scheme</mnuViewColorScheme>
+        <mnuViewColorSchemeAuto>Match Windows light/dark mode</mnuViewColorSchemeAuto>
+        <mnuViewColorSchemeLight>Light mode (default)</mnuViewColorSchemeLight>
+        <mnuViewColorSchemeDark>Dark mode</mnuViewColorSchemeDark>
         <mnuViewLanguage>Мова інтэрфейсу</mnuViewLanguage>
         <mnuHelp>&amp;Даведка</mnuHelp>
         <mnuHelpAbout>&amp;Аб праграме...</mnuHelpAbout>

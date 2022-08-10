@@ -23,6 +23,10 @@
         <mnuViewWinStoreApps>Windows Store Apps</mnuViewWinStoreApps>
         <mnuViewRefresh>&amp;Värskenda</mnuViewRefresh>
         <mnuViewListColumnsReset>Vali kõik</mnuViewListColumnsReset>
+        <mnuViewColorScheme>Color Scheme</mnuViewColorScheme>
+        <mnuViewColorSchemeAuto>Match Windows light/dark mode</mnuViewColorSchemeAuto>
+        <mnuViewColorSchemeLight>Light mode (default)</mnuViewColorSchemeLight>
+        <mnuViewColorSchemeDark>Dark mode</mnuViewColorSchemeDark>
         <mnuViewLanguage>Töökeskkonna keel</mnuViewLanguage>
         <mnuHelp>&amp;Abi</mnuHelp>
         <mnuHelpAbout>&amp;Teave...</mnuHelpAbout>

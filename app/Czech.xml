@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageStrings>
     <MainMenu>
         <mnuFile>&amp;Soubor</mnuFile>
@@ -23,6 +23,10 @@
         <mnuViewWinStoreApps>Windows Store aplikace</mnuViewWinStoreApps>
         <mnuViewRefresh>&amp;Obnovit</mnuViewRefresh>
         <mnuViewListColumnsReset>Obnovit sloupce</mnuViewListColumnsReset>
+        <mnuViewColorScheme>Color Scheme</mnuViewColorScheme>
+        <mnuViewColorSchemeAuto>Match Windows light/dark mode</mnuViewColorSchemeAuto>
+        <mnuViewColorSchemeLight>Light mode (default)</mnuViewColorSchemeLight>
+        <mnuViewColorSchemeDark>Dark mode</mnuViewColorSchemeDark>
         <mnuViewLanguage>Jazyk rozhraní</mnuViewLanguage>
         <mnuHelp>&amp;Nápověda</mnuHelp>
         <mnuHelpAbout>&amp;O programu...</mnuHelpAbout>

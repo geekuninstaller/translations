@@ -23,6 +23,10 @@
         <mnuViewWinStoreApps>Windows Store Apps</mnuViewWinStoreApps>
         <mnuViewRefresh>&amp;განახლება</mnuViewRefresh>
         <mnuViewListColumnsReset>სვეტების ჩამოყრა</mnuViewListColumnsReset>
+        <mnuViewColorScheme>Color Scheme</mnuViewColorScheme>
+        <mnuViewColorSchemeAuto>Match Windows light/dark mode</mnuViewColorSchemeAuto>
+        <mnuViewColorSchemeLight>Light mode (default)</mnuViewColorSchemeLight>
+        <mnuViewColorSchemeDark>Dark mode</mnuViewColorSchemeDark>
         <mnuViewLanguage>ენა</mnuViewLanguage>
         <mnuHelp>&amp;დახმარება</mnuHelp>
         <mnuHelpAbout>&amp;პროგრამის შესახებ...</mnuHelpAbout>

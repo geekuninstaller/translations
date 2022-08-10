@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageStrings>
     <MainMenu>
         <mnuFile>&amp;Fil</mnuFile>
@@ -21,10 +21,14 @@
         <mnuView>&amp;Vis</mnuView>
         <mnuViewDesktopApps>Skrivebordsapps</mnuViewDesktopApps>
         <mnuViewWinStoreApps>Apps fra Windows Store</mnuViewWinStoreApps>
-        <mnuViewInitialSort>Sortér efter...</mnuViewInitialSort>
         <mnuViewRefresh>&amp;Genindlæs</mnuViewRefresh>
         <mnuViewListColumnsReset>Nulstil kolonner</mnuViewListColumnsReset>
-        <mnuViewLanguage>Grænsefladesprog</mnuViewLanguage><mnuHelp>&amp;Hjælp</mnuHelp>
+        <mnuViewColorScheme>Color Scheme</mnuViewColorScheme>
+        <mnuViewColorSchemeAuto>Match Windows light/dark mode</mnuViewColorSchemeAuto>
+        <mnuViewColorSchemeLight>Light mode (default)</mnuViewColorSchemeLight>
+        <mnuViewColorSchemeDark>Dark mode</mnuViewColorSchemeDark>
+        <mnuViewLanguage>Grænsefladesprog</mnuViewLanguage>
+        <mnuHelp>&amp;Hjælp</mnuHelp>
         <mnuHelpAbout>&amp;Om...</mnuHelpAbout>
         <mnuHelpHomePage>&amp;Hjemmeside</mnuHelpHomePage>
     </MainMenu>

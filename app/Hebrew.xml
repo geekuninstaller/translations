@@ -23,6 +23,10 @@
         <mnuViewWinStoreApps>יישומי Windows Store</mnuViewWinStoreApps>
         <mnuViewRefresh>&amp;רענון</mnuViewRefresh>
         <mnuViewListColumnsReset>איפוס עמודות</mnuViewListColumnsReset>
+        <mnuViewColorScheme>Color Scheme</mnuViewColorScheme>
+        <mnuViewColorSchemeAuto>Match Windows light/dark mode</mnuViewColorSchemeAuto>
+        <mnuViewColorSchemeLight>Light mode (default)</mnuViewColorSchemeLight>
+        <mnuViewColorSchemeDark>Dark mode</mnuViewColorSchemeDark>
         <mnuViewLanguage>שפת הממשק</mnuViewLanguage>
         <mnuHelp>&amp;עזרה</mnuHelp>
         <mnuHelpAbout>&amp;אודות...</mnuHelpAbout>

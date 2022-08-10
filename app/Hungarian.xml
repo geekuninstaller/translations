@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageStrings>
     <MainMenu>
         <mnuFile>&amp;Fájl</mnuFile>
@@ -21,9 +21,12 @@
         <mnuView>Nézet</mnuView>
         <mnuViewDesktopApps>Alkalmazások</mnuViewDesktopApps>
         <mnuViewWinStoreApps>Windows Store Appok</mnuViewWinStoreApps>
-        <mnuViewInitialSort>Alapért. rendezés</mnuViewInitialSort>
         <mnuViewRefresh>Frissítés</mnuViewRefresh>
         <mnuViewListColumnsReset>Oszlopok visszaállítása</mnuViewListColumnsReset>
+        <mnuViewColorScheme>Color Scheme</mnuViewColorScheme>
+        <mnuViewColorSchemeAuto>Match Windows light/dark mode</mnuViewColorSchemeAuto>
+        <mnuViewColorSchemeLight>Light mode (default)</mnuViewColorSchemeLight>
+        <mnuViewColorSchemeDark>Dark mode</mnuViewColorSchemeDark>
         <mnuViewLanguage>Felhasználói felület nyelve</mnuViewLanguage>
         <mnuHelp>Súgó</mnuHelp>
         <mnuHelpAbout>Névjegy...</mnuHelpAbout>

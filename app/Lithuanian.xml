@@ -23,6 +23,10 @@
         <mnuViewWinStoreApps>Windows Store Apps</mnuViewWinStoreApps>
         <mnuViewRefresh>&amp;Atnaujinti</mnuViewRefresh>
         <mnuViewListColumnsReset>Atstatyti sąrašo stulpelius</mnuViewListColumnsReset>
+        <mnuViewColorScheme>Color Scheme</mnuViewColorScheme>
+        <mnuViewColorSchemeAuto>Match Windows light/dark mode</mnuViewColorSchemeAuto>
+        <mnuViewColorSchemeLight>Light mode (default)</mnuViewColorSchemeLight>
+        <mnuViewColorSchemeDark>Dark mode</mnuViewColorSchemeDark>
         <mnuViewLanguage>Kalba</mnuViewLanguage>
         <mnuHelp>&amp;Pagalba</mnuHelp>
         <mnuHelpAbout>&amp;Apie programą...</mnuHelpAbout>

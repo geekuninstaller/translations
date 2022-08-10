@@ -23,6 +23,10 @@
         <mnuViewWinStoreApps>Windows Store-apper</mnuViewWinStoreApps>
         <mnuViewRefresh>&amp;Last inn på nytt</mnuViewRefresh>
         <mnuViewListColumnsReset>Tilbakestill kolonner</mnuViewListColumnsReset>
+        <mnuViewColorScheme>Color Scheme</mnuViewColorScheme>
+        <mnuViewColorSchemeAuto>Match Windows light/dark mode</mnuViewColorSchemeAuto>
+        <mnuViewColorSchemeLight>Light mode (default)</mnuViewColorSchemeLight>
+        <mnuViewColorSchemeDark>Dark mode</mnuViewColorSchemeDark>
         <mnuViewLanguage>Grensesnittspråk</mnuViewLanguage>
         <mnuHelp>&amp;Hjelp</mnuHelp>
         <mnuHelpAbout>&amp;Om...</mnuHelpAbout>

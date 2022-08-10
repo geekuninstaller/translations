@@ -23,6 +23,10 @@
         <mnuViewWinStoreApps>Windows Store Apps</mnuViewWinStoreApps>
         <mnuViewRefresh>&amp;Опресни</mnuViewRefresh>
         <mnuViewListColumnsReset>Задаване на широчината по подразбиране за колоните</mnuViewListColumnsReset>
+        <mnuViewColorScheme>Color Scheme</mnuViewColorScheme>
+        <mnuViewColorSchemeAuto>Match Windows light/dark mode</mnuViewColorSchemeAuto>
+        <mnuViewColorSchemeLight>Light mode (default)</mnuViewColorSchemeLight>
+        <mnuViewColorSchemeDark>Dark mode</mnuViewColorSchemeDark>
         <mnuViewLanguage>Език на интерфейса</mnuViewLanguage>
         <mnuHelp>&amp;Помощ</mnuHelp>
         <mnuHelpAbout>&amp;Относно Geek Uninstaller...</mnuHelpAbout>

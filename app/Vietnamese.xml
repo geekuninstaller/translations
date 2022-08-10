@@ -23,6 +23,10 @@
         <mnuViewWinStoreApps>Windows Store Apps</mnuViewWinStoreApps>
         <mnuViewRefresh>&amp;Làm mới</mnuViewRefresh>
         <mnuViewListColumnsReset>Thiết lập lại cột</mnuViewListColumnsReset>
+        <mnuViewColorScheme>Color Scheme</mnuViewColorScheme>
+        <mnuViewColorSchemeAuto>Match Windows light/dark mode</mnuViewColorSchemeAuto>
+        <mnuViewColorSchemeLight>Light mode (default)</mnuViewColorSchemeLight>
+        <mnuViewColorSchemeDark>Dark mode</mnuViewColorSchemeDark>
         <mnuViewLanguage>Ngôn ngữ </mnuViewLanguage>
         <mnuHelp>&amp;Trợ giúp</mnuHelp>
         <mnuHelpAbout>&amp;Về chương trình...</mnuHelpAbout>

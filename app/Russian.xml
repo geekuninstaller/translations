@@ -23,6 +23,10 @@
         <mnuViewWinStoreApps>Программы из Windows Store</mnuViewWinStoreApps>
         <mnuViewRefresh>&amp;Обновить</mnuViewRefresh>
         <mnuViewListColumnsReset>Сбросить состояние колонок</mnuViewListColumnsReset>
+        <mnuViewColorScheme>Цветовая схема</mnuViewColorScheme>
+        <mnuViewColorSchemeAuto>Соответствовать цветовой схеме Windows</mnuViewColorSchemeAuto>
+        <mnuViewColorSchemeLight>Светлая тема (по умолчанию)</mnuViewColorSchemeLight>
+        <mnuViewColorSchemeDark>Тёмная тема</mnuViewColorSchemeDark>
         <mnuViewLanguage>Язык интерфейса</mnuViewLanguage>
         <mnuHelp>&amp;Помощь</mnuHelp>
         <mnuHelpAbout>&amp;О программе...</mnuHelpAbout>

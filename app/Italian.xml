@@ -23,6 +23,10 @@
         <mnuViewWinStoreApps>Windows Store Apps</mnuViewWinStoreApps>
         <mnuViewRefresh>&amp;Aggiorna</mnuViewRefresh>
         <mnuViewListColumnsReset>Reimposta colonne</mnuViewListColumnsReset>
+        <mnuViewColorScheme>Color Scheme</mnuViewColorScheme>
+        <mnuViewColorSchemeAuto>Match Windows light/dark mode</mnuViewColorSchemeAuto>
+        <mnuViewColorSchemeLight>Light mode (default)</mnuViewColorSchemeLight>
+        <mnuViewColorSchemeDark>Dark mode</mnuViewColorSchemeDark>
         <mnuViewLanguage>Lingua dell'interfaccia</mnuViewLanguage>
         <mnuHelp>Gu&amp;ida</mnuHelp>
         <mnuHelpAbout>I&amp;nformazioni...</mnuHelpAbout>

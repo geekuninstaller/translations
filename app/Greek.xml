@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageStrings>
     <MainMenu>
         <mnuFile>&amp;Αρχείο</mnuFile>
@@ -23,6 +23,10 @@
         <mnuViewWinStoreApps>Εφαρμογές Windows Store</mnuViewWinStoreApps>
         <mnuViewRefresh>&amp;Ανανέωση</mnuViewRefresh>
         <mnuViewListColumnsReset>Επαναφορά στηλών</mnuViewListColumnsReset>
+        <mnuViewColorScheme>Color Scheme</mnuViewColorScheme>
+        <mnuViewColorSchemeAuto>Match Windows light/dark mode</mnuViewColorSchemeAuto>
+        <mnuViewColorSchemeLight>Light mode (default)</mnuViewColorSchemeLight>
+        <mnuViewColorSchemeDark>Dark mode</mnuViewColorSchemeDark>
         <mnuViewLanguage>Γλώσσα διεπαφής</mnuViewLanguage>
         <mnuHelp>&amp;Βοήθεια</mnuHelp>
         <mnuHelpAbout>&amp;Σχετικά...</mnuHelpAbout>

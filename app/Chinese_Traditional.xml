@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageStrings>
     <MainMenu>
         <mnuFile>檔案(&amp;F)</mnuFile>
@@ -23,6 +23,10 @@
         <mnuViewWinStoreApps>微軟市集應用程式</mnuViewWinStoreApps>
         <mnuViewRefresh>重新整理(&amp;R)</mnuViewRefresh>
         <mnuViewListColumnsReset>重置列</mnuViewListColumnsReset>
+        <mnuViewColorScheme>Color Scheme</mnuViewColorScheme>
+        <mnuViewColorSchemeAuto>Match Windows light/dark mode</mnuViewColorSchemeAuto>
+        <mnuViewColorSchemeLight>Light mode (default)</mnuViewColorSchemeLight>
+        <mnuViewColorSchemeDark>Dark mode</mnuViewColorSchemeDark>
         <mnuViewLanguage>介面語言</mnuViewLanguage>
         <mnuHelp>說明(&amp;H)</mnuHelp>
         <mnuHelpAbout>關於(&amp;A)...</mnuHelpAbout>

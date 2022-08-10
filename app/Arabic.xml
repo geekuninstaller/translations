@@ -23,6 +23,10 @@
         <mnuViewWinStoreApps>Windows Store Apps</mnuViewWinStoreApps>
         <mnuViewRefresh>&amp;تحــديث</mnuViewRefresh>
         <mnuViewListColumnsReset>تعيين الجداول الأفتراضية</mnuViewListColumnsReset>
+        <mnuViewColorScheme>Color Scheme</mnuViewColorScheme>
+        <mnuViewColorSchemeAuto>Match Windows light/dark mode</mnuViewColorSchemeAuto>
+        <mnuViewColorSchemeLight>Light mode (default)</mnuViewColorSchemeLight>
+        <mnuViewColorSchemeDark>Dark mode</mnuViewColorSchemeDark>
         <mnuViewLanguage>لغة الواجهة</mnuViewLanguage>
         <mnuHelp>&amp;تعليمات</mnuHelp>
         <mnuHelpAbout>&amp;ترجمة اليزيد للحاسبات</mnuHelpAbout>

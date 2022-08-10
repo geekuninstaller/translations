@@ -23,6 +23,10 @@
         <mnuViewWinStoreApps>Windows 스토어 앱</mnuViewWinStoreApps>
         <mnuViewRefresh>새로 고침(&amp;R)</mnuViewRefresh>
         <mnuViewListColumnsReset>열(ㅣ) 초기화</mnuViewListColumnsReset>
+        <mnuViewColorScheme>Color Scheme</mnuViewColorScheme>
+        <mnuViewColorSchemeAuto>Match Windows light/dark mode</mnuViewColorSchemeAuto>
+        <mnuViewColorSchemeLight>Light mode (default)</mnuViewColorSchemeLight>
+        <mnuViewColorSchemeDark>Dark mode</mnuViewColorSchemeDark>
         <mnuViewLanguage>인터페이스 언어</mnuViewLanguage>
         <mnuHelp>도움말(&amp;H)</mnuHelp>
         <mnuHelpAbout>정보(&amp;A)...</mnuHelpAbout>

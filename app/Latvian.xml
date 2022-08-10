@@ -23,6 +23,10 @@
         <mnuViewWinStoreApps>Windows Store Apps</mnuViewWinStoreApps>
         <mnuViewRefresh>&amp;Pārlasīt</mnuViewRefresh>
         <mnuViewListColumnsReset>Atiestatīt kolonnas</mnuViewListColumnsReset>
+        <mnuViewColorScheme>Color Scheme</mnuViewColorScheme>
+        <mnuViewColorSchemeAuto>Match Windows light/dark mode</mnuViewColorSchemeAuto>
+        <mnuViewColorSchemeLight>Light mode (default)</mnuViewColorSchemeLight>
+        <mnuViewColorSchemeDark>Dark mode</mnuViewColorSchemeDark>
         <mnuViewLanguage>Saskarnes valoda</mnuViewLanguage>
         <mnuHelp>&amp;Palīdzība</mnuHelp>
         <mnuHelpAbout>&amp;Par...</mnuHelpAbout>

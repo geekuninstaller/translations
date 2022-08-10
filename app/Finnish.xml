@@ -23,6 +23,10 @@
         <mnuViewWinStoreApps>Windows Store Apps</mnuViewWinStoreApps>
         <mnuViewRefresh>&amp;Päivitä</mnuViewRefresh>
         <mnuViewListColumnsReset>Resetoi sarakkeet</mnuViewListColumnsReset>
+        <mnuViewColorScheme>Color Scheme</mnuViewColorScheme>
+        <mnuViewColorSchemeAuto>Match Windows light/dark mode</mnuViewColorSchemeAuto>
+        <mnuViewColorSchemeLight>Light mode (default)</mnuViewColorSchemeLight>
+        <mnuViewColorSchemeDark>Dark mode</mnuViewColorSchemeDark>
         <mnuViewLanguage>Käyttöliittymän kieli</mnuViewLanguage>
         <mnuHelp>&amp;Ohje</mnuHelp>
         <mnuHelpAbout>&amp;Tietoja...</mnuHelpAbout>

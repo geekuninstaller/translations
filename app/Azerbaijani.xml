@@ -23,6 +23,10 @@
         <mnuViewWinStoreApps>Windows Store Apps</mnuViewWinStoreApps>
         <mnuViewRefresh>Yenilə</mnuViewRefresh>
         <mnuViewListColumnsReset>Sütunların vəziyyətini sıfırla</mnuViewListColumnsReset>
+        <mnuViewColorScheme>Color Scheme</mnuViewColorScheme>
+        <mnuViewColorSchemeAuto>Match Windows light/dark mode</mnuViewColorSchemeAuto>
+        <mnuViewColorSchemeLight>Light mode (default)</mnuViewColorSchemeLight>
+        <mnuViewColorSchemeDark>Dark mode</mnuViewColorSchemeDark>
         <mnuViewLanguage>Dil seçimi</mnuViewLanguage>
         <mnuHelp>Kömək</mnuHelp>
         <mnuHelpAbout>Haqqında...</mnuHelpAbout>

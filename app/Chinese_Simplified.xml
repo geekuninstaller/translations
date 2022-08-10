@@ -23,6 +23,10 @@
         <mnuViewWinStoreApps>Windows Store Apps</mnuViewWinStoreApps>
         <mnuViewRefresh>刷新(&amp;R)</mnuViewRefresh>
         <mnuViewListColumnsReset>重置列</mnuViewListColumnsReset>
+        <mnuViewColorScheme>Color Scheme</mnuViewColorScheme>
+        <mnuViewColorSchemeAuto>Match Windows light/dark mode</mnuViewColorSchemeAuto>
+        <mnuViewColorSchemeLight>Light mode (default)</mnuViewColorSchemeLight>
+        <mnuViewColorSchemeDark>Dark mode</mnuViewColorSchemeDark>
         <mnuViewLanguage>界面语言</mnuViewLanguage>
         <mnuHelp>帮助(&amp;H)</mnuHelp>
         <mnuHelpAbout>关于(&amp;A)...</mnuHelpAbout>
