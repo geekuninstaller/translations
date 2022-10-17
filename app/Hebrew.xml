@@ -14,13 +14,13 @@
         <mnuActionJumpToRegistry>קפיצה ל&amp;ערך ברג'יסטרי</mnuActionJumpToRegistry>
         <mnuActionJumpToProgramFolder>קפיצה ל&amp;תיקיית ההתקנה</mnuActionJumpToProgramFolder>
         <mnuActionJumpToWebSite>&amp;אתר האינטרנט של היישום</mnuActionJumpToWebSite>
-        <mnuActionOpenWindowsStore>פתיחה ב-Windows Store</mnuActionOpenWindowsStore>
+        <mnuActionOpenWindowsStore>פתיחה ב-Microsoft Store</mnuActionOpenWindowsStore>
         <mnuActionBrowseLocation>איתור מיקום...</mnuActionBrowseLocation>
         <mnuActionBrowseSource>איתור מקור...</mnuActionBrowseSource>
         <mnuActionGoogleFor>חיפוש ב-Google עבור</mnuActionGoogleFor>
         <mnuView>&amp;תצוגה</mnuView>
         <mnuViewDesktopApps>יישומי שולחן העבודה</mnuViewDesktopApps>
-        <mnuViewWinStoreApps>יישומי Windows Store</mnuViewWinStoreApps>
+        <mnuViewWinStoreApps>יישומי Microsoft Store</mnuViewWinStoreApps>
         <mnuViewRefresh>&amp;רענון</mnuViewRefresh>
         <mnuViewListColumnsReset>איפוס עמודות</mnuViewListColumnsReset>
         <mnuViewColorScheme>Color Scheme</mnuViewColorScheme>
@@ -38,7 +38,7 @@
         <columnInstallationDate>תאריך התקנה</columnInstallationDate>
         <staticLoading>טוען, נא להמתין...</staticLoading>
         <staticNoItemsMatchingFilterTip>לא נמצאו פריטים תואמים, לחץ ESC לאיפוס</staticNoItemsMatchingFilterTip>
-        <staticNoProgramsInCategory>נראה שלא מותקנים יישומי Windows Store</staticNoProgramsInCategory>
+        <staticNoProgramsInCategory>נראה שלא מותקנים יישומי Microsoft Store</staticNoProgramsInCategory>
         <mark32bitItem>(32 סיביות)</mark32bitItem>
     </ListCtrl>
     <ExplorerBar>

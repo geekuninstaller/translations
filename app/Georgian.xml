@@ -14,13 +14,13 @@
         <mnuActionJumpToRegistry>&amp;რეესტრის ჩანაწერი</mnuActionJumpToRegistry>
         <mnuActionJumpToProgramFolder>&amp;შემცველი საქაღალდის გახსნა</mnuActionJumpToProgramFolder>
         <mnuActionJumpToWebSite>&amp;პროგრამის ვებ-გვერდი</mnuActionJumpToWebSite>
-        <mnuActionOpenWindowsStore>Open in Windows Store</mnuActionOpenWindowsStore>
+        <mnuActionOpenWindowsStore>Open in Microsoft Store</mnuActionOpenWindowsStore>
         <mnuActionBrowseLocation>შემცველი საქაღალდის გახსნა...</mnuActionBrowseLocation>
         <mnuActionBrowseSource>წყაროს ნახვა...</mnuActionBrowseSource>
         <mnuActionGoogleFor>Google-ში ძებნა</mnuActionGoogleFor>
         <mnuView>&amp;ხედი</mnuView>
         <mnuViewDesktopApps>Desktop Apps</mnuViewDesktopApps>
-        <mnuViewWinStoreApps>Windows Store Apps</mnuViewWinStoreApps>
+        <mnuViewWinStoreApps>Microsoft Store Apps</mnuViewWinStoreApps>
         <mnuViewRefresh>&amp;განახლება</mnuViewRefresh>
         <mnuViewListColumnsReset>სვეტების ჩამოყრა</mnuViewListColumnsReset>
         <mnuViewColorScheme>Color Scheme</mnuViewColorScheme>
@@ -38,7 +38,7 @@
         <columnInstallationDate>ინსტალაციის თარიღი</columnInstallationDate>
         <staticLoading>იტვირთება, გთხოვთ დაელოდეთ...</staticLoading>
         <staticNoItemsMatchingFilterTip>No matching items, press ESC to reset</staticNoItemsMatchingFilterTip>
-        <staticNoProgramsInCategory>Seems like no Windows Store apps installed</staticNoProgramsInCategory>
+        <staticNoProgramsInCategory>Seems like no Microsoft Store apps installed</staticNoProgramsInCategory>
         <mark32bitItem>(32-bit)</mark32bitItem>
     </ListCtrl>
     <ExplorerBar>

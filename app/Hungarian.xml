@@ -14,13 +14,13 @@
         <mnuActionJumpToRegistry>&amp;Rendszerleíró bejegyzés</mnuActionJumpToRegistry>
         <mnuActionJumpToProgramFolder>Telepítési mappa</mnuActionJumpToProgramFolder>
         <mnuActionJumpToWebSite>&amp;Program weboldal</mnuActionJumpToWebSite>
-        <mnuActionOpenWindowsStore>Open in Windows Store</mnuActionOpenWindowsStore>
+        <mnuActionOpenWindowsStore>Open in Microsoft Store</mnuActionOpenWindowsStore>
         <mnuActionBrowseLocation>Hely keresése...</mnuActionBrowseLocation>
         <mnuActionBrowseSource>Forrás keresése...</mnuActionBrowseSource>
         <mnuActionGoogleFor>Google</mnuActionGoogleFor>
         <mnuView>Nézet</mnuView>
         <mnuViewDesktopApps>Alkalmazások</mnuViewDesktopApps>
-        <mnuViewWinStoreApps>Windows Store Appok</mnuViewWinStoreApps>
+        <mnuViewWinStoreApps>Microsoft Store Appok</mnuViewWinStoreApps>
         <mnuViewRefresh>Frissítés</mnuViewRefresh>
         <mnuViewListColumnsReset>Oszlopok visszaállítása</mnuViewListColumnsReset>
         <mnuViewColorScheme>Color Scheme</mnuViewColorScheme>
@@ -38,7 +38,7 @@
         <columnInstallationDate>Telepítve</columnInstallationDate>
         <staticLoading>Betöltés, kis türelmet...</staticLoading>
         <staticNoItemsMatchingFilterTip>Nincs találat, alaphelyzet: ESC</staticNoItemsMatchingFilterTip>
-        <staticNoProgramsInCategory>Mintha nem lenne telepítve Windows Store app</staticNoProgramsInCategory>
+        <staticNoProgramsInCategory>Mintha nem lenne telepítve Microsoft Store app</staticNoProgramsInCategory>
         <mark32bitItem>(32-bit)</mark32bitItem>
     </ListCtrl>
     <ExplorerBar>

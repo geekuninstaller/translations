@@ -14,13 +14,13 @@
         <mnuActionJumpToRegistry>注册表条目(&amp;R)</mnuActionJumpToRegistry>
         <mnuActionJumpToProgramFolder>安装文件夹(&amp;I)</mnuActionJumpToProgramFolder>
         <mnuActionJumpToWebSite>程序网站(&amp;P)</mnuActionJumpToWebSite>
-        <mnuActionOpenWindowsStore>Open in Windows Store</mnuActionOpenWindowsStore>
+        <mnuActionOpenWindowsStore>Open in Microsoft Store</mnuActionOpenWindowsStore>
         <mnuActionBrowseLocation>浏览程序位置...</mnuActionBrowseLocation>
         <mnuActionBrowseSource>浏览来源...</mnuActionBrowseSource>
         <mnuActionGoogleFor>通过谷歌搜索</mnuActionGoogleFor>
         <mnuView>查看(&amp;V)</mnuView>
         <mnuViewDesktopApps>Desktop Apps</mnuViewDesktopApps>
-        <mnuViewWinStoreApps>Windows Store Apps</mnuViewWinStoreApps>
+        <mnuViewWinStoreApps>Microsoft Store Apps</mnuViewWinStoreApps>
         <mnuViewRefresh>刷新(&amp;R)</mnuViewRefresh>
         <mnuViewListColumnsReset>重置列</mnuViewListColumnsReset>
         <mnuViewColorScheme>Color Scheme</mnuViewColorScheme>
@@ -38,7 +38,7 @@
         <columnInstallationDate>安装时间</columnInstallationDate>
         <staticLoading>加载中, 请稍候...</staticLoading>
         <staticNoItemsMatchingFilterTip>No matching items, press ESC to reset</staticNoItemsMatchingFilterTip>
-        <staticNoProgramsInCategory>Seems like no Windows Store apps installed</staticNoProgramsInCategory>
+        <staticNoProgramsInCategory>Seems like no Microsoft Store apps installed</staticNoProgramsInCategory>
         <mark32bitItem>(32-bit)</mark32bitItem>
     </ListCtrl>
     <ExplorerBar>

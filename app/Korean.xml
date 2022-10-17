@@ -38,7 +38,7 @@
         <columnInstallationDate>설치 날짜</columnInstallationDate>
         <staticLoading>불러오고 있습니다. 기다리세요...</staticLoading>
         <staticNoItemsMatchingFilterTip>일치하는 항목이 없습니다. 초기화하려면, ESC 키를 누르세요.</staticNoItemsMatchingFilterTip>
-        <staticNoProgramsInCategory>설치된 Windows Store 앱이 없는 걸로 보입니다.</staticNoProgramsInCategory>
+        <staticNoProgramsInCategory>설치된 Microsoft Store 앱이 없는 걸로 보입니다.</staticNoProgramsInCategory>
         <mark32bitItem>(32-bit)</mark32bitItem>
     </ListCtrl>
     <ExplorerBar>

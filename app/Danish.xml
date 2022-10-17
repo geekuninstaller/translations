@@ -14,13 +14,13 @@
         <mnuActionJumpToRegistry>&amp;Registreringspost</mnuActionJumpToRegistry>
         <mnuActionJumpToProgramFolder>&amp;Installationsmappe</mnuActionJumpToProgramFolder>
         <mnuActionJumpToWebSite>&amp;Programmets hjemmeside</mnuActionJumpToWebSite>
-        <mnuActionOpenWindowsStore>Åbn i Windows Store</mnuActionOpenWindowsStore>
+        <mnuActionOpenWindowsStore>Åbn i Microsoft Store</mnuActionOpenWindowsStore>
         <mnuActionBrowseLocation>Gennemse placering...</mnuActionBrowseLocation>
         <mnuActionBrowseSource>Gennemse kilde...</mnuActionBrowseSource>
         <mnuActionGoogleFor>Info om (leveres af Google)</mnuActionGoogleFor>
         <mnuView>&amp;Vis</mnuView>
         <mnuViewDesktopApps>Skrivebordsapps</mnuViewDesktopApps>
-        <mnuViewWinStoreApps>Apps fra Windows Store</mnuViewWinStoreApps>
+        <mnuViewWinStoreApps>Apps fra Microsoft Store</mnuViewWinStoreApps>
         <mnuViewRefresh>&amp;Genindlæs</mnuViewRefresh>
         <mnuViewListColumnsReset>Nulstil kolonner</mnuViewListColumnsReset>
         <mnuViewColorScheme>Color Scheme</mnuViewColorScheme>
@@ -38,7 +38,7 @@
         <columnInstallationDate>Installationsdato</columnInstallationDate>
         <staticLoading>Indlæser, vent venligst...</staticLoading>
         <staticNoItemsMatchingFilterTip>Ingen matchende emner - tryk på ESC for at nulstille</staticNoItemsMatchingFilterTip>
-        <staticNoProgramsInCategory>Det ser ud til, at der er ingen installerede apps fra Windows Store</staticNoProgramsInCategory>
+        <staticNoProgramsInCategory>Det ser ud til, at der er ingen installerede apps fra Microsoft Store</staticNoProgramsInCategory>
         <mark32bitItem>(32-bit)</mark32bitItem>
     </ListCtrl>
     <ExplorerBar>

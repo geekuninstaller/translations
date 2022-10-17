@@ -14,13 +14,13 @@
         <mnuActionJumpToRegistry>&amp;Entri Registri</mnuActionJumpToRegistry>
         <mnuActionJumpToProgramFolder>&amp;Folder Instalasi</mnuActionJumpToProgramFolder>
         <mnuActionJumpToWebSite>&amp;Situs Program</mnuActionJumpToWebSite>
-        <mnuActionOpenWindowsStore>Buka di Windows Store</mnuActionOpenWindowsStore>
+        <mnuActionOpenWindowsStore>Buka di Microsoft Store</mnuActionOpenWindowsStore>
         <mnuActionBrowseLocation>Jelajahi Lokasi...</mnuActionBrowseLocation>
         <mnuActionBrowseSource>Jelajahi Sumber...</mnuActionBrowseSource>
         <mnuActionGoogleFor>Cari di Google</mnuActionGoogleFor>
         <mnuView>&amp;Tampilan</mnuView>
         <mnuViewDesktopApps>Aplikasi Desktop</mnuViewDesktopApps>
-        <mnuViewWinStoreApps>Aplikasi Windows Store</mnuViewWinStoreApps>
+        <mnuViewWinStoreApps>Aplikasi Microsoft Store</mnuViewWinStoreApps>
         <mnuViewRefresh>&amp;Segarkan</mnuViewRefresh>
         <mnuViewListColumnsReset>Atur ulang kolom</mnuViewListColumnsReset>
         <mnuViewColorScheme>Color Scheme</mnuViewColorScheme>
@@ -38,7 +38,7 @@
         <columnInstallationDate>Terinstal pada</columnInstallationDate>
         <staticLoading>Memuat, silahkan tunggu...</staticLoading>
         <staticNoItemsMatchingFilterTip>Tidak ada item yang cocok, tekan ESC untuk mengatur ulang</staticNoItemsMatchingFilterTip>
-        <staticNoProgramsInCategory>Sepertinya tidak ada aplikasi Windows Store yang terinstal</staticNoProgramsInCategory>
+        <staticNoProgramsInCategory>Sepertinya tidak ada aplikasi Microsoft Store yang terinstal</staticNoProgramsInCategory>
         <mark32bitItem>(32-bit)</mark32bitItem>
     </ListCtrl>
     <ExplorerBar>

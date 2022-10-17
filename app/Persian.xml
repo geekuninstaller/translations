@@ -14,13 +14,13 @@
         <mnuActionJumpToRegistry>&amp;ورودی رجیستری</mnuActionJumpToRegistry>
         <mnuActionJumpToProgramFolder>پوشه &amp;نصب</mnuActionJumpToProgramFolder>
         <mnuActionJumpToWebSite>وب&amp;سایت برنامه</mnuActionJumpToWebSite>
-        <mnuActionOpenWindowsStore>Open in Windows Store</mnuActionOpenWindowsStore>
+        <mnuActionOpenWindowsStore>Open in Microsoft Store</mnuActionOpenWindowsStore>
         <mnuActionBrowseLocation>جستجوی مکان...</mnuActionBrowseLocation>
         <mnuActionBrowseSource>جستجوی منبع...</mnuActionBrowseSource>
         <mnuActionGoogleFor>جستجو در گوگل</mnuActionGoogleFor>
         <mnuView>&amp;مشاهده</mnuView>
         <mnuViewDesktopApps>Desktop Apps</mnuViewDesktopApps>
-        <mnuViewWinStoreApps>Windows Store Apps</mnuViewWinStoreApps>
+        <mnuViewWinStoreApps>Microsoft Store Apps</mnuViewWinStoreApps>
         <mnuViewRefresh>&amp;تازه کردن</mnuViewRefresh>
         <mnuViewListColumnsReset>ریست ستون ها</mnuViewListColumnsReset>
         <mnuViewColorScheme>Color Scheme</mnuViewColorScheme>
@@ -38,7 +38,7 @@
         <columnInstallationDate>نصب شده در</columnInstallationDate>
         <staticLoading>بارگیری،منتظر بمانید..</staticLoading>
         <staticNoItemsMatchingFilterTip>No matching items, press ESC to reset</staticNoItemsMatchingFilterTip>
-        <staticNoProgramsInCategory>Seems like no Windows Store apps installed</staticNoProgramsInCategory>
+        <staticNoProgramsInCategory>Seems like no Microsoft Store apps installed</staticNoProgramsInCategory>
         <mark32bitItem>(32-bit)</mark32bitItem>
     </ListCtrl>
     <ExplorerBar>

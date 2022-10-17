@@ -14,13 +14,13 @@
         <mnuActionJumpToRegistry>&amp;Rekisterimerkintä</mnuActionJumpToRegistry>
         <mnuActionJumpToProgramFolder>&amp;Asennuskansio</mnuActionJumpToProgramFolder>
         <mnuActionJumpToWebSite>&amp;Ohjelman web-sivu</mnuActionJumpToWebSite>
-        <mnuActionOpenWindowsStore>Open in Windows Store</mnuActionOpenWindowsStore>
+        <mnuActionOpenWindowsStore>Open in Microsoft Store</mnuActionOpenWindowsStore>
         <mnuActionBrowseLocation>Hae sijainti...</mnuActionBrowseLocation>
         <mnuActionBrowseSource>Hae lähde...</mnuActionBrowseSource>
         <mnuActionGoogleFor>Googlaa</mnuActionGoogleFor>
         <mnuView>&amp;Näytä</mnuView>
         <mnuViewDesktopApps>Desktop Apps</mnuViewDesktopApps>
-        <mnuViewWinStoreApps>Windows Store Apps</mnuViewWinStoreApps>
+        <mnuViewWinStoreApps>Microsoft Store Apps</mnuViewWinStoreApps>
         <mnuViewRefresh>&amp;Päivitä</mnuViewRefresh>
         <mnuViewListColumnsReset>Resetoi sarakkeet</mnuViewListColumnsReset>
         <mnuViewColorScheme>Color Scheme</mnuViewColorScheme>
@@ -38,7 +38,7 @@
         <columnInstallationDate>Asennus pvm</columnInstallationDate>
         <staticLoading>Ladataan, odota...</staticLoading>
         <staticNoItemsMatchingFilterTip>No matching items, press ESC to reset</staticNoItemsMatchingFilterTip>
-        <staticNoProgramsInCategory>Seems like no Windows Store apps installed</staticNoProgramsInCategory>
+        <staticNoProgramsInCategory>Seems like no Microsoft Store apps installed</staticNoProgramsInCategory>
         <mark32bitItem>(32-bit)</mark32bitItem>
     </ListCtrl>
     <ExplorerBar>

@@ -14,13 +14,13 @@
         <mnuActionJumpToRegistry>Reyestr yazısı</mnuActionJumpToRegistry>
         <mnuActionJumpToProgramFolder>Proqramın qovluğu</mnuActionJumpToProgramFolder>
         <mnuActionJumpToWebSite>Proqramın Veb Səhifəsi</mnuActionJumpToWebSite>
-        <mnuActionOpenWindowsStore>Open in Windows Store</mnuActionOpenWindowsStore>
+        <mnuActionOpenWindowsStore>Open in Microsoft Store</mnuActionOpenWindowsStore>
         <mnuActionBrowseLocation>Proqramın qovluğu...</mnuActionBrowseLocation>
         <mnuActionBrowseSource>Mənbəyə baxış...</mnuActionBrowseSource>
         <mnuActionGoogleFor>Google-da axtar</mnuActionGoogleFor>
         <mnuView>Görünüş</mnuView>
         <mnuViewDesktopApps>Desktop Apps</mnuViewDesktopApps>
-        <mnuViewWinStoreApps>Windows Store Apps</mnuViewWinStoreApps>
+        <mnuViewWinStoreApps>Microsoft Store Apps</mnuViewWinStoreApps>
         <mnuViewRefresh>Yenilə</mnuViewRefresh>
         <mnuViewListColumnsReset>Sütunların vəziyyətini sıfırla</mnuViewListColumnsReset>
         <mnuViewColorScheme>Color Scheme</mnuViewColorScheme>
@@ -38,7 +38,7 @@
         <columnInstallationDate>Qurulma tarixi</columnInstallationDate>
         <staticLoading>Yüklənir, gözləyin...</staticLoading>
         <staticNoItemsMatchingFilterTip>No matching items, press ESC to reset</staticNoItemsMatchingFilterTip>
-        <staticNoProgramsInCategory>Seems like no Windows Store apps installed</staticNoProgramsInCategory>
+        <staticNoProgramsInCategory>Seems like no Microsoft Store apps installed</staticNoProgramsInCategory>
         <mark32bitItem>(32-bit)</mark32bitItem>
     </ListCtrl>
     <ExplorerBar>

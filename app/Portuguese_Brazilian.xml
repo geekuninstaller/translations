@@ -14,13 +14,13 @@
         <mnuActionJumpToRegistry>E&amp;ntrada no Registro</mnuActionJumpToRegistry>
         <mnuActionJumpToProgramFolder>&amp;Pasta de Instalação</mnuActionJumpToProgramFolder>
         <mnuActionJumpToWebSite>Pá&amp;gina web do programa</mnuActionJumpToWebSite>
-        <mnuActionOpenWindowsStore>Abrir na Windows Store</mnuActionOpenWindowsStore>
+        <mnuActionOpenWindowsStore>Abrir na Microsoft Store</mnuActionOpenWindowsStore>
         <mnuActionBrowseLocation>Procurar Localização...</mnuActionBrowseLocation>
         <mnuActionBrowseSource>Procurar Origem...</mnuActionBrowseSource>
         <mnuActionGoogleFor>Perquisar no Google</mnuActionGoogleFor>
         <mnuView>&amp;Ver</mnuView>
         <mnuViewDesktopApps>Aplicativos da Área de Trabalho</mnuViewDesktopApps>
-        <mnuViewWinStoreApps>Aplicativos da Windows Store</mnuViewWinStoreApps>
+        <mnuViewWinStoreApps>Aplicativos da Microsoft Store</mnuViewWinStoreApps>
         <mnuViewRefresh>A&amp;tualizar</mnuViewRefresh>
         <mnuViewListColumnsReset>Resetar Colunas</mnuViewListColumnsReset>
         <mnuViewColorScheme>Color Scheme</mnuViewColorScheme>
@@ -38,7 +38,7 @@
         <columnInstallationDate>Instalado Em</columnInstallationDate>
         <staticLoading>Carregando, aguarde...</staticLoading>
         <staticNoItemsMatchingFilterTip>Nenhum item correspondente, pressione ESC para resetar</staticNoItemsMatchingFilterTip>
-        <staticNoProgramsInCategory>Parece que nenhum aplicativo da Windows Store foi instalado</staticNoProgramsInCategory>
+        <staticNoProgramsInCategory>Parece que nenhum aplicativo da Microsoft Store foi instalado</staticNoProgramsInCategory>
         <mark32bitItem>(32-bit)</mark32bitItem>
     </ListCtrl>
     <ExplorerBar>

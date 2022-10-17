@@ -14,13 +14,13 @@
         <mnuActionJumpToRegistry>レジストリ エントリ(&amp;R)</mnuActionJumpToRegistry>
         <mnuActionJumpToProgramFolder>インストール フォルダー(&amp;I)</mnuActionJumpToProgramFolder>
         <mnuActionJumpToWebSite>プログラムの Web サイト(&amp;P)</mnuActionJumpToWebSite>
-        <mnuActionOpenWindowsStore>Open in Windows Store</mnuActionOpenWindowsStore>
+        <mnuActionOpenWindowsStore>Open in Microsoft Store</mnuActionOpenWindowsStore>
         <mnuActionBrowseLocation>場所の参照...</mnuActionBrowseLocation>
         <mnuActionBrowseSource>ソースの参照...</mnuActionBrowseSource>
         <mnuActionGoogleFor>ググる</mnuActionGoogleFor>
         <mnuView>表示(&amp;V)</mnuView>
         <mnuViewDesktopApps>Desktop Apps</mnuViewDesktopApps>
-        <mnuViewWinStoreApps>Windows Store Apps</mnuViewWinStoreApps>
+        <mnuViewWinStoreApps>Microsoft Store Apps</mnuViewWinStoreApps>
         <mnuViewRefresh>更新(&amp;R)</mnuViewRefresh>
         <mnuViewListColumnsReset>列のリセット</mnuViewListColumnsReset>
         <mnuViewColorScheme>Color Scheme</mnuViewColorScheme>
@@ -38,7 +38,7 @@
         <columnInstallationDate>インストール日</columnInstallationDate>
         <staticLoading>Loading, please wait...</staticLoading>
         <staticNoItemsMatchingFilterTip>No matching items, press ESC to reset</staticNoItemsMatchingFilterTip>
-        <staticNoProgramsInCategory>Seems like no Windows Store apps installed</staticNoProgramsInCategory>
+        <staticNoProgramsInCategory>Seems like no Microsoft Store apps installed</staticNoProgramsInCategory>
         <mark32bitItem>(32-bit)</mark32bitItem>
     </ListCtrl>
     <ExplorerBar>

@@ -14,13 +14,13 @@
         <mnuActionJumpToRegistry>&amp;Položka registra</mnuActionJumpToRegistry>
         <mnuActionJumpToProgramFolder>&amp;Inštalačný priečinok</mnuActionJumpToProgramFolder>
         <mnuActionJumpToWebSite>&amp;Internetová stránka programu</mnuActionJumpToWebSite>
-        <mnuActionOpenWindowsStore>Open in Windows Store</mnuActionOpenWindowsStore>
+        <mnuActionOpenWindowsStore>Open in Microsoft Store</mnuActionOpenWindowsStore>
         <mnuActionBrowseLocation>Prejsť do priečinka...</mnuActionBrowseLocation>
         <mnuActionBrowseSource>Prejsť na zdroj...</mnuActionBrowseSource>
         <mnuActionGoogleFor>Vyhľadať na Google</mnuActionGoogleFor>
         <mnuView>&amp;Zobrazenie</mnuView>
         <mnuViewDesktopApps>Desktop Apps</mnuViewDesktopApps>
-        <mnuViewWinStoreApps>Windows Store Apps</mnuViewWinStoreApps>
+        <mnuViewWinStoreApps>Microsoft Store Apps</mnuViewWinStoreApps>
         <mnuViewRefresh>&amp;Obnoviť</mnuViewRefresh>
         <mnuViewListColumnsReset>Obnoviť stĺpce</mnuViewListColumnsReset>
         <mnuViewColorScheme>Color Scheme</mnuViewColorScheme>
@@ -38,7 +38,7 @@
         <columnInstallationDate>Nainštalovaný</columnInstallationDate>
         <staticLoading>Loading, please wait...</staticLoading>
         <staticNoItemsMatchingFilterTip>No matching items, press ESC to reset</staticNoItemsMatchingFilterTip>
-        <staticNoProgramsInCategory>Seems like no Windows Store apps installed</staticNoProgramsInCategory>
+        <staticNoProgramsInCategory>Seems like no Microsoft Store apps installed</staticNoProgramsInCategory>
         <mark32bitItem>(32-bit)</mark32bitItem>
     </ListCtrl>
     <ExplorerBar>

@@ -14,13 +14,13 @@
         <mnuActionJumpToRegistry>Wpis w &amp;rejestrze</mnuActionJumpToRegistry>
         <mnuActionJumpToProgramFolder>Folder &amp;aplikacji</mnuActionJumpToProgramFolder>
         <mnuActionJumpToWebSite>Strona &amp;internetowa aplikacji</mnuActionJumpToWebSite>
-        <mnuActionOpenWindowsStore>Open in Windows Store</mnuActionOpenWindowsStore>
+        <mnuActionOpenWindowsStore>Open in Microsoft Store</mnuActionOpenWindowsStore>
         <mnuActionBrowseLocation>Przeglądaj położenie...</mnuActionBrowseLocation>
         <mnuActionBrowseSource>Przeglądaj źródło...</mnuActionBrowseSource>
         <mnuActionGoogleFor>Szukaj w Google</mnuActionGoogleFor>
         <mnuView>&amp;Widok</mnuView>
         <mnuViewDesktopApps>Desktop Apps</mnuViewDesktopApps>
-        <mnuViewWinStoreApps>Windows Store Apps</mnuViewWinStoreApps>
+        <mnuViewWinStoreApps>Microsoft Store Apps</mnuViewWinStoreApps>
         <mnuViewRefresh>&amp;Odśwież</mnuViewRefresh>
         <mnuViewListColumnsReset>Resetuj kolumny</mnuViewListColumnsReset>
         <mnuViewColorScheme>Color Scheme</mnuViewColorScheme>
@@ -38,7 +38,7 @@
         <columnInstallationDate>Data instalacji</columnInstallationDate>
         <staticLoading>Ładowanie, proszę czekać...</staticLoading>
         <staticNoItemsMatchingFilterTip>No matching items, press ESC to reset</staticNoItemsMatchingFilterTip>
-        <staticNoProgramsInCategory>Seems like no Windows Store apps installed</staticNoProgramsInCategory>
+        <staticNoProgramsInCategory>Seems like no Microsoft Store apps installed</staticNoProgramsInCategory>
         <mark32bitItem>(32-bit)</mark32bitItem>
     </ListCtrl>
     <ExplorerBar>

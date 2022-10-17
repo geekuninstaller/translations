@@ -14,13 +14,13 @@
         <mnuActionJumpToRegistry>&amp;Registri sisestus</mnuActionJumpToRegistry>
         <mnuActionJumpToProgramFolder>&amp;Paigaldamise kaust</mnuActionJumpToProgramFolder>
         <mnuActionJumpToWebSite>&amp;Programmi veebileht</mnuActionJumpToWebSite>
-        <mnuActionOpenWindowsStore>Open in Windows Store</mnuActionOpenWindowsStore>
+        <mnuActionOpenWindowsStore>Open in Microsoft Store</mnuActionOpenWindowsStore>
         <mnuActionBrowseLocation>Otsi asukohta...</mnuActionBrowseLocation>
         <mnuActionBrowseSource>Otsi allikat...</mnuActionBrowseSource>
         <mnuActionGoogleFor>Otsi Googlist</mnuActionGoogleFor>
         <mnuView>&amp;Vaade</mnuView>
         <mnuViewDesktopApps>Desktop Apps</mnuViewDesktopApps>
-        <mnuViewWinStoreApps>Windows Store Apps</mnuViewWinStoreApps>
+        <mnuViewWinStoreApps>Microsoft Store Apps</mnuViewWinStoreApps>
         <mnuViewRefresh>&amp;Värskenda</mnuViewRefresh>
         <mnuViewListColumnsReset>Vali kõik</mnuViewListColumnsReset>
         <mnuViewColorScheme>Color Scheme</mnuViewColorScheme>
@@ -38,7 +38,7 @@
         <columnInstallationDate>Paigaldatud</columnInstallationDate>
         <staticLoading>Loading, please wait...</staticLoading>
         <staticNoItemsMatchingFilterTip>No matching items, press ESC to reset</staticNoItemsMatchingFilterTip>
-        <staticNoProgramsInCategory>Seems like no Windows Store apps installed</staticNoProgramsInCategory>
+        <staticNoProgramsInCategory>Seems like no Microsoft Store apps installed</staticNoProgramsInCategory>
         <mark32bitItem>(32-bit)</mark32bitItem>
     </ListCtrl>
     <ExplorerBar>

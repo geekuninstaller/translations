@@ -14,13 +14,13 @@
         <mnuActionJumpToRegistry>&amp;Запис у реєстрі</mnuActionJumpToRegistry>
         <mnuActionJumpToProgramFolder>&amp;Тека програми</mnuActionJumpToProgramFolder>
         <mnuActionJumpToWebSite>&amp;Веб-сайт програми</mnuActionJumpToWebSite>
-        <mnuActionOpenWindowsStore>Відкрити у магазині Windows Store</mnuActionOpenWindowsStore>
+        <mnuActionOpenWindowsStore>Відкрити у магазині Microsoft Store</mnuActionOpenWindowsStore>
         <mnuActionBrowseLocation>Тека програми...</mnuActionBrowseLocation>
         <mnuActionBrowseSource>Джерело запуску...</mnuActionBrowseSource>
         <mnuActionGoogleFor>Шукати в Google</mnuActionGoogleFor>
         <mnuView>&amp;Вигляд</mnuView>
         <mnuViewDesktopApps>Настільні додатки</mnuViewDesktopApps>
-        <mnuViewWinStoreApps>Додатки з магазину Windows Store</mnuViewWinStoreApps>
+        <mnuViewWinStoreApps>Додатки з магазину Microsoft Store</mnuViewWinStoreApps>
         <mnuViewRefresh>&amp;Оновити</mnuViewRefresh>
         <mnuViewListColumnsReset>Зкинути стан колонок</mnuViewListColumnsReset>
         <mnuViewColorScheme>Color Scheme</mnuViewColorScheme>
@@ -38,7 +38,7 @@
         <columnInstallationDate>Встановлено</columnInstallationDate>
         <staticLoading>Будь ласка, очікуйте...</staticLoading>
         <staticNoItemsMatchingFilterTip>Збігів не знайдено, натисніть ESC</staticNoItemsMatchingFilterTip>
-        <staticNoProgramsInCategory>Додатки з магазину Windows Store не встановлені</staticNoProgramsInCategory>
+        <staticNoProgramsInCategory>Додатки з магазину Microsoft Store не встановлені</staticNoProgramsInCategory>
         <mark32bitItem>(32-біт)</mark32bitItem>
     </ListCtrl>
     <ExplorerBar>

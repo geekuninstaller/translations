@@ -14,13 +14,13 @@
         <mnuActionJumpToRegistry>&amp;Καταχώρηση μητρώου</mnuActionJumpToRegistry>
         <mnuActionJumpToProgramFolder>Φάκελος &amp;εγκατάστασης</mnuActionJumpToProgramFolder>
         <mnuActionJumpToWebSite>Ιστοσελίδα &amp;προγράμματος</mnuActionJumpToWebSite>
-        <mnuActionOpenWindowsStore>Open in Windows Store</mnuActionOpenWindowsStore>
+        <mnuActionOpenWindowsStore>Open in Microsoft Store</mnuActionOpenWindowsStore>
         <mnuActionBrowseLocation>Εύρεση θέσης...</mnuActionBrowseLocation>
         <mnuActionBrowseSource>Εύρεση προέλευσης...</mnuActionBrowseSource>
         <mnuActionGoogleFor>Αναζήτηση Google για</mnuActionGoogleFor>
         <mnuView>&amp;Επισκόπηση</mnuView>
         <mnuViewDesktopApps>Εφαρμογές επιφάνειας εργασίας</mnuViewDesktopApps>
-        <mnuViewWinStoreApps>Εφαρμογές Windows Store</mnuViewWinStoreApps>
+        <mnuViewWinStoreApps>Εφαρμογές Microsoft Store</mnuViewWinStoreApps>
         <mnuViewRefresh>&amp;Ανανέωση</mnuViewRefresh>
         <mnuViewListColumnsReset>Επαναφορά στηλών</mnuViewListColumnsReset>
         <mnuViewColorScheme>Color Scheme</mnuViewColorScheme>
@@ -38,7 +38,7 @@
         <columnInstallationDate>Εγκαταστάθηκε στις</columnInstallationDate>
         <staticLoading>Φόρτωση, παρακαλώ περιμένετε...</staticLoading>
         <staticNoItemsMatchingFilterTip>Δε βρέθηκε κάτι σχετικό, πιέστε ESC για επαναφορά</staticNoItemsMatchingFilterTip>
-        <staticNoProgramsInCategory>Φαίνεται ότι δεν υπάρχουν εγκατεστημένες εφαρμογές Windows Store</staticNoProgramsInCategory>
+        <staticNoProgramsInCategory>Φαίνεται ότι δεν υπάρχουν εγκατεστημένες εφαρμογές Microsoft Store</staticNoProgramsInCategory>
         <mark32bitItem>(32-bit)</mark32bitItem>
     </ListCtrl>
     <ExplorerBar>

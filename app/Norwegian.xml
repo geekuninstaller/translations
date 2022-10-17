@@ -14,13 +14,13 @@
         <mnuActionJumpToRegistry>&amp;Registeroppføring</mnuActionJumpToRegistry>
         <mnuActionJumpToProgramFolder>In&amp;stallasjonsmappe</mnuActionJumpToProgramFolder>
         <mnuActionJumpToWebSite>&amp;Programmets hjemmeside</mnuActionJumpToWebSite>
-        <mnuActionOpenWindowsStore>Åpne i Windows Store</mnuActionOpenWindowsStore>
+        <mnuActionOpenWindowsStore>Åpne i Microsoft Store</mnuActionOpenWindowsStore>
         <mnuActionBrowseLocation>Utforsk plassering...</mnuActionBrowseLocation>
         <mnuActionBrowseSource>Utforsk kilde...</mnuActionBrowseSource>
         <mnuActionGoogleFor>Google etter</mnuActionGoogleFor>
         <mnuView>Vi&amp;s</mnuView>
         <mnuViewDesktopApps>Skrivebordsapper</mnuViewDesktopApps>
-        <mnuViewWinStoreApps>Windows Store-apper</mnuViewWinStoreApps>
+        <mnuViewWinStoreApps>Microsoft Store-apper</mnuViewWinStoreApps>
         <mnuViewRefresh>&amp;Last inn på nytt</mnuViewRefresh>
         <mnuViewListColumnsReset>Tilbakestill kolonner</mnuViewListColumnsReset>
         <mnuViewColorScheme>Color Scheme</mnuViewColorScheme>
@@ -38,7 +38,7 @@
         <columnInstallationDate>Installert den</columnInstallationDate>
         <staticLoading>Laster inn, vennligst vent...</staticLoading>
         <staticNoItemsMatchingFilterTip>Ingen treff funnet, trykk Esc for å starte på nytt</staticNoItemsMatchingFilterTip>
-        <staticNoProgramsInCategory>Det virker som om ingen Windows Store-apper er installert</staticNoProgramsInCategory>
+        <staticNoProgramsInCategory>Det virker som om ingen Microsoft Store-apper er installert</staticNoProgramsInCategory>
         <mark32bitItem>(32-bit)</mark32bitItem>
     </ListCtrl>
     <ExplorerBar>

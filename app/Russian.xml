@@ -14,13 +14,13 @@
         <mnuActionJumpToRegistry>&amp;Запись в реестре</mnuActionJumpToRegistry>
         <mnuActionJumpToProgramFolder>&amp;Папка программы</mnuActionJumpToProgramFolder>
         <mnuActionJumpToWebSite>&amp;Веб-сайт программы</mnuActionJumpToWebSite>
-        <mnuActionOpenWindowsStore>Открыть в Windows Store</mnuActionOpenWindowsStore>
+        <mnuActionOpenWindowsStore>Открыть в Microsoft Store</mnuActionOpenWindowsStore>
         <mnuActionBrowseLocation>&amp;Папка программы...</mnuActionBrowseLocation>
         <mnuActionBrowseSource>&amp;Источник запуска...</mnuActionBrowseSource>
         <mnuActionGoogleFor>Искать в Google</mnuActionGoogleFor>
         <mnuView>&amp;Вид</mnuView>
         <mnuViewDesktopApps>Классические приложения</mnuViewDesktopApps>
-        <mnuViewWinStoreApps>Программы из Windows Store</mnuViewWinStoreApps>
+        <mnuViewWinStoreApps>Программы из Microsoft Store</mnuViewWinStoreApps>
         <mnuViewRefresh>&amp;Обновить</mnuViewRefresh>
         <mnuViewListColumnsReset>Сбросить состояние колонок</mnuViewListColumnsReset>
         <mnuViewColorScheme>Цветовая схема</mnuViewColorScheme>

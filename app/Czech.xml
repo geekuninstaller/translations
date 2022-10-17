@@ -14,13 +14,13 @@
         <mnuActionJumpToRegistry>&amp;Procházet záznamy registru</mnuActionJumpToRegistry>
         <mnuActionJumpToProgramFolder>&amp;Procházet instalační složku</mnuActionJumpToProgramFolder>
         <mnuActionJumpToWebSite>&amp;Internetová stránka programu</mnuActionJumpToWebSite>
-        <mnuActionOpenWindowsStore>Otevřít ve Windows Store</mnuActionOpenWindowsStore>
+        <mnuActionOpenWindowsStore>Otevřít ve Microsoft Store</mnuActionOpenWindowsStore>
         <mnuActionBrowseLocation>Přejít do složky...</mnuActionBrowseLocation>
         <mnuActionBrowseSource>Přejít na zdroj...</mnuActionBrowseSource>
         <mnuActionGoogleFor>Vyhledat na Google</mnuActionGoogleFor>
         <mnuView>&amp;Zobrazení</mnuView>
         <mnuViewDesktopApps>Desktopové aplikace</mnuViewDesktopApps>
-        <mnuViewWinStoreApps>Windows Store aplikace</mnuViewWinStoreApps>
+        <mnuViewWinStoreApps>Microsoft Store aplikace</mnuViewWinStoreApps>
         <mnuViewRefresh>&amp;Obnovit</mnuViewRefresh>
         <mnuViewListColumnsReset>Obnovit sloupce</mnuViewListColumnsReset>
         <mnuViewColorScheme>Color Scheme</mnuViewColorScheme>
@@ -38,7 +38,7 @@
         <columnInstallationDate>Nainstalován</columnInstallationDate>
         <staticLoading>Načítání, čekejte prosím...</staticLoading>
         <staticNoItemsMatchingFilterTip>Žádné odpovídající položky, stiskněte ESC pro obnovení</staticNoItemsMatchingFilterTip>
-        <staticNoProgramsInCategory>Vypadá to, že nejsou nainstalovány žádné aplikace z Windows Store</staticNoProgramsInCategory>
+        <staticNoProgramsInCategory>Vypadá to, že nejsou nainstalovány žádné aplikace z Microsoft Store</staticNoProgramsInCategory>
         <mark32bitItem>(32-bit)</mark32bitItem>
     </ListCtrl>
     <ExplorerBar>

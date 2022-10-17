@@ -14,13 +14,13 @@
         <mnuActionJumpToRegistry>Registryeintrag</mnuActionJumpToRegistry>
         <mnuActionJumpToProgramFolder>Installationsordner</mnuActionJumpToProgramFolder>
         <mnuActionJumpToWebSite>Programm Webseite</mnuActionJumpToWebSite>
-        <mnuActionOpenWindowsStore>Im Windows Store öffnen</mnuActionOpenWindowsStore>
+        <mnuActionOpenWindowsStore>Im Microsoft Store öffnen</mnuActionOpenWindowsStore>
         <mnuActionBrowseLocation>System durchsuchen...</mnuActionBrowseLocation>
         <mnuActionBrowseSource>Registry durchsuchen...</mnuActionBrowseSource>
         <mnuActionGoogleFor>Mit Google suchen:</mnuActionGoogleFor>
         <mnuView>Ansicht</mnuView>
         <mnuViewDesktopApps>Desktop Apps</mnuViewDesktopApps>
-        <mnuViewWinStoreApps>Windows Store Apps</mnuViewWinStoreApps>
+        <mnuViewWinStoreApps>Microsoft Store Apps</mnuViewWinStoreApps>
         <mnuViewRefresh>Aktualisieren</mnuViewRefresh>
         <mnuViewListColumnsReset>Spalten zurücksetzen</mnuViewListColumnsReset>
         <mnuViewColorScheme>Color Scheme</mnuViewColorScheme>
@@ -38,7 +38,7 @@
         <columnInstallationDate>Installiert am:</columnInstallationDate>
         <staticLoading>Lade, bitte warten...</staticLoading>
         <staticNoItemsMatchingFilterTip>Keine passenden Elemente gefunden, drücken Sie ESC zum zurücksetzen</staticNoItemsMatchingFilterTip>
-        <staticNoProgramsInCategory>Es konnten keine installierten Windows Store Apps gefunden werden</staticNoProgramsInCategory>
+        <staticNoProgramsInCategory>Es konnten keine installierten Microsoft Store Apps gefunden werden</staticNoProgramsInCategory>
         <mark32bitItem>(32-bit)</mark32bitItem>
     </ListCtrl>
     <ExplorerBar>

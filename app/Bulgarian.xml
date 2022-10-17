@@ -14,13 +14,13 @@
         <mnuActionJumpToRegistry>&amp;Запис на приложението от системния регистър</mnuActionJumpToRegistry>
         <mnuActionJumpToProgramFolder>Пап&amp;ка на приложението</mnuActionJumpToProgramFolder>
         <mnuActionJumpToWebSite>&amp;Сайт на приложението</mnuActionJumpToWebSite>
-        <mnuActionOpenWindowsStore>Open in Windows Store</mnuActionOpenWindowsStore>
+        <mnuActionOpenWindowsStore>Open in Microsoft Store</mnuActionOpenWindowsStore>
         <mnuActionBrowseLocation>Преглед на местоположението...</mnuActionBrowseLocation>
         <mnuActionBrowseSource>Преглед на източника...</mnuActionBrowseSource>
         <mnuActionGoogleFor>Google for</mnuActionGoogleFor>
         <mnuView>&amp;Изглед</mnuView>
         <mnuViewDesktopApps>Desktop Apps</mnuViewDesktopApps>
-        <mnuViewWinStoreApps>Windows Store Apps</mnuViewWinStoreApps>
+        <mnuViewWinStoreApps>Microsoft Store Apps</mnuViewWinStoreApps>
         <mnuViewRefresh>&amp;Опресни</mnuViewRefresh>
         <mnuViewListColumnsReset>Задаване на широчината по подразбиране за колоните</mnuViewListColumnsReset>
         <mnuViewColorScheme>Color Scheme</mnuViewColorScheme>
@@ -38,7 +38,7 @@
         <columnInstallationDate>Инсталирано на</columnInstallationDate>
         <staticLoading>Зареждане, моля изчакайте...</staticLoading>
         <staticNoItemsMatchingFilterTip>No matching items, press ESC to reset</staticNoItemsMatchingFilterTip>
-        <staticNoProgramsInCategory>Seems like no Windows Store apps installed</staticNoProgramsInCategory>
+        <staticNoProgramsInCategory>Seems like no Microsoft Store apps installed</staticNoProgramsInCategory>
         <mark32bitItem>(32-bit)</mark32bitItem>
     </ListCtrl>
     <ExplorerBar>
