@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageStrings>
     <MainMenu>
         <mnuFile>파일(&amp;F)</mnuFile>
-        <mnuFileExport>HTML (으)로 내보내기(&amp;H)...</mnuFileExport>
-        <mnuFileExit>끝내기(&amp;X)</mnuFileExit>
+        <mnuFileExport>HTML로 내보내기(&amp;H)...</mnuFileExport>
+        <mnuFileExit>종료(&amp;X)</mnuFileExit>
         <mnuAction>작업(&amp;A)</mnuAction>
         <mnuActionUninstall>제거(&amp;U)...</mnuActionUninstall>
         <mnuActionModify>수정(&amp;M)...</mnuActionModify>
@@ -17,16 +17,16 @@
         <mnuActionOpenWindowsStore>Windows 스토어에서 열기</mnuActionOpenWindowsStore>
         <mnuActionBrowseLocation>위치 찾아보기...</mnuActionBrowseLocation>
         <mnuActionBrowseSource>소스 찾아보기...</mnuActionBrowseSource>
-        <mnuActionGoogleFor>Google (으)로 검색:</mnuActionGoogleFor>
+        <mnuActionGoogleFor>Google에서 검색:</mnuActionGoogleFor>
         <mnuView>보기(&amp;V)</mnuView>
         <mnuViewDesktopApps>데스크톱 앱</mnuViewDesktopApps>
         <mnuViewWinStoreApps>Windows 스토어 앱</mnuViewWinStoreApps>
         <mnuViewRefresh>새로 고침(&amp;R)</mnuViewRefresh>
-        <mnuViewListColumnsReset>열(ㅣ) 초기화</mnuViewListColumnsReset>
-        <mnuViewColorScheme>Color Scheme</mnuViewColorScheme>
-        <mnuViewColorSchemeAuto>Match Windows light/dark mode</mnuViewColorSchemeAuto>
-        <mnuViewColorSchemeLight>Light mode (default)</mnuViewColorSchemeLight>
-        <mnuViewColorSchemeDark>Dark mode</mnuViewColorSchemeDark>
+        <mnuViewListColumnsReset>열 초기화</mnuViewListColumnsReset>
+        <mnuViewColorScheme>색상 구성표</mnuViewColorScheme>
+        <mnuViewColorSchemeAuto>Windows 밝은/어두운 모드 일치light/dark mode</mnuViewColorSchemeAuto>
+        <mnuViewColorSchemeLight>밝은 모드 (기본값)</mnuViewColorSchemeLight>
+        <mnuViewColorSchemeDark>어두운 모드</mnuViewColorSchemeDark>
         <mnuViewLanguage>인터페이스 언어</mnuViewLanguage>
         <mnuHelp>도움말(&amp;H)</mnuHelp>
         <mnuHelpAbout>정보(&amp;A)...</mnuHelpAbout>
@@ -36,37 +36,37 @@
         <columnProgramName>프로그램 이름</columnProgramName>
         <columnSize>크기</columnSize>
         <columnInstallationDate>설치 날짜</columnInstallationDate>
-        <staticLoading>불러오고 있습니다. 기다리세요...</staticLoading>
-        <staticNoItemsMatchingFilterTip>일치하는 항목이 없습니다. 초기화하려면, ESC 키를 누르세요.</staticNoItemsMatchingFilterTip>
+        <staticLoading>불러오는 중, 잠시 기다리세요...</staticLoading>
+        <staticNoItemsMatchingFilterTip>일치하는 항목이 없습니다. 재설정하려면 ESC를 누르십시오.</staticNoItemsMatchingFilterTip>
         <staticNoProgramsInCategory>설치된 Microsoft Store 앱이 없는 걸로 보입니다.</staticNoProgramsInCategory>
         <mark32bitItem>(32-bit)</mark32bitItem>
     </ListCtrl>
     <ExplorerBar>
-        <itemShortSearchTip>찾을 프로그램을 입력하세요.</itemShortSearchTip>
+        <itemShortSearchTip>프로그램을 찾으려면 입력</itemShortSearchTip>
     </ExplorerBar>
     <UninstallWizard>
-        <statusScanning>남은 파일, 폴더 및 레지스트리 항목을 검색하고 있습니다...</statusScanning>
-        <statusLeftOverTracesFound>몇 가지 남은 흔적을 찾았습니다!</statusLeftOverTracesFound>
+        <statusScanning>남은 파일, 폴더 및 레지스트리 항목을 검색하는 중...</statusScanning>
+        <statusLeftOverTracesFound>남은 흔적들이 발견되었습니다!</statusLeftOverTracesFound>
         <statusNothingFound>남은 흔적을 찾을 수 없습니다.</statusNothingFound>
-        <statusAllTracesRemoved>모든 흔적이 제거됐습니다.</statusAllTracesRemoved>
-        <statusDeletingProgramTraces>프로그램 흔적을 삭제하고 있습니다...</statusDeletingProgramTraces>
-        <treeItemFileSystem>파일 시스템 (%d 개 항목)</treeItemFileSystem>
-        <treeItemRegistry>레지스트리 (%d 개 항목)</treeItemRegistry>
+        <statusAllTracesRemoved>모든 흔적이 제거됐습니다</statusAllTracesRemoved>
+        <statusDeletingProgramTraces>프로그램 흔적 삭제 중...</statusDeletingProgramTraces>
+        <treeItemFileSystem>파일 시스템 (%d개 항목)</treeItemFileSystem>
+        <treeItemRegistry>레지스트리 (%d개 항목)</treeItemRegistry>
         <treeItemPopopMenuBrowse>찾아보기...</treeItemPopopMenuBrowse>
         <btnFinish>마침</btnFinish>
         <btnCancel>취소</btnCancel>
         <btnClose>닫기</btnClose>
     </UninstallWizard>
     <DlgAbout>
-        <DlgAboutCaption>Geek Uninstaller 정보</DlgAboutCaption>
+        <DlgAboutCaption>Geek Uninstaller 정보 -한국어: 비너스걸</DlgAboutCaption>
     </DlgAbout>
     <Messages>
-        <msgUninstallFailed>제거 작업이 실패했습니다. \n레지스트리에서 이 프로그램의 항목을 지우고 그 파일(들)을 삭제할 건가요?</msgUninstallFailed>
-        <msgForceRemovalQuestion>참말로, 이 프로그램에 대해 강제 제거를 수행할 건가요?</msgForceRemovalQuestion>
-        <msgRemoveEntryQuestion>참말로, 이 항목을 제거할 건가요?</msgRemoveEntryQuestion>
-        <msgRemoveEntryFailed>이 프로그램의 레지스트리 항목을 삭제하지 못했습니다.\n아마도 접근할 수 없는 듯 합니다.</msgRemoveEntryFailed>
-        <msgNewVersionAvailable>새 버전 %s (이)가 사용 가능합니다.</msgNewVersionAvailable>
-        <msgNewVersionAvailable2>GeekUninstaller의 새로운 버전을 사용할 수 있습니다! 우리 웹사이트에 방문해서 새로운 버전을 다운로드하려면, '확인'을 누르세요.</msgNewVersionAvailable2>
+        <msgUninstallFailed>제거 프로세스에 실패했습니다. \n레지스트리에서 이 프로그램 항목을 지우고 파일을 정리하시겠습니까?</msgUninstallFailed>
+        <msgForceRemovalQuestion>이 프로그램의 강제 제거를 수행하시겠습니까?</msgForceRemovalQuestion>
+        <msgRemoveEntryQuestion>이 항목을 제거하시겠습니까?</msgRemoveEntryQuestion>
+        <msgRemoveEntryFailed>이 항목의 레지스트리 항목을 삭제하지 못했습니다. \n아마도 이 작업을 수행할 수 있는 권한이 없을 것입니다.</msgRemoveEntryFailed>
+        <msgNewVersionAvailable>새 버전 %s을(를) 사용할 수 있습니다.</msgNewVersionAvailable>
+        <msgNewVersionAvailable2>새로운 버전의 GeekUninstaller를 사용할 수 있습니다! 웹 사이트를 방문하여 최신 버전을 다운로드하려면 확인을 클릭합니다.</msgNewVersionAvailable2>
     </Messages>
     <ProVersion>
         <statusMessage>PRO 버전으로 업그레이드</statusMessage>
@@ -74,14 +74,14 @@
         <Feature1>설시간 설치 감시</Feature1>
         <Feature2>철저하고 완전한 제거</Feature2>
         <Feature3>시작 프로그램 관리</Feature3>
-        <Feature4>Modern 인터페이스, 기술 지원</Feature4>
+        <Feature4>현재적 인터페이스, 기술 지원</Feature4>
         <Feature5>일괄 제거</Feature5>
         <buttonUpgrade>업그레이드</buttonUpgrade>
     </ProVersion>
     <HTMLReport>
         <htmlFiles>HTML 파일</htmlFiles>
         <allFiles>모든 파일</allFiles>
-        <generatedByOn>%s (이)가 %s 에 만듬</generatedByOn>
+        <generatedByOn>%s에서 %s에 의해 생성됨</generatedByOn>
         <installedPrograms>설치한 프로그램 (%s)</installedPrograms>
     </HTMLReport>
     <Misc>
@@ -91,7 +91,7 @@
         <btnYes>예</btnYes>
         <btnNo>아니오</btnNo>
         <btnClose>닫기</btnClose>
-        <statusTotalInfo>%d 개 프로그램 / 전체 크기: %s</statusTotalInfo>
+        <statusTotalInfo>%d개 프로그램 / 전체 크기: %s</statusTotalInfo>
         <statusUnknown>알 수 없음</statusUnknown>
         <WindowsUpdatesText>Windows 업데이트</WindowsUpdatesText>
     </Misc>
