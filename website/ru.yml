@@ -11,7 +11,7 @@ main-page:
   header_feature_1: Чистое удаление, принудительное удаление
   header_feature_2: Полная поддержка 64-битных систем
   header_feature_3: Удобный и простой интерфейс
-  header_feature_4: Удаление приложений из Windows Store
+  header_feature_4: Удаление приложений из Microsoft Store
   button_download: Скачать
   stripe_1_header: Главные возможности
   tour_feature_1: Чистое удаление
@@ -20,8 +20,8 @@ main-page:
   tour_feature_2_text: Для удаления надоедливых и/или поврежденных программ.
   tour_feature_3: Удобный интерфейс
   tour_feature_3_text: Простой, но удивительно функциональный. Поддержка русского языка.
-  tour_feature_4: Удаление приложений из Windows Store
-  tour_feature_4_text: Uninstall Windows Store apps on Windows 8/8.1/10. 
+  tour_feature_4: Удаление приложений из Microsoft Store
+  tour_feature_4_text: Uninstall Microsoft Store apps on Windows 8/8.1/10. 
   tour_feature_5: Быстрый и умный
   tour_feature_5_text: Мгновенный запуск. Сразу печатайте и Geek мгновенно найдёт нужную программу.
   tour_feature_6: Портативный
@@ -31,9 +31,11 @@ main-page:
   screen_2: Чистое удаление, принудительное удаление
   screen_2_text: Стандартная программа деинсталляции может оставлять огромное кол-во остатков (элементов файловой системы, реестра) на вашем ПК. 
   screen_3: Удаление программ, установленных через магазин прижений Windows
-  screen_3_text: Используйте меню Вид либо сочетание клавиш Ctrl+Tab для переключения между обычными и программами Windows Store.
+  screen_3_text: Используйте меню Вид либо сочетание клавиш Ctrl+Tab для переключения между обычными и программами Microsoft Store.
   screen_4: Мгновенный поиск
   screen_4_text: Начните писать любую известную часть имени искомой программы, список будет мгновенно отсортирован.
+  screen_5: Тёмный режим
+  screen_5_text: Geek Uninstaller удобен и для вас, любителей ночи
   multilingual_interface: "Интерфейс доступен на всех языках, включая русский:"
   review_1: The performance of Geek Uninstaller is impressive. It uninstalls quickly and finds leftover files that anyone couldn't. Overall, the app is an impressive maintenance tool that delivers on both performance and features. Highly recommended.
   review_2: The bottom line is that Geek Uninstaller is a nice tool that can be quite useful. Inexperienced users shouldn’t have any troubles while working with this program, thanks to its intuitive layout and overall simplicity.
@@ -63,7 +65,7 @@ download_page:
   pro_button_trial: Попробовать бесплатно
   pro_button_buy: Купить
   compatibility: Совместимость
-  compatibility_text: Совместимо с 32 &amp; 64-битными версиями Windows 10/7/8/8.1/XP/Vista/2003/2008/Server. Требует права администратора. <br>На 64-битах он распаковывает специальную нативную 64-битную версию программы и запускает именно ее.
+  compatibility_text: Совместимо с 32 &amp; 64-битными версиями Windows 10/7/8/8.1. Требует права администратора. <br>На 64-битах он распаковывает специальную нативную 64-битную версию программы и запускает именно ее.
   release_notes: История последних изменений
   release_notes_button: Смотреть полный список
 
@@ -71,8 +73,8 @@ about-page:
   title: О программе Geek Uninstaller и её авторе
   description: О программе Geek Uninstaller и её авторе
   text_1: Я программист и провожу много времени возле компьютера. Именно поэтому я серьёзно отношусь к утилитам, которые я использую. Я довольно придирчив и имею собственное мнение о том, как должны работать программы. Вполне возможно, Вы следуете тем же принципам.
-  text_2: это простая, но очень мощная утилита, которую я использую каждый день сам. Она написана используя Visual C++ 2013, [TinyXML](https://github.com/leethomason/tinyxml2) и [Boost](http://www.boost.org/).
-  pro_text: ПРО версия Geek Uninstaller называется [Uninstall Tool](https://www.crystalidea.com/uninstall-tool?source=geek&campaign=about) и разрабатывается компанией CrystalIDEA Software, используя мой код.
+  text_2: это простая, но очень мощная утилита, которую я использую каждый день сам. Она написана используя Visual C++ 2019, [TinyXML](https://github.com/leethomason/tinyxml2) и [Boost](http://www.boost.org/).
+  pro_text: ПРО версия Geek Uninstaller называется [Uninstall Tool](https://crystalidea.com/uninstall-tool?source=geek&campaign=about) и разрабатывается компанией CrystalIDEA Software, используя мой код.
   contact_me_title: Связаться со мной
   contact_me_text: Если хотите связаться со мной, используйте e-mail адрес ниже. Я говорю только по-английски и нидерландски.
   contact_me_button: Послать мне письмо

@@ -11,7 +11,7 @@ main-page:
   header_feature_1: Saubere und vollständige Entfernung
   header_feature_2: Native X64-Unterstützung
   header_feature_3: Einfache Benutzeroberfläche
-  header_feature_4: Windows Store Apps deinstallieren
+  header_feature_4: Microsoft Store Apps deinstallieren
   button_download: Download
   stripe_1_header: Funktionen
   tour_feature_1: Vollständige Entfernung
@@ -20,8 +20,8 @@ main-page:
   tour_feature_2_text: Nutze Entfernen erzwingen für hartnäckige oder kaputte Programme.
   tour_feature_3: Einfaches Benutzerinterface
   tour_feature_3_text: Gutaussehend und erstaunlich praktisch. 40+ Sprachen an Bord!
-  tour_feature_4: Windows Store Apps deinstallieren
-  tour_feature_4_text: Deinstalliere Windows Store Apps auf Windows 8/8.1/10. 
+  tour_feature_4: Microsoft Store Apps deinstallieren
+  tour_feature_4_text: Deinstalliere Microsoft Store Apps auf Windows 8/8.1/10. 
   tour_feature_5: Schnell und intelligent
   tour_feature_5_text: Startet sofort. Finde Apps mithilfe der Suche direkt. Scannt nach Überresten.
   tour_feature_6: Portabel
@@ -30,10 +30,12 @@ main-page:
   screen_1_text: Hervorgehobene Programme wurden vor Kurzem installiert bzw. modifiziert (seit dem letzten Start von Geek Uninstaller).
   screen_2: Vollständige Entfernung
   screen_2_text: Normale Entfernungsprogramme hinterlassen Tonnen von Überresten auf deinem PC. GeekUninstaller scannt anschließend alles gründlich und entfernt diese Überreste.
-  screen_3: Windows Store Apps deinstallieren
-  screen_3_text: Windows Store Apps deinstallieren. Nutze das Ansicht-Menü oder Strg+Tab, um zwischen Desktop und Store Apps zu wechseln.
+  screen_3: Microsoft Store Apps deinstallieren
+  screen_3_text: Microsoft Store Apps deinstallieren. Nutze das Ansicht-Menü oder Strg+Tab, um zwischen Desktop und Store Apps zu wechseln.
   screen_4: Schnelle Suche
   screen_4_text: Schreiben, um ein Programm direkt zu finden
+  screen_5: Dark Mode
+  screen_5_text: Geek Uninstaller is for you too, creatures of the night
   multilingual_interface: "Das Geek Uninstaller Interface ist in die meisten Sprachen übersetzt:"
   review_1: Die Performance von Geek Uninstaller ist erstaunlich. Es deinstalliert schnell und findet Überreste, die sonst kein anderer findet. Insgesamt ist das Programm ein beeindruckendes Wartungstool, das sowohl Performance als auch Funktionen liefert. Sehr empfehlenswert.
   review_2: Geek Uninstaller ist ein tolles Tool, das sehr nützlich sein kann. Unerfahrene Nutzer sollten aufgrund seines intuitiven Layouts und seiner Schlichtheit keine Probleme mit der Bedienung des Programms haben.
@@ -63,7 +65,7 @@ download_page:
   pro_button_trial: Kostenlose Testversion
   pro_button_buy: Jetzt kaufen
   compatibility: Kompatibilität
-  compatibility_text: Kompatibel mit 32 &amp; 64-bit Windows 10/7/8/8.1/XP/Vista/2003/2008/Server. Erfordert Administratorrechte. <br>Wenn es auf einem x64 Windows-System ausgeführt wird, läuft es als native 64-Bit Anwendung.
+  compatibility_text: Kompatibel mit 32 &amp; 64-bit Windows 10/7/8/8.1. Erfordert Administratorrechte. <br>Wenn es auf einem x64 Windows-System ausgeführt wird, läuft es als native 64-Bit Anwendung.
   release_notes: Neueste Versionshinweise
   release_notes_button: Gesamte Liste anzeigen
 
@@ -71,8 +73,8 @@ about-page:
   title: Über GeekUninstaller und seinen Erfinder
   description: Über GeekUninstaller und seinen Erfinder
   text_1: Ich bin Softwareentwickler und verbringe viel Zeit vor dem Computer. Und das ist auch der Grund, warum ich mich sehr um meine Software-Tools kümmere. Ich bin sehr wählerisch und habe eine feste Vorstellung davon, wie meine Tools arbeiten sollen.
-  text_2: Geek Uninstaller ist ein simples, aber dennoch leistungsfähiges Werkzeug. Es ist mithilfe von Visual C++ 2013, [TinyXML](https://github.com/leethomason/tinyxml2) und [Boost](http://www.boost.org/) geschrieben.
-  pro_text: Die Pro-Version von Geek Uninstaller heißt [Uninstall Tool](https://www.crystalidea.com/uninstall-tool?source=geek&campaign=about) und wurde von CrystalIDEA Software basierend auf meinem Code entwickelt.
+  text_2: Geek Uninstaller ist ein simples, aber dennoch leistungsfähiges Werkzeug. Es ist mithilfe von Visual C++ 2019, [TinyXML](https://github.com/leethomason/tinyxml2) und [Boost](http://www.boost.org/) geschrieben.
+  pro_text: Die Pro-Version von Geek Uninstaller heißt [Uninstall Tool](https://crystalidea.com/uninstall-tool?source=geek&campaign=about) und wurde von CrystalIDEA Software basierend auf meinem Code entwickelt.
   contact_me_title: Kontaktiere mich
   contact_me_text: Falls du mich kontaktieren möchtest, nutze dazu die E-Mail-Adresse unten. Schreibe bitte nur auf Englisch oder Niederländisch.
   contact_me_button: Sende mir eine E-Mail

@@ -11,7 +11,7 @@ main-page:
   header_feature_1: Clean Removal and Force Removal
   header_feature_2: Native X64 support
   header_feature_3: Easy-to-use User Interface
-  header_feature_4: Uninstall Windows Store Apps
+  header_feature_4: Uninstall Microsoft Store Apps
   button_download: Download
   stripe_1_header: Top Features
   tour_feature_1: Clean Removal
@@ -20,8 +20,8 @@ main-page:
   tour_feature_2_text: Use Force Removal for stubborn and broken programs.
   tour_feature_3: Simple User Interface
   tour_feature_3_text: Great-looking and surprisingly functional. 40+ languages on board!
-  tour_feature_4: Uninstall Windows Store Apps
-  tour_feature_4_text: Uninstall Windows Store apps on Windows 8/8.1/10. 
+  tour_feature_4: Uninstall Microsoft Store Apps
+  tour_feature_4_text: Uninstall Microsoft Store apps on Windows 8/8.1/10. 
   tour_feature_5: Fast and smart
   tour_feature_5_text: Instant startup. Type to search to locate an app immediately. Quick leftovers scan.
   tour_feature_6: Portable
@@ -30,10 +30,12 @@ main-page:
   screen_1_text: Programs highlighted with purple orange color are recently installed/modified (since last run of Geek Uninstaller).
   screen_2: Clean Removal, Force Removal
   screen_2_text: Standard removal program leaves tons of leftovers on your PC. Geek Uninstaller performs deep and fast scanning afterwards and removes all leftovers.
-  screen_3: Uninstall Windows Store Apps
-  screen_3_text: Uninstall Windows Store apps. Use View menu or Ctrl+Tab to switch between desktop and store apps.
+  screen_3: Uninstall Microsoft Store Apps
+  screen_3_text: Uninstall Microsoft Store apps. Use View menu or Ctrl+Tab to switch between desktop and Store apps.
   screen_4: Quick instant search
   screen_4_text: Type to instantly locate a program
+  screen_5: Dark Mode
+  screen_5_text: Geek Uninstaller is for you too, creatures of the night
   multilingual_interface: "Geek Uninstaller interface is translated into most languages:"
   review_1: The performance of Geek Uninstaller is impressive. It uninstalls quickly and finds leftover files that anyone couldn't. Overall, the app is an impressive maintenance tool that delivers on both performance and features. Highly recommended.
   review_2: The bottom line is that Geek Uninstaller is a nice tool that can be quite useful. Inexperienced users shouldn’t have any troubles while working with this program, thanks to its intuitive layout and overall simplicity.
@@ -63,7 +65,7 @@ download_page:
   pro_button_trial: Free Trial
   pro_button_buy: Buy Now
   compatibility: Compatibility
-  compatibility_text: 32 &amp; 64-bit Windows 10/7/8/8.1/XP/Vista/2003/2008/Server. Requires administrator permissions. <br>When running on x64 Windows Geek Uninstaller is running as native 64-bit application.
+  compatibility_text: 32 &amp; 64-bit Windows 10/7/8/8.1. Requires administrator permissions. <br>When running on x64 Windows Geek Uninstaller is running as native 64-bit application.
   release_notes: Latest release notes
   release_notes_button: View full list
 
@@ -71,8 +73,8 @@ about-page:
   title: About GeekUninstaller and its author
   description: About GeekUninstaller and its author
   text_1: My name is Thomas Koen. Being a software developer I spend a lot of time in front of a computer screen. And that is why I really care about my software tools. I'm quite picky and I have strong opinions how my tools should work. Chances are you are similar to me.
-  text_2: Geek Uninstaller is a simple but powerful utility. It's written using Visual C++ 2013, [TinyXML](https://github.com/leethomason/tinyxml2) and [Boost](http://www.boost.org/).
-  pro_text: Pro version of GeekUninstaller is called [Uninstall Tool](https://www.crystalidea.com/uninstall-tool?source=geek&campaign=about) and it's developed by CrystalIDEA Software company based on my code.
+  text_2: Geek Uninstaller is a simple but very powerful and fast utility (it's written in C++).
+  pro_text: Pro version of GeekUninstaller is called [Uninstall Tool](https://crystalidea.com/uninstall-tool?source=geek&campaign=about) and it's developed by CrystalIDEA Software company based on my code.
   contact_me_title: Contact me
   contact_me_text: If you need to contact me, use the e-mail address below. Please write me in English or Dutch only.
   contact_me_button: Send me an e-mail

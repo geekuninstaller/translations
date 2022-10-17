@@ -11,7 +11,7 @@ main-page:
   header_feature_1: Ryddig fjerning og tvunget fjerning
   header_feature_2: Innebygd X64-støtte
   header_feature_3: Lettbrukelig brukergrensesnitt
-  header_feature_4: Avinstaller apper fra Windows Store
+  header_feature_4: Avinstaller apper fra Microsoft Store
   button_download: Last ned
   stripe_1_header: Viktigste egenskaper
   tour_feature_1: Ryddig fjerning
@@ -20,8 +20,8 @@ main-page:
   tour_feature_2_text: Bruk tvunget fjerning for stae og ødelagte programmer.
   tour_feature_3: Enkelt brukergrensesnitt
   tour_feature_3_text: Ser snasent ut og er overraskende praktisk. ≥40 programmer er inkludert!
-  tour_feature_4: Avinstaller apper fra Windows Store
-  tour_feature_4_text: Avinstaller Windows Store-apper på Windows ≥8. 
+  tour_feature_4: Avinstaller apper fra Microsoft Store
+  tour_feature_4_text: Avinstaller Microsoft Store-apper på Windows ≥8. 
   tour_feature_5: Raskt og smart
   tour_feature_5_text: Umiddelbar oppstart. Skriv inn i søkefeltet for å finne en app umiddelbart. Rask skanning av rester.
   tour_feature_6: Portabel
@@ -30,10 +30,12 @@ main-page:
   screen_1_text: Programmer blir fremhevet med lilla/oransje dersom de er nylig installert/endret (siden sist gang Geek Uninstaller ble kjørt).
   screen_2: Ryddig fjerning, tvunget fjerning
   screen_2_text: Vanlige avinstallasjoner etterlater tonnevis med rester på PCen din. Geek Uninstaller utfører dyp og rask skanning i etterkant og fjerner alle rester.
-  screen_3: Avinstaller Windows Store-apper
-  screen_3_text: Avinstaller Windows Store-apper. Bruk Vis-menyen eller Ctrl+Tab for å bytte mellom å vise skrivebords- og Store-apper.
+  screen_3: Avinstaller Microsoft Store-apper
+  screen_3_text: Avinstaller Microsoft Store-apper. Bruk Vis-menyen eller Ctrl+Tab for å bytte mellom å vise skrivebords- og Store-apper.
   screen_4: Rask og umiddelbart søk
   screen_4_text: Skriv inn for å finne et program umiddelbart
+  screen_5: Dark Mode
+  screen_5_text: Geek Uninstaller is for you too, creatures of the night
   multilingual_interface: "Geek Uninstaller sitt grensesnitt er oversatt til mange språk:"
   review_1: Yteevnen til Geek Uninstaller er imponerende. Den avinstaller fort og finner restefiler som ingen andre fant. Alt i alt er denne appen et imponerende vedlikeholdsverktøy som leverer både ytelsesmessig og egenskapsmessig. Høyst anbefalt.
   review_2: Oppsummeringen er at Geek Uninstaller er et bra verktøy som kan være ganske nyttig. Uerfarne brukere burde ikke ha noen problemer med å jobbe med dette programmet, takket være dens intuitive oppsett og generelle enkelthet.
@@ -63,7 +65,7 @@ download_page:
   pro_button_trial: Gratis prøveperiode
   pro_button_buy: Kjøp nå
   compatibility: Kompatibilitet
-  compatibility_text: 32- og 64-bits Windows 10/8.1/8/7/Vista/XP/2003/2008/Server. Krever administratorprivilegier. <br>Når den kjøres på x64, kjører Geek Uninstaller som et fullt 64-bitsprogram.
+  compatibility_text: 32- og 64-bits Windows 10/8.1/8/7. Krever administratorprivilegier. <br>Når den kjøres på x64, kjører Geek Uninstaller som et fullt 64-bitsprogram.
   release_notes: Bemerkninger om seneste versjoner
   release_notes_button: Vis den fulle listen
 
@@ -71,8 +73,8 @@ about-page:
   title: Om GeekUninstaller og dens skaper
   description: Om GeekUninstaller og dens skaper
   text_1: Mitt navn er Thomas Koen. Da jeg er en programvareutvikler, bruker jeg mye tid foran en dataskjerm. Og det er derfor jeg virkelig bryr meg om mine programvareverktøy. Jeg er veldig pirkete og har sterke meninger om hvordan mine verktøy burde fungere. Sannsynligvis er du lik meg.
-  text_2: Geek Uninstaller er et enkelt men kraftig verktøy. Den er skrevet med Visual C++ 2013, [TinyXML](https://github.com/leethomason/tinyxml2) og [Boost](http://www.boost.org/).
-  pro_text: Pro-versjonen av GeekUninstaller heter [Uninstall Tool](https://www.crystalidea.com/uninstall-tool?source=geek&campaign=about) og er utviklet av firmaet CrystalIDEA Software basert på min kode.
+  text_2: Geek Uninstaller er et enkelt men kraftig verktøy. Den er skrevet med Visual C++ 2019, [TinyXML](https://github.com/leethomason/tinyxml2) og [Boost](http://www.boost.org/).
+  pro_text: Pro-versjonen av GeekUninstaller heter [Uninstall Tool](https://crystalidea.com/uninstall-tool?source=geek&campaign=about) og er utviklet av firmaet CrystalIDEA Software basert på min kode.
   contact_me_title: Kontakt meg
   contact_me_text: Hvis du må kontakte meg, bruk E-postadressen nedenfor. Vennligst kun skriv til meg på engelsk eller nederlandsk.
   contact_me_button: Send meg en E-post
