@@ -71,7 +71,7 @@
         <msgRemoveEntryQuestion>Czy na pewno chcesz usunąć ten element?</msgRemoveEntryQuestion>
         <msgRemoveEntryFailed>Nie powiodło się usunięcie wpisu w rejestrze dotyczącego tego elementu. \nPrawdopodobnie nie masz uprawnień administratora do wykonania tego zadania.</msgRemoveEntryFailed>
         <msgNewVersionAvailable>Dostępna jest nowa wersja %s.</msgNewVersionAvailable>
-        <msgNewVersionAvailable2>Dostępna jest nowa wersja Geek Uninstallera! Wciśnij OK żeby odwiedzić stronę i pobrać nową wersję.</msgNewVersionAvailable2>
+        <msgNewVersionAvailable2>Dostępna jest aktualizacja programu Geek Uninstaller! Wciśnij OK żeby odwiedzić stronę i pobrać najnowszą wersję.</msgNewVersionAvailable2>
     </Messages>
 
     <ProVersion>
@@ -99,8 +99,8 @@
         <btnYes>Tak</btnYes>
         <btnNo>Nie</btnNo>
         <btnClose>Zamknij</btnClose>
-        <statusTotalInfo>%d programów, które w sumie zajmują %s przestrzeni</statusTotalInfo>
-        <statusUnknown>nieznaną ilość</statusUnknown>
+        <statusTotalInfo>%d programów, które w sumie zajmują %s</statusTotalInfo>
+        <statusUnknown>nieznaną przestrzeń</statusUnknown>
         <WindowsUpdatesText>Aktualizacje Windows</WindowsUpdatesText>
     </Misc>
 
