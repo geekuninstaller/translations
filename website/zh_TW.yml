@@ -1,0 +1,89 @@
+top_menu:
+  overview: 簡介
+  download: 下載
+  translate: 翻譯
+  about: 關於
+
+main-page:
+  title: 極客卸載 - 完美的 免費 卸載工具
+  description: 高效、快速、小巧、便攜，100% 免費！
+  header: 高效、快速、小巧、便攜，100% 免費！
+  header_feature_1: 幹凈卸載、強製卸載
+  header_feature_2: 本地64位支持
+  header_feature_3: 方便易用的用戶界面
+  header_feature_4: 支持卸載微軟商店App
+  button_download: 下載
+  stripe_1_header: 主要特點
+  tour_feature_1: 幹凈卸載
+  tour_feature_1_text: 運行快速、深度掃描刪除所有殘留，保持電腦清潔！
+  tour_feature_2: 強製刪除
+  tour_feature_2_text: 強力卸載頑固和損壞的程序！
+  tour_feature_3: 簡潔的用戶界面
+  tour_feature_3_text: 外觀精美、功能出眾，支持超過40種語言！
+  tour_feature_4: 支持卸載微軟商店App
+  tour_feature_4_text: 可卸載微軟商店App，支持Windows 8/8.1/10。 
+  tour_feature_5: 快速、智能
+  tour_feature_5_text: 啟動快速、輸入即時搜索定位、快速掃描殘留文件！
+  tour_feature_6: 便攜
+  tour_feature_6_text: 小巧的單文件EXE，支持任意32或64位Windows系統！
+  screen_1: 簡潔的用戶界面
+  screen_1_text: 紫橘色高亮最近安裝或改動的應用程序（自上次運行極客卸載以來）
+  screen_2: 幹凈卸載、強製卸載
+  screen_2_text: 標準刪除程序會在電腦留下大量殘留文件。極客卸載執行深度和快速掃描並刪除所有殘留。
+  screen_3: 支持卸載微軟商店App
+  screen_3_text: 支持卸載微軟商店App，可用「顯示」菜單或者快捷鍵（Ctrl+Tab）切換桌面程序與微軟商店程序。
+  screen_4: 快速即時搜索
+  screen_4_text: 鍵入即時搜索定位程序
+  screen_5: 深色模式
+  screen_5_text: 極客搜索也適合夜間生物
+  multilingual_interface: "極客卸載界面已被翻譯成多種語言:"
+  review_1: 極客卸載的性能令人印象深刻。它可以快速卸載並找到任何人都找不到的剩余文件。總體而言，該應用程序是一款優秀的維護工具，強烈推薦。
+  review_2: 簡言之，極客卸載是一個非常有用的好工具。由於其直觀的布局和整體簡單性，沒有經驗的用戶在使用該程序時應該不會遇到任何麻煩。
+  review_3: 極客卸載非常適合想要確保在卸載程序時不會在系統上留下任何東西的任何人。
+  review_4: 極客卸載既便攜又支持任何人期望從卸載程序工具獲得的幾乎所有功能。非常適合閃存驅動器，因為它是占用很少空間的單個文件。
+  review_5: 我已經厭倦了使用多個不同的卸載程序來管理32位和64位應用程序。它們不僅沒有像我想要的那樣工作，而且它們中的大多數都因我不想要的各種不必要的功能而變得臃腫。極客卸載對我來說是完美的卸載程序。界面簡潔完美，卸載快速準確。我只是希望我能早點找到它，因為我終於厭倦了另一個免費的64位卸載應用程序，並在一周前購買了 Revo Pro 許可......我非常喜歡你的程序，所以我用它來刪除 Revo Pro。使用後，我放聲大笑。
+  review_6: 我之前使用過其他卸載程序（即 Revo Uninstaller 和其他卸載程序），而您的產品輕而易舉地擊敗了它們。它非常容易使用，而且我從來沒有遇到過我在 Revo 上遇到的問題。我經常安裝和卸載軟件，而極客卸載確實讓我的生活更輕松，更不用說我的 PC 更幹凈了。再次感謝您提供的優質產品。
+  review_7: 我只想說非常感謝你們開發了這麽棒的軟件。我最近使用過 Revo Uninstaller 和 IObit Uninstaller，只是它們用起來不太順眼。 Revo Uninstaller 不會列出我所有的程序，而 IObit Uninstaller 刪除了太多程序，導致其他程序沖突。所以，簡而言之......我放棄了使用卸載程序的時期，直到我下載了極客卸載。你真的創造了比競爭對手更好的東西……我只想說謝謝你。我已經開始向朋友和家人推薦你們的產品。你在這裏做得很好，繼續努力。
+  review_8: 這些年來，我嘗試了很多卸載程序。極客卸載無疑是我見過的最好的卸載程序。簡單，非常有效，輕松並完成工作。恭喜。
+
+download_page:
+  title: 極客卸載 - 下載
+  description: 極客卸載 - 下載
+  free_info: 個人版
+  free_text: 簡單卻強大的卸載工具<br>快如閃電！
+  free_feature_1: 僅限個人使用
+  free_feature_2: 不支持
+  pro_info: 終身許可
+  pro_text: 特別版本卸載工具<br>提供更多功能。
+  pro_from: 包括：
+  pro_feature_1: 實時安裝監控
+  pro_feature_2: 啟動程序管理
+  pro_feature_3: 批量卸載
+  pro_feature_4: 完全徹底清除
+  pro_feature_5: 現代化界面，技術支持
+  pro_feature_6: 提供便攜許可
+  pro_button_trial: 免費試用
+  pro_button_buy: 立即購買
+  compatibility: 兼容性
+  compatibility_text: 32位與64位 Windows 10/7/8/8.1，需要管理員權限.<br>極客卸載在64位Windows系統作為原生64位程序運行。
+  release_notes: 最近更新說明
+  release_notes_button: 查看完整列表
+
+about-page:
+  title: 關於極客卸載及作者
+  description: 關於極客卸載及作者
+  text_1: 我是Thomas Koen。作為一名軟件開發人員，我花了很多時間在電腦屏幕前。這就是我真正關心我的軟件工具的原因。我很挑剔，我對我的工具應該如何工作有強烈的看法。很有可能你和我很相似。
+  text_2: 極客卸載是一個簡單但非常強大且快速的實用程序（用 C++ 開發）。
+  pro_text: 極客卸載的Pro版本叫做「卸載工具」(https://crystalidea.com/uninstall-tool?source=geek&campaign=about)。它是由CrystalIDEA Software公司基於我的代碼開發的。
+  contact_me_title: 聯系我
+  contact_me_text: 如果您需要與我聯系，請使用下面的電子郵件地址。請只用英語或荷蘭語給我寫信。
+  contact_me_button: 發送電子郵件
+
+footer:
+  connect_with_us: 聯系極客卸載
+  languages: 語言
+  products: 程序
+  try_ut: 試用極客卸載Pro版本
+  try_ut_more: 基於極客卸載的卸載工具
+  try_download: 下載
+  privacy_policy: 隱私政策
