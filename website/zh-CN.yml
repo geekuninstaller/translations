@@ -1,0 +1,89 @@
+top_menu:
+  overview: 简介
+  download: 下载
+  translate: 翻译
+  about: 关于
+
+main-page:
+  title: 极客卸载 - 完美的 免费 卸载工具
+  description: 高效、快速、小巧、便携，100% 免费！
+  header: 高效、快速、小巧、便携，100% 免费！
+  header_feature_1: 干净卸载、强制卸载
+  header_feature_2: 本地64位支持
+  header_feature_3: 方便易用的用户界面
+  header_feature_4: 支持卸载微软商店App
+  button_download: 下载
+  stripe_1_header: 主要特点
+  tour_feature_1: 干净卸载
+  tour_feature_1_text: 运行快速、深度扫描删除所有残留，保持电脑清洁！
+  tour_feature_2: 强制删除
+  tour_feature_2_text: 强力卸载顽固和损坏的程序！
+  tour_feature_3: 简洁的用户界面
+  tour_feature_3_text: 外观精美、功能出众，支持超过40种语言！
+  tour_feature_4: 支持卸载微软商店App
+  tour_feature_4_text: 可卸载微软商店App，支持Windows 8/8.1/10。 
+  tour_feature_5: 快速、智能
+  tour_feature_5_text: 启动快速、输入即时搜索定位、快速扫描残留文件！
+  tour_feature_6: 便携
+  tour_feature_6_text: 小巧的单文件EXE，支持任意32或64位Windows系统！
+  screen_1: 简洁的用户界面
+  screen_1_text: 紫橘色高亮最近安装或改动的应用程序（自上次运行极客卸载以来）
+  screen_2: 干净卸载、强制卸载
+  screen_2_text: 标准删除程序会在电脑留下大量残留文件。极客卸载执行深度和快速扫描并删除所有残留。
+  screen_3: 支持卸载微软商店App
+  screen_3_text: 支持卸载微软商店App，可用“显示”菜单或者快捷键（Ctrl+Tab）切换桌面程序与微软商店程序。
+  screen_4: 快速即时搜索
+  screen_4_text: 键入即时搜索定位程序
+  screen_5: 深色模式
+  screen_5_text: 极客搜索也适合夜间生物
+  multilingual_interface: "极客卸载界面已被翻译成多种语言:"
+  review_1: 极客卸载的性能令人印象深刻。它可以快速卸载并找到任何人都找不到的剩余文件。总体而言，该应用程序是一款优秀的维护工具，强烈推荐。
+  review_2: 简言之，极客卸载是一个非常有用的好工具。由于其直观的布局和整体简单性，没有经验的用户在使用该程序时应该不会遇到任何麻烦。
+  review_3: 极客卸载非常适合想要确保在卸载程序时不会在系统上留下任何东西的任何人。
+  review_4: 极客卸载既便携又支持任何人期望从卸载程序工具获得的几乎所有功能。非常适合闪存驱动器，因为它是占用很少空间的单个文件。
+  review_5: 我已经厌倦了使用多个不同的卸载程序来管理32位和64位应用程序。它们不仅没有像我想要的那样工作，而且它们中的大多数都因我不想要的各种不必要的功能而变得臃肿。极客卸载对我来说是完美的卸载程序。界面简洁完美，卸载快速准确。我只是希望我能早点找到它，因为我终于厌倦了另一个免费的64位卸载应用程序，并在一周前购买了 Revo Pro 许可......我非常喜欢你的程序，所以我用它来删除 Revo Pro。使用后，我放声大笑。
+  review_6: 我之前使用过其他卸载程序（即 Revo Uninstaller 和其他卸载程序），而您的产品轻而易举地击败了它们。它非常容易使用，而且我从来没有遇到过我在 Revo 上遇到的问题。我经常安装和卸载软件，而极客卸载确实让我的生活更轻松，更不用说我的 PC 更干净了。再次感谢您提供的优质产品。
+  review_7: 我只想说非常感谢你们开发了这么棒的软件。我最近使用过 Revo Uninstaller 和 IObit Uninstaller，只是它们用起来不太顺眼。 Revo Uninstaller 不会列出我所有的程序，而 IObit Uninstaller 删除了太多程序，导致其他程序冲突。所以，简而言之......我放弃了使用卸载程序的时期，直到我下载了极客卸载。你真的创造了比竞争对手更好的东西……我只想说谢谢你。我已经开始向朋友和家人推荐你们的产品。你在这里做得很好，继续努力。
+  review_8: 这些年来，我尝试了很多卸载程序。极客卸载无疑是我见过的最好的卸载程序。简单，非常有效，轻松并完成工作。恭喜。
+
+download_page:
+  title: 极客卸载 - 下载
+  description: 极客卸载 - 下载
+  free_info: 个人版
+  free_text: 简单却强大的卸载工具<br>快如闪电！
+  free_feature_1: 仅限个人使用
+  free_feature_2: 不支持
+  pro_info: 终身许可
+  pro_text: 特别版本卸载工具<br>提供更多功能。
+  pro_from: 包括：
+  pro_feature_1: 实时安装监控
+  pro_feature_2: 启动程序管理
+  pro_feature_3: 批量卸载
+  pro_feature_4: 完全彻底清除
+  pro_feature_5: 现代化界面，技术支持
+  pro_feature_6: 提供便携许可
+  pro_button_trial: 免费试用
+  pro_button_buy: 立即购买
+  compatibility: 兼容性
+  compatibility_text: 32位与64位 Windows 10/7/8/8.1，需要管理员权限.<br>极客卸载在64位Windows系统作为原生64位程序运行。
+  release_notes: 最近更新说明
+  release_notes_button: 查看完整列表
+
+about-page:
+  title: 关于极客卸载及作者
+  description: 关于极客卸载及作者
+  text_1: 我是Thomas Koen。作为一名软件开发人员，我花了很多时间在电脑屏幕前。这就是我真正关心我的软件工具的原因。我很挑剔，我对我的工具应该如何工作有强烈的看法。很有可能你和我很相似。
+  text_2: 极客卸载是一个简单但非常强大且快速的实用程序（用 C++ 开发）。
+  pro_text: 极客卸载的Pro版本叫做“卸载工具”(https://crystalidea.com/uninstall-tool?source=geek&campaign=about)。它是由CrystalIDEA Software公司基于我的代码开发的。
+  contact_me_title: 联系我
+  contact_me_text: 如果您需要与我联系，请使用下面的电子邮件地址。请只用英语或荷兰语给我写信。
+  contact_me_button: 发送电子邮件
+
+footer:
+  connect_with_us: 联系极客卸载
+  languages: 语言
+  products: 程序
+  try_ut: 试用极客卸载Pro版本
+  try_ut_more: 基于极客卸载的卸载工具
+  try_download: 下载
+  privacy_policy: 隐私政策
