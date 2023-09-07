@@ -21,7 +21,7 @@ main-page:
   tour_feature_3: Einfaches Benutzerinterface
   tour_feature_3_text: Gutaussehend und erstaunlich praktisch. 40+ Sprachen an Bord!
   tour_feature_4: Microsoft Store Apps deinstallieren
-  tour_feature_4_text: Deinstalliere Microsoft Store Apps auf Windows 8/8.1/10. 
+  tour_feature_4_text: Deinstalliere Microsoft Store Apps auf Windows 8/8.1/10/11. 
   tour_feature_5: Schnell und intelligent
   tour_feature_5_text: Startet sofort. Finde Apps mithilfe der Suche direkt. Scannt nach Überresten.
   tour_feature_6: Portabel
@@ -65,7 +65,7 @@ download_page:
   pro_button_trial: Kostenlose Testversion
   pro_button_buy: Jetzt kaufen
   compatibility: Kompatibilität
-  compatibility_text: Kompatibel mit 32 &amp; 64-bit Windows 10/7/8/8.1. Erfordert Administratorrechte. <br>Wenn es auf einem x64 Windows-System ausgeführt wird, läuft es als native 64-Bit Anwendung.
+  compatibility_text: Kompatibel mit 32 &amp; 64-bit Windows 11/10/7/8/8.1. Erfordert Administratorrechte. <br>Wenn es auf einem x64 Windows-System ausgeführt wird, läuft es als native 64-Bit Anwendung.
   release_notes: Neueste Versionshinweise
   release_notes_button: Gesamte Liste anzeigen
 

@@ -21,7 +21,7 @@ main-page:
   tour_feature_3: Simple User Interface
   tour_feature_3_text: Great-looking and surprisingly functional. 40+ languages on board!
   tour_feature_4: Uninstall Microsoft Store Apps
-  tour_feature_4_text: Uninstall Microsoft Store apps on Windows 8/8.1/10. 
+  tour_feature_4_text: Uninstall Microsoft Store apps on Windows 8/8.1/10/11.
   tour_feature_5: Fast and smart
   tour_feature_5_text: Instant startup. Type to search to locate an app immediately. Quick leftovers scan.
   tour_feature_6: Portable
@@ -65,7 +65,7 @@ download_page:
   pro_button_trial: Free Trial
   pro_button_buy: Buy Now
   compatibility: Compatibility
-  compatibility_text: 32 &amp; 64-bit Windows 10/7/8/8.1. Requires administrator permissions. <br>When running on x64 Windows Geek Uninstaller is running as native 64-bit application.
+  compatibility_text: 32 &amp; 64-bit Windows 11/10/7/8/8.1. Requires administrator permissions. <br>When running on x64 Windows Geek Uninstaller is running as native 64-bit application.
   release_notes: Latest release notes
   release_notes_button: View full list
 

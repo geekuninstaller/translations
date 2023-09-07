@@ -21,7 +21,7 @@ main-page:
   tour_feature_3: Удобный интерфейс
   tour_feature_3_text: Простой, но удивительно функциональный. Поддержка русского языка.
   tour_feature_4: Удаление приложений из Microsoft Store
-  tour_feature_4_text: Uninstall Microsoft Store apps on Windows 8/8.1/10. 
+  tour_feature_4_text: Удаление приложений Microsoft Store на Windows 8/8.1/10/11. 
   tour_feature_5: Быстрый и умный
   tour_feature_5_text: Мгновенный запуск. Сразу печатайте и Geek мгновенно найдёт нужную программу.
   tour_feature_6: Портативный
@@ -65,7 +65,7 @@ download_page:
   pro_button_trial: Попробовать бесплатно
   pro_button_buy: Купить
   compatibility: Совместимость
-  compatibility_text: Совместимо с 32 &amp; 64-битными версиями Windows 10/7/8/8.1. Требует права администратора. <br>На 64-битах он распаковывает специальную нативную 64-битную версию программы и запускает именно ее.
+  compatibility_text: Совместимо с 32 &amp; 64-битными версиями Windows 11/10/7/8/8.1. Требует права администратора. <br>На 64-битах он распаковывает специальную нативную 64-битную версию программы и запускает именно ее.
   release_notes: История последних изменений
   release_notes_button: Смотреть полный список
 

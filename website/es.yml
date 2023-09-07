@@ -21,7 +21,7 @@ main-page:
   tour_feature_3: Interfaz de Usuario Simple
   tour_feature_3_text: Vistosa y sorprendentemente funcional. ¡Con más de 40 lenguajes!
   tour_feature_4: Desinstala aplicaciones de la tienda de Windows
-  tour_feature_4_text: Desisntala aplicaciones de la tienda de Windows en Windows 8/8.1/10.
+  tour_feature_4_text: Desisntala aplicaciones de la tienda de Windows en Windows 8/8.1/10/11.
   tour_feature_5: Rápido e inteligente
   tour_feature_5_text: Inicio instantáneo. Busca una aplicación al instante. Borra rápidamente los archivos que quedaron.
   tour_feature_6: Portable
@@ -65,7 +65,7 @@ download_page:
   pro_button_trial: Prueba gratuita
   pro_button_buy: Comprar ahora
   compatibility: Compatibilidad
-  compatibility_text: 32 &amp; 64-bit Windows 10/7/8/8.1. Requiere permisos de administrador. <br>Se ejecuta como aplicación nativa de 64 bits en Windows de 64 bits.
+  compatibility_text: 32 &amp; 64-bit Windows 11/10/7/8/8.1. Requiere permisos de administrador. <br>Se ejecuta como aplicación nativa de 64 bits en Windows de 64 bits.
   release_notes: Notas de la última versión
   release_notes_button: Ver lista completa
 
