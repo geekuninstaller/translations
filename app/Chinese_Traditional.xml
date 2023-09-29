@@ -2,16 +2,16 @@
 <LanguageStrings>
     <MainMenu>
         <mnuFile>檔案(&amp;F)</mnuFile>
-        <mnuFileExport>輸出成 HTML(&amp;E)...</mnuFileExport>
+        <mnuFileExport>匯出至 HTML(&amp;E)...</mnuFileExport>
         <mnuFileExit>離開(&amp;X)</mnuFileExit>
         <mnuAction>動作(&amp;A)</mnuAction>
         <mnuActionUninstall>解除安裝(&amp;U)...</mnuActionUninstall>
-        <mnuActionModify>修復(&amp;M)...</mnuActionModify>
+        <mnuActionModify>修改(&amp;M)...</mnuActionModify>
         <mnuActionDelete>強制移除(&amp;F)</mnuActionDelete>
         <mnuActionDeleteBatch>批次強制移除(&amp;F)</mnuActionDeleteBatch>
         <mnuActionRemoveEntry>移除項目(&amp;E)</mnuActionRemoveEntry>
         <mnuActionRemoveEntryBatch>批次移除項目(&amp;E)</mnuActionRemoveEntryBatch>
-        <mnuActionJumpToRegistry>登錄編輯程式(&amp;R)</mnuActionJumpToRegistry>
+        <mnuActionJumpToRegistry>登錄項目(&amp;R)</mnuActionJumpToRegistry>
         <mnuActionJumpToProgramFolder>安裝資料夾(&amp;I)</mnuActionJumpToProgramFolder>
         <mnuActionJumpToWebSite>程式網站(&amp;P)</mnuActionJumpToWebSite>
         <mnuActionOpenWindowsStore>於微軟市集開啟</mnuActionOpenWindowsStore>
@@ -22,15 +22,15 @@
         <mnuViewDesktopApps>桌面應用程式</mnuViewDesktopApps>
         <mnuViewWinStoreApps>微軟市集應用程式</mnuViewWinStoreApps>
         <mnuViewRefresh>重新整理(&amp;R)</mnuViewRefresh>
-        <mnuViewListColumnsReset>重置列</mnuViewListColumnsReset>
-        <mnuViewColorScheme>Color Scheme</mnuViewColorScheme>
-        <mnuViewColorSchemeAuto>Match Windows light/dark mode</mnuViewColorSchemeAuto>
-        <mnuViewColorSchemeLight>Light mode (default)</mnuViewColorSchemeLight>
-        <mnuViewColorSchemeDark>Dark mode</mnuViewColorSchemeDark>
+        <mnuViewListColumnsReset>重設資料行</mnuViewListColumnsReset>
+        <mnuViewColorScheme>色彩配置</mnuViewColorScheme>
+        <mnuViewColorSchemeAuto>符合 Windows 淺色/深色模式</mnuViewColorSchemeAuto>
+        <mnuViewColorSchemeLight>淺色模式 (預設)</mnuViewColorSchemeLight>
+        <mnuViewColorSchemeDark>深色模式</mnuViewColorSchemeDark>
         <mnuViewLanguage>介面語言</mnuViewLanguage>
         <mnuHelp>說明(&amp;H)</mnuHelp>
         <mnuHelpAbout>關於(&amp;A)...</mnuHelpAbout>
-        <mnuHelpHomePage>主頁</mnuHelpHomePage>
+        <mnuHelpHomePage>首頁</mnuHelpHomePage>
     </MainMenu>
     <ListCtrl>
         <columnProgramName>程式名稱</columnProgramName>
@@ -42,10 +42,10 @@
         <mark32bitItem>(32 位元)</mark32bitItem>
     </ListCtrl>
     <ExplorerBar>
-        <itemShortSearchTip>輸入來尋找程式</itemShortSearchTip>
+        <itemShortSearchTip>輸入以尋找程式</itemShortSearchTip>
     </ExplorerBar>
     <UninstallWizard>
-        <statusScanning>掃描殘餘的檔案、資料夾和註冊項目...</statusScanning>
+        <statusScanning>掃描殘餘的檔案、資料夾和登錄項目...</statusScanning>
         <statusLeftOverTracesFound>找到一些殘餘的遺留項目！</statusLeftOverTracesFound>
         <statusNothingFound>未找到殘餘的遺留項目。</statusNothingFound>
         <statusAllTracesRemoved>所有遺留項目已移除</statusAllTracesRemoved>
@@ -71,10 +71,10 @@
     <ProVersion>
         <statusMessage>升級至專業版</statusMessage>
         <WhatsCool>專業版的進階功能:</WhatsCool>
-        <Feature1>即時安裝監控</Feature1>
+        <Feature1>即時安裝監視器</Feature1>
         <Feature2>徹底移除</Feature2>
-        <Feature3>啟動程序管理</Feature3>
-        <Feature4>現代化介面, 技術支援</Feature4>
+        <Feature3>啟動程式管理</Feature3>
+        <Feature4>現代化介面，技術支援</Feature4>
         <Feature5>批次移除</Feature5>
         <buttonUpgrade>立即升級</buttonUpgrade>
     </ProVersion>
@@ -82,7 +82,7 @@
         <htmlFiles>HTML 檔案</htmlFiles>
         <allFiles>所有檔案</allFiles>
         <generatedByOn>由 %s 於 %s 產生</generatedByOn>
-        <installedPrograms>已安裝程式 (%s)</installedPrograms>
+        <installedPrograms>已安裝的程式 (%s)</installedPrograms>
     </HTMLReport>
     <Misc>
         <btnOK>確定</btnOK>
@@ -93,6 +93,6 @@
         <btnClose>關閉</btnClose>
         <statusTotalInfo>%d 程式共佔 %s</statusTotalInfo>
         <statusUnknown>未知</statusUnknown>
-        <WindowsUpdatesText>Windows Updates</WindowsUpdatesText>
+        <WindowsUpdatesText>Windows Update</WindowsUpdatesText>
     </Misc>
 </LanguageStrings>
