@@ -7,43 +7,46 @@
         <mnuAction>&amp;Zadanie</mnuAction>
         <mnuActionUninstall>&amp;Odinstaluj...</mnuActionUninstall>
         <mnuActionModify>&amp;Zmień...</mnuActionModify>
-        <mnuActionDelete>&amp;Usuń program (wymuszone)</mnuActionDelete>
-        <mnuActionDeleteBatch>Wymuszone usunięcie &amp;wielu programów</mnuActionDeleteBatch>
+        <mnuActionDelete>&amp;Wymuś usunięcie</mnuActionDelete>
+        <mnuActionDeleteBatch>Wymuś usunięcie &amp;wielu programów</mnuActionDeleteBatch>
         <mnuActionRemoveEntry>Usuń &amp;wpis z listy</mnuActionRemoveEntry>
         <mnuActionRemoveEntryBatch>Usuń wiele &amp;programów</mnuActionRemoveEntryBatch>
         <mnuActionJumpToRegistry>Wpis w &amp;rejestrze</mnuActionJumpToRegistry>
         <mnuActionJumpToProgramFolder>Folder &amp;aplikacji</mnuActionJumpToProgramFolder>
         <mnuActionJumpToWebSite>Strona &amp;internetowa aplikacji</mnuActionJumpToWebSite>
-        <mnuActionOpenWindowsStore>Open in Microsoft Store</mnuActionOpenWindowsStore>
+        <mnuActionOpenWindowsStore>Otwórz w Microsoft Store</mnuActionOpenWindowsStore>
         <mnuActionBrowseLocation>Przeglądaj położenie...</mnuActionBrowseLocation>
         <mnuActionBrowseSource>Przeglądaj źródło...</mnuActionBrowseSource>
         <mnuActionGoogleFor>Szukaj w Google</mnuActionGoogleFor>
         <mnuView>&amp;Widok</mnuView>
-        <mnuViewDesktopApps>Desktop Apps</mnuViewDesktopApps>
-        <mnuViewWinStoreApps>Microsoft Store Apps</mnuViewWinStoreApps>
+        <mnuViewDesktopApps>Programy desktopowe</mnuViewDesktopApps>
+        <mnuViewWinStoreApps>Aplikacje z Microsoft Store</mnuViewWinStoreApps>
         <mnuViewRefresh>&amp;Odśwież</mnuViewRefresh>
         <mnuViewListColumnsReset>Resetuj kolumny</mnuViewListColumnsReset>
-        <mnuViewColorScheme>Color Scheme</mnuViewColorScheme>
-        <mnuViewColorSchemeAuto>Match Windows light/dark mode</mnuViewColorSchemeAuto>
-        <mnuViewColorSchemeLight>Light mode (default)</mnuViewColorSchemeLight>
-        <mnuViewColorSchemeDark>Dark mode</mnuViewColorSchemeDark>
+        <mnuViewColorScheme>Schemat kolorów</mnuViewColorScheme>
+        <mnuViewColorSchemeAuto>Użyj motywu systemowego</mnuViewColorSchemeAuto>
+        <mnuViewColorSchemeLight>Tryb jasny (domyślny)</mnuViewColorSchemeLight>
+        <mnuViewColorSchemeDark>Tryb ciemny</mnuViewColorSchemeDark>
         <mnuViewLanguage>Język interfejsu</mnuViewLanguage>
         <mnuHelp>Pomo&amp;c</mnuHelp>
-        <mnuHelpAbout>&amp;Geek Uninstaller - informacje...</mnuHelpAbout>
+        <mnuHelpAbout>&amp;O programie</mnuHelpAbout>
         <mnuHelpHomePage>Strona producenta</mnuHelpHomePage>
     </MainMenu>
+
     <ListCtrl>
         <columnProgramName>Nazwa programu</columnProgramName>
         <columnSize>Rozmiar</columnSize>
         <columnInstallationDate>Data instalacji</columnInstallationDate>
         <staticLoading>Ładowanie, proszę czekać...</staticLoading>
-        <staticNoItemsMatchingFilterTip>No matching items, press ESC to reset</staticNoItemsMatchingFilterTip>
-        <staticNoProgramsInCategory>Seems like no Microsoft Store apps installed</staticNoProgramsInCategory>
-        <mark32bitItem>(32-bit)</mark32bitItem>
+        <staticNoItemsMatchingFilterTip>Brak pasujących elementów, wciśnij ESC żeby anulować</staticNoItemsMatchingFilterTip>
+        <staticNoProgramsInCategory>Brak aplikacji z Microsoft Store</staticNoProgramsInCategory>
+        <mark32bitItem>(32-bitowy)</mark32bitItem>
     </ListCtrl>
+
     <ExplorerBar>
         <itemShortSearchTip>Zacznij pisać, aby znaleźć program</itemShortSearchTip>
     </ExplorerBar>
+
     <UninstallWizard>
         <statusScanning>Skanowanie pozostawionych plików, folderów i wpisów w rejestrze...</statusScanning>
         <statusLeftOverTracesFound>Znaleziono kilka pozostałości!</statusLeftOverTracesFound>
@@ -57,33 +60,38 @@
         <btnCancel>Anuluj</btnCancel>
         <btnClose>Zamknij</btnClose>
     </UninstallWizard>
+
     <DlgAbout>
-        <DlgAboutCaption>Geek Uninstaller - informacje</DlgAboutCaption>
+        <DlgAboutCaption>O programie Geek Uninstaller</DlgAboutCaption>
     </DlgAbout>
+
     <Messages>
         <msgUninstallFailed>Proces odinstalowania nie powiódł się. \nCzy chciałbyś usunąć wpis w rejestrze dotyczący tej aplikacji i usunąć pozostałe pliki?</msgUninstallFailed>
         <msgForceRemovalQuestion>Czy na pewno chcesz wykonać wymuszone usunięcie tego programu?</msgForceRemovalQuestion>
         <msgRemoveEntryQuestion>Czy na pewno chcesz usunąć ten element?</msgRemoveEntryQuestion>
         <msgRemoveEntryFailed>Nie powiodło się usunięcie wpisu w rejestrze dotyczącego tego elementu. \nPrawdopodobnie nie masz uprawnień administratora do wykonania tego zadania.</msgRemoveEntryFailed>
         <msgNewVersionAvailable>Dostępna jest nowa wersja %s.</msgNewVersionAvailable>
-        <msgNewVersionAvailable2>New version of GeekUninstaller is available! Press OK to visit our website and download the newest version.</msgNewVersionAvailable2>
+        <msgNewVersionAvailable2>Dostępna jest aktualizacja programu Geek Uninstaller! Wciśnij OK żeby odwiedzić stronę i pobrać najnowszą wersję.</msgNewVersionAvailable2>
     </Messages>
+
     <ProVersion>
         <statusMessage>Ulepsz do wersji PRO</statusMessage>
         <WhatsCool>Co fajnego w wesji PRO:</WhatsCool>
         <Feature1>Monitorowanie instalacji w czasie rzeczywistym</Feature1>
         <Feature2>Dokładne i kompletne usuwanie</Feature2>
-        <Feature3>Start-up Manager</Feature3>
+        <Feature3>Zarządzanie autouruchamianiem programów</Feature3>
         <Feature4>Nowoczesny interfejs, pomoc techniczna</Feature4>
         <Feature5>Usuwanie wielu programów na raz</Feature5>
         <buttonUpgrade>Ulepsz</buttonUpgrade>
     </ProVersion>
+
     <HTMLReport>
         <htmlFiles>Pliki HTML</htmlFiles>
         <allFiles>Wszystkie pliki</allFiles>
         <generatedByOn>Utworzone przez %s w %s</generatedByOn>
-        <installedPrograms>Zainstalowanych programów (%s)</installedPrograms>
+        <installedPrograms>Zainstalowane programy (%s)</installedPrograms>
     </HTMLReport>
+
     <Misc>
         <btnOK>OK</btnOK>
         <btnCancel>Anuluj</btnCancel>
@@ -92,7 +100,8 @@
         <btnNo>Nie</btnNo>
         <btnClose>Zamknij</btnClose>
         <statusTotalInfo>%d programów, które w sumie zajmują %s</statusTotalInfo>
-        <statusUnknown>nieznane</statusUnknown>
+        <statusUnknown>nieznaną przestrzeń</statusUnknown>
         <WindowsUpdatesText>Aktualizacje Windows</WindowsUpdatesText>
     </Misc>
+
 </LanguageStrings>
