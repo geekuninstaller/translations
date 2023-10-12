@@ -53,7 +53,7 @@
         <treeItemFileSystem>文件系统 (%d 个项目)</treeItemFileSystem>
         <treeItemRegistry>注册表 (%d 个项目)</treeItemRegistry>
         <treeItemPopopMenuBrowse>浏览...</treeItemPopopMenuBrowse>
-        <btnFinish>完成</btnFinish>
+        <btnFinish>删除</btnFinish>
         <btnCancel>取消</btnCancel>
         <btnClose>关闭</btnClose>
     </UninstallWizard>
