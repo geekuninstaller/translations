@@ -2,7 +2,7 @@
 <LanguageStrings>
     <MainMenu>
         <mnuFile>&amp;Dosya</mnuFile>
-        <mnuFileExport>&amp;HTML Olarak dışarı Ver...</mnuFileExport>
+        <mnuFileExport>&amp;HTML Olarak Dışa Aktar...</mnuFileExport>
         <mnuFileExit>&amp;Çıkış</mnuFileExit>
         <mnuAction>&amp;Eylem</mnuAction>
         <mnuActionUninstall>&amp;Kaldır...</mnuActionUninstall>
@@ -23,10 +23,10 @@
         <mnuViewWinStoreApps>Windows Mağazası Uygulamaları</mnuViewWinStoreApps>
         <mnuViewRefresh>&amp;Yenile</mnuViewRefresh>
         <mnuViewListColumnsReset>Sütunları Sıfırla</mnuViewListColumnsReset>
-        <mnuViewColorScheme>Color Scheme</mnuViewColorScheme>
-        <mnuViewColorSchemeAuto>Match Windows light/dark mode</mnuViewColorSchemeAuto>
-        <mnuViewColorSchemeLight>Light mode (default)</mnuViewColorSchemeLight>
-        <mnuViewColorSchemeDark>Dark mode</mnuViewColorSchemeDark>
+        <mnuViewColorScheme>Renk Şeması</mnuViewColorScheme>
+        <mnuViewColorSchemeAuto>Windows'un açık/koyu modu ile eşleştir</mnuViewColorSchemeAuto>
+        <mnuViewColorSchemeLight>Açık mod (varsayılan)</mnuViewColorSchemeLight>
+        <mnuViewColorSchemeDark>Koyu mod</mnuViewColorSchemeDark>
         <mnuViewLanguage>Arayüz Dili</mnuViewLanguage>
         <mnuHelp>&amp;Yardım</mnuHelp>
         <mnuHelpAbout>&amp;Hakkında...</mnuHelpAbout>
