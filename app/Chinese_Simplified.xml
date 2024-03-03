@@ -14,31 +14,31 @@
         <mnuActionJumpToRegistry>注册表条目(&amp;R)</mnuActionJumpToRegistry>
         <mnuActionJumpToProgramFolder>安装文件夹(&amp;I)</mnuActionJumpToProgramFolder>
         <mnuActionJumpToWebSite>程序网站(&amp;P)</mnuActionJumpToWebSite>
-        <mnuActionOpenWindowsStore>Open in Microsoft Store</mnuActionOpenWindowsStore>
+        <mnuActionOpenWindowsStore>在 Microsoft Store 中打开</mnuActionOpenWindowsStore>
         <mnuActionBrowseLocation>浏览程序位置...</mnuActionBrowseLocation>
         <mnuActionBrowseSource>浏览来源...</mnuActionBrowseSource>
         <mnuActionGoogleFor>通过谷歌搜索</mnuActionGoogleFor>
         <mnuView>查看(&amp;V)</mnuView>
-        <mnuViewDesktopApps>Desktop Apps</mnuViewDesktopApps>
-        <mnuViewWinStoreApps>Microsoft Store Apps</mnuViewWinStoreApps>
+        <mnuViewDesktopApps>桌面应用程序</mnuViewDesktopApps>
+        <mnuViewWinStoreApps>Microsoft Store 应用程序</mnuViewWinStoreApps>
         <mnuViewRefresh>刷新(&amp;R)</mnuViewRefresh>
         <mnuViewListColumnsReset>重置列</mnuViewListColumnsReset>
         <mnuViewColorScheme>Color Scheme</mnuViewColorScheme>
-        <mnuViewColorSchemeAuto>Match Windows light/dark mode</mnuViewColorSchemeAuto>
-        <mnuViewColorSchemeLight>Light mode (default)</mnuViewColorSchemeLight>
-        <mnuViewColorSchemeDark>Dark mode</mnuViewColorSchemeDark>
+        <mnuViewColorSchemeAuto>符合系统浅色/深色模式</mnuViewColorSchemeAuto>
+        <mnuViewColorSchemeLight>浅色模式（默认）</mnuViewColorSchemeLight>
+        <mnuViewColorSchemeDark>深色模式</mnuViewColorSchemeDark>
         <mnuViewLanguage>界面语言</mnuViewLanguage>
         <mnuHelp>帮助(&amp;H)</mnuHelp>
         <mnuHelpAbout>关于(&amp;A)...</mnuHelpAbout>
-        <mnuHelpHomePage>Home Page</mnuHelpHomePage>
+        <mnuHelpHomePage>主页</mnuHelpHomePage>
     </MainMenu>
     <ListCtrl>
         <columnProgramName>程序名称</columnProgramName>
         <columnSize>大小</columnSize>
         <columnInstallationDate>安装时间</columnInstallationDate>
         <staticLoading>加载中, 请稍候...</staticLoading>
-        <staticNoItemsMatchingFilterTip>No matching items, press ESC to reset</staticNoItemsMatchingFilterTip>
-        <staticNoProgramsInCategory>Seems like no Microsoft Store apps installed</staticNoProgramsInCategory>
+        <staticNoItemsMatchingFilterTip>没有符合的项目，按 ESC 重置</staticNoItemsMatchingFilterTip>
+        <staticNoProgramsInCategory>貌似没有已安装的 Microsoft Store 应用程序</staticNoProgramsInCategory>
         <mark32bitItem>(32-bit)</mark32bitItem>
     </ListCtrl>
     <ExplorerBar>
@@ -70,11 +70,11 @@
     </Messages>
     <ProVersion>
         <statusMessage>升级为专业版</statusMessage>
-        <WhatsCool>What's cool about PRO version:</WhatsCool>
+        <WhatsCool>专业版的亮点：</WhatsCool>
         <Feature1>实时安装监控</Feature1>
         <Feature2>全面检测清除</Feature2>
         <Feature3>启动程序管理</Feature3>
-        <Feature4>Modern interface, technical support</Feature4>
+        <Feature4>现代化界面，提供技术支持</Feature4>
         <Feature5>批量移除</Feature5>
         <buttonUpgrade>升级</buttonUpgrade>
     </ProVersion>
