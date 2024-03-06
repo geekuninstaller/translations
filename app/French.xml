@@ -8,28 +8,28 @@
         <mnuActionUninstall>&amp;Désinstaller...</mnuActionUninstall>
         <mnuActionModify>&amp;Modifier...</mnuActionModify>
         <mnuActionDelete>&amp;Suppression forcée</mnuActionDelete>
-        <mnuActionDeleteBatch>Batch &amp;Force Removal</mnuActionDeleteBatch>
+        <mnuActionDeleteBatch>&amp;Suppression forcée par lot</mnuActionDeleteBatch>
         <mnuActionRemoveEntry>Supprimer &amp;cette entrée</mnuActionRemoveEntry>
-        <mnuActionRemoveEntryBatch>Batch Remove &amp;Entries</mnuActionRemoveEntryBatch>
+        <mnuActionRemoveEntryBatch>Supprimer en lot des entrées du registre</mnuActionRemoveEntryBatch>
         <mnuActionJumpToRegistry>&amp;Entrée du registre</mnuActionJumpToRegistry>
         <mnuActionJumpToProgramFolder>&amp;Dossier d'installation</mnuActionJumpToProgramFolder>
         <mnuActionJumpToWebSite>&amp;Site Web du programme</mnuActionJumpToWebSite>
-        <mnuActionOpenWindowsStore>Open in Microsoft Store</mnuActionOpenWindowsStore>
+        <mnuActionOpenWindowsStore>Ouvrir dans le Microsoft Store</mnuActionOpenWindowsStore>
         <mnuActionBrowseLocation>Parcourir le dossier...</mnuActionBrowseLocation>
         <mnuActionBrowseSource>Parcourir le registre...</mnuActionBrowseSource>
-        <mnuActionGoogleFor>Recherche Google</mnuActionGoogleFor>
+        <mnuActionGoogleFor>Rechercher sur Google</mnuActionGoogleFor>
         <mnuView>&amp;Voir</mnuView>
-        <mnuViewDesktopApps>Desktop Apps</mnuViewDesktopApps>
-        <mnuViewWinStoreApps>Microsoft Store Apps</mnuViewWinStoreApps>
+        <mnuViewDesktopApps>Applications de bureau</mnuViewDesktopApps>
+        <mnuViewWinStoreApps>Applications du Microsoft Store</mnuViewWinStoreApps>
         <mnuViewRefresh>&amp;Actualiser</mnuViewRefresh>
         <mnuViewListColumnsReset>Restaurer colonnes</mnuViewListColumnsReset>
         <mnuViewColorScheme>Color Scheme</mnuViewColorScheme>
-        <mnuViewColorSchemeAuto>Match Windows light/dark mode</mnuViewColorSchemeAuto>
-        <mnuViewColorSchemeLight>Light mode (default)</mnuViewColorSchemeLight>
-        <mnuViewColorSchemeDark>Dark mode</mnuViewColorSchemeDark>
+        <mnuViewColorSchemeAuto>Utiliser au thème du système</mnuViewColorSchemeAuto>
+        <mnuViewColorSchemeLight>Mode clair (par défaut)</mnuViewColorSchemeLight>
+        <mnuViewColorSchemeDark>Mode sombre</mnuViewColorSchemeDark>
         <mnuViewLanguage>Langue de l'interface</mnuViewLanguage>
         <mnuHelp>&amp;Aide</mnuHelp>
-        <mnuHelpAbout>&amp;A propos...</mnuHelpAbout>
+        <mnuHelpAbout>&amp;À propos...</mnuHelpAbout>
         <mnuHelpHomePage>Page d'accueil</mnuHelpHomePage>
     </MainMenu>
     <ListCtrl>
@@ -37,8 +37,8 @@
         <columnSize>Taille</columnSize>
         <columnInstallationDate>Installé le</columnInstallationDate>
         <staticLoading>Chargement, veuillez patienter...</staticLoading>
-        <staticNoItemsMatchingFilterTip>No matching items, press ESC to reset</staticNoItemsMatchingFilterTip>
-        <staticNoProgramsInCategory>Seems like no Microsoft Store apps installed</staticNoProgramsInCategory>
+        <staticNoItemsMatchingFilterTip>Aucun élément correspondant, appuyez sur Échap pour réinitialiser</staticNoItemsMatchingFilterTip>
+        <staticNoProgramsInCategory>Il semble qu'aucune application du Microsoft Store ne soit installée</staticNoProgramsInCategory>
         <mark32bitItem>(32-bit)</mark32bitItem>
     </ListCtrl>
     <ExplorerBar>
@@ -50,8 +50,8 @@
         <statusNothingFound>Pas de trace restante trouvée.</statusNothingFound>
         <statusAllTracesRemoved>Nettoyage terminé !</statusAllTracesRemoved>
         <statusDeletingProgramTraces>Effacement des traces du programme...</statusDeletingProgramTraces>
-        <treeItemFileSystem>Fichier système (%d items)</treeItemFileSystem>
-        <treeItemRegistry>Registre (%d items)</treeItemRegistry>
+        <treeItemFileSystem>Fichier système (%d fichiers)</treeItemFileSystem>
+        <treeItemRegistry>Registre (%d entrées)</treeItemRegistry>
         <treeItemPopopMenuBrowse>Parcourir...</treeItemPopopMenuBrowse>
         <btnFinish>Terminer</btnFinish>
         <btnCancel>Annuler</btnCancel>
@@ -71,11 +71,11 @@
     <ProVersion>
         <statusMessage>Passer à la version PRO</statusMessage>
         <WhatsCool>Fonctionnalités supplémentaires de la version PRO:</WhatsCool>
-        <Feature1>Moniteur d'installation en temp réel</Feature1>
+        <Feature1>Moniteur d'installation en temps réel</Feature1>
         <Feature2>Désinstallation complète et approfondie</Feature2>
         <Feature3>Gestion des programmes au démarrage de l'ordinateur</Feature3>
         <Feature4>Interface moderne, Support technique (en anglais)</Feature4>
-        <Feature5>Batch removal</Feature5>
+        <Feature5>Suppression par lot</Feature5>
         <buttonUpgrade>Mise à niveau</buttonUpgrade>
     </ProVersion>
     <HTMLReport>
