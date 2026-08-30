@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageStrings>
     <MainMenu>
         <mnuFile>&amp;Fichier</mnuFile>
@@ -22,28 +22,31 @@
         <mnuViewDesktopApps>Desktop Apps</mnuViewDesktopApps>
         <mnuViewWinStoreApps>Microsoft Store Apps</mnuViewWinStoreApps>
         <mnuViewRefresh>&amp;Actualiser</mnuViewRefresh>
-        <mnuViewListColumnsReset>Restaurer colonnes</mnuViewListColumnsReset>
-        <mnuViewColorScheme>Color Scheme</mnuViewColorScheme>
-        <mnuViewColorSchemeAuto>Match Windows light/dark mode</mnuViewColorSchemeAuto>
-        <mnuViewColorSchemeLight>Light mode (default)</mnuViewColorSchemeLight>
-        <mnuViewColorSchemeDark>Dark mode</mnuViewColorSchemeDark>
+        <mnuViewListColumnsReset>Restaurer les colonnes</mnuViewListColumnsReset>
+        <mnuViewColorScheme>Schéma de couleurs</mnuViewColorScheme>
+        <mnuViewColorSchemeAuto>Faire correspondre le mode clair/sombre de Windows</mnuViewColorSchemeAuto>
+        <mnuViewColorSchemeLight>Mode lumière (par défaut)</mnuViewColorSchemeLight>
+        <mnuViewColorSchemeDark>Mode sombre</mnuViewColorSchemeDark>
         <mnuViewLanguage>Langue de l'interface</mnuViewLanguage>
         <mnuHelp>&amp;Aide</mnuHelp>
         <mnuHelpAbout>&amp;A propos...</mnuHelpAbout>
         <mnuHelpHomePage>Page d'accueil</mnuHelpHomePage>
     </MainMenu>
+
     <ListCtrl>
         <columnProgramName>Nom du programme</columnProgramName>
         <columnSize>Taille</columnSize>
         <columnInstallationDate>Installé le</columnInstallationDate>
         <staticLoading>Chargement, veuillez patienter...</staticLoading>
-        <staticNoItemsMatchingFilterTip>No matching items, press ESC to reset</staticNoItemsMatchingFilterTip>
-        <staticNoProgramsInCategory>Seems like no Microsoft Store apps installed</staticNoProgramsInCategory>
-        <mark32bitItem>(32-bit)</mark32bitItem>
+        <staticNoItemsMatchingFilterTip>Aucun élément ne correspond au filtre ; appuyer sur Échap pour réinitialiser</staticNoItemsMatchingFilterTip>
+        <staticNoProgramsInCategory>Aucune application du Microsoft Store ne semble être installée</staticNoProgramsInCategory>
+        <mark32bitItem>(32 bits)</mark32bitItem>
     </ListCtrl>
+
     <ExplorerBar>
         <itemShortSearchTip>Rechercher un programme</itemShortSearchTip>
     </ExplorerBar>
+
     <UninstallWizard>
         <statusScanning>Recherche de traces en cours, veuillez patienter...</statusScanning>
         <statusLeftOverTracesFound>quelques traces restantes trouvées !</statusLeftOverTracesFound>
@@ -57,9 +60,11 @@
         <btnCancel>Annuler</btnCancel>
         <btnClose>Fermer</btnClose>
     </UninstallWizard>
+
     <DlgAbout>
-        <DlgAboutCaption>A propos de Geek Uninstaller</DlgAboutCaption>
+        <DlgAboutCaption>À propos de Geek Uninstaller</DlgAboutCaption>
     </DlgAbout>
+
     <Messages>
         <msgUninstallFailed>Echec du processus de désinstallation. \nSouhaitez vous supprimer cette entrée du registre ?</msgUninstallFailed>
         <msgForceRemovalQuestion>Etes-vous sûr de vouloir forcer la désinstallation de ce programme ?</msgForceRemovalQuestion>
@@ -68,6 +73,7 @@
         <msgNewVersionAvailable>Une nouvelle version %s est disponible.</msgNewVersionAvailable>
         <msgNewVersionAvailable2>Une nouvelle version de GeekUninstaller est disponible! Cliquez sur OK pour visiter le site web et la télécharger.</msgNewVersionAvailable2>
     </Messages>
+
     <ProVersion>
         <statusMessage>Passer à la version PRO</statusMessage>
         <WhatsCool>Fonctionnalités supplémentaires de la version PRO:</WhatsCool>
@@ -75,15 +81,17 @@
         <Feature2>Désinstallation complète et approfondie</Feature2>
         <Feature3>Gestion des programmes au démarrage de l'ordinateur</Feature3>
         <Feature4>Interface moderne, Support technique (en anglais)</Feature4>
-        <Feature5>Batch removal</Feature5>
+        <Feature5>Suppression par lots</Feature5>
         <buttonUpgrade>Mise à niveau</buttonUpgrade>
     </ProVersion>
+
     <HTMLReport>
         <htmlFiles>Fichiers HTML</htmlFiles>
         <allFiles>Tous les fichiers</allFiles>
         <generatedByOn>Généré par %s on %s</generatedByOn>
         <installedPrograms>Programmes installés (%s)</installedPrograms>
     </HTMLReport>
+
     <Misc>
         <btnOK>OK</btnOK>
         <btnCancel>Annuler</btnCancel>
@@ -95,4 +103,5 @@
         <statusUnknown>inconnu</statusUnknown>
         <WindowsUpdatesText>Mises à jour Windows</WindowsUpdatesText>
     </Misc>
+
 </LanguageStrings>
