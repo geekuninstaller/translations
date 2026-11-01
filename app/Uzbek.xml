@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageStrings>
+    <MainMenu>
+        <mnuFile>&amp;Fayl</mnuFile>
+        <mnuFileExport>&amp;Röyxatni HTMLga eksport qiliş...</mnuFileExport>
+        <mnuFileExit>&amp;Çiqiş</mnuFileExit>
+        <mnuAction>&amp;Amal</mnuAction>
+        <mnuActionUninstall>Ö&amp;çiriş...</mnuActionUninstall>
+        <mnuActionModify>&amp;Özgartiriş...</mnuActionModify>
+        <mnuActionDelete>&amp;Majburiy öçiriş</mnuActionDelete>
+        <mnuActionDeleteBatch>Qadoqlab majburiy öçiriş...</mnuActionDeleteBatch>
+        <mnuActionRemoveEntry>&amp;Qaydlarni öçiriş...</mnuActionRemoveEntry>
+        <mnuActionRemoveEntryBatch>Qadoqlab qaydlarni öçiriş...</mnuActionRemoveEntryBatch>
+        <mnuActionJumpToRegistry>&amp;Reyestrdagi qaydlar</mnuActionJumpToRegistry>
+        <mnuActionJumpToProgramFolder>&amp;Dastur jildi</mnuActionJumpToProgramFolder>
+        <mnuActionJumpToWebSite>&amp;Dastur veb sahifasi</mnuActionJumpToWebSite>
+        <mnuActionOpenWindowsStore>Microsoft Store’da oçiş</mnuActionOpenWindowsStore>
+        <mnuActionBrowseLocation>&amp;Dastur jildi...</mnuActionBrowseLocation>
+        <mnuActionBrowseSource>&amp;Işga tuşiriş manbai...</mnuActionBrowseSource>
+        <mnuActionGoogleFor>Google’da izlaş</mnuActionGoogleFor>
+        <mnuView>&amp;Köriniş</mnuView>
+        <mnuViewDesktopApps>Odatiy dasturlar</mnuViewDesktopApps>
+        <mnuViewWinStoreApps>Microsoft Store’dagi ilovalar</mnuViewWinStoreApps>
+        <mnuViewRefresh>&amp;Yangilaş</mnuViewRefresh>
+        <mnuViewListColumnsReset>Ustunlar holatini asliga qaytariş</mnuViewListColumnsReset>
+        <mnuViewColorScheme>Rang tuzilmasi</mnuViewColorScheme>
+        <mnuViewColorSchemeAuto>Windows rang tuzilmasiga muvofiq</mnuViewColorSchemeAuto>
+        <mnuViewColorSchemeLight>Yorqin tema (standart)</mnuViewColorSchemeLight>
+        <mnuViewColorSchemeDark>Qoronğu tema</mnuViewColorSchemeDark>
+        <mnuViewLanguage>Dastur interfeysi tili</mnuViewLanguage>
+        <mnuHelp>&amp;Kömak</mnuHelp>
+        <mnuHelpAbout>&amp;Dastur töğrisida...</mnuHelpAbout>
+        <mnuHelpHomePage>Rasmiy veb sahifasi</mnuHelpHomePage>
+    </MainMenu>
+    <ListCtrl>
+        <columnProgramName>Dastur nomi</columnProgramName>
+        <columnSize>Hajmi</columnSize>
+        <columnInstallationDate>Örnatilgan sanasi</columnInstallationDate>
+        <staticLoading>Yuklanmoqda, kutib turing...</staticLoading>
+        <staticNoItemsMatchingFilterTip>Filtrga mos elementlar yöq. Asliga qaytariş uçun ESC tugmasini bosing</staticNoItemsMatchingFilterTip>
+        <staticNoProgramsInCategory>Windows Ilovalari dökonidan ilovalar örnatilmaganga öxşaydi</staticNoProgramsInCategory>
+        <mark32bitItem>(32-bitli)</mark32bitItem>
+    </ListCtrl>
+    <ExplorerBar>
+        <itemShortSearchTip>Izlaş uçun sözni kiriting</itemShortSearchTip>
+    </ExplorerBar>
+    <UninstallWizard>
+        <statusScanning>Dasurning qolgan fayllar/jildlari, reyestr qaydlari tekşirilmoqda...</statusScanning>
+        <statusLeftOverTracesFound>Dasturning ba’zi elementlari qolgani aniqlandi</statusLeftOverTracesFound>
+        <statusNothingFound>Dasturdan hech qanday qolgan elementlari aniqlanmadi</statusNothingFound>
+        <statusAllTracesRemoved>Barçasi öçirib taşlandi</statusAllTracesRemoved>
+        <statusDeletingProgramTraces>Elementlar öçirilmoqda...</statusDeletingProgramTraces>
+        <treeItemFileSystem>Fayllar tizimi (%d ta)</treeItemFileSystem>
+        <treeItemRegistry>Reyestr (%d ta)</treeItemRegistry>
+        <treeItemPopopMenuBrowse>Köriş...</treeItemPopopMenuBrowse>
+        <btnFinish>Öçiriş</btnFinish>
+        <btnCancel>Bekor qiliş</btnCancel>
+        <btnClose>Yopiş</btnClose>
+    </UninstallWizard>
+    <DlgAbout>
+        <DlgAboutCaption>Geek Uninstaller töğrisida</DlgAboutCaption>
+    </DlgAbout>
+    <Messages>
+        <msgUninstallFailed>Öçirib taşlaş töğri işlamadi. \nBu dastur uçun qaydni röyxatdan olib taşlamoqçimisiz va unga tegişli fayllarni öçirib taşlamoqçimisiz?</msgUninstallFailed>
+        <msgForceRemovalQuestion>Haqiqatan ham uşbu dasturni majburan öçirib taşlamoqçimisiz?</msgForceRemovalQuestion>
+        <msgRemoveEntryQuestion>Qayd dastur röyxatidan olib taşlansinmi?</msgRemoveEntryQuestion>
+        <msgRemoveEntryFailed>Qaydni reyestrdan öçiriş amalga oşmadi. \nBuning uçun sizda yetarli huquqlar bölmasligi mumkin.</msgRemoveEntryFailed>
+        <msgNewVersionAvailable>Yangi %s versiyasi mavjud</msgNewVersionAvailable>
+        <msgNewVersionAvailable2>GeekUninstaller dasturining yangi versiyasi çiqdi! OK tugmasini bosiş orqali rasmiy veb sahifadan yuklab olişingiz mumkin.</msgNewVersionAvailable2>
+    </Messages>
+    <ProVersion>
+        <statusMessage>PRO versiyaga ötiş</statusMessage>
+        <WhatsCool>Dasturning professional tahririda quyidagi ajoyib jihatlar mavjud:</WhatsCool>
+        <Feature1>Real vaqtdagi dasturiy ta’minot örnatmalari monitori</Feature1>
+        <Feature2>Dasturlarni eng töliq va aniq öçiriş</Feature2>
+        <Feature3>Avtomatik işga tuşadigan dasturlarni boşqariş</Feature3>
+        <Feature4>Ajoyib interfeys va professional kömak xizmati</Feature4>
+        <Feature5>Dasturlarni qadoqlab öçiriş</Feature5>
+        <buttonUpgrade>PROga ötiş</buttonUpgrade>
+    </ProVersion>
+    <HTMLReport>
+        <htmlFiles>HTML fayllar</htmlFiles>
+        <allFiles>Barça fayllar</allFiles>
+        <generatedByOn>Röyxat %s yordamida %s sanasida tuzilgan</generatedByOn>
+        <installedPrograms>Örnatilgan dastur (%s)</installedPrograms>
+    </HTMLReport>
+    <Misc>
+        <btnOK>OK</btnOK>
+        <btnCancel>Bekor qiliş</btnCancel>
+        <btnHelp>Kömak</btnHelp>
+        <btnYes>Ha</btnYes>
+        <btnNo>Yöq</btnNo>
+        <btnClose>Yopiş</btnClose>
+        <statusTotalInfo>%d ta dastur, töliq hajmi - %s</statusTotalInfo>
+        <statusUnknown>noma’lum</statusUnknown>
+        <WindowsUpdatesText>Windows Yangilanişi</WindowsUpdatesText>
+    </Misc>
+</LanguageStrings>
