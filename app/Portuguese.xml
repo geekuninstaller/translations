@@ -9,18 +9,18 @@
         <mnuActionModify>&amp;Modificar...</mnuActionModify>
         <mnuActionDelete>Remoção &amp;forçada</mnuActionDelete>
         <mnuActionDeleteBatch>Remoção &amp;forçada em lote</mnuActionDeleteBatch>
-        <mnuActionRemoveEntry>&amp;Remover entrada</mnuActionRemoveEntry>
+        <mnuActionRemoveEntry>Remover &amp;entrada</mnuActionRemoveEntry>
         <mnuActionRemoveEntryBatch>Remover entradas &amp;em lote</mnuActionRemoveEntryBatch>
         <mnuActionJumpToRegistry>Entrada no &amp;registo</mnuActionJumpToRegistry>
         <mnuActionJumpToProgramFolder>Pasta de &amp;instalação</mnuActionJumpToProgramFolder>
         <mnuActionJumpToWebSite>Website do &amp;programa</mnuActionJumpToWebSite>
-        <mnuActionOpenWindowsStore>Abrir em Windows Store</mnuActionOpenWindowsStore>
+        <mnuActionOpenWindowsStore>Abrir na Microsoft Store</mnuActionOpenWindowsStore>
         <mnuActionBrowseLocation>Procurar localização...</mnuActionBrowseLocation>
         <mnuActionBrowseSource>Procurar origem...</mnuActionBrowseSource>
         <mnuActionGoogleFor>Pesquisar no Google</mnuActionGoogleFor>
         <mnuView>&amp;Ver</mnuView>
-        <mnuViewDesktopApps>Aplicações</mnuViewDesktopApps>
-        <mnuViewWinStoreApps>Aplicações Windows Store</mnuViewWinStoreApps>
+        <mnuViewDesktopApps>Aplicações de ambiente de trabalho</mnuViewDesktopApps>
+        <mnuViewWinStoreApps>Aplicações da Microsoft Store</mnuViewWinStoreApps>
         <mnuViewRefresh>&amp;Recarregar</mnuViewRefresh>
         <mnuViewListColumnsReset>Repor colunas</mnuViewListColumnsReset>
         <mnuViewColorScheme>Color Scheme</mnuViewColorScheme>
@@ -35,10 +35,10 @@
     <ListCtrl>
         <columnProgramName>Nome do programa</columnProgramName>
         <columnSize>Tamanho</columnSize>
-        <columnInstallationDate>Instalada em</columnInstallationDate>
+        <columnInstallationDate>Instalado em</columnInstallationDate>
         <staticLoading>A carregar, por favor aguarde...</staticLoading>
         <staticNoItemsMatchingFilterTip>Não existem itens coincidentes, prima ESC para repor</staticNoItemsMatchingFilterTip>
-        <staticNoProgramsInCategory>Parece que não existem aplicações instaladas através da Windows Store</staticNoProgramsInCategory>
+        <staticNoProgramsInCategory>Parece que não existem aplicações instaladas através da Microsoft Store</staticNoProgramsInCategory>
         <mark32bitItem>(32-bit)</mark32bitItem>
     </ListCtrl>
     <ExplorerBar>
@@ -46,7 +46,7 @@
     </ExplorerBar>
     <UninstallWizard>
         <statusScanning>A procurar ficheiros, pastas e entradas no registo...</statusScanning>
-        <statusLeftOverTracesFound>Órfãos encontrados!</statusLeftOverTracesFound>
+        <statusLeftOverTracesFound>Alguns itens órfãos encontrados!</statusLeftOverTracesFound>
         <staticScanStatusGeneratingTracesList>A gerar a lista de traços de programas órfãos...</staticScanStatusGeneratingTracesList>
         <statusNothingFound>Nenhum vestígio encontrado.</statusNothingFound>
         <statusAllTracesRemoved>Removidos todos os vestígios</statusAllTracesRemoved>
@@ -69,10 +69,10 @@
         <msgCancelWizard>Os itens órfãos encontrados não serão removidos. Deseja fechar o assistente?</msgCancelWizard>
         <msgRemoveEntryFailed>Falha ao remover a entrada de registo deste item.\nÉ possível que este utilizador não tenha privilégios suficientes.</msgRemoveEntryFailed>
         <msgNewVersionAvailable>Nova versão %s disponível</msgNewVersionAvailable>
-        <msgNewVersionAvailable2>Nova versão do Geek Uninstaller disponível! Clique OK para visitar o nosso website e descarregar.</msgNewVersionAvailable2>
+        <msgNewVersionAvailable2>Nova versão do Geek Uninstaller disponível! Clique OK para visitar o nosso website e descarregá-la.</msgNewVersionAvailable2>
     </Messages>
     <ProVersion>
-        <statusMessage>Actualizar para a versão PRO</statusMessage>
+        <statusMessage>Atualizar para a versão PRO</statusMessage>
         <WhatsCool>O que oferece a versão PRO:</WhatsCool>
         <Feature1>Monitorização de instalações em tempo real</Feature1>
         <Feature2>Remoção profunda e minuciosa</Feature2>
