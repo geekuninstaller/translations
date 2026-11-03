@@ -9,7 +9,7 @@ main-page:
   description: Effektiv, rask, liten og portabel. 100% gratis
   header: Effektiv, rask, liten og portabel. 100% gratis
   header_feature_1: Ryddig fjerning og tvunget fjerning
-  header_feature_2: Innebygd X64-støtte
+  header_feature_2: Innebygd X64- og ARM64-støtte
   header_feature_3: Lettbrukelig brukergrensesnitt
   header_feature_4: Avinstaller apper fra Microsoft Store
   button_download: Last ned
@@ -25,7 +25,7 @@ main-page:
   tour_feature_5: Raskt og smart
   tour_feature_5_text: Umiddelbar oppstart. Skriv inn i søkefeltet for å finne en app umiddelbart. Rask skanning av rester.
   tour_feature_6: Portabel
-  tour_feature_6_text: En individuell og liten EXE som kjører på alle 32- og 64-bit-versjoner av Windows.
+  tour_feature_6_text: En individuell og liten EXE som kjører på alle 32-bit-, 64-bit- og ARM64-versjoner av Windows.
   screen_1: Enkelt brukergrensesnitt
   screen_1_text: Programmer blir fremhevet med lilla/oransje dersom de er nylig installert/endret (siden sist gang Geek Uninstaller ble kjørt).
   screen_2: Ryddig fjerning, tvunget fjerning
@@ -65,7 +65,7 @@ download_page:
   pro_button_trial: Gratis prøveperiode
   pro_button_buy: Kjøp nå
   compatibility: Kompatibilitet
-  compatibility_text: 32- og 64-bits Windows 11/10/8.1/8/7. Krever administratorprivilegier. <br>Når den kjøres på x64, kjører Geek Uninstaller som et fullt 64-bitsprogram.
+  compatibility_text: 32- og 64-bits Windows 11/10/8.1/8/7, inkludert Windows 11/10 på ARM. Krever administratorprivilegier. <br>Når den kjøres på x64 eller ARM64, kjører Geek Uninstaller som et fullt 64-bitsprogram.
   release_notes: Bemerkninger om seneste versjoner
   release_notes_button: Vis den fulle listen
 

@@ -9,7 +9,7 @@ main-page:
   description: Efficient and Fast, Small and Portable. 100% Free
   header: Efficient and Fast, Small and Portable. 100% Free
   header_feature_1: Clean Removal and Force Removal
-  header_feature_2: Native X64 support
+  header_feature_2: Native x64 and ARM64 support
   header_feature_3: Easy-to-use User Interface
   header_feature_4: Uninstall Microsoft Store Apps
   button_download: Download
@@ -25,7 +25,7 @@ main-page:
   tour_feature_5: Fast and smart
   tour_feature_5_text: Instant startup. Type to search to locate an app immediately. Quick leftovers scan.
   tour_feature_6: Portable
-  tour_feature_6_text: Single and small EXE runs on any 32 and 64-bit Windows
+  tour_feature_6_text: Single and small EXE runs on any 32-bit, 64-bit and ARM64 Windows
   screen_1: Simple User Interface
   screen_1_text: Programs highlighted with purple orange color are recently installed/modified (since last run of Geek Uninstaller).
   screen_2: Clean Removal, Force Removal
@@ -65,7 +65,7 @@ download_page:
   pro_button_trial: Free Trial
   pro_button_buy: Buy Now
   compatibility: Compatibility
-  compatibility_text: 32 &amp; 64-bit Windows 11/10/7/8/8.1. Requires administrator permissions. <br>When running on x64 Windows Geek Uninstaller is running as native 64-bit application.
+  compatibility_text: 32 &amp; 64-bit Windows 11/10/7/8/8.1, including Windows 11/10 on ARM. Requires administrator permissions. <br>When running on x64 or ARM64 Windows Geek Uninstaller is running as native 64-bit application.
   release_notes: Latest release notes
   release_notes_button: View full list
 
