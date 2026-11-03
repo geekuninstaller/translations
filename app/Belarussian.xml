@@ -54,16 +54,16 @@
         <statusStoppingRemoval>Спыненне выдалення...</statusStoppingRemoval>
         <treeItemFileSystem>Файлавая сістэма (%d элементаў)</treeItemFileSystem>
         <treeItemRegistry>Рэестр (%d элементаў)</treeItemRegistry>
-        <treeItemPopopMenuBrowse>Прагледзець...</treeItemPopopMenuBrowse>
+        <treeItemPopopMenuBrowse>Праглядзець...</treeItemPopopMenuBrowse>
         <btnFinish>Выдаліць</btnFinish>
-        <btnCancel>Адмена</btnCancel>
-        <btnClose>Зачыніць</btnClose>
+        <btnCancel>Адмяніць</btnCancel>
+        <btnClose>Закрыць</btnClose>
     </UninstallWizard>
     <DlgAbout>
         <DlgAboutCaption>Аб праграме Geek Uninstaller</DlgAboutCaption>
     </DlgAbout>
     <Messages>
-        <msgUninstallFailed>Дэінсталяцыя не адпрацавала карэктна. \nВы жадаеце выдаліць запіс для гэтай праграмы з рэестру і выдаліць прыналежныя ёй файлы?</msgUninstallFailed>
+        <msgUninstallFailed>Дэінсталяцыя не адпрацавала карэктна. \nВыдаліць запіс для гэтай праграмы з рэестру і прыналежныя ёй файлы?</msgUninstallFailed>
         <msgForceRemovalQuestion>Сапраўды выканаць прымусовае выдаленне праграмы?</msgForceRemovalQuestion>
         <msgRemoveEntryQuestion>Сапраўды выдаліць гэты запіс?</msgRemoveEntryQuestion>
         <msgCancelWizard>Знойдзеныя астаткі праграмы не будуць выдалены. Зачыніць майстар выдалення?</msgCancelWizard>
@@ -84,12 +84,12 @@
     <HTMLReport>
         <htmlFiles>Файлы HTML</htmlFiles>
         <allFiles>Усе файлы</allFiles>
-        <generatedByOn>Сгенеравана %s %s</generatedByOn>
+        <generatedByOn>Згенеравана %s %s</generatedByOn>
         <installedPrograms>Усталяваныя праграмы (%s)</installedPrograms>
     </HTMLReport>
     <Misc>
         <btnOK>OK</btnOK>
-        <btnCancel>Адмена</btnCancel>
+        <btnCancel>Адмяніць</btnCancel>
         <btnHelp>Даведка</btnHelp>
         <btnYes>Так</btnYes>
         <btnNo>Не</btnNo>
