@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageStrings>
     <MainMenu>
         <mnuFile>파일(&amp;F)</mnuFile>
@@ -14,7 +14,7 @@
         <mnuActionJumpToRegistry>레지스트리 항목(&amp;R)</mnuActionJumpToRegistry>
         <mnuActionJumpToProgramFolder>설치 폴더(&amp;I)</mnuActionJumpToProgramFolder>
         <mnuActionJumpToWebSite>프로그램 웹사이트(&amp;P)</mnuActionJumpToWebSite>
-        <mnuActionOpenWindowsStore>Windows 스토어에서 열기</mnuActionOpenWindowsStore>
+        <mnuActionOpenWindowsStore> Microsoft 스토어에서 열기</mnuActionOpenWindowsStore>
         <mnuActionBrowseLocation>위치 찾아보기...</mnuActionBrowseLocation>
         <mnuActionBrowseSource>소스 찾아보기...</mnuActionBrowseSource>
         <mnuActionGoogleFor>Google에서 검색:</mnuActionGoogleFor>
@@ -22,9 +22,9 @@
         <mnuViewDesktopApps>데스크톱 앱</mnuViewDesktopApps>
         <mnuViewWinStoreApps>Windows 스토어 앱</mnuViewWinStoreApps>
         <mnuViewRefresh>새로 고침(&amp;R)</mnuViewRefresh>
-        <mnuViewListColumnsReset>열 초기화</mnuViewListColumnsReset>
-        <mnuViewColorScheme>색 구성표</mnuViewColorScheme>
-        <mnuViewColorSchemeAuto>Windows 밝은/어두운 모드와 일치</mnuViewColorSchemeAuto>
+        <mnuViewListColumnsReset>열 재설정</mnuViewListColumnsReset>
+        <mnuViewColorScheme>색상 구성표</mnuViewColorScheme>
+        <mnuViewColorSchemeAuto>Windows의 밝은 모드/어두운 모드와 일치</mnuViewColorSchemeAuto>
         <mnuViewColorSchemeLight>밝은 모드 (기본값)</mnuViewColorSchemeLight>
         <mnuViewColorSchemeDark>어두운 모드</mnuViewColorSchemeDark>
         <mnuViewLanguage>인터페이스 언어</mnuViewLanguage>
@@ -32,26 +32,29 @@
         <mnuHelpAbout>정보(&amp;A)...</mnuHelpAbout>
         <mnuHelpHomePage>홈 페이지(&amp;H)</mnuHelpHomePage>
     </MainMenu>
+
     <ListCtrl>
         <columnProgramName>프로그램 이름</columnProgramName>
         <columnSize>크기</columnSize>
         <columnInstallationDate>설치 날짜</columnInstallationDate>
         <staticLoading>불러오는 중, 잠시 기다리세요...</staticLoading>
-        <staticNoItemsMatchingFilterTip>일치하는 항목이 없습니다. 재설정하려면 ESC를 누르십시오.</staticNoItemsMatchingFilterTip>
-        <staticNoProgramsInCategory>설치된 Microsoft Store 앱이 없는 걸로 보입니다.</staticNoProgramsInCategory>
+        <staticNoItemsMatchingFilterTip>일치하는 항목이 없습니다. 재설정하려면 ESC를 누르세요.</staticNoItemsMatchingFilterTip>
+        <staticNoProgramsInCategory>설치된 Microsoft 스토어 앱이 없는 걸로 보입니다.</staticNoProgramsInCategory>
         <mark32bitItem>(32-bit)</mark32bitItem>
     </ListCtrl>
+
     <ExplorerBar>
-        <itemShortSearchTip>프로그램을 찾으려면 입력</itemShortSearchTip>
+        <itemShortSearchTip>프로그램을 찾으려면 입력하세요</itemShortSearchTip>
     </ExplorerBar>
+
     <UninstallWizard>
         <statusScanning>남은 파일, 폴더 및 레지스트리 항목을 검색하는 중...</statusScanning>
         <statusLeftOverTracesFound>남은 흔적들이 발견되었습니다!</statusLeftOverTracesFound>
-        <staticScanStatusGeneratingTracesList>흔적 목록을 생성하는 중</staticScanStatusGeneratingTracesList>
+        <staticScanStatusGeneratingTracesList>추적 목록 생성 중...</staticScanStatusGeneratingTracesList>
         <statusNothingFound>남은 흔적을 찾을 수 없습니다.</statusNothingFound>
         <statusAllTracesRemoved>모든 흔적이 제거됐습니다</statusAllTracesRemoved>
         <statusDeletingProgramTraces>프로그램 흔적 삭제 중...</statusDeletingProgramTraces>
-        <statusStoppingRemoval>삭제를 중지하는 중...</statusStoppingRemoval>
+        <statusStoppingRemoval>제거 중지...</statusStoppingRemoval>
         <treeItemFileSystem>파일 시스템 (%d개 항목)</treeItemFileSystem>
         <treeItemRegistry>레지스트리 (%d개 항목)</treeItemRegistry>
         <treeItemPopopMenuBrowse>찾아보기...</treeItemPopopMenuBrowse>
@@ -59,43 +62,49 @@
         <btnCancel>취소</btnCancel>
         <btnClose>닫기</btnClose>
     </UninstallWizard>
+
     <DlgAbout>
         <DlgAboutCaption>Geek Uninstaller 정보</DlgAboutCaption>
     </DlgAbout>
+
     <Messages>
         <msgUninstallFailed>제거 프로세스에 실패했습니다. \n레지스트리에서 이 프로그램 항목을 지우고 파일을 정리하시겠습니까?</msgUninstallFailed>
         <msgForceRemovalQuestion>이 프로그램의 강제 제거를 수행하시겠습니까?</msgForceRemovalQuestion>
         <msgRemoveEntryQuestion>이 항목을 제거하시겠습니까?</msgRemoveEntryQuestion>
-        <msgCancelWizard>발견된 남은 흔적 찌꺼기는 제거되지 않습니다. 마법사를 닫으시겠습니까?</msgCancelWizard>
+        <msgCancelWizard>발견된 남은 항목은 삭제되지 않습니다. 마법사를 닫으시겠습니까?</msgCancelWizard>
         <msgRemoveEntryFailed>이 항목의 레지스트리 항목을 삭제하지 못했습니다. \n아마도 이 작업을 수행할 수 있는 권한이 없을 것입니다.</msgRemoveEntryFailed>
         <msgNewVersionAvailable>새 버전 %s을(를) 사용할 수 있습니다.</msgNewVersionAvailable>
-        <msgNewVersionAvailable2>새로운 버전의 GeekUninstaller를 사용할 수 있습니다! 웹 사이트를 방문하여 최신 버전을 다운로드하려면 확인을 클릭합니다.</msgNewVersionAvailable2>
+        <msgNewVersionAvailable2>GeekUninstaller의 새 버전을 사용할 수 있습니다! 확인을 눌러 웹사이트를 방문하고 최신 버전을 다운로드하세요.</msgNewVersionAvailable2>
     </Messages>
+
     <ProVersion>
         <statusMessage>PRO 버전으로 업그레이드</statusMessage>
         <WhatsCool>PRO 버전의 새로운 기능:</WhatsCool>
         <Feature1>설시간 설치 감시</Feature1>
         <Feature2>철저하고 완전한 제거</Feature2>
         <Feature3>시작 프로그램 관리</Feature3>
-        <Feature4>현대적인 인터페이스, 기술 지원</Feature4>
+        <Feature4>현재적인 인터페이스, 기술 지원</Feature4>
         <Feature5>일괄 제거</Feature5>
         <buttonUpgrade>업그레이드</buttonUpgrade>
     </ProVersion>
+
     <HTMLReport>
         <htmlFiles>HTML 파일</htmlFiles>
         <allFiles>모든 파일</allFiles>
-        <generatedByOn>%s 에 의해 %s 에 생성됨</generatedByOn>
+        <generatedByOn>%s에서 %s에 의해 생성됨</generatedByOn>
         <installedPrograms>설치한 프로그램 (%s)</installedPrograms>
     </HTMLReport>
+
     <Misc>
         <btnOK>확인</btnOK>
         <btnCancel>취소</btnCancel>
         <btnHelp>도움말</btnHelp>
         <btnYes>예</btnYes>
-        <btnNo>아니오</btnNo>
+        <btnNo>아니요</btnNo>
         <btnClose>닫기</btnClose>
         <statusTotalInfo>%d개 프로그램 / 전체 크기: %s</statusTotalInfo>
         <statusUnknown>알 수 없음</statusUnknown>
         <WindowsUpdatesText>Windows 업데이트</WindowsUpdatesText>
     </Misc>
+
 </LanguageStrings>
