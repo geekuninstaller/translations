@@ -47,9 +47,11 @@
     <UninstallWizard>
         <statusScanning>A procurar arquivos, pastas e entradas no registo remanescentes...</statusScanning>
         <statusLeftOverTracesFound>Alguns itens órfãos encontrados!</statusLeftOverTracesFound>
+        <staticScanStatusGeneratingTracesList>A gerar a lista de traços de programas órfãos...</staticScanStatusGeneratingTracesList>
         <statusNothingFound>Nenhum vestígio encontrado.</statusNothingFound>
         <statusAllTracesRemoved>Removidos todos os vestígios</statusAllTracesRemoved>
         <statusDeletingProgramTraces>A apagar vestígios do programa...</statusDeletingProgramTraces>
+        <statusStoppingRemoval>A parar a eliminação...</statusStoppingRemoval>
         <treeItemFileSystem>Sistema de arquivos (%d itens)</treeItemFileSystem>
         <treeItemRegistry>Registo (%d itens)</treeItemRegistry>
         <treeItemPopopMenuBrowse>Procurar...</treeItemPopopMenuBrowse>
@@ -64,6 +66,7 @@
         <msgUninstallFailed>Falha no processo de desinstalação. \nDeseja remover a entrada do registo deste programa e limpar os respectivos ficheiros?</msgUninstallFailed>
         <msgForceRemovalQuestion>Tem a certeza que pretende remover este programa forçadamente?</msgForceRemovalQuestion>
         <msgRemoveEntryQuestion>Tem a certeza que pretende remover esta entrada?</msgRemoveEntryQuestion>
+        <msgCancelWizard>Os itens órfãos encontrados não serão removidos. Deseja fechar o assistente?</msgCancelWizard>
         <msgRemoveEntryFailed>Falha em remover a entrada do registo deste item. \nProvavelmente não terá elevação suficiente para o fazer.</msgRemoveEntryFailed>
         <msgNewVersionAvailable>Nova versão %s disponível</msgNewVersionAvailable>
         <msgNewVersionAvailable2>Nova versão do Geek Uninstaller disponível! Clique OK para visitar o nosso website e descarregá-la.</msgNewVersionAvailable2>

@@ -47,9 +47,11 @@
     <UninstallWizard>
         <statusScanning>Skanowanie pozostawionych plików, folderów i wpisów w rejestrze...</statusScanning>
         <statusLeftOverTracesFound>Znaleziono kilka pozostałości!</statusLeftOverTracesFound>
+        <staticScanStatusGeneratingTracesList>Generuję listę pozostałości...</staticScanStatusGeneratingTracesList>
         <statusNothingFound>Nie znaleziono żadnych pozostałości.</statusNothingFound>
         <statusAllTracesRemoved>Usunięto wszystkie pozostałości</statusAllTracesRemoved>
         <statusDeletingProgramTraces>Usuwanie pozostałości po programie...</statusDeletingProgramTraces>
+        <statusStoppingRemoval>Zatrzymywanie usuwania...</statusStoppingRemoval>
         <treeItemFileSystem>Pliki systemowe (%d elementy(ów))</treeItemFileSystem>
         <treeItemRegistry>Rejestr (%d elementy(ów))</treeItemRegistry>
         <treeItemPopopMenuBrowse>Przeglądaj...</treeItemPopopMenuBrowse>
@@ -64,6 +66,7 @@
         <msgUninstallFailed>Proces odinstalowania nie powiódł się. \nCzy chciałbyś usunąć wpis w rejestrze dotyczący tej aplikacji i usunąć pozostałe pliki?</msgUninstallFailed>
         <msgForceRemovalQuestion>Czy na pewno chcesz wykonać wymuszone usunięcie tego programu?</msgForceRemovalQuestion>
         <msgRemoveEntryQuestion>Czy na pewno chcesz usunąć ten element?</msgRemoveEntryQuestion>
+        <msgCancelWizard>Znalezione pozostałości nie zostaną usunięte. Czy chcesz zamknąć kreatora?</msgCancelWizard>
         <msgRemoveEntryFailed>Nie powiodło się usunięcie wpisu w rejestrze dotyczącego tego elementu. \nPrawdopodobnie nie masz uprawnień administratora do wykonania tego zadania.</msgRemoveEntryFailed>
         <msgNewVersionAvailable>Dostępna jest nowa wersja %s.</msgNewVersionAvailable>
         <msgNewVersionAvailable2>New version of GeekUninstaller is available! Press OK to visit our website and download the newest version.</msgNewVersionAvailable2>

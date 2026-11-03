@@ -47,9 +47,11 @@
     <UninstallWizard>
         <statusScanning>बची हुई फाइल्स, फोल्डर्स तथा रजिस्ट्री चीजों के लिए तलाश जारी है...</statusScanning>
         <statusLeftOverTracesFound>बची हुई चीजों के कुछ सुराग मीले है!</statusLeftOverTracesFound>
+        <staticScanStatusGeneratingTracesList>सुरागों की सूची बन रही है...</staticScanStatusGeneratingTracesList>
         <statusNothingFound>बची हुई चीजों के कोई सुराग नहीं मीले।</statusNothingFound>
         <statusAllTracesRemoved>सभी सुराग हटाए गएं</statusAllTracesRemoved>
         <statusDeletingProgramTraces>प्रोग्रा के सुराग मिट रहे हैं...</statusDeletingProgramTraces>
+        <statusStoppingRemoval>मिटाना रोका जा रहा है...</statusStoppingRemoval>
         <treeItemFileSystem>फाइल सिस्टम (%d चीजें)</treeItemFileSystem>
         <treeItemRegistry>रजिस्ट्री (%d चीजें)</treeItemRegistry>
         <treeItemPopopMenuBrowse>खोजें...</treeItemPopopMenuBrowse>
@@ -64,6 +66,7 @@
         <msgUninstallFailed>अनईन्स्टोलेशन प्रक्रिया असफल। \n क्या आप इस प्रोग्राम प्रविष्टि को रजिस्ट्री से हटा कर इसकी फाइल्स साफ करना चाहते है?</msgUninstallFailed>
         <msgForceRemovalQuestion>क्या आप इस प्रोग्राम का बलपूर्वक निकाल करना चाहते है?</msgForceRemovalQuestion>
         <msgRemoveEntryQuestion>क्या आप इस प्रविष्टि को निकालना चाहते हैं?</msgRemoveEntryQuestion>
+        <msgCancelWizard>जो बची हुई चीजें मिली हैं, वे नहीं हटाई जाएंगी। क्या आप विज़ार्ड बंद करना चाहते हैं?</msgCancelWizard>
         <msgRemoveEntryFailed>इस चीज की रजिस्ट्री प्रविष्टि हटाने में असफल। \nकदाचित आपको इस कार्य के लिए उपयुक्त अधिकार नहीं है।</msgRemoveEntryFailed>
         <msgNewVersionAvailable>नया संस्करण %s उपलब्ध है</msgNewVersionAvailable>
         <msgNewVersionAvailable2>New version of GeekUninstaller is available! Press OK to visit our website and download the newest version.</msgNewVersionAvailable2>

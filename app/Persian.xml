@@ -47,9 +47,11 @@
     <UninstallWizard>
         <statusScanning>اسکن برای فایل پوشه و آیتم ریجیستری باقیمانده..</statusScanning>
         <statusLeftOverTracesFound>بعضی از ردهای باقیمانده یافت شد!</statusLeftOverTracesFound>
+        <staticScanStatusGeneratingTracesList>تولید لیست ردها...</staticScanStatusGeneratingTracesList>
         <statusNothingFound>رد باقیمانده یافت نشد.</statusNothingFound>
         <statusAllTracesRemoved>همه ردها پاک شد</statusAllTracesRemoved>
         <statusDeletingProgramTraces>حذف ردهای برنامه...</statusDeletingProgramTraces>
+        <statusStoppingRemoval>توقف حذف...</statusStoppingRemoval>
         <treeItemFileSystem>فایل سیستم (%d آیتم)</treeItemFileSystem>
         <treeItemRegistry>ریجیستری (%d آیتم)</treeItemRegistry>
         <treeItemPopopMenuBrowse>جستجو..</treeItemPopopMenuBrowse>
@@ -64,6 +66,7 @@
         <msgUninstallFailed>فرآیند حذف موفق نشد \nآیا میخواهید فایل ها و ریجیستری این برنامه حذف شود؟</msgUninstallFailed>
         <msgForceRemovalQuestion>آیا می خواهید حذف اجباری این برنامه را اجرا کنید؟</msgForceRemovalQuestion>
         <msgRemoveEntryQuestion>آیا میخواهید این ورودی را حذف کنید؟</msgRemoveEntryQuestion>
+        <msgCancelWizard>ردهای باقیمانده یافت شده حذف نخواهد شد. آیا میخواهید پنجره را ببندید؟</msgCancelWizard>
         <msgRemoveEntryFailed>موفق به حذف ورودی ریجیستری ای آیتم نشد \nاحتمالا شما اجازه دسترسی برای آن را ندارید</msgRemoveEntryFailed>
         <msgNewVersionAvailable>نسخه جدید %s موجود است</msgNewVersionAvailable>
         <msgNewVersionAvailable2>New version of GeekUninstaller is available! Press OK to visit our website and download the newest version.</msgNewVersionAvailable2>

@@ -47,9 +47,11 @@
     <UninstallWizard>
         <statusScanning>Сканування пропущених файлів/тек, елементів реєстру...</statusScanning>
         <statusLeftOverTracesFound>Знайдені деякі частини програми</statusLeftOverTracesFound>
+        <staticScanStatusGeneratingTracesList>Складання списку елементів...</staticScanStatusGeneratingTracesList>
         <statusNothingFound>Жодних залишків програми не знайдено</statusNothingFound>
         <statusAllTracesRemoved>Усі залишки видалено</statusAllTracesRemoved>
         <statusDeletingProgramTraces>Видалення залишків програми...</statusDeletingProgramTraces>
+        <statusStoppingRemoval>Зупинення видалення...</statusStoppingRemoval>
         <treeItemFileSystem>Файлова система (%d елементів)</treeItemFileSystem>
         <treeItemRegistry>Реєстр (%d елементів)</treeItemRegistry>
         <treeItemPopopMenuBrowse>Переглянути...</treeItemPopopMenuBrowse>
@@ -64,6 +66,7 @@
         <msgUninstallFailed>Деінсталяція не відпрацювала коректно. \nВи хочете видалити запис для цієї програми з реєстру та видалити файли, що їй належать?</msgUninstallFailed>
         <msgForceRemovalQuestion>Ви дійсно хочете провести примусове видалення цієї програми?</msgForceRemovalQuestion>
         <msgRemoveEntryQuestion>Ви дійсно хочете видалити цей елемент?</msgRemoveEntryQuestion>
+        <msgCancelWizard>Знайдені залишки програми не буде видалено. Бажаєте закрити майстра видалення?</msgCancelWizard>
         <msgRemoveEntryFailed>Неможливо видалити запис реєстру. \nШвидше за все недостатньо прав.</msgRemoveEntryFailed>
         <msgNewVersionAvailable>Доступна нова версія %s:</msgNewVersionAvailable>
         <msgNewVersionAvailable2>Доступна нова версія GeekUninstaller! Натисніть ОК щоб перейти на наш веб-сайт для завантаження.</msgNewVersionAvailable2>

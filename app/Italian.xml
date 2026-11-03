@@ -47,9 +47,11 @@
     <UninstallWizard>
         <statusScanning>Ricerca di file, cartelle, e voci di registro residue...</statusScanning>
         <statusLeftOverTracesFound>Rilevate alcune tracce residue!</statusLeftOverTracesFound>
+        <staticScanStatusGeneratingTracesList>Generazione elenco tracce...</staticScanStatusGeneratingTracesList>
         <statusNothingFound>Nessuna traccia residua rilevata</statusNothingFound>
         <statusAllTracesRemoved>Tutte le tracce sono state rimosse</statusAllTracesRemoved>
         <statusDeletingProgramTraces>Eliminazione tracce programma...</statusDeletingProgramTraces>
+        <statusStoppingRemoval>Interruzione eliminazione...</statusStoppingRemoval>
         <treeItemFileSystem>File System (%d elementi)</treeItemFileSystem>
         <treeItemRegistry>Registro (%d elementi)</treeItemRegistry>
         <treeItemPopopMenuBrowse>Sfoglia...</treeItemPopopMenuBrowse>
@@ -64,6 +66,7 @@
         <msgUninstallFailed>Disinstallazione non riuscita. \nVolete rimuovere la voce del programma dal registro ed eliminare i relativi file?</msgUninstallFailed>
         <msgForceRemovalQuestion>Siete sicuri di voler procedere alla rimozione forzata di questo programma?</msgForceRemovalQuestion>
         <msgRemoveEntryQuestion>Siete sicuri di voler rimuovere questo elemento?</msgRemoveEntryQuestion>
+        <msgCancelWizard>Le tracce residue rilevate non verranno rimosse. Vuoi chiudere la procedura guidata?</msgCancelWizard>
         <msgRemoveEntryFailed>Eliminazione della voce di registro di questo elemento non riuscita. \nProbabilmente non si possiedono permessi sufficienti per farlo.</msgRemoveEntryFailed>
         <msgNewVersionAvailable>È disponibile una %s nuova versione.</msgNewVersionAvailable>
         <msgNewVersionAvailable2>È disponibile una nuova versione di GeekUninstaller! Clicca su OK per visitare il sito e scaricare l'ultima versione.</msgNewVersionAvailable2>

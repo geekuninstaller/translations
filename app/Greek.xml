@@ -47,9 +47,11 @@
     <UninstallWizard>
         <statusScanning>Σάρωση για εναπομείναντα αρχεία, φακέλους και στοιχεία μητρώου...</statusScanning>
         <statusLeftOverTracesFound>Βρέθηκαν μερικά κατάλοιπα!</statusLeftOverTracesFound>
+        <staticScanStatusGeneratingTracesList>Δημιουργία λίστας κατάλοιπων...</staticScanStatusGeneratingTracesList>
         <statusNothingFound>Δεν βρέθηκαν κατάλοιπα.</statusNothingFound>
         <statusAllTracesRemoved>Όλα τα κατάλοιπα αφαιρέθηκαν</statusAllTracesRemoved>
         <statusDeletingProgramTraces>Διαγραφή κατάλοιπων προγράμματος...</statusDeletingProgramTraces>
+        <statusStoppingRemoval>Διακοπή διαγραφής...</statusStoppingRemoval>
         <treeItemFileSystem>Σύστημα αρχείων (%d στοιχεία)</treeItemFileSystem>
         <treeItemRegistry>Μητρώο (%d στοιχεία)</treeItemRegistry>
         <treeItemPopopMenuBrowse>Εύρεση...</treeItemPopopMenuBrowse>
@@ -64,6 +66,7 @@
         <msgUninstallFailed>Αποτυχία απεγκατάστασης. \nΘέλετε καθαρισμό αρχείων και καταχώρησης του προγράμματος από το μητρώο;</msgUninstallFailed>
         <msgForceRemovalQuestion>Σίγουρα θέλετε υποχρεωτική αφαίρεση αυτού του προγράμματος;</msgForceRemovalQuestion>
         <msgRemoveEntryQuestion>&gt;Σίγουρα θέλετε αφαίρεση αυτής της καταχώρησης;</msgRemoveEntryQuestion>
+        <msgCancelWizard>Τα κατάλοιπα που βρέθηκαν δεν θα αφαιρεθούν. Θέλετε να κλείσετε τον οδηγό;</msgCancelWizard>
         <msgRemoveEntryFailed>Αποτυχία διαγραφής καταχώρησης μητρώου στοιχείου. \nΊσως δεν έχετε δικαιώματα πρόσβασης.</msgRemoveEntryFailed>
         <msgNewVersionAvailable>Η νέα έκδοση %s είναι διαθέσιμη.</msgNewVersionAvailable>
         <msgNewVersionAvailable2>Νέα έκδοση του Geek Uninstaller είναι διαθέσιμη! Πατήστε OK για να επισκεφθείτε την ιστοσελίδα μας και να την κατεβάσετε.</msgNewVersionAvailable2>

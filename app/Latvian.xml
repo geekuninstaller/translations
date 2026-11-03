@@ -47,9 +47,11 @@
     <UninstallWizard>
         <statusScanning>Skenēšana uz leftover failus, mapes un reģistra posteņiem...</statusScanning>
         <statusLeftOverTracesFound>Daži atliekas pēdas atrasts!</statusLeftOverTracesFound>
+        <staticScanStatusGeneratingTracesList>Radīt pēdas saraksts...</staticScanStatusGeneratingTracesList>
         <statusNothingFound>Nav atliekas pēdas atrasts.</statusNothingFound>
         <statusAllTracesRemoved>Visas pēdas Noņemts</statusAllTracesRemoved>
         <statusDeletingProgramTraces>Dzēšanas programmu pēdas...</statusDeletingProgramTraces>
+        <statusStoppingRemoval>Dzēšanas apturēšana...</statusStoppingRemoval>
         <treeItemFileSystem>Failu sistēmas (%d preces)</treeItemFileSystem>
         <treeItemRegistry>Registry (%d preces)</treeItemRegistry>
         <treeItemPopopMenuBrowse>Pārlūkot...</treeItemPopopMenuBrowse>
@@ -64,6 +66,7 @@
         <msgUninstallFailed>Atinstalēšana ir neveiksmīga. \nVai vēlaties iztīrīt šīs programmas ierakstu no reģistra un arī tās failus?</msgUninstallFailed>
         <msgForceRemovalQuestion>Vai tiešām vēlaties veikt spēka atcelt šo programmu?</msgForceRemovalQuestion>
         <msgRemoveEntryQuestion>Vai tiešām vēlaties dzēst šo ierakstu?</msgRemoveEntryQuestion>
+        <msgCancelWizard>Atrastās pēdas netiks izdzēstas. Vai vēlaties aizvērt vedni?</msgCancelWizard>
         <msgRemoveEntryFailed>Neizdevās izdzēst reģistra ierakstu, šajā postenī. \nJūs, iespējams, nav pieejama, lai to izdarītu.</msgRemoveEntryFailed>
         <msgNewVersionAvailable>Jaunā versija %s ir pieejams:</msgNewVersionAvailable>
         <msgNewVersionAvailable2>New version of GeekUninstaller is available! Press OK to visit our website and download the newest version.</msgNewVersionAvailable2>

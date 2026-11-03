@@ -47,9 +47,11 @@
     <UninstallWizard>
         <statusScanning>Letar efter kvarlämnade filer, mappar och registerposter...</statusScanning>
         <statusLeftOverTracesFound>Några kvarlämnade spår hittades!</statusLeftOverTracesFound>
+        <staticScanStatusGeneratingTracesList>Genererar lista över spår...</staticScanStatusGeneratingTracesList>
         <statusNothingFound>Inga spår hittades.</statusNothingFound>
         <statusAllTracesRemoved>Alla spår har raderats</statusAllTracesRemoved>
         <statusDeletingProgramTraces>Tar bort spår av programmet...</statusDeletingProgramTraces>
+        <statusStoppingRemoval>Stoppar borttagningen...</statusStoppingRemoval>
         <treeItemFileSystem>Filsystem (%d poster)</treeItemFileSystem>
         <treeItemRegistry>Register (%d poster)</treeItemRegistry>
         <treeItemPopopMenuBrowse>Bläddra...</treeItemPopopMenuBrowse>
@@ -64,6 +66,7 @@
         <msgUninstallFailed>Avinstallationsprocessen misslyckades.\nVill du ta bort programinformation från registret och rensa upp dess filer?</msgUninstallFailed>
         <msgForceRemovalQuestion>Are you sure you want to perform force removal of this program?</msgForceRemovalQuestion>
         <msgRemoveEntryQuestion>Are you sure you want to remove this entry?</msgRemoveEntryQuestion>
+        <msgCancelWizard>De kvarlämnade spåren tas inte bort. Vill du stänga guiden?</msgCancelWizard>
         <msgRemoveEntryFailed>Misslyckades att ta bort registerposten för denna post.\nDu har säkert inte tillgång till den.</msgRemoveEntryFailed>
         <msgNewVersionAvailable>Ny version (%s) finns tillgänglig.</msgNewVersionAvailable>
         <msgNewVersionAvailable2>New version of GeekUninstaller is available! Press OK to visit our website and download the newest version.</msgNewVersionAvailable2>

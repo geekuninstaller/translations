@@ -47,9 +47,11 @@
     <UninstallWizard>
         <statusScanning>残されたファイル、フォルダーおよびレジストリ アイテムをスキャンしています...</statusScanning>
         <statusLeftOverTracesFound>いくつかの残されたトレースが見つかりました!</statusLeftOverTracesFound>
+        <staticScanStatusGeneratingTracesList>トレースの一覧を生成しています...</staticScanStatusGeneratingTracesList>
         <statusNothingFound>残されたトレースが見つかりませんでした。</statusNothingFound>
         <statusAllTracesRemoved>すべてのトレースが削除されました</statusAllTracesRemoved>
         <statusDeletingProgramTraces>プログラムのトレースを削除しています...</statusDeletingProgramTraces>
+        <statusStoppingRemoval>削除を停止しています...</statusStoppingRemoval>
         <treeItemFileSystem>ファイル システム (%d 個のアイテム)</treeItemFileSystem>
         <treeItemRegistry>レジストリ (%d 個のアイテム)</treeItemRegistry>
         <treeItemPopopMenuBrowse>参照...</treeItemPopopMenuBrowse>
@@ -64,6 +66,7 @@
         <msgUninstallFailed>アンインストール処理に失敗しました。\nレジストリからこのプログラムのエントリを削除してそのファイルを削除しますか?</msgUninstallFailed>
         <msgForceRemovalQuestion>このプログラムの強制削除を実行してもよろしいですか?</msgForceRemovalQuestion>
         <msgRemoveEntryQuestion>このエントリを削除してもよろしいですか?</msgRemoveEntryQuestion>
+        <msgCancelWizard>残されたトレースは削除されません。ウィザードを閉じてもよろしいですか?</msgCancelWizard>
         <msgRemoveEntryFailed>このアイテムのレジストリ エントリの削除に失敗しました。\nおそらくアクセス権限がありません。</msgRemoveEntryFailed>
         <msgNewVersionAvailable>新しいバージョン %s が利用可能です:</msgNewVersionAvailable>
         <msgNewVersionAvailable2>New version of GeekUninstaller is available! Press OK to visit our website and download the newest version.</msgNewVersionAvailable2>

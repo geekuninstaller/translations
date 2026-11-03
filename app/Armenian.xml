@@ -47,9 +47,11 @@
     <UninstallWizard>
         <statusScanning>Փնտրվում են մնացած ֆայլերը...</statusScanning>
         <statusLeftOverTracesFound>Գտնվել են ֆայլեր</statusLeftOverTracesFound>
+        <staticScanStatusGeneratingTracesList>Ստեղծվում է մնացորդ ֆայլերի ցանկը...</staticScanStatusGeneratingTracesList>
         <statusNothingFound>Մնացած ֆայլեր չկան:</statusNothingFound>
         <statusAllTracesRemoved>Բոլոր ֆայլերը ջնջվել են</statusAllTracesRemoved>
         <statusDeletingProgramTraces>Ֆայլերը ջնջվում են...</statusDeletingProgramTraces>
+        <statusStoppingRemoval>Ջնջումը դադարեցվում է...</statusStoppingRemoval>
         <treeItemFileSystem>Ֆայլային համակարգում (%d ֆայլեր)</treeItemFileSystem>
         <treeItemRegistry>Գրանցատեղի (%d ֆայլեր)</treeItemRegistry>
         <treeItemPopopMenuBrowse>Բացել...</treeItemPopopMenuBrowse>
@@ -64,6 +66,7 @@
         <msgUninstallFailed>Ջնջելու գործողությունը անհաջող էր։ \nՑանկանու՞մ եք ջնջել Գրանցատեղի գրառումները և այս ծրագրին պատկանող ֆայլերը։</msgUninstallFailed>
         <msgForceRemovalQuestion>Իրո՞ք Ստիպողական ջնջել։</msgForceRemovalQuestion>
         <msgRemoveEntryQuestion>Շարունակե՞լ:</msgRemoveEntryQuestion>
+        <msgCancelWizard>Գտնված մնացորդները չեն հեռացվի։ Ցանկանու՞մ եք փակել պատուհանը։</msgCancelWizard>
         <msgRemoveEntryFailed>Գրանցատեղիի գրանցումը չի ջնջվել: \nՀնարավոր է Դուք չունեք այն ջնջելու իրավունք:</msgRemoveEntryFailed>
         <msgNewVersionAvailable>Հասանելի է %s-ի նոր տարբերակը:</msgNewVersionAvailable>
         <msgNewVersionAvailable2>New version of GeekUninstaller is available! Press OK to visit our website and download the newest version.</msgNewVersionAvailable2>

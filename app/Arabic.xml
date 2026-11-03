@@ -47,9 +47,11 @@
     <UninstallWizard>
         <statusScanning>البحث عن ملفات و مجلدات و مداخل مكتب التسجيل المتبقية</statusScanning>
         <statusLeftOverTracesFound>وجد بعض المخلفات</statusLeftOverTracesFound>
+        <staticScanStatusGeneratingTracesList>معالجة قائمــة المخلفات</staticScanStatusGeneratingTracesList>
         <statusNothingFound>لا يوجد أي اثار باقية.</statusNothingFound>
         <statusAllTracesRemoved>تم ازالة جميع اثار المخلفات</statusAllTracesRemoved>
         <statusDeletingProgramTraces>تم حذف مخلفات البرنامج</statusDeletingProgramTraces>
+        <statusStoppingRemoval>إيقاف الحذف</statusStoppingRemoval>
         <treeItemFileSystem>ملفات نظام (%d عناصر)</treeItemFileSystem>
         <treeItemRegistry>مدخلات تسجيل (%dعناصر)</treeItemRegistry>
         <treeItemPopopMenuBrowse>استعراض</treeItemPopopMenuBrowse>
@@ -64,6 +66,7 @@
         <msgUninstallFailed>عملية الازالة فشلت هل تريد بأزالة جميع مدخلات التسجيلات و القيام بحذف اجباري</msgUninstallFailed>
         <msgForceRemovalQuestion>هل انت متاكد من عملية الحذف الأجباري لهذا التطبيق</msgForceRemovalQuestion>
         <msgRemoveEntryQuestion>هل تريد حذف مدخلات التسجيلات</msgRemoveEntryQuestion>
+        <msgCancelWizard>المخلفات التي تم العثور عليها لن يتم حذفها هل تريد اغلاق المعالج</msgCancelWizard>
         <msgRemoveEntryFailed>فشل في حذف مدخلات التسجيلات لهذا العنصر \nربما لا تملك الصلاحية للتحكم به.</msgRemoveEntryFailed>
         <msgNewVersionAvailable>متوفر %s إصدار جديد من:</msgNewVersionAvailable>
         <msgNewVersionAvailable2>New version of GeekUninstaller is available! Press OK to visit our website and download the newest version.</msgNewVersionAvailable2>

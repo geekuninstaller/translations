@@ -47,9 +47,11 @@
     <UninstallWizard>
         <statusScanning>მიმდინარეობს ნარჩენი ფაილების, საქაღალდების და რეესტრის ჩანაწერების ძებნა...</statusScanning>
         <statusLeftOverTracesFound>ნაპოვნია რამდენიმე ნარჩენი ელემენტი!</statusLeftOverTracesFound>
+        <staticScanStatusGeneratingTracesList>მიმდინარეობს ნარჩენი ელემენტების სიის შედგენა...</staticScanStatusGeneratingTracesList>
         <statusNothingFound>ნარჩენი ელემენტები არ მოიძებნა.</statusNothingFound>
         <statusAllTracesRemoved>მოცილებულია ყველა ნარჩენი ელემენტი</statusAllTracesRemoved>
         <statusDeletingProgramTraces>მიმდინარეობს პროგრამის ნარჩენების წაშლა...</statusDeletingProgramTraces>
+        <statusStoppingRemoval>მიმდინარეობს წაშლის შეჩერება...</statusStoppingRemoval>
         <treeItemFileSystem>ფაილური სისტემა (%d ელემენტი)</treeItemFileSystem>
         <treeItemRegistry>რეესტრი (%d ელემენტი)</treeItemRegistry>
         <treeItemPopopMenuBrowse>მითითება...</treeItemPopopMenuBrowse>
@@ -64,6 +66,7 @@
         <msgUninstallFailed>დეინსტალაციის პროცესი შეწყდა. \nგსურთ ამ პროგრამის რეესტრის ჩანაწერებისა და ფაილების წაშლა?</msgUninstallFailed>
         <msgForceRemovalQuestion>ნამდვილად გინდათ ამ პროგრამის იძულებითი წაშლა?</msgForceRemovalQuestion>
         <msgRemoveEntryQuestion>ნამდვილად გინდათ ამ ჩანაწერის მოცილება?</msgRemoveEntryQuestion>
+        <msgCancelWizard>ნაპოვნი ნარჩენი ელემენტები არ წაიშლება. გსურთ ფანჯრის დახურვა?</msgCancelWizard>
         <msgRemoveEntryFailed>ამ ელემენტის რეესტრის ჩანაწერის წაშლა ვერ ხერხდება. \nშესაძლოა არ გაქვთ მასთან წვდომის უფლება.</msgRemoveEntryFailed>
         <msgNewVersionAvailable>ხელმისაწვდომია %s-ის ახალი ვერსია:</msgNewVersionAvailable>
         <msgNewVersionAvailable2>New version of GeekUninstaller is available! Press OK to visit our website and download the newest version.</msgNewVersionAvailable2>

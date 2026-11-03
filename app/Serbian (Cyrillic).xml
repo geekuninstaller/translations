@@ -47,9 +47,11 @@
     <UninstallWizard>
         <statusScanning>Тражење преосталих датотека, фасцикли и ставки регистра...</statusScanning>
         <statusLeftOverTracesFound>Остаци су пронађени!</statusLeftOverTracesFound>
+        <staticScanStatusGeneratingTracesList>Генерисање списка трагова...</staticScanStatusGeneratingTracesList>
         <statusNothingFound>Остаци нису пронађени.</statusNothingFound>
         <statusAllTracesRemoved>Сви трагови су уклоњени</statusAllTracesRemoved>
         <statusDeletingProgramTraces>Брисање трагова програма...</statusDeletingProgramTraces>
+        <statusStoppingRemoval>Заустављање брисања...</statusStoppingRemoval>
         <treeItemFileSystem>Систем датотека (ставки: %d)</treeItemFileSystem>
         <treeItemRegistry>Регистар (ставки: %d)</treeItemRegistry>
         <treeItemPopopMenuBrowse>Прегледај...</treeItemPopopMenuBrowse>
@@ -64,6 +66,7 @@
         <msgUninstallFailed>Деинсталација није успела. \nДа ли желите да уклоните унос програма из регистра и почистите његове датотеке?</msgUninstallFailed>
         <msgForceRemovalQuestion>Да ли заиста желите да почистите све трагове програма?</msgForceRemovalQuestion>
         <msgRemoveEntryQuestion>Да ли заиста желите да уклоните овај унос?</msgRemoveEntryQuestion>
+        <msgCancelWizard>Пронађени остаци неће бити уклоњени. Да ли желите да затворите чаробњака?</msgCancelWizard>
         <msgRemoveEntryFailed>Није успело брисање регистарског уноса ове ставке. \nВероватно јој немате приступ.</msgRemoveEntryFailed>
         <msgNewVersionAvailable>Нова верзија %s је доступна</msgNewVersionAvailable>
         <msgNewVersionAvailable2>New version of GeekUninstaller is available! Press OK to visit our website and download the newest version.</msgNewVersionAvailable2>

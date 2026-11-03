@@ -47,9 +47,11 @@
     <UninstallWizard>
         <statusScanning>Likusių failų/aplankų, registro įrašų paieška...</statusScanning>
         <statusLeftOverTracesFound>Rasta programos likučių</statusLeftOverTracesFound>
+        <staticScanStatusGeneratingTracesList>Elementų sąrašo generavimas...</staticScanStatusGeneratingTracesList>
         <statusNothingFound>Nieko nerasta</statusNothingFound>
         <statusAllTracesRemoved>Visi programos likučiai panaikinti</statusAllTracesRemoved>
         <statusDeletingProgramTraces>Likučių šalinimas...</statusDeletingProgramTraces>
+        <statusStoppingRemoval>Šalinimo stabdymas...</statusStoppingRemoval>
         <treeItemFileSystem>Failų sistema (%d elementų)</treeItemFileSystem>
         <treeItemRegistry>Registras (%d elementų)</treeItemRegistry>
         <treeItemPopopMenuBrowse>Peržiūrėti...</treeItemPopopMenuBrowse>
@@ -64,6 +66,7 @@
         <msgUninstallFailed>Programos šalinimas buvo nekorektiškas. \nNorite naikinti visus jai priklausančius failus ir įrašus registre?</msgUninstallFailed>
         <msgForceRemovalQuestion>Tikrai norite priverstinai pašalinti šią programą?</msgForceRemovalQuestion>
         <msgRemoveEntryQuestion>Pašalinti įrašą iš programų sąrašo?</msgRemoveEntryQuestion>
+        <msgCancelWizard>Rasti programos likučiai nebus pašalinti. Uždaryti vediklį?</msgCancelWizard>
         <msgRemoveEntryFailed>Įrašas iš registro nepašalintas. \nGreičiausiai neturite tam teisių.</msgRemoveEntryFailed>
         <msgNewVersionAvailable>Yra nauja versija %s.</msgNewVersionAvailable>
         <msgNewVersionAvailable2>New version of GeekUninstaller is available! Press OK to visit our website and download the newest version.</msgNewVersionAvailable2>

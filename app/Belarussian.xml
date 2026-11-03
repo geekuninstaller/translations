@@ -47,9 +47,11 @@
     <UninstallWizard>
         <statusScanning>Сканаванне пазасталых файлаў/тэчак, элементаў рэестру...</statusScanning>
         <statusLeftOverTracesFound>Засталіся некаторыя часткі праграмы</statusLeftOverTracesFound>
+        <staticScanStatusGeneratingTracesList>Генераванне спісу элементаў...</staticScanStatusGeneratingTracesList>
         <statusNothingFound>Ніякіх астаткаў праграмы не засталося</statusNothingFound>
         <statusAllTracesRemoved>Усе астаткі праграмы выдалены</statusAllTracesRemoved>
         <statusDeletingProgramTraces>Выдаленне элементаў...</statusDeletingProgramTraces>
+        <statusStoppingRemoval>Спыненне выдалення...</statusStoppingRemoval>
         <treeItemFileSystem>Файлавая сістэма (%d элементаў)</treeItemFileSystem>
         <treeItemRegistry>Рэестр (%d элементаў)</treeItemRegistry>
         <treeItemPopopMenuBrowse>Прагледзець...</treeItemPopopMenuBrowse>
@@ -64,6 +66,7 @@
         <msgUninstallFailed>Дэінсталяцыя не адпрацавала карэктна. \nВы жадаеце выдаліць запіс для гэтай праграмы з рэестру і выдаліць прыналежныя ёй файлы?</msgUninstallFailed>
         <msgForceRemovalQuestion>Сапраўды выканаць прымусовае выдаленне праграмы?</msgForceRemovalQuestion>
         <msgRemoveEntryQuestion>Сапраўды выдаліць гэты запіс?</msgRemoveEntryQuestion>
+        <msgCancelWizard>Знойдзеныя астаткі праграмы не будуць выдалены. Зачыніць майстар выдалення?</msgCancelWizard>
         <msgRemoveEntryFailed>Не атрымалася выдаліць запіс у рэестры для гэтага элементу. \nМагчыма, у вас няма правоў для гэтага.</msgRemoveEntryFailed>
         <msgNewVersionAvailable>Даступна новая версія %s</msgNewVersionAvailable>
         <msgNewVersionAvailable2>Даступна новая версія GeekUninstaller! Націсніце OK, каб наведаць наш вэб-сайт і спампаваць новую версію.</msgNewVersionAvailable2>

@@ -47,9 +47,11 @@
     <UninstallWizard>
         <statusScanning>掃描殘餘的檔案、資料夾和註冊項目...</statusScanning>
         <statusLeftOverTracesFound>找到一些殘餘的遺留項目！</statusLeftOverTracesFound>
+        <staticScanStatusGeneratingTracesList>產生遺留項目清單...</staticScanStatusGeneratingTracesList>
         <statusNothingFound>未找到殘餘的遺留項目。</statusNothingFound>
         <statusAllTracesRemoved>所有遺留項目已移除</statusAllTracesRemoved>
         <statusDeletingProgramTraces>正在刪除程式遺留項目...</statusDeletingProgramTraces>
+        <statusStoppingRemoval>正在停止刪除...</statusStoppingRemoval>
         <treeItemFileSystem>檔案系統 (%d 項目)</treeItemFileSystem>
         <treeItemRegistry>登錄檔 (%d 項目)</treeItemRegistry>
         <treeItemPopopMenuBrowse>瀏覽...</treeItemPopopMenuBrowse>
@@ -64,6 +66,7 @@
         <msgUninstallFailed>解除安裝處理過程失敗，\n您是否希望從登錄檔清除該程式並且移除所有程式自身的檔案?</msgUninstallFailed>
         <msgForceRemovalQuestion>您確定您要強制移除該程式?</msgForceRemovalQuestion>
         <msgRemoveEntryQuestion>您確定要移除該項目?</msgRemoveEntryQuestion>
+        <msgCancelWizard>找到的殘餘遺留項目將不會被移除。您確定要關閉精靈嗎?</msgCancelWizard>
         <msgRemoveEntryFailed>無法刪除此項目的登錄項目\n您或許沒有刪除的權限。</msgRemoveEntryFailed>
         <msgNewVersionAvailable>新版本 %s 可更新:</msgNewVersionAvailable>
         <msgNewVersionAvailable2>已有新版本的 Geek Uninstaller! 按確定前往我們的網頁以下載新版本。</msgNewVersionAvailable2>

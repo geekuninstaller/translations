@@ -47,9 +47,11 @@
     <UninstallWizard>
         <statusScanning>Scanare urme fisiere, directoare si elementre registri...</statusScanning>
         <statusLeftOverTracesFound>Some leftover traces found!</statusLeftOverTracesFound>
+        <staticScanStatusGeneratingTracesList>Generare lista urme...</staticScanStatusGeneratingTracesList>
         <statusNothingFound>Nu sunt urme gasite.</statusNothingFound>
         <statusAllTracesRemoved>Toate urmele eliminate</statusAllTracesRemoved>
         <statusDeletingProgramTraces>Stergere urme program...</statusDeletingProgramTraces>
+        <statusStoppingRemoval>Oprirea stergerii...</statusStoppingRemoval>
         <treeItemFileSystem>File Sistem (%d items)</treeItemFileSystem>
         <treeItemRegistry>Registri (%d items)</treeItemRegistry>
         <treeItemPopopMenuBrowse>Căutați...</treeItemPopopMenuBrowse>
@@ -64,6 +66,7 @@
         <msgUninstallFailed>Procesul de dezinstalare a eşuat. \nDoriţi să suprimaţi cheia programului din registru şi să ştergeţi fişierele ce-i corespund?</msgUninstallFailed>
         <msgForceRemovalQuestion>Sunteți sigur că doriți să efectuați eliminarea acestui program?</msgForceRemovalQuestion>
         <msgRemoveEntryQuestion>Sunteți sigur că doriți să eliminați această intrare?</msgRemoveEntryQuestion>
+        <msgCancelWizard>Urmele găsite nu vor fi șterse. Doriți să închideți asistentul?</msgCancelWizard>
         <msgRemoveEntryFailed>Stergere esuata de a sterge intrarea de registru.</msgRemoveEntryFailed>
         <msgNewVersionAvailable>Versiune %s disponibilă:</msgNewVersionAvailable>
         <msgNewVersionAvailable2>New version of GeekUninstaller is available! Press OK to visit our website and download the newest version.</msgNewVersionAvailable2>

@@ -47,9 +47,11 @@
     <UninstallWizard>
         <statusScanning>Skanner for ugyldige filer, mapper og registeroppføringer...</statusScanning>
         <statusLeftOverTracesFound>Ugyldige spor funnet!</statusLeftOverTracesFound>
+        <staticScanStatusGeneratingTracesList>Genererer sporliste...</staticScanStatusGeneratingTracesList>
         <statusNothingFound>Ingen ugyldige spor funnet.</statusNothingFound>
         <statusAllTracesRemoved>Alle spor fjernet</statusAllTracesRemoved>
         <statusDeletingProgramTraces>Sletter spor etter program...</statusDeletingProgramTraces>
+        <statusStoppingRemoval>Stopper slettingen...</statusStoppingRemoval>
         <treeItemFileSystem>Filsystem (%d elementer)</treeItemFileSystem>
         <treeItemRegistry>Register (%d elementer)</treeItemRegistry>
         <treeItemPopopMenuBrowse>Utforsk...</treeItemPopopMenuBrowse>
@@ -64,6 +66,7 @@
         <msgUninstallFailed>Avinstallering mislyktes.\nVil du fjerne programinformasjonen fra registeret og slette filene?</msgUninstallFailed>
         <msgForceRemovalQuestion>Er du sikker på at du vil kjøre tvungen avinstallering av dette programmet?</msgForceRemovalQuestion>
         <msgRemoveEntryQuestion>Er du sikker på at du vil fjerne denne oppføringen?</msgRemoveEntryQuestion>
+        <msgCancelWizard>Sporene som ble funnet, blir ikke fjernet. Vil du lukke veiviseren?</msgCancelWizard>
         <msgRemoveEntryFailed>Kunne ikke slette registeroppføringen for denne enheten. \nDu har kanskje ikke tilgang til den.</msgRemoveEntryFailed>
         <msgNewVersionAvailable>Ny versjon %s er tilgjengelig.</msgNewVersionAvailable>
         <msgNewVersionAvailable2>En ny versjon av GeekUninstaller er tilgjengelig! Trykk OK for å besøke nettsiden vår og laste ned den nyeste versjonen.</msgNewVersionAvailable2>

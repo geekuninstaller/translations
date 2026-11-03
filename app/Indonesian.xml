@@ -47,9 +47,11 @@
     <UninstallWizard>
         <statusScanning>Memindai sisa berkas, folder dan item registri...</statusScanning>
         <statusLeftOverTracesFound>Beberapa sisa jejak ditemukan!</statusLeftOverTracesFound>
+        <staticScanStatusGeneratingTracesList>Membuat daftar jejak...</staticScanStatusGeneratingTracesList>
         <statusNothingFound>Tidak ditemukan sisa penelusuran.</statusNothingFound>
         <statusAllTracesRemoved>Semua penelusuran terhapus</statusAllTracesRemoved>
         <statusDeletingProgramTraces>Menghapus penelusuran program...</statusDeletingProgramTraces>
+        <statusStoppingRemoval>Menghentikan penghapusan...</statusStoppingRemoval>
         <treeItemFileSystem>Berkas Sistem (%d item)</treeItemFileSystem>
         <treeItemRegistry>Registri (%d item)</treeItemRegistry>
         <treeItemPopopMenuBrowse>Jelajahi...</treeItemPopopMenuBrowse>
@@ -64,6 +66,7 @@
         <msgUninstallFailed>Proses penghapusan gagal. Apakah anda ingin membersihkan entri program ini dari registri dan menghapus berkasnya?</msgUninstallFailed>
         <msgForceRemovalQuestion>Apakah anda yakin ingin melakukan hapus paksa program ini?</msgForceRemovalQuestion>
         <msgRemoveEntryQuestion>Apakah anda yakin ingin menghapus entri ini?</msgRemoveEntryQuestion>
+        <msgCancelWizard>Sisa jejak yang ditemukan tidak akan dihapus. Apakah Anda ingin menutup wizard ini?</msgCancelWizard>
         <msgRemoveEntryFailed>Gagal menghapus entri registri dari item ini. \nKemungkinan anda tidak memiliki hak akses untuk melakukanya.</msgRemoveEntryFailed>
         <msgNewVersionAvailable>Versi baru program %s telah tersedia</msgNewVersionAvailable>
         <msgNewVersionAvailable2>Versi baru dari GeekUninstaller telah tersedia! Tekan OK untuk mengunjungi website dan download versi terbaru..</msgNewVersionAvailable2>

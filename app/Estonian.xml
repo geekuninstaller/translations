@@ -47,9 +47,11 @@
     <UninstallWizard>
         <statusScanning>Skaneerin leidmaks alles jäänud faile, kaustu ja registri üksuseid...</statusScanning>
         <statusLeftOverTracesFound>Leitud mõned alles jäänud jäljed!</statusLeftOverTracesFound>
+        <staticScanStatusGeneratingTracesList>Genereerin jälgede nimekirja...</staticScanStatusGeneratingTracesList>
         <statusNothingFound>Pole leitud ühtegi alles jäänud jälge.</statusNothingFound>
         <statusAllTracesRemoved>Kõik jäljed on kustutatud</statusAllTracesRemoved>
         <statusDeletingProgramTraces>Kustutan programmi jälgi...</statusDeletingProgramTraces>
+        <statusStoppingRemoval>Peatan kustutamise...</statusStoppingRemoval>
         <treeItemFileSystem>Faili süsteemi (%d ühikud)</treeItemFileSystem>
         <treeItemRegistry>Registri (%d ühikud)</treeItemRegistry>
         <treeItemPopopMenuBrowse>Sirvi...</treeItemPopopMenuBrowse>
@@ -64,6 +66,7 @@
         <msgUninstallFailed>Eemaldamise protsess ebaõnnestus. \nTahad sa ikka kustutada seda programmi sisestusi registrist ja kustutada selle failid?</msgUninstallFailed>
         <msgForceRemovalQuestion>Oled kindel, et soovite teostada selle programmi jõulise eemaldamise?</msgForceRemovalQuestion>
         <msgRemoveEntryQuestion>Oled sa kindel et soovid eemaldada selle sisestuse?</msgRemoveEntryQuestion>
+        <msgCancelWizard>Alles jäänud jäljed jäävad eemaldamata. Kas soovid akna sulgeda?</msgCancelWizard>
         <msgRemoveEntryFailed>Tekkis tõrge selle sisestuse kustutamisel. \nSul puudub õigus seda teha.</msgRemoveEntryFailed>
         <msgNewVersionAvailable>Uus versioon %s on saadaval.</msgNewVersionAvailable>
         <msgNewVersionAvailable2>New version of GeekUninstaller is available! Press OK to visit our website and download the newest version.</msgNewVersionAvailable2>
