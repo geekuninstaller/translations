@@ -9,7 +9,7 @@ main-page:
   description: Эффективный и быстрый, маленький и портативный. 100% бесплатен
   header: Эффективный и быстрый, <br>портативный и на 100% бесплатен
   header_feature_1: Чистое удаление, принудительное удаление
-  header_feature_2: Полная поддержка 64-битных систем
+  header_feature_2: Полная поддержка 64-битных систем, включая ARM64
   header_feature_3: Удобный и простой интерфейс
   header_feature_4: Удаление приложений из Microsoft Store
   button_download: Скачать
@@ -25,7 +25,7 @@ main-page:
   tour_feature_5: Быстрый и умный
   tour_feature_5_text: Мгновенный запуск. Сразу печатайте и Geek мгновенно найдёт нужную программу.
   tour_feature_6: Портативный
-  tour_feature_6_text: Один маленький EXE работает нативно на 32 и 64-разрядных Windows.
+  tour_feature_6_text: Один маленький EXE работает нативно на 32-, 64-разрядных и ARM64 Windows.
   screen_1: Простой, но эффективный интерфейс
   screen_1_text: Недавно установленные/обновленные программы выделены пурпурным цветом в списке.
   screen_2: Чистое удаление, принудительное удаление
@@ -37,14 +37,14 @@ main-page:
   screen_5: Тёмный режим
   screen_5_text: Geek Uninstaller удобен и для вас, любителей ночи
   multilingual_interface: "Интерфейс доступен на всех языках, включая русский:"
-  review_1: The performance of Geek Uninstaller is impressive. It uninstalls quickly and finds leftover files that anyone couldn't. Overall, the app is an impressive maintenance tool that delivers on both performance and features. Highly recommended.
-  review_2: The bottom line is that Geek Uninstaller is a nice tool that can be quite useful. Inexperienced users shouldn’t have any troubles while working with this program, thanks to its intuitive layout and overall simplicity.
-  review_3: Geek Uninstaller is perfect for anyone who wants to make sure they leave nothing behind on their system when they uninstall a program.
-  review_4: Geek Uninstaller is both portable and supports almost all the features anyone would expect from an uninstaller tool. Perfect for flash drives because it's a single file that takes up very little space.
-  review_5: I've gotten so sick of using several different uninstallers just to be able to manage both my 32 and 64-bit applications. Not only did they not work as well as I would like, most of them were bloated with all kinds of unnecessary features which I did not want. Geek Uninstaller is the perfect uninstaller for me. The UI is simple and perfect, and uninstalls are fast and accurate. I just wish I had found this sooner, as I finally got fed up with the other free 64bit uninstall app and caved and purchased a Revo Pro license just one week ago... I like your program so much that I used it to remove Revo Pro after I installed it, lol.
-  review_6: I've used other uninstallers before (i.e. Revo Uninstaller and others), and your product beats them hands-down. It's so easy to use, and I've never had a problem, as I did with Revo, with programs not populating the uninstall list. I install and uninstall software quite regularly, and GeekUninstaller has definitely made my life easier, not to mention my PC much cleaner. Thanks again for the excellent product.
-  review_7: I just want to say thank you very much for developing such a wonderful piece of software. I recently have used Revo Uninstaller and IObit Uninstaller, except they weren't so pleasing to use. Revo Uninstaller wouldn't list all my programs and IObit Uninstaller got rid of too much, causing other program conflict. So, in short...I gave up on using uninstallers period, until I downloaded GeekUninstaller. You literally have created something way better than the competition....And I just want to say thank you for that. I have already started recommending your product to friends and family. Good job you have done here, keep up the great work.
-  review_8: I've tried a ton of uninstallers over the years. Geek Uninstaller is, hands down, the finest uninstaller I've ever seen. Simple, extremely effective, easy and gets the job done. Congrats.
+  review_1: Производительность Geek Uninstaller впечатляет. Он быстро удаляет программы и находит остаточные файлы, которые другим не под силу. В целом это отличный инструмент обслуживания, сочетающий скорость и богатый набор функций. Настоятельно рекомендую.
+  review_2: Geek Uninstaller — замечательная утилита, которая может быть очень полезной. Благодаря интуитивному интерфейсу и общей простоте у неопытных пользователей не возникнет проблем при работе с программой.
+  review_3: Geek Uninstaller — идеальный выбор для тех, кто хочет быть уверенным, что после удаления программы в системе не останется следов.
+  review_4: Geek Uninstaller портативен и поддерживает почти все возможности, которые ожидаешь от деинсталлятора. Идеален для флешек, ведь это один файл, занимающий совсем мало места.
+  review_5: "Мне надоело пользоваться несколькими деинсталляторами, чтобы управлять и 32-, и 64-разрядными приложениями. Они работали хуже, чем хотелось бы, и были перегружены ненужными функциями. Geek Uninstaller — идеальный деинсталлятор для меня. Интерфейс прост и удобен, удаление быстрый и точный. Жаль, что не нашёл его раньше всего неделю назад, устав от другого бесплатного 64-битного деинсталлятора, купил лицензию Revo Pro... Ваша программа мне так понравилась, что я удалил Revo Pro с её помощью, хаха."
+  review_6: Пользовался и другими деинсталляторами (например, Revo Uninstaller), но ваша программа однозначно лучше. Её очень просто использовать, и у меня никогда не было проблем, как с Revo, когда приложения не попадали в список для удаления. Я регулярно ставлю и удаляю ПО, и GeekUninstaller явно упростил мне жизнь и сделал ПК чище. Спасибо за отличный продукт.
+  review_7: Хочу поблагодарить вас за создание такой замечательной программы. Недавно пробовал Revo Uninstaller и IObit Uninstaller — использовать их было неприятно. Revo не показывал все мои программы, а IObit удалял лишнее и вызывал конфликты. В итоге я отказался от деинсталляторов, пока не скачал GeekUninstaller. Вы действительно сделали продукт лучше конкурентов... Спасибо вам за это. Я уже рекомендую вашу программу друзьям и семье. Прекрасная работа, продолжайте в том же духе.
+  review_8: За годы я перепробовал множество деинсталляторов. Geek Uninstaller — без сомнений лучший из всех, что я видел. Прост, невероятно эффективен, удобен и отлично справляется со своей задачей. Поздравляю.
 
 download_page:
   title: Geek Uninstaller - Скачать
@@ -65,7 +65,7 @@ download_page:
   pro_button_trial: Попробовать бесплатно
   pro_button_buy: Купить
   compatibility: Совместимость
-  compatibility_text: Совместимо с 32 &amp; 64-битными версиями Windows 11/10/7/8/8.1. Требует права администратора. <br>На 64-битах он распаковывает специальную нативную 64-битную версию программы и запускает именно ее.
+  compatibility_text: Совместимо с 32 &amp; 64-битными версиями Windows 11/10/7/8/8.1, в том числе с Windows 11/10 на ARM. Требует права администратора. <br>На 64-битах (x64 и ARM64) он распаковывает специальную нативную 64-битную версию программы и запускает именно ее.
   release_notes: История последних изменений
   release_notes_button: Смотреть полный список
 

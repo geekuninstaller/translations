@@ -9,7 +9,7 @@ main-page:
   description: Eficiente y Rápido, Pequeño y Portable. 100% Gratis
   header: Eficiente y Rápido, Pequeño y Portable. 100% Gratis
   header_feature_1: Borrado Limpio y Borrado Forzado
-  header_feature_2: Soporte Nativo para X64
+  header_feature_2: Soporte Nativo para X64 y ARM64
   header_feature_3: Interfaz intuitiva
   header_feature_4: Desisntala aplicaciones de la tienda de Windows
   button_download: Descargar
@@ -25,7 +25,7 @@ main-page:
   tour_feature_5: Rápido e inteligente
   tour_feature_5_text: Inicio instantáneo. Busca una aplicación al instante. Borra rápidamente los archivos que quedaron.
   tour_feature_6: Portable
-  tour_feature_6_text: Un único y pequeño ejecutable que funciona en cualquier Windows de 32 y 64-bit
+  tour_feature_6_text: Un único y pequeño ejecutable que funciona en cualquier Windows de 32 bits, 64 bits y ARM64
   screen_1: Interfaz intuitiva
   screen_1_text: Los programas marcados en color púrpura/naranja son los recientemente instalados/modificados (desde la última ejecución de Geek Uninstaller).
   screen_2: Borrado Limpio, Borrado Forzado
@@ -65,7 +65,7 @@ download_page:
   pro_button_trial: Prueba gratuita
   pro_button_buy: Comprar ahora
   compatibility: Compatibilidad
-  compatibility_text: 32 &amp; 64-bit Windows 11/10/7/8/8.1. Requiere permisos de administrador. <br>Se ejecuta como aplicación nativa de 64 bits en Windows de 64 bits.
+  compatibility_text: 32 &amp; 64-bit Windows 11/10/7/8/8.1, incluido Windows 11/10 en ARM. Requiere permisos de administrador. <br>Se ejecuta como aplicación nativa de 64 bits en Windows de 64 bits (x64 y ARM64).
   release_notes: Notas de la última versión
   release_notes_button: Ver lista completa
 
