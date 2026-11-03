@@ -14,19 +14,19 @@
         <mnuActionJumpToRegistry>&amp;Запіс у рэестры</mnuActionJumpToRegistry>
         <mnuActionJumpToProgramFolder>&amp;Тэчка праграмы</mnuActionJumpToProgramFolder>
         <mnuActionJumpToWebSite>&amp;Вэб-сайт праграмы</mnuActionJumpToWebSite>
-        <mnuActionOpenWindowsStore>Open in Microsoft Store</mnuActionOpenWindowsStore>
+        <mnuActionOpenWindowsStore>Адкрыць у Microsoft Store</mnuActionOpenWindowsStore>
         <mnuActionBrowseLocation>Тэчка праграмы</mnuActionBrowseLocation>
         <mnuActionBrowseSource>Крыніца запуску...</mnuActionBrowseSource>
         <mnuActionGoogleFor>Шукаць у Google</mnuActionGoogleFor>
         <mnuView>&amp;Выгляд</mnuView>
-        <mnuViewDesktopApps>Desktop Apps</mnuViewDesktopApps>
-        <mnuViewWinStoreApps>Microsoft Store Apps</mnuViewWinStoreApps>
+        <mnuViewDesktopApps>Дэсктопныя праграмы</mnuViewDesktopApps>
+        <mnuViewWinStoreApps>Праграмы з Microsoft Store</mnuViewWinStoreApps>
         <mnuViewRefresh>&amp;Абнавіць</mnuViewRefresh>
         <mnuViewListColumnsReset>Скінуць стан калонак</mnuViewListColumnsReset>
-        <mnuViewColorScheme>Color Scheme</mnuViewColorScheme>
-        <mnuViewColorSchemeAuto>Match Windows light/dark mode</mnuViewColorSchemeAuto>
-        <mnuViewColorSchemeLight>Light mode (default)</mnuViewColorSchemeLight>
-        <mnuViewColorSchemeDark>Dark mode</mnuViewColorSchemeDark>
+        <mnuViewColorScheme>Колеравая схема</mnuViewColorScheme>
+        <mnuViewColorSchemeAuto>Згодна з Windows светлая/цёмная тэма</mnuViewColorSchemeAuto>
+        <mnuViewColorSchemeLight>Светлая тэма (па змаўчанні)</mnuViewColorSchemeLight>
+        <mnuViewColorSchemeDark>Цёмная тэма</mnuViewColorSchemeDark>
         <mnuViewLanguage>Мова інтэрфейсу</mnuViewLanguage>
         <mnuHelp>&amp;Даведка</mnuHelp>
         <mnuHelpAbout>&amp;Аб праграме...</mnuHelpAbout>
@@ -37,9 +37,9 @@
         <columnSize>Памер</columnSize>
         <columnInstallationDate>Дата ўсталявання</columnInstallationDate>
         <staticLoading>Ідзе загрузка, пачакайце...</staticLoading>
-        <staticNoItemsMatchingFilterTip>No matching items, press ESC to reset</staticNoItemsMatchingFilterTip>
-        <staticNoProgramsInCategory>Seems like no Microsoft Store apps installed</staticNoProgramsInCategory>
-        <mark32bitItem>(32-bit)</mark32bitItem>
+        <staticNoItemsMatchingFilterTip>Адпаведных элементаў няма, націсніце ESC, каб скінуць</staticNoItemsMatchingFilterTip>
+        <staticNoProgramsInCategory>Няма ўстаноўленых праграм з Microsoft Store</staticNoProgramsInCategory>
+        <mark32bitItem>(32-бітныя)</mark32bitItem>
     </ListCtrl>
     <ExplorerBar>
         <itemShortSearchTip>Увядзіце слова для пошуку</itemShortSearchTip>
@@ -79,7 +79,7 @@
         <Feature3>Кіраванне праграмамі з аўтазапуску</Feature3>
         <Feature4>Сучасны інтэрфейс, тэхнічная падтрымка</Feature4>
         <Feature5>Групавое выдаленне</Feature5>
-        <buttonUpgrade>Абнавіць</buttonUpgrade>
+        <buttonUpgrade>Палепшыць</buttonUpgrade>
     </ProVersion>
     <HTMLReport>
         <htmlFiles>Файлы HTML</htmlFiles>
