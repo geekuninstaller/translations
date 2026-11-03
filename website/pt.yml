@@ -1,0 +1,89 @@
+top_menu:
+  overview: Visão geral
+  download: Baixar
+  translate: Tradução
+  about: Sobre
+
+main-page:
+  title: Geek Uninstaller - o melhor desinstalador GRATUITO
+  description: Eficiente e Rápido. Pequeno e Portátil. 100% Gratuito
+  header: Eficiente e Rápido. Pequeno e Portátil. 100% Gratuito
+  header_feature_1: Remoção limpa e forçada
+  header_feature_2: Suporte nativo a x64 e ARM64
+  header_feature_3: Interface fácil e intuitiva
+  header_feature_4: Desinstalação de aplicativos da Microsoft Store
+  button_download: Baixar
+  stripe_1_header: Principais recursos
+  tour_feature_1: Remoção limpa
+  tour_feature_1_text: Faz uma varredura profunda e rápida e remove todos os resíduos. Mantenha seu PC limpo!
+  tour_feature_2: Remoção forçada
+  tour_feature_2_text: Use-a para programas persistentes e quebrados.
+  tour_feature_3: Interface fácil e intuitiva
+  tour_feature_3_text: Design impecável e surpreendentemente funcional. Mais de 40 idiomas disponíveis!
+  tour_feature_4: Desinstalar aplicativos da Microsoft Store
+  tour_feature_4_text: Desinstale os aplicativos da Microsoft Store em Windows 8/8.1/10/11.
+  tour_feature_5: Rápido e inteligente
+  tour_feature_5_text: Inicialização instantânea. Digite para procurar e localizar um aplicativo imediatamente. Varredura rápida de resíduos.
+  tour_feature_6: Portátil
+  tour_feature_6_text: Um único EXE compacto que roda em qualquer Windows de 32 bits, 64 bits e ARM64
+  screen_1: Interface fácil e intuitiva
+  screen_1_text: Os programas destacados em roxo ou laranja foram recentemente instalados/modificados (desde a última execução do Geek Uninstaller).
+  screen_2: Remoção Limpa e Forçada
+  screen_2_text: O programa de remoção padrão deixa toneladas de resíduos em seu PC. O Geek Uninstaller realiza uma varredura profunda e rápida, depois remove todos os resíduos.
+  screen_3: Desinstalação de aplicativos da Microsoft Store
+  screen_3_text: Desinstale aplicativos da Microsoft Store. Clique em "Ver" no menu, ou pressione Ctrl+Tab, para alterar entre os aplicativos do computador e da Microsoft Store.
+  screen_4: Busca instantânea
+  screen_4_text: Digite e localize instantaneamente um programa
+  screen_5: Modo Escuro
+  screen_5_text: O Geek Uninstaller é para vocês, criaturas noturnas
+  multilingual_interface: "A interface do Geek Uninstaller é traduzida em vários idiomas:"
+  review_1: O Geek Uninstaller oferece um desempenho impressionante. Ele desinstala rapidamente e encontra arquivos restantes que ninguém conseguiria localizar. No geral, é uma excelente ferramenta de manutenção, eficiente tanto em desempenho quanto em recursos. Altamente recomendado.
+  review_2: Em resumo, o Geek Uninstaller é uma boa ferramenta que pode ser bastante útil. Usuários inexperientes não devem ter nenhuma dificuldade ao trabalhar com este programa, graças ao layout intuitivo e à simplicidade geral.
+  review_3: O Geek Uninstaller é perfeito para quem quer ter certeza de não deixar nada para trás no sistema ao desinstalar um programa.
+  review_4: O Geek Uninstaller é portátil e oferece quase todos os recursos que se esperam de um desinstalador. Perfeito para pen drives, pois é um único arquivo que ocupa pouquíssimo espaço.
+  review_5: Eu já estava cansado de usar vários desinstaladores diferentes só para conseguir gerenciar meus aplicativos de 32 e 64 bits. Além de não funcionarem tão bem quanto eu gostaria, a maioria vinha cheia de recursos desnecessários que eu não queria. O Geek Uninstaller é o desinstalador perfeito para mim. A interface é simples e perfeita, e as desinstalações são rápidas e precisas. Só queria ter descoberto antes, porque acabei me cansando do outro desinstalador gratuito de 64 bits e cedi, comprando uma licença do Revo Pro há apenas uma semana... Gostei tanto do seu programa que o usei para remover o Revo Pro depois de instalá-lo, haha.
+  review_6: Já usei outros desinstaladores (como o Revo Uninstaller e outros), e o seu produto é claramente superior. É muito fácil de usar e nunca tive problemas, como tive com o Revo, de programas que não apareciam na lista de desinstalação. Instalo e desinstalo programas com bastante frequência, e o GeekUninstaller sem dúvida facilitou minha vida, sem falar que deixou meu PC muito mais limpo. Mais uma vez, obrigado pelo excelente produto.
+  review_7: Só quero agradecer muito por desenvolverem um software tão maravilhoso. Usei recentemente o Revo Uninstaller e o IObit Uninstaller, mas eles não eram tão agradáveis de usar. O Revo Uninstaller não listava todos os meus programas, e o IObit Uninstaller removia coisas demais, causando conflitos com outros programas. Então, resumindo... desisti de vez de usar desinstaladores, até baixar o GeekUninstaller. Vocês criaram literalmente algo muito melhor do que a concorrência... E só quero agradecer por isso. Já comecei a recomendar o produto de vocês para amigos e familiares. Ótimo trabalho, continuem assim.
+  review_8: Testei uma infinidade de desinstaladores ao longo dos anos. O Geek Uninstaller é, sem dúvida, o melhor desinstalador que já vi. Simples, extremamente eficaz, fácil e faz o que promete. Parabéns.
+
+download_page:
+  title: Geek Uninstaller - Baixar
+  description: Geek Uninstaller - Baixar
+  free_info: para uso pessoal
+  free_text: Desinstalador básico, mas poderoso <br>e extremamente rápido.
+  free_feature_1: Apenas uso pessoal
+  free_feature_2: Sem suporte
+  pro_info: licença vitalícia
+  pro_text: Edição especial (Uninstall Tool) <br>com recursos extras.
+  pro_from: desde
+  pro_feature_1: Monitoramento de instalação em tempo real
+  pro_feature_2: Gerenciamento de programas na inicialização
+  pro_feature_3: Remoção em lote
+  pro_feature_4: Remoção minuciosa e completa
+  pro_feature_5: Interface moderna e suporte técnico
+  pro_feature_6: Licença portátil disponível
+  pro_button_trial: Avaliação gratuita
+  pro_button_buy: Comprar
+  compatibility: Compatibilidade
+  compatibility_text: Windows 11/10/7/8/8.1 de 32 e 64 bits, incluindo Windows 11/10 em ARM. Requer permissão de administrador. <br>Em Windows x64 ou ARM64, o Geek Uninstaller é executado como aplicativo nativo de 64 bits.
+  release_notes: Últimas notas de atualização
+  release_notes_button: Mostrar tudo
+
+about-page:
+  title: Sobre o GeekUninstaller e seu autor
+  description: Sobre o GeekUninstaller e seu autor
+  text_1: Meu nome é Thomas Koen. Como desenvolvedor de software, passo muito tempo na frente de uma tela de computador. Por isso, me importo bastante com as ferramentas que uso. Sou bastante exigente e tenho opiniões fortes sobre como elas devem funcionar. E há uma boa chance de que você seja como eu.
+  text_2: O Geek Uninstaller é um utilitário simples, mas muito poderoso e rápido (escrito em C++).
+  pro_text: A versão Pro do GeekUninstaller se chama [Uninstall Tool](https://crystalidea.com/uninstall-tool?source=geek&campaign=about) e é desenvolvida pela empresa CrystalIDEA Software com base no meu código.
+  contact_me_title: Contate-me
+  contact_me_text: Se desejar entrar em contato comigo, use o e-mail abaixo. Por favor, escreva-me apenas em inglês ou holandês.
+  contact_me_button: Envie-me um e-mail
+
+footer:
+  connect_with_us: Conecte-se com o Geek Uninstaller
+  languages: Idiomas
+  products: Programas
+  try_ut: Experimente o Geek Uninstaller Pro
+  try_ut_more: A Uninstall Tool é baseada no código do Geek Uninstaller.
+  try_download: Baixar
+  privacy_policy: Política de Privacidade
