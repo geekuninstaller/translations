@@ -23,7 +23,7 @@ main-page:
   tour_feature_4: 还能卸载微软商店应用
   tour_feature_4_text: 还能在 Windows 8/8.1/10/11 上卸载微软商店应用。
   tour_feature_5: 快速智能
-  tour_feature_5_text: 启动决不拖泥带水，输入搜索，迅速定位应用，极速扫描残留。
+  tour_feature_5_text: 启动绝不拖泥带水，输入搜索，迅速定位应用，极速扫描残留。
   tour_feature_6: 便携
   tour_feature_6_text: 小巧的单个 EXE 文件，可在任意 32 位、64 位及 ARM64 Windows 上运行。
   screen_1: 简洁易用的界面
@@ -33,14 +33,14 @@ main-page:
   screen_3: 卸载微软商店应用
   screen_3_text: 卸载微软商店应用。可通过“查看”菜单或 Ctrl+Tab 在桌面应用与微软商店应用之间切换。
   screen_4: 快速即时搜索
-  screen_4_text: 输入即可立即定位程序
+  screen_4_text: 输入即可迅速定位程序
   screen_5: 深色模式
   screen_5_text: Geek Uninstaller 也适合你，夜猫子们
-  multilingual_interface: "Geek Uninstaller 界面已支持许多语言："
-  review_1: Geek Uninstaller 的性能惊艳。它能快速卸载，并找出难以找到的残留文件。总体而言，这款应用是一款令人印象深刻的维护工具，性能与功能相得益彰。强烈推荐。
-  review_2: 总而言之，Geek Uninstaller 是大有效用的实用工具。直观的布局与整体的简洁，让经验不足的用户也能轻而易举地使用。
-  review_3: 如果你想确保卸载程序后不在系统上留下任何东西，Geek Uninstaller 是完美之选。
-  review_4: Geek Uninstaller 便携轻巧，又功能俱全。而且空间占用很小，还是单文件，非常适合放在闪存盘里。
+  multilingual_interface: "Geek Uninstaller 界面已翻译成多种语言："
+  review_1: Geek Uninstaller 的性能令人惊叹。它能快速卸载，并找出难以找到的残留文件。总体而言，这款应用是令人印象深刻的维护工具，性能与功能相得益彰。强烈推荐。
+  review_2: 总而言之，Geek Uninstaller 是非常实用的工具。直观的布局与整体的简洁，让经验不足的用户也能轻而易举地使用。
+  review_3: 如果你想确保卸载程序后不在系统上留下任何东西，那 Geek Uninstaller 是完美之选。
+  review_4: Geek Uninstaller 便携轻巧，功能齐全。而且空间占用很小，还是单文件，非常适合放在闪存盘里。
   review_5: 我早已厌倦了为了管理 32 位和 64 位应用程序而使用好几个不同的卸载器。它们不仅没有我希望的那么好用，而且大多塞满了各种我并不想要的多余功能。Geek Uninstaller 对我来说是完美的卸载器。界面简洁完美，卸载快速准确。真希望能早点发现它——就在一周前，我实在受不了另一款免费的 64 位卸载软件，只好妥协买了 Revo Pro 的许可证……我太喜欢你的程序了，装好之后就用它卸载了 Revo Pro，哈哈。
   review_6: 我以前用过其他卸载器（比如 Revo Uninstaller 之类的），而你们的产品堪称完胜。它非常容易使用，而且我从未遇到过像 Revo 那样程序不出现在卸载列表中的问题。我经常安装和卸载软件，GeekUninstaller 无疑让我的生活更轻松，更不用说让我的电脑干净多了。再次感谢这款出色的产品。
   review_7: 我只想非常感谢你们开发了这么棒的软件。我最近用过 Revo Uninstaller 和 IObit Uninstaller，但它们用起来并不那么令人满意。Revo Uninstaller 不会列出我所有的程序，而 IObit Uninstaller 删除得太多，导致其他程序冲突。所以，简而言之……我一度放弃使用卸载器，直到我下载了 GeekUninstaller。你们真的创造出了比竞争对手好得多的东西……我只想为此感谢你们。我已经开始向朋友和家人推荐你们的产品。你们做得很好，继续保持。
@@ -72,11 +72,11 @@ download_page:
 about-page:
   title: 关于 GeekUninstaller 及其作者
   description: 关于 GeekUninstaller 及其作者
-  text_1: 我叫 Thomas Koen。身为一名软件开发者，我常常坐在电脑屏幕前。正因如此，我非常在意自己的软件工具。我很挑剔，对工具应该如何工作持守着自己的见解。或许你也与我类似。
+  text_1: 我叫 Thomas Koen。身为一名软件开发者，我常常坐在电脑屏幕前。正因如此，我非常在意自己的软件工具。我很挑剔，对工具应该如何工作坚持自己的看法。或许你也与我类似。
   text_2: Geek Uninstaller 是一款简单，却强劲迅捷的实用工具（使用 C++ 编写）。
   pro_text: GeekUninstaller 的专业版名为 [Uninstall Tool](https://crystalidea.com/uninstall-tool?source=geek&campaign=about)，由 CrystalIDEA Software 公司基于我的代码开发。
   contact_me_title: 联系我
-  contact_me_text: 如需联系我，请使用下面的电子邮件地址。请仅使用英语或荷兰语来信。
+  contact_me_text: 如需联系我，请使用下方的电子邮件地址。请仅使用英语或荷兰语致信。
   contact_me_button: 给我发送电子邮件
 
 footer:
