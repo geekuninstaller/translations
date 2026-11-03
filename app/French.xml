@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageStrings>
     <MainMenu>
         <mnuFile>&amp;Fichier</mnuFile>
@@ -8,31 +8,30 @@
         <mnuActionUninstall>&amp;Désinstaller...</mnuActionUninstall>
         <mnuActionModify>&amp;Modifier...</mnuActionModify>
         <mnuActionDelete>&amp;Suppression forcée</mnuActionDelete>
-        <mnuActionDeleteBatch>Batch &amp;Force Removal</mnuActionDeleteBatch>
+        <mnuActionDeleteBatch>Suppression &amp;forcée par lots</mnuActionDeleteBatch>
         <mnuActionRemoveEntry>Supprimer &amp;cette entrée</mnuActionRemoveEntry>
-        <mnuActionRemoveEntryBatch>Batch Remove &amp;Entries</mnuActionRemoveEntryBatch>
+        <mnuActionRemoveEntryBatch>Supprimer les &amp;entrées par lots</mnuActionRemoveEntryBatch>
         <mnuActionJumpToRegistry>&amp;Entrée du registre</mnuActionJumpToRegistry>
         <mnuActionJumpToProgramFolder>&amp;Dossier d'installation</mnuActionJumpToProgramFolder>
         <mnuActionJumpToWebSite>&amp;Site Web du programme</mnuActionJumpToWebSite>
-        <mnuActionOpenWindowsStore>Open in Microsoft Store</mnuActionOpenWindowsStore>
+        <mnuActionOpenWindowsStore>Ouvrir dans le Microsoft Store</mnuActionOpenWindowsStore>
         <mnuActionBrowseLocation>Parcourir le dossier...</mnuActionBrowseLocation>
         <mnuActionBrowseSource>Parcourir le registre...</mnuActionBrowseSource>
         <mnuActionGoogleFor>Recherche Google</mnuActionGoogleFor>
         <mnuView>&amp;Voir</mnuView>
-        <mnuViewDesktopApps>Desktop Apps</mnuViewDesktopApps>
-        <mnuViewWinStoreApps>Microsoft Store Apps</mnuViewWinStoreApps>
+        <mnuViewDesktopApps>Applications de bureau</mnuViewDesktopApps>
+        <mnuViewWinStoreApps>Applications du Microsoft Store</mnuViewWinStoreApps>
         <mnuViewRefresh>&amp;Actualiser</mnuViewRefresh>
         <mnuViewListColumnsReset>Restaurer les colonnes</mnuViewListColumnsReset>
         <mnuViewColorScheme>Schéma de couleurs</mnuViewColorScheme>
         <mnuViewColorSchemeAuto>Faire correspondre le mode clair/sombre de Windows</mnuViewColorSchemeAuto>
-        <mnuViewColorSchemeLight>Mode lumière (par défaut)</mnuViewColorSchemeLight>
+        <mnuViewColorSchemeLight>Mode clair (par défaut)</mnuViewColorSchemeLight>
         <mnuViewColorSchemeDark>Mode sombre</mnuViewColorSchemeDark>
         <mnuViewLanguage>Langue de l'interface</mnuViewLanguage>
         <mnuHelp>&amp;Aide</mnuHelp>
         <mnuHelpAbout>&amp;A propos...</mnuHelpAbout>
         <mnuHelpHomePage>Page d'accueil</mnuHelpHomePage>
     </MainMenu>
-
     <ListCtrl>
         <columnProgramName>Nom du programme</columnProgramName>
         <columnSize>Taille</columnSize>
@@ -42,11 +41,9 @@
         <staticNoProgramsInCategory>Aucune application du Microsoft Store ne semble être installée</staticNoProgramsInCategory>
         <mark32bitItem>(32 bits)</mark32bitItem>
     </ListCtrl>
-
     <ExplorerBar>
         <itemShortSearchTip>Rechercher un programme</itemShortSearchTip>
     </ExplorerBar>
-
     <UninstallWizard>
         <statusScanning>Recherche de traces en cours, veuillez patienter...</statusScanning>
         <statusLeftOverTracesFound>quelques traces restantes trouvées !</statusLeftOverTracesFound>
@@ -62,11 +59,9 @@
         <btnCancel>Annuler</btnCancel>
         <btnClose>Fermer</btnClose>
     </UninstallWizard>
-
     <DlgAbout>
         <DlgAboutCaption>À propos de Geek Uninstaller</DlgAboutCaption>
     </DlgAbout>
-
     <Messages>
         <msgUninstallFailed>Echec du processus de désinstallation. \nSouhaitez vous supprimer cette entrée du registre ?</msgUninstallFailed>
         <msgForceRemovalQuestion>Etes-vous sûr de vouloir forcer la désinstallation de ce programme ?</msgForceRemovalQuestion>
@@ -76,7 +71,6 @@
         <msgNewVersionAvailable>Une nouvelle version %s est disponible.</msgNewVersionAvailable>
         <msgNewVersionAvailable2>Une nouvelle version de GeekUninstaller est disponible! Cliquez sur OK pour visiter le site web et la télécharger.</msgNewVersionAvailable2>
     </Messages>
-
     <ProVersion>
         <statusMessage>Passer à la version PRO</statusMessage>
         <WhatsCool>Fonctionnalités supplémentaires de la version PRO:</WhatsCool>
@@ -87,14 +81,12 @@
         <Feature5>Suppression par lots</Feature5>
         <buttonUpgrade>Mise à niveau</buttonUpgrade>
     </ProVersion>
-
     <HTMLReport>
         <htmlFiles>Fichiers HTML</htmlFiles>
         <allFiles>Tous les fichiers</allFiles>
         <generatedByOn>Généré par %s on %s</generatedByOn>
         <installedPrograms>Programmes installés (%s)</installedPrograms>
     </HTMLReport>
-
     <Misc>
         <btnOK>OK</btnOK>
         <btnCancel>Annuler</btnCancel>
@@ -106,5 +98,4 @@
         <statusUnknown>inconnu</statusUnknown>
         <WindowsUpdatesText>Mises à jour Windows</WindowsUpdatesText>
     </Misc>
-
 </LanguageStrings>
