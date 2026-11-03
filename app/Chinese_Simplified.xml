@@ -8,9 +8,9 @@
         <mnuActionUninstall>卸载(&amp;U)...</mnuActionUninstall>
         <mnuActionModify>修改(&amp;M)...</mnuActionModify>
         <mnuActionDelete>强制删除(&amp;F)</mnuActionDelete>
-        <mnuActionDeleteBatch>批量 &amp;强制删除l</mnuActionDeleteBatch>
+        <mnuActionDeleteBatch>批量强制删除(&amp;F)</mnuActionDeleteBatch>
         <mnuActionRemoveEntry>删除条目(&amp;E)</mnuActionRemoveEntry>
-        <mnuActionRemoveEntryBatch>批量删除 &amp;Entries</mnuActionRemoveEntryBatch>
+        <mnuActionRemoveEntryBatch>批量删除条目(&amp;E)</mnuActionRemoveEntryBatch>
         <mnuActionJumpToRegistry>注册表条目(&amp;R)</mnuActionJumpToRegistry>
         <mnuActionJumpToProgramFolder>安装文件夹(&amp;I)</mnuActionJumpToProgramFolder>
         <mnuActionJumpToWebSite>程序网站(&amp;P)</mnuActionJumpToWebSite>
