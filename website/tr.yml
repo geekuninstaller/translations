@@ -1,0 +1,87 @@
+top_menu:
+  overview: Anasayfa
+  download: İndir
+  translate: Çeviri
+  about: Hakkında
+
+main-page:
+  title: Geek Uninstaller - en iyi ÜCRETSİZ program kaldırıcı
+  description: Verimli ve Hızlı, Küçük ve Taşınabilir. %100 Ücretsiz
+  header: Verimli ve Hızlı, Küçük ve Taşınabilir. %100 Ücretsiz
+  header_feature_1: Normal Kaldırma ve Zorla Kaldırma
+  header_feature_2: Doğal x64 desteği
+  header_feature_3: Kolay Kullanılır Bir Arayüz
+  header_feature_4: Windows Mağazası Uygulamalarını Kaldırabilir
+  button_download: İndir
+  stripe_1_header: Özellikler
+  tour_feature_1: Normal Kaldırma
+  tour_feature_1_text: Derin ve hızlı tarama yapar ve tüm program artıklarını kaldırır. Bilgisayarınızı temiz tutar!
+  tour_feature_2: Zorla Kaldırma
+  tour_feature_2_text: İnatçı ve bozuk programlar için Zorla Kaldır özelliğini kullanın.
+  tour_feature_3: Basit Kullanıcı Arayüzü
+  tour_feature_3_text: 40'tan fazla dile çevrilmiş, harika görününen ve şaşırtıcı derecede işlevsel bir arayüz.
+  tour_feature_4: Windows Mağazası Uygulamalarını Kaldırır
+  tour_feature_4_text: Windows 8/8.1/10'da Windows Mağazası uygulamalarını kaldırın.
+  tour_feature_5: Hızlı ve Akıllı
+  tour_feature_5_text: Anında açılır. Bir uygulamayı hemen bulmak için arama kısmına yazın. Hızlıca porgram artıklarını tarayın.
+  tour_feature_6: Taşınabilir (USB)
+  tour_feature_6_text: Tek ve küçük EXE, herhangi bir 32 ve 64 bit Windows üzerinde çalışabilir
+  screen_1: Basit Kullanıcı Arayüzü
+  screen_1_text: Mor turuncu renkle vurgulanan programlar yakın zamanda yüklenmiş/değiştirilmiştir (Geek Uninstaller'ın son çalışmasından bu yana geçen sürede).
+  screen_2: Normal Kaldırma, Zorla Kaldırma
+  screen_2_text: Standart program kaldırma işlemi, PC'nizde tonlarca artık dosya bırakır. Geek Uninstaller ile kaldırma işleminden sonra derin ve hızlı tarama yapar ve tüm artıkları kaldırır.
+  screen_3: Windows Mağazası Uygulamalarını Kaldırır
+  screen_3_text: Windows Mağazası uygulamalarını kaldırır. Masaüstü ve mağaza uygulamaları arasında geçiş yapmak için Görünüm menüsünü veya Ctrl+Tab'i kullanın.
+  screen_4: Anlık Hızlı Aramalar
+  screen_4_text: Bir programı anında bulmak için arama satırına yazın
+  multilingual_interface: "Geek Uninstaller arayüzü birçok dile çevrilmiştir:"
+  inceleme_1: Geek Uninstaller'ın performansı etkileyici. Hızlı bir şekilde kaldırır ve kimsenin bulamadığı artık dosyaları bulur. Genel olarak, uygulama hem performans hem de özellikler sunan etkileyici bir bakım aracıdır. Şiddetle tavsiye edilir.
+  inceleme_2: Sonuç olarak, Geek Uninstaller oldukça faydalı olabilecek güzel bir araçtır. Sezgisel düzeni ve genel sadeliği sayesinde deneyimsiz kullanıcılar bu programı kullanırken herhangi bir sorun yaşamamalıdır.
+  inceleme_3: Geek Uninstaller, bir programı kaldırırken sistemlerinde hiçbir şey bırakmadığından emin olmak isteyen herkes için mükemmel.
+  inceleme_4: Geek Uninstaller hem taşınabilir hem de herkesin bir kaldırma aracından beklediği hemen hemen tüm özellikleri barındırıyor. Çok az yer kaplayan tek bir dosya olduğu için flash bellekler için mükemmel.
+  inceleme_5: Hem 32 hem de 64 bit uygulamalarımı yönetebilmek için birkaç farklı kaldırıcı kullanmaktan bıktım. İstediğim kadar iyi çalışmadılar, çoğu istemediğim her türlü gereksiz özellikle şişirildi. Geek Uninstaller benim için mükemmel bir kaldırıcı. Kullanıcı arayüzü basit ve mükemmel, kaldırma işlemleri hızlı ve doğru. Keşke bunu daha önce bulsaydım, sonunda diğer ücretsiz 64bit kaldırma uygulamasından bıktım ve bir hafta önce vazgeçip bir Revo Pro lisansı satın aldım... Programını o kadar çok beğendim ki, Revo'yu kaldırmak için GeekUninstaller kullandım hahaha.
+  inceleme_6: Daha önce başka kaldırıcılar kullandım (Revo Uninstaller ve diğerleri) ve programınız onların hepsinden daha iyi. Kullanımı çok kolay ve Revo'da olduğu gibi, programların kaldırma listesini doldurmamasıyla ilgili bir sorun yaşamadım. Yazılımları oldukça düzenli olarak kuruyor ve kaldırıyorum ve GeekUninstaller kesinlikle hayatımı kolaylaştırdı, bilgisayarımı daha temiz hale getirdi. Mükemmel program için tekrar teşekkürler.
+  inceleme_7: Böyle harika bir yazılım parçası geliştirdiğiniz için çok teşekkür etmek istiyorum. Son zamanlarda Revo Uninstaller ve IObit Uninstaller'ı kullandım, ancak kullanımları çok hoş değildi. Revo Uninstaller tüm programlarımı listelemiyor ve IObit Uninstaller çok fazla şeyi siliyordu ve diğer programların bozulmasına neden oluyor. Yani kısacası...GeekUninstaller'ı indirene kadar program kaldırıcıları kullanmaktan vazgeçmiştim. Kelimenin tam anlamıyla rekabetten çok daha iyi bir şey yarattınız.... Ve bunun için size teşekkür etmek istiyorum. Programınızı arkadaşlarıma ve aileme önermeye başladım bile. Burada yaptığınız iyi işi devam ettirin, harika çalışma..
+  inceleme_8: Yıllar boyunca bir sürü program kaldırıcı denedim. Geek Uninstaller, hepsinden daha iyi, şimdiye kadar gördüğüm en iyi program kaldırıcı. Basit, son derece etkili, kolay ve işini yapıyor. Tebrikler.
+
+download_page:
+  title: Geek Uninstaller - İndir
+  description: Geek Uninstaller - İndir
+  free_info: Kişisel kullanım için
+  free_text: Güçlü ve yıldırım hızında olmasına rağmen temel program kaldırıcı.
+  free_feature_1: Yalnızca kişisel kullanım için
+  free_feature_2: Destek yok
+  pro_info: ömür boyu lisans
+  pro_text: Ekstra özelliklere sahip <br>Özel Sürüm (Kaldırma Aracı)
+  pro_from: fiyat
+  pro_feature_1: Gerçek zamanlı kurulum monitörü
+  pro_feature_2: Başlangıç programları yönetimi
+  pro_feature_3: Çoklu Program Kaldırma
+  pro_feature_4: Kapsamlı ve tam kaldırma
+  pro_feature_5: Modern arayüz, teknik destek
+  pro_feature_6: Taşınabilir lisans mevcut
+  pro_button_trial: Ücretsiz Denem Sürümü
+  pro_button_buy: Satın Al
+  compatibility: Uyumluluk
+  compatibility_text: 32 &amp; 64-bit Windows 10/7/8/8.1/XP/Vista/2003/2008/Server. Yönetici izinleri gerektirir. <br>x64 üzerinde çalışırken Windows Geek Uninstaller yerel 64-bit uygulama olarak çalışır.
+  release_notes: En son sürümü notları
+  release_notes_button: Tüm listeyi görüntüle
+
+about-page:
+  title: GeekUninstaller ve üreticisi hakkında
+  description: GeekUninstaller ve üreticisi hakkında
+  text_1: Benim adım Thomas Koen. Bir yazılım geliştiricisi olarak bilgisayar ekranının önünde çok zaman geçiriyorum. İşte bu yüzden kullandığım yazılımları gerçekten önemsiyorum. Oldukça seçiciyim ve yazılımların nasıl çalışması gerektiğine dair güçlü fikirlerim var. Siz de bana benziyor olabilirsiniz.
+  text_2: Geek Uninstaller basit ama güçlü bir yardımcı programdır. Visual C++ 2013, [TinyXML](https://github.com/leethomason/tinyxml2) ve [Boost](http://www.boost.org/) kullanılarak yazılmıştır.
+  pro_text: GeekUninstaller'ın Pro sürümü [Kaldırma Aracı](https://www.crystalidea.com/uninstall-tool?source=geek&campaign=about) olarak adlandırılıyor ve benim kodlarım üzerine inşa edilmiş olarak CrystalIDEA Software şirketi tarafından geliştirilmiştir.
+  contact_me_title: Bana Ulaşın
+  contact_me_text: Benimle iletişime geçmeniz gerekiyorsa, aşağıdaki e-posta adresini kullanın. Lütfen bana sadece İngilizce veya Flemenkçe yazın.
+  contact_me_button: Bana bir e-posta gönderin
+
+footer:
+  connect_with_us: Geek Uninstaller ile bağlantı kurun
+  languages: Diller
+  products: Programlar
+  try_ut: Geek Uninstaller Pro'yu Deneyin
+  try_ut_more: Kaldırma Aracı, Geek Uninstaller kodlarını temel alır.
+  try_download: İndir
+  privacy_policy: Gizlilik Sözleşmesi
