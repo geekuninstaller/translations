@@ -9,3 +9,5 @@ Do not edit LangID of an existent language file. This is done by us using [Micro
 # Translating the website
 
 Create a new .yml file (named using [ISO 639-1](https://en.wikipedia.org/wiki/ISO_639-1)) based on en.yml.
+
+Chinese is the exception because it has two written variants: use `zh-hans.yml` for Simplified Chinese and `zh-hant.yml` for Traditional Chinese.
