@@ -1,0 +1,87 @@
+top_menu:
+  overview: Огляд
+  download: Завантажити
+  translate: Переклади
+  about: Про застосунок
+
+main-page:
+  title: Geek Uninstaller - найкращий безкоштовний деінсталятор
+  description: Ефективний та швидкий, маленький і портативний. 100% безкоштовний
+  header: Ефективний та швидкий, <br>маленький і портативний. 100% безкоштовний
+  header_feature_1: Чисте видалення та Примусове видалення
+  header_feature_2: Повна підтримка 64-бітних систем
+  header_feature_3: Легкий у використанні інтерфейс
+  header_feature_4: Видалення програм з Windows Store
+  button_download: Завантажити
+  stripe_1_header: Головні Можливості
+  tour_feature_1: Чисте видалення
+  tour_feature_1_text: Робить глибоке і швидке сканування та видаляє залишки програм. Зберігає комп'ютер у чистоті.
+  tour_feature_2: Примусове видалення
+  tour_feature_2_text: Видаляє вперті та/або пошкоджені програми.
+  tour_feature_3: Простий інтерфейс
+  tour_feature_3_text: Чудово виглядає та дуже функціональний. Підтримує 40+ мов!
+  tour_feature_4: Видалення програм з Windows Store
+  tour_feature_4_text: Видаляє програми з Windows Store у Windows 8/8.1/10. 
+  tour_feature_5: Швидкий та розумний
+  tour_feature_5_text: Миттєвий запуск. Почніть вводити назву програми і Geek Uninstaller миттєво знайде цю програму, так само, як і її залишки.
+  tour_feature_6: Портативний
+  tour_feature_6_text: Єдиний маленький EXE-файл працює на 32 та 64-розрядных Windows.
+  screen_1: Простий інтерфейс
+  screen_1_text: Нещодавно встановлені програми підсвічуються темно-оранжевим кольором (змінені з минулого запуску Geek Uninstaller).
+  screen_2: Чисте видалення, примусове видалення
+  screen_2_text: Системна програма деінсталяції залишає тони сміття на вашому комп'ютері. Geek Uninstaller робить глибоке та швидке сканування після роботи системної програми видалення, та видаляє усі ці залишки.
+  screen_3: Видалення програм, встановлених з Windows Store
+  screen_3_text: Видалення програм, встановлених з Windows Store. Використовуйте пункт меню Вигляд чи натисніть Ctrl+Tab, щоб перемикатись між звичайними програмами та програмами з Windows Store.
+  screen_4: Миттєвий пошук
+  screen_4_text: Почніть набирати назву програми, щоб миттєво її знайти
+  multilingual_interface: "Geek Uninstaller перекладено багатьма мовами:"
+  review_1: Продуктивність Geek Uninstaller вражає. Він швидко видаляє програми та знаходить ті залишки, які більше ніхто не знайде. Ця програма — вражаюча утіліта, водночас потужна та багатофункціональна. Дуже рекомендуємо.
+  review_2: Найважніше те, що Geek Uninstaller — гарна утіліта, що може бути дуже корисною. Недосвідчені користувачі не повинні мати жодної проблеми, використовуючи цю програму завдяки інтуітивному використанню та загальній простоті.
+  review_3: Geek Uninstaller — найкраще підходить усім, хто не бажає, щоб хоча б щось залишалось на комп'ютері після видалення програм.
+  review_4: Geek Uninstaller is both portable and supports almost all the features anyone would expect from an uninstaller tool. Perfect for flash drives because it's a single file that takes up very little space.
+  review_5: I've gotten so sick of using several different uninstallers just to be able to manage both my 32 and 64-bit applications. Not only did they not work as well as I would like, most of them were bloated with all kinds of unnecessary features which I did not want. Geek Uninstaller is the perfect uninstaller for me. The UI is simple and perfect, and uninstalls are fast and accurate. I just wish I had found this sooner, as I finally got fed up with the other free 64bit uninstall app and caved and purchased a Revo Pro license just one week ago... I like your program so much that I used it to remove Revo Pro after I installed it, lol.
+  review_6: I've used other uninstallers before (i.e. Revo Uninstaller and others), and your product beats them hands-down. It's so easy to use, and I've never had a problem, as I did with Revo, with programs not populating the uninstall list. I install and uninstall software quite regularly, and GeekUninstaller has definitely made my life easier, not to mention my PC much cleaner. Thanks again for the excellent product.
+  review_7: I just want to say thank you very much for developing such a wonderful piece of software. I recently have used Revo Uninstaller and IObit Uninstaller, except they weren't so pleasing to use. Revo Uninstaller wouldn't list all my programs and IObit Uninstaller got rid of too much, causing other program conflict. So, in short...I gave up on using uninstallers period, until I downloaded GeekUninstaller. You literally have created something way better than the competition....And I just want to say thank you for that. I have already started recommending your product to friends and family. Good job you have done here, keep up the great work.
+  review_8: I've tried a ton of uninstallers over the years. Geek Uninstaller is, hands down, the finest uninstaller I've ever seen. Simple, extremely effective, easy and gets the job done. Congrats.
+
+download_page:
+  title: Geek Uninstaller - Завантажити
+  description: Geek Uninstaller - Завантажити
+  free_info: для особистого користування
+  free_text: Базовий, проте потужний <br> та надзвичайно швидкий деінсталятор.
+  free_feature_1: Лише для особистого користування
+  free_feature_2: Без підтримки
+  pro_info: Вічна ліцензия
+  pro_text: Спеціальна версія (Uninstall Tool) <br>з додатковими можливостями.
+  pro_from: від
+  pro_feature_1: Контроль встановлення програм у реальному часі
+  pro_feature_2: Керування програмами, що запускаються під час запуску комп'ютера
+  pro_feature_3: Видалення декількох програм
+  pro_feature_4: Ретельне та повне видалення програм
+  pro_feature_5: Сучасний інтерфейс, технічна підтримка
+  pro_feature_6: Наявна ліцензія для портативної версії
+  pro_button_trial: Спробувати безкоштовно
+  pro_button_buy: Придбати
+  compatibility: Сумісність
+  compatibility_text: Сумісний з 32 &amp; 64-бітними версіями Windows 10/7/8/8.1/XP/Vista/2003/2008/Server. Потребує прав Адміністратора. <br>На 64-бітних системах запускається версія саме для цих систем.
+  release_notes: Історія останніх змін
+  release_notes_button: Повний список змін
+
+about-page:
+  title: Про Geek Uninstaller та її автора
+  description: Про Geek Uninstaller та її автора
+  text_1: Оскільки я програміст, то проводжу багато часу за комп'ютером. Саме тому я піклуюсь про ті програми, що створюю. Я доволі вимогливий і маю чіткий погляд на те, як мають працювати мої програми. Можливо, ви такі ж як і я.
+  text_2: Geek Uninstaller — це проста, але потужна програма. Її було написано на Visual C++ 2017, [TinyXML](https://github.com/leethomason/tinyxml2) та [Boost](http://www.boost.org/).
+  pro_text: Pro версія Geek Uninstaller має назву [Uninstall Tool](https://www.crystalidea.com/uninstall-tool?source=geek&campaign=about) та розробляється компанією CrystalIDEA Software, використовуючи мій код.
+  contact_me_title: Зв'язатись зі мною
+  contact_me_text: Якщо бажаєте зв'язатись зі мною, використовуйте e-mail нижче. Будь ласка, пишіть лише англійською чи нідерландською.
+  contact_me_button: Надіслати мені листа
+
+footer:
+  connect_with_us: Geek Uninstaller в інтернеті
+  languages: Мова сайту
+  products: Програми
+  try_ut: Спробуйте Pro версію Geek Uninstaller
+  try_ut_more: Утіліта Uninstall Tool використовує код Geek Uninstaller
+  try_download: Завантажити
+  privacy_policy: Політика конфіденцийності
