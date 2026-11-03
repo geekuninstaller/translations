@@ -38,8 +38,8 @@
         <columnInstallationDate>Дата ўсталявання</columnInstallationDate>
         <staticLoading>Ідзе загрузка, пачакайце...</staticLoading>
         <staticNoItemsMatchingFilterTip>Адпаведных элементаў няма, націсніце ESC, каб скінуць</staticNoItemsMatchingFilterTip>
-        <staticNoProgramsInCategory>Няма ўстаноўленых праграм з Microsoft Store</staticNoProgramsInCategory>
-        <mark32bitItem>(32-бітныя)</mark32bitItem>
+        <staticNoProgramsInCategory>Няма ўсталяваных праграм з Microsoft Store</staticNoProgramsInCategory>
+        <mark32bitItem>(32-бітная)</mark32bitItem>
     </ListCtrl>
     <ExplorerBar>
         <itemShortSearchTip>Увядзіце слова для пошуку</itemShortSearchTip>
