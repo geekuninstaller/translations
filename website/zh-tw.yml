@@ -6,8 +6,8 @@ top_menu:
 
 main-page:
   title: Geek Uninstaller - 最好的免費解除安裝工具
-  description: 高效快速，輕巧便攜，完全免費
-  header: 高效快速，輕巧便攜，完全免費
+  description: 高效快速，輕巧可攜，完全免費
+  header: 高效快速，輕巧可攜，完全免費
   header_feature_1: 乾淨解除安裝、強制移除
   header_feature_2: 原生支援 x64 和 ARM64
   header_feature_3: 簡潔易用的介面
@@ -19,28 +19,28 @@ main-page:
   tour_feature_2: 強制移除
   tour_feature_2_text: 用強制移除可以清除頑固和損壞的程式。
   tour_feature_3: 簡潔易用的介面
-  tour_feature_3_text: 外觀出色，功能強勁，支援多達 40+ 種語言！
+  tour_feature_3_text: 外觀出色，功能強大，支援超過 40 種語言！
   tour_feature_4: 還能解除安裝微軟市集應用程式
   tour_feature_4_text: 還能在 Windows 8/8.1/10/11 上解除安裝微軟市集應用程式。
   tour_feature_5: 快速又聰明
-  tour_feature_5_text: 啟動絕不拖泥帶水，輸入搜尋，迅速定位應用程式，極速掃描殘留。
-  tour_feature_6: 便攜
-  tour_feature_6_text: 小巧的單一 EXE 檔案，可在任意 32 位元、64 位元及 ARM64 Windows 上執行。
+  tour_feature_5_text: 啟動絕不拖泥帶水，輸入即可搜尋，迅速找到應用程式，極速掃描殘留。
+  tour_feature_6: 可攜式
+  tour_feature_6_text: 小巧的單一 EXE 檔案，可在任何 32 位元、64 位元及 ARM64 Windows 上執行。
   screen_1: 簡潔易用的介面
-  screen_1_text: 以紫色、橙色醒目顯示的程式是最近安裝/修改過的（自上次執行 Geek Uninstaller 以來）。
+  screen_1_text: 以紫色、橘色醒目顯示的程式是最近安裝/修改過的（自上次執行 Geek Uninstaller 以來）。
   screen_2: 乾淨解除安裝、強制移除
   screen_2_text: 一般的解除安裝程式會在你的電腦上留下大量殘留檔案，而 Geek Uninstaller 隨後會進行深度、快速掃描，並刪除所有殘留。
   screen_3: 解除安裝微軟市集應用程式
   screen_3_text: 解除安裝微軟市集應用程式。可透過「檢視」功能表或 Ctrl+Tab 在桌面應用程式與微軟市集應用程式之間切換。
   screen_4: 快速即時搜尋
-  screen_4_text: 輸入即可迅速定位程式
+  screen_4_text: 輸入即可迅速找到程式
   screen_5: 深色模式
   screen_5_text: Geek Uninstaller 也適合你，夜貓子們
   multilingual_interface: "Geek Uninstaller 介面已翻譯成多種語言："
   review_1: Geek Uninstaller 的效能令人驚嘆。它能快速解除安裝，並找出難以找到的殘留檔案。整體而言，這款應用程式是令人印象深刻的維護工具，效能與功能相得益彰。強烈推薦。
   review_2: 總而言之，Geek Uninstaller 是一款非常實用的工具。直觀的版面配置與整體的簡潔，讓經驗不足的使用者也能輕而易舉地使用。
   review_3: 如果你想確保解除安裝程式後不在系統上留下任何東西，那 Geek Uninstaller 是完美之選。
-  review_4: Geek Uninstaller 便攜輕巧，功能齊全。而且空間佔用很小，還是單一檔案，非常適合放在 USB 隨身碟裡。
+  review_4: Geek Uninstaller 輕巧可攜，功能齊全。而且空間佔用很小，還是單一檔案，非常適合放在 USB 隨身碟裡。
   review_5: 我早已厭倦了為了管理 32 位元與 64 位元應用程式而使用好幾個不同的解除安裝工具。它們不僅沒有我希望的那麼好用，而且大多塞滿了各種我並不想要的多餘功能。Geek Uninstaller 對我來說是完美的解除安裝工具。介面簡潔完美，解除安裝快速準確。真希望能早點發現它——就在一週前，我實在受不了另一款免費的 64 位元解除安裝軟體，只好妥協買了 Revo Pro 的授權……我太喜歡你的程式了，裝好之後就用它解除安裝了 Revo Pro，哈哈。
   review_6: 我以前用過其他解除安裝工具（例如 Revo Uninstaller 之類的），而你們的產品堪稱完勝。它非常容易使用，而且我從未遇到過像 Revo 那樣程式不出現在解除安裝清單中的問題。我經常安裝和解除安裝軟體，GeekUninstaller 無疑讓我的生活更輕鬆，更不用說讓我的電腦乾淨多了。再次感謝這款出色的產品。
   review_7: 我只想非常感謝你們開發了這麼棒的軟體。我最近用過 Revo Uninstaller 和 IObit Uninstaller，但它們用起來並不那麼令人滿意。Revo Uninstaller 不會列出我所有的程式，而 IObit Uninstaller 刪除得太多，導致其他程式衝突。所以，簡而言之……我一度放棄使用解除安裝工具，直到我下載了 GeekUninstaller。你們真的創造出了比競爭對手好得多的東西……我只想為此感謝你們。我已經開始向朋友和家人推薦你們的產品。你們做得很好，繼續保持。
@@ -61,10 +61,10 @@ download_page:
   pro_feature_3: 批次解除安裝
   pro_feature_4: 徹底且完整的解除安裝
   pro_feature_5: 現代化介面、技術支援
-  pro_feature_6: 可提供便攜版授權
+  pro_feature_6: 提供可攜式授權
   pro_button_trial: 免費試用
   pro_button_buy: 立即購買
-  compatibility: 相容性提示
+  compatibility: 相容性
   compatibility_text: 32 &amp; 64 位元 Windows 11/10/7/8/8.1，包括 ARM 版 Windows 11/10。需要系統管理員權限。<br>在 x64 或 ARM64 Windows 上執行時，Geek Uninstaller 以原生 64 位元應用程式執行。
   release_notes: 最新版本說明
   release_notes_button: 查看完整清單
@@ -72,8 +72,8 @@ download_page:
 about-page:
   title: 關於 GeekUninstaller 及其作者
   description: 關於 GeekUninstaller 及其作者
-  text_1: 我叫 Thomas Koen。身為一名軟體開發者，我常常坐在電腦螢幕前。正因如此，我非常在意自己的軟體工具。我很挑剔，對工具應該如何運作堅持自己的看法。或許你也與我類似。
-  text_2: Geek Uninstaller 是一款簡單，卻強勁迅捷的實用工具（使用 C++ 撰寫）。
+  text_1: 我叫 Thomas Koen。身為一名軟體開發者，我常常坐在電腦螢幕前。正因如此，我非常在意自己的軟體工具。我很挑剔，對工具應該如何運作堅持自己的看法。或許你也和我一樣。
+  text_2: Geek Uninstaller 是一款簡單卻非常強大、快速的實用工具（使用 C++ 撰寫）。
   pro_text: GeekUninstaller 的專業版名為 [Uninstall Tool](https://crystalidea.com/uninstall-tool?source=geek&campaign=about)，由 CrystalIDEA Software 公司基於我的程式碼開發。
   contact_me_title: 聯絡我
   contact_me_text: 如需聯絡我，請使用下方的電子郵件地址。請僅使用英語或荷蘭語來信。
