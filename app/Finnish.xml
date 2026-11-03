@@ -47,9 +47,11 @@
     <UninstallWizard>
         <statusScanning>Haetaan jääneitä tiedostoja, kansioita ja rekisterimerkintöjä...</statusScanning>
         <statusLeftOverTracesFound>Some leftover traces found!</statusLeftOverTracesFound>
+        <staticScanStatusGeneratingTracesList>Luodaan luetteloa jäänteistä...</staticScanStatusGeneratingTracesList>
         <statusNothingFound>Jäänteitä ei löytynyt.</statusNothingFound>
         <statusAllTracesRemoved>Kaikki jäänteet poistettu</statusAllTracesRemoved>
         <statusDeletingProgramTraces>Poistetaan ohjelman jälkiä...</statusDeletingProgramTraces>
+        <statusStoppingRemoval>Pysäytetään poisto...</statusStoppingRemoval>
         <treeItemFileSystem>Tiedostojärjestelmä (%d merkintöjä)</treeItemFileSystem>
         <treeItemRegistry>Rekisteri (%d merkintöjä)</treeItemRegistry>
         <treeItemPopopMenuBrowse>Hae...</treeItemPopopMenuBrowse>
@@ -64,6 +66,7 @@
         <msgUninstallFailed>Asennuksen poisto epäonnistui. \nHaluatko poistaa tämän ohjelman rekisterimerkinnät ja tiedostot?</msgUninstallFailed>
         <msgForceRemovalQuestion>Haluatko varmasti poistaa tämän ohjelman pakotetusti?</msgForceRemovalQuestion>
         <msgRemoveEntryQuestion>Haluatko varmasti poistaa tämän merkinnän?</msgRemoveEntryQuestion>
+        <msgCancelWizard>Löytyneitä jäänteitä ei poisteta. Haluatko sulkea ikkunan?</msgCancelWizard>
         <msgRemoveEntryFailed>Rekisterimerkinnän poisto epäonnistui. \nSinulla ei ilmeisesti ole oikeuksia siihen.</msgRemoveEntryFailed>
         <msgNewVersionAvailable>Uusi versio %s saatavana</msgNewVersionAvailable>
         <msgNewVersionAvailable2>Uusi versio GeekUninstallerista saatavana! Paina OK päästäksesi web-sivullemme latausta varten.</msgNewVersionAvailable2>

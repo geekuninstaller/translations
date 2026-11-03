@@ -47,9 +47,11 @@
     <UninstallWizard>
         <statusScanning>Procurando por arquivos, pastas e itens de registro órfãos...</statusScanning>
         <statusLeftOverTracesFound>Alguns itens órfãos encontrados!</statusLeftOverTracesFound>
+        <staticScanStatusGeneratingTracesList>Gerando lista de vestígios...</staticScanStatusGeneratingTracesList>
         <statusNothingFound>Itens órfãos não encontrados.</statusNothingFound>
         <statusAllTracesRemoved>Todos os traços removidos</statusAllTracesRemoved>
         <statusDeletingProgramTraces>Apagando traços de programas...</statusDeletingProgramTraces>
+        <statusStoppingRemoval>Interrompendo a exclusão...</statusStoppingRemoval>
         <treeItemFileSystem>Sistema de Arquivos (%d items)</treeItemFileSystem>
         <treeItemRegistry>Registro (%d items)</treeItemRegistry>
         <treeItemPopopMenuBrowse>Procurar...</treeItemPopopMenuBrowse>
@@ -64,6 +66,7 @@
         <msgUninstallFailed>Processo de desinstalação falhou. \nGostaria de limpar as entradas desse programa no registro e apagar os seus arquivos?</msgUninstallFailed>
         <msgForceRemovalQuestion>Tem certeza que quer executar a remoção forçada deste programa?</msgForceRemovalQuestion>
         <msgRemoveEntryQuestion>Tem certeza que deseja remover essa entrada?</msgRemoveEntryQuestion>
+        <msgCancelWizard>Os resíduos encontrados não serão removidos. Deseja fechar o assistente?</msgCancelWizard>
         <msgRemoveEntryFailed>Não é possível modificar as propriedades dessa entrada. \nProvavelmente você não tem permissão para isso.</msgRemoveEntryFailed>
         <msgNewVersionAvailable>Versão nova %s está disponível.</msgNewVersionAvailable>
         <msgNewVersionAvailable2>Uma nova versão do GeekUninstaller está disponível! Pressione OK para visitar nosso website e baixar a mais nova versão.</msgNewVersionAvailable2>

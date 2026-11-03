@@ -47,9 +47,11 @@
     <UninstallWizard>
         <statusScanning>סורק אחר שאריות קבצים, תיקיות ופריטי רישום...</statusScanning>
         <statusLeftOverTracesFound>נמצאו שאריות של מספר עקבות!</statusLeftOverTracesFound>
+        <staticScanStatusGeneratingTracesList>יצירת רשימת עקבות...</staticScanStatusGeneratingTracesList>
         <statusNothingFound>לא נמצאו שאריות של עקבות.</statusNothingFound>
         <statusAllTracesRemoved>כל העקבות הוסרו</statusAllTracesRemoved>
         <statusDeletingProgramTraces>מוחק עקבות של היישום...</statusDeletingProgramTraces>
+        <statusStoppingRemoval>עצירת המחיקה...</statusStoppingRemoval>
         <treeItemFileSystem>מערכת קבצים (%d פריטים)</treeItemFileSystem>
         <treeItemRegistry>רישום (%d פריטים)</treeItemRegistry>
         <treeItemPopopMenuBrowse>עיון...</treeItemPopopMenuBrowse>
@@ -64,6 +66,7 @@
         <msgUninstallFailed>תהליך הסרת ההתקנה נכשל. \nהאם ברצונך לנקות את רשומת יישום זו מהרישום ואת קבציה גם כן?</msgUninstallFailed>
         <msgForceRemovalQuestion>האם אתה בטוח שברצונך לבצע הסרה כפויה של יישום זה?</msgForceRemovalQuestion>
         <msgRemoveEntryQuestion>האם אתה בטוח שברצונך להסיר רשומה זו?</msgRemoveEntryQuestion>
+        <msgCancelWizard>השאריות שנמצאו לא יוסרו. האם אתה רוצה לסגור את האשף?</msgCancelWizard>
         <msgRemoveEntryFailed>מחיקת ערך הרישום של פריט זה נכשלה. \nככל הנראה אין לך גישה לביצוע הפעולהת.</msgRemoveEntryFailed>
         <msgNewVersionAvailable>גרסה חדשה %s זמינה</msgNewVersionAvailable>
         <msgNewVersionAvailable2>גרסה חדשה של GeekUninstaller זמינה להורדה! לחץ 'אישור' כדי לבקר באתר הבית שלנו ולהוריד את הגרסה העדכנית ביותר.</msgNewVersionAvailable2>

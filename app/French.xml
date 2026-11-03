@@ -47,9 +47,11 @@
     <UninstallWizard>
         <statusScanning>Recherche de traces en cours, veuillez patienter...</statusScanning>
         <statusLeftOverTracesFound>quelques traces restantes trouvées !</statusLeftOverTracesFound>
+        <staticScanStatusGeneratingTracesList>Génération de la liste des traces restantes...</staticScanStatusGeneratingTracesList>
         <statusNothingFound>Pas de trace restante trouvée.</statusNothingFound>
         <statusAllTracesRemoved>Nettoyage terminé !</statusAllTracesRemoved>
         <statusDeletingProgramTraces>Effacement des traces du programme...</statusDeletingProgramTraces>
+        <statusStoppingRemoval>Arrêt de l'effacement...</statusStoppingRemoval>
         <treeItemFileSystem>Fichier système (%d items)</treeItemFileSystem>
         <treeItemRegistry>Registre (%d items)</treeItemRegistry>
         <treeItemPopopMenuBrowse>Parcourir...</treeItemPopopMenuBrowse>
@@ -64,6 +66,7 @@
         <msgUninstallFailed>Echec du processus de désinstallation. \nSouhaitez vous supprimer cette entrée du registre ?</msgUninstallFailed>
         <msgForceRemovalQuestion>Etes-vous sûr de vouloir forcer la désinstallation de ce programme ?</msgForceRemovalQuestion>
         <msgRemoveEntryQuestion>Êtes-vous sur de vouloir supprimer cette entrée ?</msgRemoveEntryQuestion>
+        <msgCancelWizard>Les traces restantes ne seront pas supprimées. Fermer l'assistant ?</msgCancelWizard>
         <msgRemoveEntryFailed>Impossible de supprimer la clef du registre pour cette article. \nVous n'avez probablement les droits pour le faire.</msgRemoveEntryFailed>
         <msgNewVersionAvailable>Une nouvelle version %s est disponible.</msgNewVersionAvailable>
         <msgNewVersionAvailable2>Une nouvelle version de GeekUninstaller est disponible! Cliquez sur OK pour visiter le site web et la télécharger.</msgNewVersionAvailable2>

@@ -47,9 +47,11 @@
     <UninstallWizard>
         <statusScanning>Сканирование оставшихся файлов/папок, элементов реестра...</statusScanning>
         <statusLeftOverTracesFound>Остались некоторые части программы</statusLeftOverTracesFound>
+        <staticScanStatusGeneratingTracesList>Генерирование списка элементов...</staticScanStatusGeneratingTracesList>
         <statusNothingFound>Никаких остатков программы не осталось</statusNothingFound>
         <statusAllTracesRemoved>Все остатки программы удалены</statusAllTracesRemoved>
         <statusDeletingProgramTraces>Удаление элементов...</statusDeletingProgramTraces>
+        <statusStoppingRemoval>Остановка удаления...</statusStoppingRemoval>
         <treeItemFileSystem>Файловая система (%d элементов)</treeItemFileSystem>
         <treeItemRegistry>Реестр (%d элементов)</treeItemRegistry>
         <treeItemPopopMenuBrowse>Просмотреть...</treeItemPopopMenuBrowse>
@@ -64,6 +66,7 @@
         <msgUninstallFailed>Деинсталляция не отработала корректно. \nВы хотите удалить запись для этой программы из реестра и удалить принадлежащие ей файлы?</msgUninstallFailed>
         <msgForceRemovalQuestion>Вы действительно хотите произвести принудительное удаление этой программы?</msgForceRemovalQuestion>
         <msgRemoveEntryQuestion>Удалить запись из списка программ?</msgRemoveEntryQuestion>
+        <msgCancelWizard>Найденные остатки не будут удалены. Закрыть Мастер удаления?</msgCancelWizard>
         <msgRemoveEntryFailed>Удаление записи из реестра не произошло. \nСкорее всего у вас недостаточно прав для этого.</msgRemoveEntryFailed>
         <msgNewVersionAvailable>Доступна новая версия %s</msgNewVersionAvailable>
         <msgNewVersionAvailable2>Доступная новая версия программы GeekUninstaller! Нажмите OK для открытия веб сайта и загрузки.</msgNewVersionAvailable2>

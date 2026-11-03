@@ -47,9 +47,11 @@
     <UninstallWizard>
         <statusScanning>Scanner for tilbageblevne filer, mapper og emner i registreringsdatabasen...</statusScanning>
         <statusLeftOverTracesFound>Nogle tilbageblevne spor blev fundet!</statusLeftOverTracesFound>
+        <staticScanStatusGeneratingTracesList>Generérer spor liste...</staticScanStatusGeneratingTracesList>
         <statusNothingFound>Ingen tilbageblevne spor blev fundet.</statusNothingFound>
         <statusAllTracesRemoved>Alle spor blev fjernet</statusAllTracesRemoved>
         <statusDeletingProgramTraces>Sletter spor af programmet...</statusDeletingProgramTraces>
+        <statusStoppingRemoval>Stopper sletningen...</statusStoppingRemoval>
         <treeItemFileSystem>Filsystem (%d emner)</treeItemFileSystem>
         <treeItemRegistry>Registret (%d emner)</treeItemRegistry>
         <treeItemPopopMenuBrowse>Gennemse...</treeItemPopopMenuBrowse>
@@ -64,6 +66,7 @@
         <msgUninstallFailed>Afinstallationen fejlede. \nVil du fjerne dette program fra registret og dets filer?</msgUninstallFailed>
         <msgForceRemovalQuestion>Er du sikker på, at du vil tvangsfjerne dette program?</msgForceRemovalQuestion>
         <msgRemoveEntryQuestion>Er du sikker på, at du vil fjerne denne post?</msgRemoveEntryQuestion>
+        <msgCancelWizard>De tilbageblevne spor bliver ikke fjernet. Vil du lukke guiden?</msgCancelWizard>
         <msgRemoveEntryFailed>Det lykkedes ikke at slette posten af dette emne i registreringsdatabasen \nDu har sikkert ikke adgang til at gøre det.</msgRemoveEntryFailed>
         <msgNewVersionAvailable>Ny version %s er tilgængelig</msgNewVersionAvailable>
         <msgNewVersionAvailable2>Ny version af GeekUninstaller er tilgængelig! Tryk på OK for at besøge vores hjemmeside og hente den nyeste version.</msgNewVersionAvailable2>

@@ -47,9 +47,11 @@
     <UninstallWizard>
         <statusScanning>Faylların/Qovluqların, Reyestr qalıqlarının gözdən keçirilməsi...</statusScanning>
         <statusLeftOverTracesFound>Proqramın bəzi hissələri qalıb</statusLeftOverTracesFound>
+        <staticScanStatusGeneratingTracesList>Elementlər siyahısı yarat...</staticScanStatusGeneratingTracesList>
         <statusNothingFound>Proqramın heç bir hissəsi qalmayıb</statusNothingFound>
         <statusAllTracesRemoved>Proqramın bütün qalıqları silindi</statusAllTracesRemoved>
         <statusDeletingProgramTraces>Elementlərin silinməsi...</statusDeletingProgramTraces>
+        <statusStoppingRemoval>Silinmənin dayandırılması...</statusStoppingRemoval>
         <treeItemFileSystem>Fayl sistemi (%d element)</treeItemFileSystem>
         <treeItemRegistry>Reyestr (%d element)</treeItemRegistry>
         <treeItemPopopMenuBrowse>Baxış...</treeItemPopopMenuBrowse>
@@ -64,6 +66,7 @@
         <msgUninstallFailed>Silmə əməliyyatı yerinə yetmədi. \nBu proqramın qovluqlarını və Reyestr açarlarını silmək istəyirsiniz?</msgUninstallFailed>
         <msgForceRemovalQuestion>Siz həqiqətən bu proqramın məcburi silinməsini istəyirsiniz?</msgForceRemovalQuestion>
         <msgRemoveEntryQuestion>Davam etmək istəyirsiniz?</msgRemoveEntryQuestion>
+        <msgCancelWizard>Tapılan proqram hissələri silinməyəcək. Pəncərəni bağlamaq istəyirsiniz?</msgCancelWizard>
         <msgRemoveEntryFailed>Reyestrdən yazıların silməsi uğursuz oldu. Ehtimal ki, bunu etmək üçün yetərli hüquqa malik deyilsiniz..</msgRemoveEntryFailed>
         <msgNewVersionAvailable>Yeni versiya %s mövcuddur.</msgNewVersionAvailable>
         <msgNewVersionAvailable2>New version of GeekUninstaller is available! Press OK to visit our website and download the newest version.</msgNewVersionAvailable2>

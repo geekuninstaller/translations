@@ -47,9 +47,11 @@
     <UninstallWizard>
         <statusScanning>Zoeken naar achtergebleven bestanden, mappen en registervermeldingen…</statusScanning>
         <statusLeftOverTracesFound>Enkele achtergebleven items gevonden!</statusLeftOverTracesFound>
+        <staticScanStatusGeneratingTracesList>Lijst met achtergebleven Resten wordt aangemaakt...</staticScanStatusGeneratingTracesList>
         <statusNothingFound>Geen achtergebleven onderdelen gevonden.</statusNothingFound>
         <statusAllTracesRemoved>Alle achtergebleven onderdelen zijn verwijderd.</statusAllTracesRemoved>
         <statusDeletingProgramTraces>Programmaonderdelen worden verwijderd…</statusDeletingProgramTraces>
+        <statusStoppingRemoval>Verwijderen wordt gestopt...</statusStoppingRemoval>
         <treeItemFileSystem>Bestandssysteem (%d onderdelen)</treeItemFileSystem>
         <treeItemRegistry>Register (%d onderdelen)</treeItemRegistry>
         <treeItemPopopMenuBrowse>Verkennen…</treeItemPopopMenuBrowse>
@@ -64,6 +66,7 @@
         <msgUninstallFailed>Deïnstallatie mislukt. \nWilt u dit programma uit het register verwijderen en de bestanden wissen?</msgUninstallFailed>
         <msgForceRemovalQuestion>Bent u er zeker van dat u een Geforceerde Verwijdering wilt van dit programma?</msgForceRemovalQuestion>
         <msgRemoveEntryQuestion>Bent u er zeker van dat u de vermeldingen wilt verwijderen?</msgRemoveEntryQuestion>
+        <msgCancelWizard>De gevonden achtergebleven items worden niet verwijderd. Wilt u de wizard sluiten?</msgCancelWizard>
         <msgRemoveEntryFailed>Verwijderen van de registergegevens mislukt. \nWaarschijnlijk heeft u niet de juiste rechten.</msgRemoveEntryFailed>
         <msgNewVersionAvailable>Een nieuwe versie %s is beschikbaar</msgNewVersionAvailable>
         <msgNewVersionAvailable2>Een nieuw versie van Geek Uninstaller is beschikbaar! Klik OK om onze website te bezoeken en de nieuwste versie te downloaden.</msgNewVersionAvailable2>

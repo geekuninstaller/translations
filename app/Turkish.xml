@@ -47,9 +47,11 @@
     <UninstallWizard>
         <statusScanning>Kalıntı dosya, klasör ve kayıt defteri girdileri aranıyor...</statusScanning>
         <statusLeftOverTracesFound>Kalıntı izler bulundu!</statusLeftOverTracesFound>
+        <staticScanStatusGeneratingTracesList>İzler listesi oluşturuluyor...</staticScanStatusGeneratingTracesList>
         <statusNothingFound>Kalıntı izleri bulunamadı.</statusNothingFound>
         <statusAllTracesRemoved>Tüm İzler Kaldırıldı</statusAllTracesRemoved>
         <statusDeletingProgramTraces>Program kalıntıları siliniyor...</statusDeletingProgramTraces>
+        <statusStoppingRemoval>Silme işlemi durduruluyor...</statusStoppingRemoval>
         <treeItemFileSystem>Dosya Sistemi (%d madde)</treeItemFileSystem>
         <treeItemRegistry>Kayıt Defteri (%d madde)</treeItemRegistry>
         <treeItemPopopMenuBrowse>Gözat...</treeItemPopopMenuBrowse>
@@ -64,6 +66,7 @@
         <msgUninstallFailed>Kaldırma işlemi başarısız oldu. \nBu programa ait klasör ve kayıt defteri girdilerinin temizlemek ister misiniz?</msgUninstallFailed>
         <msgForceRemovalQuestion>Bu programı zorla kaldırmak istediğinize emin misiniz?</msgForceRemovalQuestion>
         <msgRemoveEntryQuestion>Bu programı listeden silmek istediğinize emin misiniz?</msgRemoveEntryQuestion>
+        <msgCancelWizard>Bulunan kalıntı izleri silinmeyecek. Pencereyi kapatmak istediğinize emin misiniz?</msgCancelWizard>
         <msgRemoveEntryFailed>Bu maddenin kayıt defteri girdisinin silinmesi başarısız oldu. \nBu girdiye ulaşamayabilirsiniz.</msgRemoveEntryFailed>
         <msgNewVersionAvailable>Yeni sürüm (%s) mevcut</msgNewVersionAvailable>
         <msgNewVersionAvailable2>Yeni bir versiyon mevcut! Yeni versiyonu indirmek için Tamam'a basarak GeekUninstaller sitesini ziyaret edin.</msgNewVersionAvailable2>

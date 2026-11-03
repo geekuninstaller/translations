@@ -47,9 +47,11 @@
     <UninstallWizard>
         <statusScanning>正在扫描残留的文件、文件夹和注册表项目...</statusScanning>
         <statusLeftOverTracesFound>发现残留痕迹!</statusLeftOverTracesFound>
+        <staticScanStatusGeneratingTracesList>正在生成痕迹列表...</staticScanStatusGeneratingTracesList>
         <statusNothingFound>未发现残留痕迹。</statusNothingFound>
         <statusAllTracesRemoved>所有痕迹均已删除</statusAllTracesRemoved>
         <statusDeletingProgramTraces>正在删除程序痕迹...</statusDeletingProgramTraces>
+        <statusStoppingRemoval>正在停止删除...</statusStoppingRemoval>
         <treeItemFileSystem>文件系统 (%d 个项目)</treeItemFileSystem>
         <treeItemRegistry>注册表 (%d 个项目)</treeItemRegistry>
         <treeItemPopopMenuBrowse>浏览...</treeItemPopopMenuBrowse>
@@ -64,6 +66,7 @@
         <msgUninstallFailed>卸载失败。\n您要清理此程序的注册表中条目以及其相关文件吗？</msgUninstallFailed>
         <msgForceRemovalQuestion>您确认要对这个程序执行强制删除吗？</msgForceRemovalQuestion>
         <msgRemoveEntryQuestion>您确认要删除这个条目吗？</msgRemoveEntryQuestion>
+        <msgCancelWizard>发现的残留痕迹将不会被清除。您确认要关闭向导吗?</msgCancelWizard>
         <msgRemoveEntryFailed>删除该项目的注册表信息失败。\n您可能没有足够的权限进行该操作。</msgRemoveEntryFailed>
         <msgNewVersionAvailable>新版本 %s 可用。</msgNewVersionAvailable>
         <msgNewVersionAvailable2>Geek Uninstaller 有更新! 请打开我们的网页下载最新版</msgNewVersionAvailable2>

@@ -47,9 +47,11 @@
     <UninstallWizard>
         <statusScanning>A szükségtelen fájlok, mappák és rendszerleíró elemek keresése...</statusScanning>
         <statusLeftOverTracesFound>Néhány szükségtelen összetevő még maradt a rendszerben!</statusLeftOverTracesFound>
+        <staticScanStatusGeneratingTracesList>Összetevők lista generálása...</staticScanStatusGeneratingTracesList>
         <statusNothingFound>Nem maradt szükségtelen összetevő a rendszerben.</statusNothingFound>
         <statusAllTracesRemoved>Minden összetevő törölve lett</statusAllTracesRemoved>
         <statusDeletingProgramTraces>A programösszetevők törlése...</statusDeletingProgramTraces>
+        <statusStoppingRemoval>A törlés leállítása...</statusStoppingRemoval>
         <treeItemFileSystem>Fájlrendszer (%d elem)</treeItemFileSystem>
         <treeItemRegistry>Rendszerleíró (%d elem)</treeItemRegistry>
         <treeItemPopopMenuBrowse>Tallózás...</treeItemPopopMenuBrowse>
@@ -64,6 +66,7 @@
         <msgUninstallFailed>Az eltávolítási folyamat sikertelen. \nSzeretné törölni a programbejegyzéseket a rendszerleíró adatbázisból és törli a fájlokat?</msgUninstallFailed>
         <msgForceRemovalQuestion>Valóban végrehajtja a program kényszerített eltávolítását?</msgForceRemovalQuestion>
         <msgRemoveEntryQuestion>Valóban törli ezt a bejegyzést?</msgRemoveEntryQuestion>
+        <msgCancelWizard>A megtalált szükségtelen összetevők a rendszerben maradnak. Bezárja a varázslót?</msgCancelWizard>
         <msgRemoveEntryFailed>Nem sikerült törölni az elem rendszerleíró bejegyzését. \nValószínűleg nincs megfelelő jogosultsága a művelet végrehajtásához.</msgRemoveEntryFailed>
         <msgNewVersionAvailable>Új %s verzió érhető el.</msgNewVersionAvailable>
         <msgNewVersionAvailable2>Van új GeekUninstaller verzió! OK-val letöltheti a weboldalról a legújabbat.</msgNewVersionAvailable2>

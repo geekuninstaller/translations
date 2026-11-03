@@ -47,9 +47,11 @@
     <UninstallWizard>
         <statusScanning>Vyhľadávanie zvyšných súborov, priečinkov a zápisov v registroch...</statusScanning>
         <statusLeftOverTracesFound>Boli nájdené pozostatky programu!</statusLeftOverTracesFound>
+        <staticScanStatusGeneratingTracesList>Vytváranie zoznamu pozostatkov programu…</staticScanStatusGeneratingTracesList>
         <statusNothingFound>Neboli nájdené pozostatky programu.</statusNothingFound>
         <statusAllTracesRemoved>Všetky pozostatky programu odstránené</statusAllTracesRemoved>
         <statusDeletingProgramTraces>Mazanie pozostatkov programu...</statusDeletingProgramTraces>
+        <statusStoppingRemoval>Zastavovanie odstraňovania…</statusStoppingRemoval>
         <treeItemFileSystem>Systém súborov (súbory: %d)</treeItemFileSystem>
         <treeItemRegistry>Registre (zápisy: %d)</treeItemRegistry>
         <treeItemPopopMenuBrowse>Prehľadávať...</treeItemPopopMenuBrowse>
@@ -64,6 +66,7 @@
         <msgUninstallFailed>Odinštalácia zlyhala.\nPrajete si vymazať položku programu z registra a jeho súbory?</msgUninstallFailed>
         <msgForceRemovalQuestion>Ste si istý, že chcete vykonať násilné odstránenie tohoto programu?</msgForceRemovalQuestion>
         <msgRemoveEntryQuestion>Ste si istý, že chcete odstrániť tento záznam?</msgRemoveEntryQuestion>
+        <msgCancelWizard>Nájdené pozostatky programu nebudú odstránené. Chcete zavrieť sprievodcu?</msgCancelWizard>
         <msgRemoveEntryFailed>Nepodarilo sa zmazať záznam v registri pre zvolenú položku. \nPravdepodobne k nemu nemáte povolený prístup.</msgRemoveEntryFailed>
         <msgNewVersionAvailable>Je dostupná nová verzia %s:</msgNewVersionAvailable>
         <msgNewVersionAvailable2>New version of GeekUninstaller is available! Press OK to visit our website and download the newest version.</msgNewVersionAvailable2>

@@ -47,9 +47,11 @@
     <UninstallWizard>
         <statusScanning>Iskanje preostalih datotek, map in vnosov v register...</statusScanning>
         <statusLeftOverTracesFound>¡Se encontraron algunos rastros restantes!</statusLeftOverTracesFound>
+        <staticScanStatusGeneratingTracesList>Ustvarjanje seznama sledi...</staticScanStatusGeneratingTracesList>
         <statusNothingFound>Ostanki niso najdeni.</statusNothingFound>
         <statusAllTracesRemoved>Vse sledi so izbrisane</statusAllTracesRemoved>
         <statusDeletingProgramTraces>Brisanje sledi programa...</statusDeletingProgramTraces>
+        <statusStoppingRemoval>Zaustavljanje brisanja...</statusStoppingRemoval>
         <treeItemFileSystem>Datotečni sistem (%d postavk)</treeItemFileSystem>
         <treeItemRegistry>Register (%d postavk)</treeItemRegistry>
         <treeItemPopopMenuBrowse>Preglej...</treeItemPopopMenuBrowse>
@@ -64,6 +66,7 @@
         <msgUninstallFailed>Odstranitev ni uspela. \nŽelite odstraniti program iz registra in počistiti vse njegove datoteke?</msgUninstallFailed>
         <msgForceRemovalQuestion>Res želite odstraniti vse sledi programa?</msgForceRemovalQuestion>
         <msgRemoveEntryQuestion>Res želite odstraniti ta vnos?</msgRemoveEntryQuestion>
+        <msgCancelWizard>Najdene preostale sledi ne bodo odstranjene. Ali želite zapreti čarovnika?</msgCancelWizard>
         <msgRemoveEntryFailed>Brisanje te postavke v registru ni uspelo. \nVerjetno nimate ustreznih dostopnih pravic.</msgRemoveEntryFailed>
         <msgNewVersionAvailable>Nova verzija %s je dostopna</msgNewVersionAvailable>
         <msgNewVersionAvailable2>Nova verzija programa GeekUninstaller je na voljo! Pritisni OK za obisk spletne strani in prenesi najnovejšo različico.</msgNewVersionAvailable2>

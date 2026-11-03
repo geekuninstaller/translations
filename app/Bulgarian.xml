@@ -47,9 +47,11 @@
     <UninstallWizard>
         <statusScanning>Сканиране за остатъчни файлове, папки и записа от системния регистър...</statusScanning>
         <statusLeftOverTracesFound>Има няколко остатъчни следи!</statusLeftOverTracesFound>
+        <staticScanStatusGeneratingTracesList>Генериране на списък със следи...</staticScanStatusGeneratingTracesList>
         <statusNothingFound>Няма открити остатъчни следи.</statusNothingFound>
         <statusAllTracesRemoved>Всички следи за премахнати</statusAllTracesRemoved>
         <statusDeletingProgramTraces>Изтриване на следите от приложението...</statusDeletingProgramTraces>
+        <statusStoppingRemoval>Спиране на изтриването...</statusStoppingRemoval>
         <treeItemFileSystem>Файлова система (%d елемента)</treeItemFileSystem>
         <treeItemRegistry>Системен регистър (%d елемента)</treeItemRegistry>
         <treeItemPopopMenuBrowse>Преглед...</treeItemPopopMenuBrowse>
@@ -64,6 +66,7 @@
         <msgUninstallFailed>Процеса по премахване е неуспешен. \nЖелаете ли да изтриете записа на приложението от регистъра, както и прилежащите й файлове?</msgUninstallFailed>
         <msgForceRemovalQuestion>Наистина ли искате да извършите силово премахването на това приложение?</msgForceRemovalQuestion>
         <msgRemoveEntryQuestion>Сигурни ли сте, че желаете да премахнете този запис?</msgRemoveEntryQuestion>
+        <msgCancelWizard>Намерените остатъчни следи няма да бъдат премахнати. Искате ли да затворите съветника?</msgCancelWizard>
         <msgRemoveEntryFailed>Неуспешно изтриване на записа от системния регистър на този елемент. \nВероятно нямате достатъчно права за да го направите.</msgRemoveEntryFailed>
         <msgNewVersionAvailable>Налична е нова версия (%s):</msgNewVersionAvailable>
         <msgNewVersionAvailable2>New version of GeekUninstaller is available! Press OK to visit our website and download the newest version.</msgNewVersionAvailable2>

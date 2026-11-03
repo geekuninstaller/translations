@@ -47,9 +47,11 @@
     <UninstallWizard>
         <statusScanning>Hledání zapomenutých souborů, složek a záznamů registru...</statusScanning>
         <statusLeftOverTracesFound>Nalezeny zapomenuté záznamy!</statusLeftOverTracesFound>
+        <staticScanStatusGeneratingTracesList>Vytvářím zoznam zapomenutých záznamů...</staticScanStatusGeneratingTracesList>
         <statusNothingFound>Nenalezeny žádne zapomenuté záznamy.</statusNothingFound>
         <statusAllTracesRemoved>Všechny záznamy odstráněny</statusAllTracesRemoved>
         <statusDeletingProgramTraces>Odstraňuji záznamy programu...</statusDeletingProgramTraces>
+        <statusStoppingRemoval>Zastavuji odstraňování...</statusStoppingRemoval>
         <treeItemFileSystem>Souborový systém (záznamů: %d)</treeItemFileSystem>
         <treeItemRegistry>Registry (záznamů: %d)</treeItemRegistry>
         <treeItemPopopMenuBrowse>Procházet...</treeItemPopopMenuBrowse>
@@ -64,6 +66,7 @@
         <msgUninstallFailed>Odinstalace selhala.\nPřejete si vymazat záznamy programu z registru a jeho soubory?</msgUninstallFailed>
         <msgForceRemovalQuestion>Jste si jisti, že chcete provést násilné odstranění tohoto programu?</msgForceRemovalQuestion>
         <msgRemoveEntryQuestion>Jste si jisti, že chcete odstranit tenhle záznam?</msgRemoveEntryQuestion>
+        <msgCancelWizard>Nalezené zapomenuté záznamy nebudou odstraněny. Chcete zavřít průvodce?</msgCancelWizard>
         <msgRemoveEntryFailed>Nepodařilo se smazat záznam v registru pro zvolenou položku. \nPravděpodobně k němu nemáte povolen přístup.</msgRemoveEntryFailed>
         <msgNewVersionAvailable>Je dostupná nová verze %s:</msgNewVersionAvailable>
         <msgNewVersionAvailable2>K dispozici je nová verze programu GeekUninstaller! Klikněte OK pro návštěvu našeho webu a stažení nejnovější verze.</msgNewVersionAvailable2>

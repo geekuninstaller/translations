@@ -47,9 +47,11 @@
     <UninstallWizard>
         <statusScanning>Buscando archivos restantes, carpetas y entradas del registro...</statusScanning>
         <statusLeftOverTracesFound>¡Se encontraron algunos rastros restantes!</statusLeftOverTracesFound>
+        <staticScanStatusGeneratingTracesList>Generando lista de rastros...</staticScanStatusGeneratingTracesList>
         <statusNothingFound>No se encontraron rastros restantes.</statusNothingFound>
         <statusAllTracesRemoved>Todos los rastros removidos</statusAllTracesRemoved>
         <statusDeletingProgramTraces>Eliminando rastros de aplicaciones...</statusDeletingProgramTraces>
+        <statusStoppingRemoval>Deteniendo la eliminación...</statusStoppingRemoval>
         <treeItemFileSystem>Sistema de archivos (%d elementos)</treeItemFileSystem>
         <treeItemRegistry>Registro (%d elementos)</treeItemRegistry>
         <treeItemPopopMenuBrowse>Examinar...</treeItemPopopMenuBrowse>
@@ -64,6 +66,7 @@
         <msgUninstallFailed>La desinstalación falló. \n¿Quiere borrar la entrada del programa del registro y borrar sus archivos?</msgUninstallFailed>
         <msgForceRemovalQuestion>¿Está seguro que quiere realizar el borrado forzoso de este programa?</msgForceRemovalQuestion>
         <msgRemoveEntryQuestion>¿Está seguro que quiere remover esta entrada?</msgRemoveEntryQuestion>
+        <msgCancelWizard>No se borrarán los rastros restantes encontrados. ¿Quiere cerrar el asistente?</msgCancelWizard>
         <msgRemoveEntryFailed>Fallo al eliminar la entrada del registro de este elemento. \nProbablemente no tiene acceso a él.</msgRemoveEntryFailed>
         <msgNewVersionAvailable>Nueva versión %s está disponible:</msgNewVersionAvailable>
         <msgNewVersionAvailable2>New version of GeekUninstaller is available! Press OK to visit our website and download the newest version.</msgNewVersionAvailable2>

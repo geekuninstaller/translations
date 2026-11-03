@@ -47,9 +47,11 @@
     <UninstallWizard>
         <statusScanning>Quét các tập tin còn sót lại, thư mục và các mục đăng ký ...</statusScanning>
         <statusLeftOverTracesFound>Một số dấu vết còn sót lại tìm thấy!</statusLeftOverTracesFound>
+        <staticScanStatusGeneratingTracesList>Tạo ra danh sách các dấu vết ...</staticScanStatusGeneratingTracesList>
         <statusNothingFound>Không có dấu vết còn sót lại.</statusNothingFound>
         <statusAllTracesRemoved>Tất cả các dấu vết được loại bỏ</statusAllTracesRemoved>
         <statusDeletingProgramTraces>Xóa dấu vết chương trình ...</statusDeletingProgramTraces>
+        <statusStoppingRemoval>Đang dừng xóa ...</statusStoppingRemoval>
         <treeItemFileSystem>Hệ thống tập tin (%d đối tượng)</treeItemFileSystem>
         <treeItemRegistry>Khóa Registry (%d đối tượng)</treeItemRegistry>
         <treeItemPopopMenuBrowse>Duyệt ...</treeItemPopopMenuBrowse>
@@ -64,6 +66,7 @@
         <msgUninstallFailed>Quá trình gỡ bỏ thất bại. \n Bạn có muốn để làm sạch nhập chương trình này từ registry và làm sạch các tập tin của nó?</msgUninstallFailed>
         <msgForceRemovalQuestion>Bạn có chắc chắn bạn muốn thực hiện loại bỏ dấu vêt của chương trình này?</msgForceRemovalQuestion>
         <msgRemoveEntryQuestion>Bạn có chắc chắn bạn muốn loại bỏ mục này?</msgRemoveEntryQuestion>
+        <msgCancelWizard>Các dấu vết còn sót lại sẽ không bị loại bỏ. Bạn có muốn đóng trình hướng dẫn không?</msgCancelWizard>
         <msgRemoveEntryFailed>Không thể xóa các mục đăng ký này. \nBạn có thể không có quyền truy cập để làm điều đó.</msgRemoveEntryFailed>
         <msgNewVersionAvailable>Phiên bản mới %s có sẵn</msgNewVersionAvailable>
         <msgNewVersionAvailable2>New version of GeekUninstaller is available! Press OK to visit our website and download the newest version.</msgNewVersionAvailable2>

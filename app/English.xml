@@ -50,9 +50,11 @@
     <UninstallWizard>
         <statusScanning>Scanning for leftover files, folders and registry items...</statusScanning>
         <statusLeftOverTracesFound>Some leftover traces found!</statusLeftOverTracesFound>
+        <staticScanStatusGeneratingTracesList>Generating traces list...</staticScanStatusGeneratingTracesList>
         <statusNothingFound>No leftover traces found.</statusNothingFound>
         <statusAllTracesRemoved>All Traces Removed</statusAllTracesRemoved>
         <statusDeletingProgramTraces>Deleting program traces...</statusDeletingProgramTraces>
+        <statusStoppingRemoval>Stopping removal...</statusStoppingRemoval>
         <treeItemFileSystem>File System (%d items)</treeItemFileSystem>
         <treeItemRegistry>Registry (%d items)</treeItemRegistry>
         <treeItemPopopMenuBrowse>Browse...</treeItemPopopMenuBrowse>
@@ -69,6 +71,7 @@
         <msgUninstallFailed>Uninstallation process failed. \nWould you like to clean this program entry from registry and clean up its files?</msgUninstallFailed>
         <msgForceRemovalQuestion>Are you sure you want to perform force removal of this program?</msgForceRemovalQuestion>
         <msgRemoveEntryQuestion>Are you sure you want to remove this entry?</msgRemoveEntryQuestion>
+        <msgCancelWizard>The leftovers found will not be removed. Close the wizard?</msgCancelWizard>
         <msgRemoveEntryFailed>Failed to delete the registry entry of this item. \nYou probably have no access to do it.</msgRemoveEntryFailed>
         <msgNewVersionAvailable>New version %s is available</msgNewVersionAvailable>
         <msgNewVersionAvailable2>New version of GeekUninstaller is available! Press OK to visit our website and download the newest version.</msgNewVersionAvailable2>

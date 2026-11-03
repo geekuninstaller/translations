@@ -47,9 +47,11 @@
     <UninstallWizard>
         <statusScanning>Suche nach verbliebenen Dateien, Ordnern und Registry Einträgen...</statusScanning>
         <statusLeftOverTracesFound>Einige Programmreste gefunden!</statusLeftOverTracesFound>
+        <staticScanStatusGeneratingTracesList>Protokoll wird generiert...</staticScanStatusGeneratingTracesList>
         <statusNothingFound>Keine Programmreste gefunden.</statusNothingFound>
         <statusAllTracesRemoved>Alle Programmreste entfernt</statusAllTracesRemoved>
         <statusDeletingProgramTraces>Entferne Programmreste...</statusDeletingProgramTraces>
+        <statusStoppingRemoval>Löschvorgang wird gestoppt...</statusStoppingRemoval>
         <treeItemFileSystem>Dateisystem (%d Einträge)</treeItemFileSystem>
         <treeItemRegistry>Registry (%d Einträge)</treeItemRegistry>
         <treeItemPopopMenuBrowse>Suchen...</treeItemPopopMenuBrowse>
@@ -64,6 +66,7 @@
         <msgUninstallFailed>Deinstallationsprozess fehlgeschlagen. \nMöchten Sie die Programmschlüssel aus der Registrierungsdatenbank löschen und Programmdateien von der Festplatte entfernen?</msgUninstallFailed>
         <msgForceRemovalQuestion>Wollen Sie wirklich die Entfernung des Programms erzwingen?</msgForceRemovalQuestion>
         <msgRemoveEntryQuestion>Wollen Sie diesen Eintrag wirklich entfernen?</msgRemoveEntryQuestion>
+        <msgCancelWizard>Die gefundenen Überreste werden nicht entfernt. Soll der Assistent geschlossen werden?</msgCancelWizard>
         <msgRemoveEntryFailed>Löschen vom zugehörigen Registry Eintrag fehlgeschlagen. \nZugriff nicht möglich.</msgRemoveEntryFailed>
         <msgNewVersionAvailable>Neue Version %s verfügbar</msgNewVersionAvailable>
         <msgNewVersionAvailable2>Eine neue GeekUninstaller Version ist verfügbar! Auf OK klicken, um die neuste Version herunterzuladen.</msgNewVersionAvailable2>
