@@ -24,8 +24,8 @@ main-page:
   tour_feature_4_text: Windows 8/8.1/10/11 환경에서 Microsoft Store 앱을 제거할 수 있습니다. 
   tour_feature_5: 빠르고 스마트함
   tour_feature_5_text: 즉시 실행 가능합니다. 검색창에 입력하여 원하는 앱을 빠르게 찾고, 남은 파일도 신속하게 스캔하세요. 
-  tour_feature_6: 포터블(무설치) 지원
-  tour_feature_6_text: 작고 간편한 단일 EXE 파일로, 32비트/64비트 및 ARM64 기반의 모든 Windows 환경에서 실행할 수 있습니다.
+  tour_feature_6: 포터블
+  tour_feature_6_text: 단일 소형 EXE 파일로, 모든 32비트, 64비트 및 ARM64 Windows 환경에서 실행됩니다
   screen_1: 간편한 사용자 인터페이스
   screen_1_text: 보라색과 주황색으로 강조 표시된 프로그램은 최근에 설치되거나 수정된 ​​항목입니다(Geek Uninstaller를 마지막으로 실행한 이후). 
   screen_2: 깔끔한 제거 및 강제 제거
@@ -33,7 +33,7 @@ main-page:
   screen_3: Microsoft Store 앱 제거
   screen_3_text: Microsoft Store 앱을 제거할 수 있습니다. '보기(View)' 메뉴를 사용하거나 Ctrl+Tab 키를 눌러 데스크톱 앱과 Store 앱 간에 전환하세요. 
   screen_4: 빠르고 즉각적인 검색
-  screen_4_text: 검색어를 입력하여 원하는 프로그램을 즉시 찾을 수 있습니다.
+  screen_4_text: 프로그램을 즉시 찾으려면 입력하세요
   screen_5: 어두운 모드
   screen_5_text: Geek Uninstaller는 밤의 존재인 여러분을 위한 앱이기도 합니다
   multilingual_interface: "Geek Uninstaller 인터페이스는 다양한 언어로 번역되어 있습니다:"
@@ -65,7 +65,7 @@ download_page:
   pro_button_trial: 무료 체험
   pro_button_buy: 지금 구매
   compatibility: 호환성
-  compatibility_text: 32비트 및 64비트 Windows 11/10/7/8/8.1 (ARM 기반 Windows 11/10 포함). 관리자 권한이 필요합니다. <br>x64 또는 ARM64 Windows에서 실행할 경우, Geek Uninstaller는 네이티브 64비트 애플리케이션으로 작동합니다.
+  compatibility_text: 32 및 64비트 Windows 11/10/7/8/8.1, ARM용 Windows 11/10 포함. 관리자 권한이 필요합니다. <br>x64 또는 ARM64 Windows에서 실행 중일 때 Geek Uninstaller가 기본 64비트 애플리케이션으로 실행됩니다.
   release_notes: 최신 릴리스 정보
   release_notes_button: 전체 목록 보기
 
