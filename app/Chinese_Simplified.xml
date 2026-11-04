@@ -39,7 +39,7 @@
         <staticLoading>正在加载，请稍候…</staticLoading>
         <staticNoItemsMatchingFilterTip>没有匹配的项目，请按 ESC 重置</staticNoItemsMatchingFilterTip>
         <staticNoProgramsInCategory>好像还没有安装微软商店应用</staticNoProgramsInCategory>
-        <mark32bitItem>（32 位）</mark32bitItem>
+        <mark32bitItem>(32 位)</mark32bitItem>
     </ListCtrl>
     <ExplorerBar>
         <itemShortSearchTip>输入即可查找程序</itemShortSearchTip>
