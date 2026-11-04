@@ -2,59 +2,59 @@
 <LanguageStrings>
     <MainMenu>
         <mnuFile>文件(&amp;F)</mnuFile>
-        <mnuFileExport>导出为 HTML(&amp;E)...</mnuFileExport>
+        <mnuFileExport>导出为 HTML(&amp;E)…</mnuFileExport>
         <mnuFileExit>退出(&amp;X)</mnuFileExit>
         <mnuAction>操作(&amp;A)</mnuAction>
-        <mnuActionUninstall>卸载(&amp;U)...</mnuActionUninstall>
-        <mnuActionModify>修改(&amp;M)...</mnuActionModify>
+        <mnuActionUninstall>卸载(&amp;U)…</mnuActionUninstall>
+        <mnuActionModify>修改(&amp;M)…</mnuActionModify>
         <mnuActionDelete>强制删除(&amp;F)</mnuActionDelete>
         <mnuActionDeleteBatch>批量强制删除(&amp;F)</mnuActionDeleteBatch>
         <mnuActionRemoveEntry>删除条目(&amp;E)</mnuActionRemoveEntry>
         <mnuActionRemoveEntryBatch>批量删除条目(&amp;E)</mnuActionRemoveEntryBatch>
-        <mnuActionJumpToRegistry>注册表条目(&amp;R)</mnuActionJumpToRegistry>
+        <mnuActionJumpToRegistry>注册表项(&amp;R)</mnuActionJumpToRegistry>
         <mnuActionJumpToProgramFolder>安装文件夹(&amp;I)</mnuActionJumpToProgramFolder>
         <mnuActionJumpToWebSite>程序网站(&amp;P)</mnuActionJumpToWebSite>
         <mnuActionOpenWindowsStore>在微软商店中打开</mnuActionOpenWindowsStore>
-        <mnuActionBrowseLocation>浏览程序位置...</mnuActionBrowseLocation>
-        <mnuActionBrowseSource>浏览来源...</mnuActionBrowseSource>
-        <mnuActionGoogleFor>通过谷歌搜索</mnuActionGoogleFor>
+        <mnuActionBrowseLocation>浏览程序位置…</mnuActionBrowseLocation>
+        <mnuActionBrowseSource>浏览安装来源…</mnuActionBrowseSource>
+        <mnuActionGoogleFor>用谷歌搜索</mnuActionGoogleFor>
         <mnuView>查看(&amp;V)</mnuView>
         <mnuViewDesktopApps>桌面应用</mnuViewDesktopApps>
         <mnuViewWinStoreApps>微软商店应用</mnuViewWinStoreApps>
         <mnuViewRefresh>刷新(&amp;R)</mnuViewRefresh>
-        <mnuViewListColumnsReset>重置列</mnuViewListColumnsReset>
+        <mnuViewListColumnsReset>恢复默认列</mnuViewListColumnsReset>
         <mnuViewColorScheme>配色方案</mnuViewColorScheme>
-        <mnuViewColorSchemeAuto>匹配 Windows 深色/浅色模式</mnuViewColorSchemeAuto>
+        <mnuViewColorSchemeAuto>跟随 Windows 深色/浅色模式</mnuViewColorSchemeAuto>
         <mnuViewColorSchemeLight>浅色模式（默认）</mnuViewColorSchemeLight>
         <mnuViewColorSchemeDark>深色模式</mnuViewColorSchemeDark>
         <mnuViewLanguage>界面语言</mnuViewLanguage>
         <mnuHelp>帮助(&amp;H)</mnuHelp>
-        <mnuHelpAbout>关于(&amp;A)...</mnuHelpAbout>
+        <mnuHelpAbout>关于(&amp;A)…</mnuHelpAbout>
         <mnuHelpHomePage>主页</mnuHelpHomePage>
     </MainMenu>
     <ListCtrl>
         <columnProgramName>程序名称</columnProgramName>
         <columnSize>大小</columnSize>
-        <columnInstallationDate>安装时间</columnInstallationDate>
-        <staticLoading>加载中, 请稍候...</staticLoading>
+        <columnInstallationDate>安装日期</columnInstallationDate>
+        <staticLoading>正在加载，请稍候…</staticLoading>
         <staticNoItemsMatchingFilterTip>没有匹配的项目，请按 ESC 重置</staticNoItemsMatchingFilterTip>
-        <staticNoProgramsInCategory>似乎你没有安装微软商店应用</staticNoProgramsInCategory>
-        <mark32bitItem>(32 位)</mark32bitItem>
+        <staticNoProgramsInCategory>好像还没有安装微软商店应用</staticNoProgramsInCategory>
+        <mark32bitItem>（32 位）</mark32bitItem>
     </ListCtrl>
     <ExplorerBar>
-        <itemShortSearchTip>键入要查找的程序</itemShortSearchTip>
+        <itemShortSearchTip>输入即可查找程序</itemShortSearchTip>
     </ExplorerBar>
     <UninstallWizard>
-        <statusScanning>正在扫描残留的文件、文件夹和注册表项目...</statusScanning>
-        <statusLeftOverTracesFound>发现残留痕迹!</statusLeftOverTracesFound>
-        <staticScanStatusGeneratingTracesList>正在生成痕迹列表...</staticScanStatusGeneratingTracesList>
+        <statusScanning>正在扫描残留的文件、文件夹和注册表项…</statusScanning>
+        <statusLeftOverTracesFound>发现残留痕迹！</statusLeftOverTracesFound>
+        <staticScanStatusGeneratingTracesList>正在生成痕迹列表…</staticScanStatusGeneratingTracesList>
         <statusNothingFound>未发现残留痕迹。</statusNothingFound>
-        <statusAllTracesRemoved>所有痕迹均已删除</statusAllTracesRemoved>
-        <statusDeletingProgramTraces>正在删除程序痕迹...</statusDeletingProgramTraces>
-        <statusStoppingRemoval>正在停止删除...</statusStoppingRemoval>
-        <treeItemFileSystem>文件系统 (%d 个项目)</treeItemFileSystem>
-        <treeItemRegistry>注册表 (%d 个项目)</treeItemRegistry>
-        <treeItemPopopMenuBrowse>浏览...</treeItemPopopMenuBrowse>
+        <statusAllTracesRemoved>残留痕迹已全部清除</statusAllTracesRemoved>
+        <statusDeletingProgramTraces>正在删除程序痕迹…</statusDeletingProgramTraces>
+        <statusStoppingRemoval>正在停止删除…</statusStoppingRemoval>
+        <treeItemFileSystem>文件系统（%d 项）</treeItemFileSystem>
+        <treeItemRegistry>注册表（%d 项）</treeItemRegistry>
+        <treeItemPopopMenuBrowse>浏览…</treeItemPopopMenuBrowse>
         <btnFinish>完成</btnFinish>
         <btnCancel>取消</btnCancel>
         <btnClose>关闭</btnClose>
@@ -63,29 +63,29 @@
         <DlgAboutCaption>关于 Geek Uninstaller</DlgAboutCaption>
     </DlgAbout>
     <Messages>
-        <msgUninstallFailed>卸载失败。\n您要清理此程序的注册表中条目以及其相关文件吗？</msgUninstallFailed>
-        <msgForceRemovalQuestion>您确认要对这个程序执行强制删除吗？</msgForceRemovalQuestion>
-        <msgRemoveEntryQuestion>您确认要删除这个条目吗？</msgRemoveEntryQuestion>
-        <msgCancelWizard>发现的残留痕迹将不会被清除。您确认要关闭向导吗?</msgCancelWizard>
-        <msgRemoveEntryFailed>删除该项目的注册表信息失败。\n您可能没有足够的权限进行该操作。</msgRemoveEntryFailed>
-        <msgNewVersionAvailable>新版本 %s 可用。</msgNewVersionAvailable>
-        <msgNewVersionAvailable2>Geek Uninstaller 有更新! 请打开我们的网页下载最新版</msgNewVersionAvailable2>
+        <msgUninstallFailed>卸载失败。\n是否要从注册表中清除该程序的条目，并清理其相关文件？</msgUninstallFailed>
+        <msgForceRemovalQuestion>确定要强制删除此程序吗？</msgForceRemovalQuestion>
+        <msgRemoveEntryQuestion>确定要删除此条目吗？</msgRemoveEntryQuestion>
+        <msgCancelWizard>已发现的残留痕迹不会被清除。确定要关闭向导吗？</msgCancelWizard>
+        <msgRemoveEntryFailed>无法删除此程序的注册表项。\n您可能没有足够的权限。</msgRemoveEntryFailed>
+        <msgNewVersionAvailable>新版本 %s 现已可用</msgNewVersionAvailable>
+        <msgNewVersionAvailable2>Geek Uninstaller 有新版本可用！请点击“确定”前往官网下载最新版。</msgNewVersionAvailable2>
     </Messages>
     <ProVersion>
-        <statusMessage>升级为专业版</statusMessage>
-        <WhatsCool>PRO版，功能齐上阵：</WhatsCool>
+        <statusMessage>升级到专业版</statusMessage>
+        <WhatsCool>专业版亮点：</WhatsCool>
         <Feature1>实时安装监控</Feature1>
-        <Feature2>全面检测清除</Feature2>
-        <Feature3>启动程序管理</Feature3>
-        <Feature4>现代界面，技术支持</Feature4>
-        <Feature5>批量移除</Feature5>
+        <Feature2>彻底卸载，不留残留</Feature2>
+        <Feature3>开机启动项管理</Feature3>
+        <Feature4>现代化界面，提供技术支持</Feature4>
+        <Feature5>批量卸载</Feature5>
         <buttonUpgrade>升级</buttonUpgrade>
     </ProVersion>
     <HTMLReport>
         <htmlFiles>HTML 文件</htmlFiles>
         <allFiles>所有文件</allFiles>
         <generatedByOn>由 %s 于 %s 生成</generatedByOn>
-        <installedPrograms>已安装程序 (%s)</installedPrograms>
+        <installedPrograms>已安装程序（%s）</installedPrograms>
     </HTMLReport>
     <Misc>
         <btnOK>确定</btnOK>
@@ -94,7 +94,7 @@
         <btnYes>是</btnYes>
         <btnNo>否</btnNo>
         <btnClose>关闭</btnClose>
-        <statusTotalInfo>总计 %d 个程序占用空间 %s</statusTotalInfo>
+        <statusTotalInfo>共 %d 个程序，总大小 %s</statusTotalInfo>
         <statusUnknown>未知</statusUnknown>
         <WindowsUpdatesText>Windows 更新</WindowsUpdatesText>
     </Misc>
