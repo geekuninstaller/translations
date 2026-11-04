@@ -66,7 +66,7 @@
         <msgUninstallFailed>Disinstallazione non riuscita.\nVuoi rimuovere la voce del programma dal registro ed eliminare i relativi file?</msgUninstallFailed>
         <msgForceRemovalQuestion>Vuoi procedere alla rimozione forzata di questo programma?</msgForceRemovalQuestion>
         <msgRemoveEntryQuestion>Vuoi rimuovere questo elemento?</msgRemoveEntryQuestion>
-        <msgCancelWizard>Le tracce residue rilevate non verranno rimosse. Vuoi chiudere la procedura guidata?</msgCancelWizard>
+        <msgCancelWizard>Le tracce residue rilevate non verranno rimosse.\nVuoi chiudere la procedura guidata?</msgCancelWizard>
         <msgRemoveEntryFailed>Eliminazione della voce di registro di questo elemento non riuscita.\nProbabilmente non hai i permessi sufficienti per farlo.</msgRemoveEntryFailed>
         <msgNewVersionAvailable>È disponibile una nuova versione (%s).</msgNewVersionAvailable>
         <msgNewVersionAvailable2>È disponibile una nuova versione di GeekUninstaller!\nSeleziona 'OK' per visitare il sito e scaricare la versione aggiornata.</msgNewVersionAvailable2>
