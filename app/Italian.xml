@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageStrings>
     <MainMenu>
         <mnuFile>&amp;File</mnuFile>
@@ -11,7 +11,7 @@
         <mnuActionDeleteBatch>Rimozione &amp;forzata batch</mnuActionDeleteBatch>
         <mnuActionRemoveEntry>Rimuovi &amp;voce</mnuActionRemoveEntry>
         <mnuActionRemoveEntryBatch>Rimozione &amp;voci batch</mnuActionRemoveEntryBatch>
-        <mnuActionJumpToRegistry>&amp;Voci registro</mnuActionJumpToRegistry>
+        <mnuActionJumpToRegistry>Voci &amp;registro</mnuActionJumpToRegistry>
         <mnuActionJumpToProgramFolder>&amp;Cartella installazione</mnuActionJumpToProgramFolder>
         <mnuActionJumpToWebSite>Sito &amp;web</mnuActionJumpToWebSite>
         <mnuActionOpenWindowsStore>Apri nel Microsoft Store</mnuActionOpenWindowsStore>
@@ -32,25 +32,22 @@
         <mnuHelpAbout>I&amp;nfo programma...</mnuHelpAbout>
         <mnuHelpHomePage>&amp;Sito web programma</mnuHelpHomePage>
     </MainMenu>
-
     <ListCtrl>
         <columnProgramName>Nome programma</columnProgramName>
         <columnSize>Dimensioni</columnSize>
         <columnInstallationDate>Data installazione</columnInstallationDate>
         <staticLoading>Caricamento...</staticLoading>
         <staticNoItemsMatchingFilterTip>Nessun elemento corrispondente, premi 'ESC' per ripristinare</staticNoItemsMatchingFilterTip>
-        <staticNoProgramsInCategory>Sembra che in Microsoft Store non sia installata nessuna app</staticNoProgramsInCategory>
+        <staticNoProgramsInCategory>Sembra che non sia installata nessuna app di Microsoft Store</staticNoProgramsInCategory>
         <mark32bitItem>(32-bit)</mark32bitItem>
     </ListCtrl>
-
     <ExplorerBar>
         <itemShortSearchTip>Inserisci nome programma da cercare</itemShortSearchTip>
     </ExplorerBar>
-
     <UninstallWizard>
         <statusScanning>Ricerca di file, cartelle, e voci di registro residue...</statusScanning>
         <statusLeftOverTracesFound>Rilevate alcune tracce residue!</statusLeftOverTracesFound>
-        <staticScanStatusGeneratingTracesList>Generazione elnco tracce...</staticScanStatusGeneratingTracesList>
+        <staticScanStatusGeneratingTracesList>Generazione elenco tracce...</staticScanStatusGeneratingTracesList>
         <statusNothingFound>Nessuna traccia residua rilevata</statusNothingFound>
         <statusAllTracesRemoved>Tutte le tracce sono state rimosse</statusAllTracesRemoved>
         <statusDeletingProgramTraces>Eliminazione tracce programma...</statusDeletingProgramTraces>
@@ -62,21 +59,18 @@
         <btnCancel>Annulla</btnCancel>
         <btnClose>Chiudi</btnClose>
     </UninstallWizard>
-
     <DlgAbout>
         <DlgAboutCaption>Info su Geek Uninstaller</DlgAboutCaption>
     </DlgAbout>
-
     <Messages>
         <msgUninstallFailed>Disinstallazione non riuscita.\nVuoi rimuovere la voce del programma dal registro ed eliminare i relativi file?</msgUninstallFailed>
         <msgForceRemovalQuestion>Vuoi procedere alla rimozione forzata di questo programma?</msgForceRemovalQuestion>
         <msgRemoveEntryQuestion>Vuoi rimuovere questo elemento?</msgRemoveEntryQuestion>
-        <msgCancelWizard>I resti trovati non verranno rimossi. Vuoi chiudere la procedura guidata?</msgCancelWizard>
+        <msgCancelWizard>Le tracce residue rilevate non verranno rimosse. Vuoi chiudere la procedura guidata?</msgCancelWizard>
         <msgRemoveEntryFailed>Eliminazione della voce di registro di questo elemento non riuscita.\nProbabilmente non hai i permessi sufficienti per farlo.</msgRemoveEntryFailed>
         <msgNewVersionAvailable>È disponibile una nuova versione (%s).</msgNewVersionAvailable>
         <msgNewVersionAvailable2>È disponibile una nuova versione di GeekUninstaller!\nSeleziona 'OK' per visitare il sito e scaricare la versione aggiornata.</msgNewVersionAvailable2>
     </Messages>
-
     <ProVersion>
         <statusMessage>Aggiorna alla versione PRO</statusMessage>
         <WhatsCool>Cosa c'è in più nella versione PRO:</WhatsCool>
@@ -87,14 +81,12 @@
         <Feature5>Rimozione batch</Feature5>
         <buttonUpgrade>Aggiorna</buttonUpgrade>
     </ProVersion>
-
     <HTMLReport>
         <htmlFiles>File HTML</htmlFiles>
         <allFiles>Tutti i file</allFiles>
-        <generatedByOn>Generato da '%s' in '%s'</generatedByOn>
+        <generatedByOn>Generato da %s il %s</generatedByOn>
         <installedPrograms>Programmi installati (%s)</installedPrograms>
     </HTMLReport>
-
     <Misc>
         <btnOK>OK</btnOK>
         <btnCancel>Annulla</btnCancel>
@@ -106,5 +98,4 @@
         <statusUnknown>Sconosciuto</statusUnknown>
         <WindowsUpdatesText>Aggiornamenti di Windows</WindowsUpdatesText>
     </Misc>
-
 </LanguageStrings>
