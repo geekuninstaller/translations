@@ -1,0 +1,89 @@
+top_menu:
+  overview: 개요
+  download: 다운로드
+  translate: 번역
+  about: 정보
+
+main-page:
+  title: Geek Uninstaller - 최고의 무료 제거 프로그램
+  description: 효율적이고 빠르며, 가볍고 휴대 가능한 100% 무료 프로그램
+  header: 효율적이고 빠르며, 가볍고 휴대 가능한 100% 무료 프로그램
+  header_feature_1: 깔끔한 제거 및 강제 제거
+  header_feature_2: 네이티브 x64 및 ARM64 지원
+  header_feature_3: 사용하기 쉬운 사용자 인터페이스
+  header_feature_4: Microsoft Store 앱 제거
+  button_download: 다운로드
+  stripe_1_header: 주요 기능
+  tour_feature_1: 깔끔한 제거
+  tour_feature_1_text: 빠르고 정밀한 스캔을 통해 남은 파일까지 모두 제거합니다. PC를 항상 깨끗하게 유지하세요! 
+  tour_feature_2: 강제 제거
+  tour_feature_2_text: 삭제가 어렵거나 손상된 프로그램은 '강제 제거' 기능을 사용하세요. 
+  tour_feature_3: 간편한 사용자 인터페이스
+  tour_feature_3_text: 세련된 디자인과 뛰어난 기능성을 갖췄습니다. 40개 이상의 언어를 지원합니다! 
+  tour_feature_4: Microsoft Store 앱 제거
+  tour_feature_4_text: Windows 8/8.1/10/11 환경에서 Microsoft Store 앱을 제거할 수 있습니다. 
+  tour_feature_5: 빠르고 스마트함
+  tour_feature_5_text: 즉시 실행 가능합니다. 검색창에 입력하여 원하는 앱을 빠르게 찾고, 남은 파일도 신속하게 스캔하세요. 
+  tour_feature_6: 포터블(무설치) 지원
+  tour_feature_6_text: 작고 간편한 단일 EXE 파일로, 32비트/64비트 및 ARM64 기반의 모든 Windows 환경에서 실행할 수 있습니다.
+  screen_1: 간편한 사용자 인터페이스
+  screen_1_text: 보라색과 주황색으로 강조 표시된 프로그램은 최근에 설치되거나 수정된 ​​항목입니다(Geek Uninstaller를 마지막으로 실행한 이후). 
+  screen_2: 깔끔한 제거 및 강제 제거
+  screen_2_text: 일반적인 제거 프로그램은 PC에 수많은 잔여 파일을 남깁니다. Geek Uninstaller는 제거 후 정밀하고 빠르게 스캔하여 모든 잔여 파일을 삭제합니다. 
+  screen_3: Microsoft Store 앱 제거
+  screen_3_text: Microsoft Store 앱을 제거할 수 있습니다. '보기(View)' 메뉴를 사용하거나 Ctrl+Tab 키를 눌러 데스크톱 앱과 Store 앱 간에 전환하세요. 
+  screen_4: 빠르고 즉각적인 검색
+  screen_4_text: 검색어를 입력하여 원하는 프로그램을 즉시 찾을 수 있습니다.
+  screen_5: 어두운 모드
+  screen_5_text: Geek Uninstaller는 밤의 존재인 여러분을 위한 앱이기도 합니다
+  multilingual_interface: "Geek Uninstaller 인터페이스는 다양한 언어로 번역되어 있습니다:"
+  review_1: Geek Uninstaller의 성능은 인상적입니다. 빠르게 제거되며, 아무나 찾지 못한 남은 파일까지 찾아냅니다. 전반적으로 이 앱은 성능과 기능 모두에서 기대 이상을 보여 주는 인상적인 유지보수 도구입니다. 강력 추천합니다.
+  review_2: 결론적으로, Geek Uninstaller는 꽤 유용하게 활용할 수 있는 좋은 도구입니다. 직관적인 레이아웃과 전반적인 단순함 덕분에, 사용 경험이 많지 않으신 분들도 이 프로그램을 사용하실 때 큰 어려움이 없으실 것입니다.
+  review_3: Geek Uninstaller는 프로그램을 제거할 때 시스템에 아무것도 남기지 않도록 확실히 하고 싶은 분들에게 안성맞춤입니다.
+  review_4: Geek Uninstaller는 휴대가 가능하며, 제거 도구라면 누구나 기대할 만한 거의 모든 기능을 지원합니다. 용량이 매우 작은 단일 파일이라 플래시 드라이브에 적합합니다.
+  review_5: 32비트와 64비트 애플리케이션을 모두 관리하기 위해 여러 개의 제거 프로그램을 번갈아 사용하는 것에 완전히 지쳐 있었습니다. 기존 프로그램들은 기대만큼 제대로 작동하지 않았을 뿐만 아니라, 대부분 불필요한 기능들로 가득 차 있어 사용하기가 불편했습니다. 'Geek Uninstaller'는 제게 완벽한 제거 프로그램입니다. 사용자 인터페이스(UI)는 단순하면서도 훌륭하고, 프로그램 제거 작업은 빠르고 정확합니다. 진작 이 프로그램을 알았더라면 좋았을 텐데 말이죠. 사실 다른 무료 64비트 제거 프로그램을 쓰다가 도저히 안 되겠다 싶어 일주일 전에 'Revo Pro' 라이선스까지 구매했었거든요. 그런데 이 프로그램이 너무 마음에 들어서, 설치했던 Revo Pro마저 Geek Uninstaller로 삭제해 버렸답니다. lol.
+  review_6: 이전에도 다른 제거 프로그램들 (Revo Uninstaller 등)을 사용해 봤지만, 이 제품은 그 어떤 것보다 압도적으로 뛰어납니다. 사용하기 매우 간편하고, Revo를 사용할 때 겪었던 제거 목록에 프로그램이 나타나지 않는 문제도 전혀 발생하지 않았습니다. 저는 평소 소프트웨어를 자주 설치하고 삭제하는 편인데, Geek Uninstaller 덕분에 훨씬 편리해졌고 PC 환경도 훨씬 깔끔해졌습니다. 훌륭한 제품을 만들어 주셔서 다시 한번 감사드립니다.
+  review_7: 정말 멋진 소프트웨어를 개발해 주셔서 감사합니다. 최근 Revo Uninstaller와 IObit Uninstaller를 사용해 봤지만, 만족스럽지 않았습니다. Revo Uninstaller는 설치된 프로그램을 모두 목록에 표시하지 못했고, IObit Uninstaller는 너무 많은 파일을 삭제해 버려 다른 프로그램들과 충돌을 일으키더군요. 그래서 한동안 제거 프로그램 사용을 완전히 포기하고 있었는데, Geek Uninstaller를 다운로드하고 생각이 바뀌었습니다. 경쟁 제품들보다 훨씬 뛰어난 프로그램을 만드셨네요. 정말 감사합니다! 벌써 친구들과 가족들에게 이 제품을 추천하기 시작했습니다. 정말 훌륭한 작업입니다. 앞으로도 계속 좋은 프로그램 만들어 주세요.
+  review_8: 지난 몇 년간 수많은 제거 프로그램을 사용해 봤지만, Geek Uninstaller는 단연코 제가 본 것 중 최고의 프로그램입니다. 단순하고, 매우 효과적이며, 사용하기 쉽고, 제 역할을 확실히 해냅니다. 정말 최고예요!
+
+download_page:
+  title: Geek Uninstaller - 다운로드
+  description: Geek Uninstaller - 다운로드
+  free_info: 개인용
+  free_text: 기본적이면서도 강력하고 <br>매우 빠른 제거 도구입니다.
+  free_feature_1: 개인용으로만 사용 가능
+  free_feature_2: 지원 없음
+  pro_info: 생 라이선스
+  pro_text: 추가 기능을 포함한 <br>특별판 ((Uninstall Tool)입니다.
+  pro_from: 시작
+  pro_feature_1: 실시간 설치 모니터링
+  pro_feature_2: 시작 프로그램 관리
+  pro_feature_3: 일괄 제거
+  pro_feature_4: 철저하고 완벽한 제거
+  pro_feature_5: 현대적인 인터페이스, 기술 지원 제공
+  pro_feature_6: 포터블 라이선스 지원
+  pro_button_trial: 무료 체험
+  pro_button_buy: 지금 구매
+  compatibility: 호환성
+  compatibility_text: 32비트 및 64비트 Windows 11/10/7/8/8.1 (ARM 기반 Windows 11/10 포함). 관리자 권한이 필요합니다. <br>x64 또는 ARM64 Windows에서 실행할 경우, Geek Uninstaller는 네이티브 64비트 애플리케이션으로 작동합니다.
+  release_notes: 최신 릴리스 정보
+  release_notes_button: 전체 목록 보기
+
+about-page:
+  title: GeekUninstaller 및 개발자 소개
+  description: GeekUninstaller 및 개발자 소개
+  text_1: 제 이름은 Thomas Koen입니다. 소프트웨어 개발자로서 저는 컴퓨터 화면 앞에서 많은 시간을 보냅니다. 그렇기 때문에 제가 사용하는 소프트웨어 도구에 각별히 신경을 씁니다. 저는 꽤 까다로운 편이며, 도구가 어떻게 작동해야 하는지에 대해 확고한 기준을 가지고 있습니다. 아마 여러분도 저와 비슷하실 것 같네요.
+  text_2: Geek Uninstaller는 단순하면서도 매우 강력하고 빠른 유틸리티입니다 (C++로 작성되었습니다).
+  pro_text: GeekUninstaller의 프로 버전은 [Uninstall Tool](https://crystalidea.com/uninstall-tool?source=geek&campaign=about)라는 명칭으로 제공되며, 제 코드를 기반으로 CrystalIDEA Software에서 개발했습니다
+  contact_me_title: 연락하기
+  contact_me_text: 저에게 연락이 필요하시면 아래 이메일 주소를 이용해 주세요. 영어 또는 네덜란드어로만 작성해 주시기 바랍니다.
+  contact_me_button: 이메일 보내기
+
+footer:
+  connect_with_us: Geek Uninstaller와 연락
+  languages: 언어
+  products: 프로그램
+  try_ut: Geek Uninstaller Pro 사용해 보기
+  try_ut_more: Uninstall Tool은 Geek Uninstaller의 코드를 기반으로 제작되었습니다.
+  try_download: 다운로드
+  privacy_policy: 개인정보 처리방침
