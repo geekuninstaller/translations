@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageStrings>
+    <MainMenu>
+        <mnuFile>&amp;ফাইল</mnuFile>
+        <mnuFileExport>HTML এ &amp;রপ্তানি করুন...</mnuFileExport>
+        <mnuFileExit>&amp;প্রস্থান</mnuFileExit>
+        <mnuAction>&amp;কার্যক্রম</mnuAction>
+        <mnuActionUninstall>&amp;আনইনস্টল...</mnuActionUninstall>
+        <mnuActionModify>&amp;পরিবর্তন...</mnuActionModify>
+        <mnuActionDelete>&amp;জোরপূর্বক অপসারণ</mnuActionDelete>
+        <mnuActionDeleteBatch>ব্যাচ &amp;জোরপূর্বক অপসারণ</mnuActionDeleteBatch>
+        <mnuActionRemoveEntry>&amp;এন্ট্রি মুছে ফেলুন</mnuActionRemoveEntry>
+        <mnuActionRemoveEntryBatch>ব্যাচ &amp;এন্ট্রি মুছে ফেলুন</mnuActionRemoveEntryBatch>
+        <mnuActionJumpToRegistry>&amp;রেজিস্ট্রি এন্ট্রি</mnuActionJumpToRegistry>
+        <mnuActionJumpToProgramFolder>&amp;ইনস্টলেশন ফোল্ডার</mnuActionJumpToProgramFolder>
+        <mnuActionJumpToWebSite>&amp;প্রোগ্রাম ওয়েবসাইট</mnuActionJumpToWebSite>
+        <mnuActionOpenWindowsStore>মাইক্রোসফট স্টোরে খুলুন</mnuActionOpenWindowsStore>
+        <mnuActionBrowseLocation>অবস্থান ব্রাউজ করুন...</mnuActionBrowseLocation>
+        <mnuActionBrowseSource>উৎস ব্রাউজ করুন...</mnuActionBrowseSource>
+        <mnuActionGoogleFor>গুগলে খুঁজুন</mnuActionGoogleFor>
+        <mnuView>&amp;দেখুন</mnuView>
+        <mnuViewDesktopApps>ডেস্কটপ অ্যাপস</mnuViewDesktopApps>
+        <mnuViewWinStoreApps>মাইক্রোসফট স্টোর অ্যাপস</mnuViewWinStoreApps>
+        <mnuViewRefresh>&amp;রিফ্রেশ</mnuViewRefresh>
+        <mnuViewListColumnsReset>কলাম রিসেট করুন</mnuViewListColumnsReset>
+        <mnuViewColorScheme>রঙের স্কিম</mnuViewColorScheme>
+        <mnuViewColorSchemeAuto>উইন্ডোজ লাইট/ডার্ক মোডের সাথে মিল করুন</mnuViewColorSchemeAuto>
+        <mnuViewColorSchemeLight>লাইট মোড (ডিফল্ট)</mnuViewColorSchemeLight>
+        <mnuViewColorSchemeDark>ডার্ক মোড</mnuViewColorSchemeDark>
+        <mnuViewLanguage>ইন্টারফেস ভাষা</mnuViewLanguage>
+        <mnuHelp>&amp;সাহায্য</mnuHelp>
+        <mnuHelpAbout>&amp;সম্পর্কে...</mnuHelpAbout>
+        <mnuHelpHomePage>&amp;হোম পেজ</mnuHelpHomePage>
+    </MainMenu>
+
+    <ListCtrl>
+        <columnProgramName>প্রোগ্রামের নাম</columnProgramName>
+        <columnSize>আকার</columnSize>
+        <columnInstallationDate>ইনস্টল করা হয়েছে</columnInstallationDate>
+        <staticLoading>লোড হচ্ছে, অনুগ্রহ করে অপেক্ষা করুন...</staticLoading>
+        <staticNoItemsMatchingFilterTip>কোনো মিল পাওয়া যায়নি, রিসেট করতে ESC চাপুন</staticNoItemsMatchingFilterTip>
+        <staticNoProgramsInCategory>মনে হচ্ছে কোনো মাইক্রোসফট স্টোর অ্যাপ ইনস্টল করা নেই</staticNoProgramsInCategory>
+        <mark32bitItem>(৩২-বিট)</mark32bitItem>
+    </ListCtrl>
+
+    <ExplorerBar>
+        <itemShortSearchTip>একটি প্রোগ্রাম খুঁজতে টাইপ করুন</itemShortSearchTip>
+    </ExplorerBar>
+
+    <UninstallWizard>
+        <statusScanning>অবশিষ্ট ফাইল, ফোল্ডার এবং রেজিস্ট্রি আইটেম স্ক্যান করা হচ্ছে...</statusScanning>
+        <statusLeftOverTracesFound>কিছু অবশিষ্ট চিহ্ন পাওয়া গেছে!</statusLeftOverTracesFound>
+        <statusNothingFound>কোনো অবশিষ্ট চিহ্ন পাওয়া যায়নি।</statusNothingFound>
+        <statusAllTracesRemoved>সমস্ত চিহ্ন মুছে ফেলা হয়েছে</statusAllTracesRemoved>
+        <statusDeletingProgramTraces>প্রোগ্রামের চিহ্ন মুছে ফেলা হচ্ছে...</statusDeletingProgramTraces>
+        <treeItemFileSystem>ফাইল সিস্টেম (%d আইটেম)</treeItemFileSystem>
+        <treeItemRegistry>রেজিস্ট্রি (%d আইটেম)</treeItemRegistry>
+        <treeItemPopopMenuBrowse>ব্রাউজ করুন...</treeItemPopopMenuBrowse>
+        <btnFinish>সমাপ্ত</btnFinish>
+        <btnCancel>বাতিল</btnCancel>
+        <btnClose>বন্ধ করুন</btnClose>
+    </UninstallWizard>
+
+    <DlgAbout>
+        <DlgAboutCaption>Geek Uninstaller সম্পর্কে</DlgAboutCaption>
+    </DlgAbout>
+
+    <Messages>
+        <msgUninstallFailed>আনইনস্টলেশন প্রক্রিয়া ব্যর্থ হয়েছে। \nআপনি কি রেজিস্ট্রি থেকে এই প্রোগ্রাম এন্ট্রি পরিষ্কার করতে এবং এর ফাইলগুলি মুছে ফেলতে চান?</msgUninstallFailed>
+        <msgForceRemovalQuestion>আপনি কি নিশ্চিত যে আপনি এই প্রোগ্রামটি জোরপূর্বক অপসারণ করতে চান?</msgForceRemovalQuestion>
+        <msgRemoveEntryQuestion>আপনি কি নিশ্চিত যে আপনি এই এন্ট্রিটি মুছে ফেলতে চান?</msgRemoveEntryQuestion>
+        <msgRemoveEntryFailed>এই আইটেমের রেজিস্ট্রি এন্ট্রি মুছে ফেলতে ব্যর্থ হয়েছে। \nসম্ভবত আপনার এটি করার অ্যাক্সেস নেই।</msgRemoveEntryFailed>
+        <msgNewVersionAvailable>নতুন সংস্করণ %s উপলব্ধ</msgNewVersionAvailable>
+        <msgNewVersionAvailable2>GeekUninstaller এর নতুন সংস্করণ উপলব্ধ! আমাদের ওয়েবসাইট পরিদর্শন করতে এবং নতুন সংস্করণ ডাউনলোড করতে OK চাপুন।</msgNewVersionAvailable2>
+    </Messages>
+
+    <ProVersion>
+        <statusMessage>PRO সংস্করণে আপগ্রেড করুন</statusMessage>
+        <WhatsCool>PRO সংস্করণের দুর্দান্ত বৈশিষ্ট্য:</WhatsCool>
+        <Feature1>রিয়েল-টাইম ইনস্টলেশন মনিটর</Feature1>
+        <Feature2>সম্পূর্ণ এবং পুঙ্খানুপুঙ্খ অপসারণ</Feature2>
+        <Feature3>স্টার্ট-আপ প্রোগ্রাম ব্যবস্থাপনা</Feature3>
+        <Feature4>আধুনিক ইন্টারফেস, প্রযুক্তিগত সহায়তা</Feature4>
+        <Feature5>ব্যাচ অপসারণ</Feature5>
+        <buttonUpgrade>আপগ্রেড</buttonUpgrade>
+    </ProVersion>
+
+    <HTMLReport>
+        <htmlFiles>HTML ফাইল</htmlFiles>
+        <allFiles>সমস্ত ফাইল</allFiles>
+        <generatedByOn>%s দ্বারা %s তারিখে তৈরি</generatedByOn>
+        <installedPrograms>ইনস্টল করা প্রোগ্রাম (%s)</installedPrograms>
+    </HTMLReport>
+
+    <Misc>
+        <btnOK>ঠিক আছে</btnOK>
+        <btnCancel>বাতিল</btnCancel>
+        <btnHelp>সাহায্য</btnHelp>
+        <btnYes>হ্যাঁ</btnYes>
+        <btnNo>না</btnNo>
+        <btnClose>বন্ধ করুন</btnClose>
+        <statusTotalInfo>মোট %d প্রোগ্রাম, আকার %s</statusTotalInfo>
+        <statusUnknown>অজানা</statusUnknown>
+        <WindowsUpdatesText>উইন্ডোজ আপডেট</WindowsUpdatesText>
+    </Misc>
+
+</LanguageStrings>
