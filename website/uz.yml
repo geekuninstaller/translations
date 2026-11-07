@@ -1,0 +1,89 @@
+top_menu:
+  overview: Köriş
+  download: Yuklab oliş
+  translate: Tarjima qiliş
+  about: Dastur töğrisida
+
+main-page:
+  title: Geek Uninstaller - eng yaxşi bepul öçirgiç dastur
+  description: Samarali va tez, kiçik va ixçam. Mutlaqo bepul
+  header: Samarali va tez, <br>portativ va 100% bepul
+  header_feature_1: Toza öçiriş, majburiy öçiriş
+  header_feature_2: 64 bitli tizimlar töliq qöllab-quvvatlaydi
+  header_feature_3: Qulay va sodda interfeys
+  header_feature_4: Microsoft Store ilovalarini ham öçiriş
+  button_download: Yuklab oliş
+  stripe_1_header: Asosiy imkoniyatlar
+  tour_feature_1: Toza öçiriş
+  tour_feature_1_text: Töliq va tez tekşiradi hamda qolgan dasturlarni öçirib taşlaydi.
+  tour_feature_2: Majburiy öçiriş
+  tour_feature_2_text: Bezor qiluvçi va/yoki şikastlangan dasturlarni olib taşlaydi.
+  tour_feature_3: Qulay interfeys
+  tour_feature_3_text: Oddiy, ammo ajoyib funksiyalarga ega. Özbek tili ham bor.
+  tour_feature_4: Microsoft Store ilovalarini öçiriş
+  tour_feature_4_text: Windows 8/8.1/10/11’da Microsoft Store ilovalarini öçiradi.
+  tour_feature_5: Tezkor va aqlli
+  tour_feature_5_text: Tezkor işga tuşadi. Yozişingiz bilanoq Geek kerakli dasturni bir zumda topadi.
+  tour_feature_6: Portativ
+  tour_feature_6_text: Bitta kiçik EXE 32 va 64 razryadli Windows tizimlarida örnatmasdan işlaydi.
+  screen_1: Oddiy, ammo samarali interfeys
+  screen_1_text: Yaqinda örnatilgan/yangilangan dasturlar röyxatda puşti rangda ajratib körsatiladi.
+  screen_2: Toza öçiriş, majburiy öçiriş
+  screen_2_text: Standart öçirib taşlaş dasturi kompyuteringizda juda köp qoldiqlarni (fayl tizimi elementlari, reyestr) qoldirişi mumkin. 
+  screen_3: Windows Store orqali örnatilgan dasturlarni öçiriş
+  screen_3_text: Köriniş menyusi yoki Ctrl+Tab tugmalari yordamida standart hamda Microsoft Store ilovalari orasida almaşing.
+  screen_4: Tezkor qidiruv
+  screen_4_text: Izlanayotgan dastur nomining istalgan ma’lum qismini yozişni boşlang, röyxat darhol saralanadi.
+  screen_5: Qoronği rejim
+  screen_5_text: Geek Uninstaller Sizga, şuningdek, tunda işlaşni yaxşi köradiganlarga ham qulay.
+  multilingual_interface: "Interfeys köplab tillarda, şu jumladan özbek tilida ham mavjud:"
+  review_1: Geek Uninstaller unumdorligi ajoyib. U tezda öçirib taşlanadi va heç kim topa olmagan fayllarni topadi. Umuman olganda, ilova ham unumdorlikni, ham funksiyalarni ta’minlaydigan ta’sirçan texnik xizmat körsatiş vositasidir. Tavsiya etaman.
+  review_2: Xulosa şuki, Geek Uninstaller juda foydali bölişi mumkin bölgan ajoyib vositadir. Tajribasiz foydalanuvçilar uşbu dastur bilan işlaşda qiynalmasliklari kerak, çunki uning dizayni va umumiy soddaligi juda tuşunarli.
+  review_3: Geek Uninstaller dasturni öçirib taşlaganida tizimda heç narsa qoldirmasligiga işonç hosil qilişni istagan har bir kişi uçun juda mos keladi.
+  review_4: Geek Uninstaller portativ bölib, deyarli barça funksiyalarni qöllab-quvvatlaydi. Flash-disklar uçun juda mos keladi, çunki bu juda kam joy egallaydigan yagona fayldadir.
+  review_5: 32 va 64 bitli ilovalarimni boşqariş uçun bir neçta turli öçirgiçlardan foydalaniş jonimga tegdi. Ular nafaqat men xohlagandek yaxşi işlamadi, balki ularning aksariyati men xohlamagan har xil keraksiz xususiyatlar bilan töldirilgan edi. Geek Uninstaller men uçun mukammal öçirgiçdir. Foydalanuvçi interfeysi sodda va mukammal, öçirib taşlaşlar esa tez va aniq amalga oşiriladi. Şunçaki buni tezroq topganimda edi, çunki men nihoyat boşqa bepul 64 bitli öçirib taşlaş ilovasidan çarçadim va atigi bir hafta oldin Revo Pro litsenziyasini sotib oldim... Dasturingiz şunçalik yoqdiki, uni örnatganimdan keyin Revo Pröni olib taşlaş uçun işlatdim, zör.
+  review_6: Oldin ham boşqa öçirgiçlardan foydalanganman (masalan, Revo Uninstaller va boşqalar), sizning mahsulotingiz esa ulardan ustun keladi. Undan foydalaniş juda oson va men heç qaçon Revo kabi öçirib taşlaş röyxatini töldirmaydigan dasturlar bilan muammoga duç kelmaganman. Men dasturiy ta’minotni muntazam ravişda örnataman va öçirib taşlayman va GeekUninstaller hayotimni osonlaştirdi, kompyuterimni ança tozaligini aytmasa ham böladi. Ajoyib mahsulot uçun yana bir bor rahmat.
+  review_7: Men şunçaki bunday ajoyib dasturiy ta’minotni işlab çiqqaningiz uçun sizga katta rahmat aytmoqçiman. Men yaqinda Revo Uninstaller va IObit Uninstaller dasturlaridan foydalandim, lekin ulardan foydalaniş unçalik yoqimli emas edi. Revo Uninstaller barça dasturlarim röyxatini bermadi va IObit Uninstaller juda köpini olib taşladi, bu esa boşqa dasturlar örtasidagi ziddiyatni keltirib çiqardi. Xullas, qisqaça aytganda... GeekUninstaller ilovasini yuklab olmagunimça, öçirib taşlagiçlardan foydalanişni töxtatdim. Siz tom ma’noda raqobatçilardan ança yaxşiroq narsa yaratdingiz....Va men buning uçun sizga rahmat aytmoqçiman. Men allaqaçon mahsulotingizni döstlarim va oilamga tavsiya qilişni boşladim. Bu yerda yaxşi iş qildingiz, şunday davom eting.
+  review_8: Yillar davomida köplab öçirgiçlarni sinab kördim. Geek Uninstaller men körgan eng yaxşi öçirgiçdir. Oddiy, juda samarali, oson va işni bajaradi. Qutluğ bölsin.
+
+download_page:
+  title: Geek Uninstaller - Yuklab oliş
+  description: Geek Uninstaller - Yuklab oliş
+  free_info: şaxsiy foydalaniş uçun
+  free_text: Ajoyib <br> funksionallikka va yuqori tezlikka ega öçirgiç.
+  free_feature_1: Faqat şaxsiy foydalaniş uçun
+  free_feature_2: qöllab-quvvatlanmaydi
+  pro_info: çegirmalar mavjud
+  pro_text: Maxsus versiya (Uninstall Tool) <br>ajoyib imkoniyatlarga ega.
+  pro_from: dan
+  pro_feature_1: Dastur örnatilişini kuzatiş
+  pro_feature_2: Avtomatik dasturlarni boşqariş
+  pro_feature_3: Yoppasiga öçiriş
+  pro_feature_4: Maksimal toza öçiriş
+  pro_feature_5: Zamonaviy interfeys, qöllab-quvvatlaş
+  pro_feature_6: Köçma litsenziya mavjudligi
+  pro_button_trial: Bepul sinang
+  pro_button_buy: Sotib oliş
+  compatibility: Moslik
+  compatibility_text: 32 va bilan mos Windows 11/10/7/8/8.1 64-bit versiyalari bilan. Administrator ruxsatlarini talab qiladi. <br>64 bitda u dasturning maxsus mahalliy 64 bitli versiyasini oçib, aynan şu versiyani işga tuşiradi.
+  release_notes: Oxirgi tahrirlar tarixi
+  release_notes_button: Töliq röyxatni köriş
+
+about-page:
+  title: Geek Uninstaller dasturi va uning muallifi haqida
+  description: Geek Uninstaller dasturi va uning muallifi haqida
+  text_1: Men dasturçiman va köp vaqtimni kompyuter oldida ötkazaman. Aynan şuning uçun men foydalanadigan vositalarga jiddiy qarayman. Men ança talabçanman va dasturlar qanday işlaşi kerakligi haqida öz fikrim bor. Ehtimol, siz ham xuddi şu tamoyillarga amal qilgandirsiz.
+  text_2: bu men har kuni özim foydalanadigan oddiy, ammo juda kuçli vosita. U Visual C++ 2019, [TinyXML] (https://github.com/leethomason/tinyxml2) va [Boost] (http://www.boost.org/) yordamida yozilgan.
+  pro_text: Geek Uninstaller dasturiy ta’minot versiyasi [Uninstall Tool] (https://crystalidea.com/uninstall-tool?source=geek&campaign=about) deb ataladi va mening kodimdan foydalangan holda CrystalIDEA Software tomonidan işlab çiqilgan.
+  contact_me_title: Men bilan boğlaning
+  contact_me_text: Agar men bilan boğlanmoqçi bölsangiz, quyidagi elektron poçta manzilidan foydalaning. Men faqat ingliz va golland tillarida gaplaşa olaman.
+  contact_me_button: Menga elektron xat yuborilsin
+
+footer:
+  connect_with_us: Geek Uninstaller bilan boğlaniş
+  languages: Tillar
+  products: Dasturlar
+  try_ut: Geek Uninstaller Pro versiyasini sinab köriş
+  try_ut_more: Uninstall Tool dasturi Geek Uninstaller asosida işlaydi.
+  try_download: Yuklab oliş
+  privacy_policy: Maxfiylik siyosati
